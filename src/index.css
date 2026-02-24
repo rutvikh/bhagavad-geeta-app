@@ -1,0 +1,347 @@
+/* ─── Google Fonts ──────────────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600;700&family=Open+Sans:ital,wght@0,400;0,600;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── CSS Custom Properties ─────────────────────────────────────────────── */
+:root {
+  --color-saffron: #C0521A;
+  --color-gold: #B8860B;
+  --color-parchment: #FFF8E7;
+  --color-light-gold: #F5E6C8;
+  --color-dark-brown: #2C1A00;
+  --color-deep-brown: #3E1C00;
+  --overlay-bg: rgba(255, 248, 230, 0.88);
+}
+
+/* ─── Base ──────────────────────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', Arial, sans-serif;
+  background-color: var(--color-parchment);
+  color: var(--color-dark-brown);
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* ─── Global background ─────────────────────────────────────────────────── */
+.page-bg {
+  position: fixed;
+  inset: 0;
+  background-image: url('/assets/images/krishna-arjuna-bg.webp');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: var(--color-parchment);
+  z-index: -1;
+}
+
+.page-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 248, 230, 0.82);
+}
+
+/* ─── Typography helpers ────────────────────────────────────────────────── */
+.sanskrit {
+  font-family: 'Noto Serif Devanagari', serif;
+  font-size: 1.4rem;
+  color: var(--color-saffron);
+  line-height: 1.8;
+}
+
+.transliteration {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--color-gold);
+  line-height: 1.7;
+}
+
+.translation {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 1.05rem;
+  color: var(--color-dark-brown);
+  line-height: 1.75;
+}
+
+.commentary-text {
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 0.95rem;
+  color: var(--color-dark-brown);
+  line-height: 1.8;
+}
+
+/* ─── Verse card ────────────────────────────────────────────────────────── */
+.verse-card {
+  background: rgba(255, 248, 231, 0.97);
+  border-radius: 1rem;
+  border-left: 5px solid var(--color-saffron);
+  box-shadow: 0 4px 24px rgba(192, 82, 26, 0.10), 0 1px 4px rgba(0,0,0,0.07);
+  padding: 2rem;
+}
+
+/* ─── Word tooltip ──────────────────────────────────────────────────────── */
+.word-span {
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.15s, background 0.15s;
+  padding: 0 1px;
+  border-radius: 2px;
+  position: relative;
+}
+
+.word-span:hover, .word-span:focus {
+  border-bottom-color: var(--color-gold);
+  background: rgba(184, 134, 11, 0.08);
+}
+
+.word-tooltip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-deep-brown);
+  color: var(--color-parchment);
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  font-size: 0.78rem;
+  white-space: nowrap;
+  z-index: 50;
+  pointer-events: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  min-width: 160px;
+  text-align: left;
+}
+
+.word-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--color-deep-brown);
+}
+
+/* ─── Commentary tabs ───────────────────────────────────────────────────── */
+.tab-btn {
+  padding: 0.4rem 1rem;
+  border-radius: 9999px;
+  border: 2px solid var(--color-gold);
+  font-size: 0.82rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  color: var(--color-gold);
+  background: transparent;
+  white-space: nowrap;
+}
+
+.tab-btn.active {
+  background: var(--color-saffron);
+  border-color: var(--color-saffron);
+  color: white;
+}
+
+.tab-btn:hover:not(.active) {
+  background: rgba(184, 134, 11, 0.1);
+}
+
+/* ─── Audio player ──────────────────────────────────────────────────────── */
+.audio-progress {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--color-light-gold);
+  outline: none;
+  cursor: pointer;
+}
+
+.audio-progress::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-saffron);
+  cursor: pointer;
+}
+
+.audio-progress::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-saffron);
+  cursor: pointer;
+  border: none;
+}
+
+/* ─── Hamburger drawer ──────────────────────────────────────────────────── */
+.drawer-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  z-index: 40;
+  transition: opacity 0.25s;
+}
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: min(320px, 85vw);
+  background: rgba(46, 24, 2, 0.96);
+  z-index: 50;
+  overflow-y: auto;
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 1.5rem;
+}
+
+.drawer.open {
+  transform: translateX(0);
+}
+
+/* ─── Verse grid buttons ────────────────────────────────────────────────── */
+.verse-btn {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 0.5rem;
+  border: 2px solid var(--color-gold);
+  background: rgba(245, 230, 200, 0.6);
+  color: var(--color-deep-brown);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s, transform 0.1s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.verse-btn:hover {
+  background: var(--color-saffron);
+  border-color: var(--color-saffron);
+  color: white;
+  transform: scale(1.08);
+}
+
+.verse-btn.visited {
+  background: rgba(192, 82, 26, 0.15);
+  border-color: var(--color-saffron);
+  color: var(--color-saffron);
+}
+
+/* ─── Gold pill badge ───────────────────────────────────────────────────── */
+.pill {
+  display: inline-block;
+  padding: 0.2rem 0.75rem;
+  border-radius: 9999px;
+  background: rgba(184, 134, 11, 0.13);
+  border: 1px solid var(--color-gold);
+  color: var(--color-gold);
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* ─── Animations ────────────────────────────────────────────────────────── */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.4s ease both;
+}
+
+/* ─── Scrollbar ─────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--color-parchment); }
+::-webkit-scrollbar-thumb { background: var(--color-gold); border-radius: 3px; }
+
+/* ─── Chapter card ──────────────────────────────────────────────────────── */
+.chapter-card {
+  background: rgba(255, 248, 231, 0.95);
+  border: 1px solid var(--color-gold);
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  transition: box-shadow 0.2s, transform 0.2s;
+  cursor: pointer;
+  text-decoration: none;
+  display: block;
+}
+
+.chapter-card:hover {
+  box-shadow: 0 6px 24px rgba(192, 82, 26, 0.15);
+  transform: translateY(-2px);
+}
+
+/* ─── Table styles ──────────────────────────────────────────────────────── */
+.breakdown-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+
+.breakdown-table th {
+  background: var(--color-saffron);
+  color: white;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.breakdown-table td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--color-light-gold);
+  vertical-align: top;
+}
+
+.breakdown-table tr:nth-child(even) td {
+  background: rgba(245, 230, 200, 0.4);
+}
+
+/* ─── Nav breadcrumb ────────────────────────────────────────────────────── */
+.breadcrumb a {
+  color: var(--color-gold);
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb span {
+  color: var(--color-dark-brown);
+  font-size: 0.85rem;
+  opacity: 0.6;
+  margin: 0 0.35rem;
+}
