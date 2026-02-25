@@ -1,0 +1,505 @@
+{
+  "chapter": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "अर्जुन उवाच ।\nकिं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ॥",
+      "transliteration": "arjuna uvāca\nkiṃ tad brahma kim adhyātmaṃ kiṃ karma puruṣottama\nadhibhūtaṃ ca kiṃ proktam adhidaivaṃ kim ucyate",
+      "translation": "Arjuna said: What is that Brahman? What is adhyātman — the individual Self? What is karma, O Purushottama? What is said to be adhibhūta — the field of matter? And what is said to be adhidaiva — the cosmic deity?",
+      "audio": "/assets/audio/ch08/verse_08_01.mp3",
+      "word_breakdown": [
+        {
+          "word": "ब्रह्म",
+          "transliteration": "brahma",
+          "root": "√bṛh (to expand, to be vast)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "the Absolute / the infinite, self-existent Reality / the ground of all being"
+        },
+        {
+          "word": "अध्यात्मम्",
+          "transliteration": "adhyātmam",
+          "root": "adhi (over, concerning) + ātman (self)",
+          "grammatical_form": "Compound noun, neuter, nominative, singular",
+          "meaning": "that which pertains to the individual self / the nature of the Self as related to the Supreme"
+        },
+        {
+          "word": "पुरुषोत्तम",
+          "transliteration": "puruṣottama",
+          "root": "puruṣa (person, spirit) + uttama (highest)",
+          "grammatical_form": "Compound noun, masculine, vocative, singular",
+          "meaning": "O Supreme Person / O best among all beings / a title of Krishna as the highest Purusha"
+        },
+        {
+          "word": "अधिभूतम्",
+          "transliteration": "adhibhūtam",
+          "root": "adhi (over, concerning) + bhūta (being, element, creation)",
+          "grammatical_form": "Compound noun, neuter, nominative, singular",
+          "meaning": "that which governs the realm of physical existence / the basis of all material manifestation"
+        },
+        {
+          "word": "अधिदैवम्",
+          "transliteration": "adhidaivam",
+          "root": "adhi (over) + deva (deity, divine principle)",
+          "grammatical_form": "Compound noun, neuter, nominative, singular",
+          "meaning": "that which governs the realm of the divine / the cosmic deity presiding over all devas"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Arjuna opens the eighth chapter with seven luminous questions — and this first one contains five of them. Dadaji would say: look at the love in this question. Arjuna does not merely ask about abstract philosophy; he addresses Krishna as 'Purushottama' — O Supreme Person — before asking. He is asking the Supreme itself to explain what the Supreme is. This is the very nature of spiritual inquiry: it must be rooted in relationship, in trust, in love. The five questions — Brahman, adhyātman, karma, adhibhūta, adhidaiva — together form a complete map of reality: the Absolute, the self, action, matter, and the cosmic intelligence. Arjuna senses that these five must be understood together to grasp how the universe works and how to live wisely within it.",
+        "sarvapriyananda": "Chapter 8 begins with what is essentially a systematic philosophical inquiry. Arjuna's five questions in this verse map precisely onto the three planes of reality that Vedanta recognizes: the transcendent (Brahman), the individual (adhyātman), the active (karma), the material (adhibhūta), and the cosmic-divine (adhidaiva). Each term designates a different axis of the same non-dual Reality viewed from a different standpoint. From the Advaita perspective, Brahman alone is real; adhyātman is Brahman identified with the individual; adhibhūta and adhidaiva are Brahman as material and cosmic intelligence respectively; and karma is the thread that weaves these apparent distinctions together within the phenomenal order.",
+        "yogananda": "Yogananda saw Arjuna's seven questions as arising from the deepest need of the spiritual seeker: to understand not only the nature of God but also the mechanics of consciousness, action, and liberation. These five terms — Brahman, adhyātman, karma, adhibhūta, adhidaiva — correspond to different layers of cosmic and individual existence that the meditator must understand in order to navigate the path consciously. Yogananda particularly emphasized that the questions are sequential: first understand the Absolute, then the self, then the law of action, then the material realm, then the divine forces that govern it — only then can one understand adhiyajña, the divine presence within the body, which Arjuna asks about in the next verse.",
+        "goyandka": "The Gita Press commentary notes that Arjuna's use of the address 'Puruṣottama' — Best of Persons — at the opening of his question is significant: it signals that he recognizes Krishna as the one qualified to answer these highest questions. The five terms in this verse correspond to the five great metaphysical categories that the Geeta uses throughout to organize its teaching. 'Brahma' here specifically means the imperishable Akṣara, distinct from the Parabrahman which is Krishna himself. 'Adhyātmam' is svabhāva — one's own nature as the jīva. 'Karma' is the creative act of offering. 'Adhibhūtam' is perishable material existence. 'Adhidaivam' is Hiraṇyagarbha, the cosmic creative intelligence. Arjuna asks all five together because they form an interdependent system."
+      }
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अर्जुन उवाच ।\nअधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।\nप्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ॥",
+      "transliteration": "arjuna uvāca\nadhiyajñaḥ kathaṃ ko 'tra dehe 'smin madhusūdana\nprayāṇa-kāle ca kathaṃ jñeyo 'si niyatātmabhiḥ",
+      "translation": "Arjuna said: Who is adhiyajña here in this body, and how — O Madhusudana? And how are You to be known at the time of death by the self-controlled?",
+      "audio": "/assets/audio/ch08/verse_08_02.mp3",
+      "word_breakdown": [
+        {
+          "word": "अधियज्ञः",
+          "transliteration": "adhiyajñaḥ",
+          "root": "adhi (over, presiding) + yajña (sacrifice, worship)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "the deity presiding over sacrifice / the inner witness of all acts of worship and offering"
+        },
+        {
+          "word": "मधुसूदन",
+          "transliteration": "madhusūdana",
+          "root": "madhu (the demon Madhu) + sūdana (slayer)",
+          "grammatical_form": "Compound noun, masculine, vocative, singular",
+          "meaning": "O slayer of the demon Madhu / a title of Krishna, implying destroyer of the demon of delusion"
+        },
+        {
+          "word": "प्रयाणकाले",
+          "transliteration": "prayāṇa-kāle",
+          "root": "pra + √yā (to go forth) + kāla (time)",
+          "grammatical_form": "Compound noun, masculine, locative, singular",
+          "meaning": "at the time of departure / at the moment of death / at the hour of setting forth from the body"
+        },
+        {
+          "word": "नियतात्मभिः",
+          "transliteration": "niyatātmabhiḥ",
+          "root": "niyata (controlled, restrained) + ātman (self)",
+          "grammatical_form": "Compound noun, masculine, instrumental, plural",
+          "meaning": "by those of restrained self / by the self-controlled / by those of disciplined mind and senses"
+        },
+        {
+          "word": "ज्ञेयः",
+          "transliteration": "jñeyaḥ",
+          "root": "√jñā (to know) — gerundive",
+          "grammatical_form": "Gerundive, masculine, nominative, singular",
+          "meaning": "to be known / that which ought to be realized / what is to be meditated upon and understood"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Notice how Arjuna's seventh question goes directly to the heart of all the others: 'How are You to be known at the time of death?' Dadaji would say that this is the most personal of all seven questions — because death is the most personal of all experiences. It doesn't matter how much philosophy we know; it matters what is living in our heart at that final moment. Arjuna addresses Krishna as 'Madhusūdana' — the one who slew the demon Madhu. Our commentators say Madhu represents the sweet intoxication of worldly attachment. Arjuna is asking: how do the self-controlled — those who have overcome this intoxication — recognize You in that supreme hour? This question carries the longing of every sincere devotee.",
+        "sarvapriyananda": "The sixth question — 'who is adhiyajña in this body?' — is profoundly subtle. Arjuna has already asked about the cosmic deity (adhidaiva); now he asks about the divine principle that presides specifically within the human body and its acts of sacrifice. This points to the teaching that the body itself is a yajña — a field of sacrifice — and that within it dwells a witness-consciousness that presides over every act of surrender. The seventh question, about knowing the Lord at the time of death, is the practical culmination: all the philosophical understanding must converge in that single moment of final dissolution, when the practitioner's habitual consciousness either rises to the Supreme or falls back into conditioned existence.",
+        "yogananda": "Yogananda gave special weight to Arjuna's question about death. He taught that the moment of death is not a random event but a summation: the quality of consciousness one has cultivated throughout life rises naturally to expression in that threshold moment. 'Niyatātmabhiḥ' — by the self-controlled — means those who have not merely performed outer practices but have genuinely mastered the inner life. Yogananda identified the 'adhiyajña in this body' with the indwelling Kutastha Chaitanya — the Christ consciousness — that presides over the subtle sacrifice of the life-force occurring in every breath. To know this inner Lord at death is the whole purpose of yoga practice.",
+        "goyandka": "The Gita Press commentary treats Arjuna's sixth and seventh questions as forming a natural pair. Adhiyajña — the lord of sacrifice — is asked about in the context of 'this body' (dehe 'smin), indicating that Arjuna understands worship to have both a cosmic dimension (adhidaiva) and an intimate, embodied one. The question about death follows naturally: if the Lord is present within this very body, then the moment of death — when the body is relinquished — is the moment of potential direct encounter with that indwelling presence. 'Niyatātmabhiḥ' — the self-controlled — are specifically those who have trained their minds through discipline (niyama) so that the mind remains steady and undistracted at the moment of departure."
+      }
+    },
+    {
+      "verse": 3,
+      "sanskrit": "श्रीभगवानुवाच ।\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nakṣaraṃ brahma paramaṃ svabhāvo 'dhyātmam ucyate\nbhūta-bhāvodbhava-karo visargaḥ karma-saṃjñitaḥ",
+      "translation": "The Blessed Lord said: The Imperishable is the supreme Brahman. Its manifestation as the individual Self is called adhyātman. The offering (visarga) that causes the arising of existence and growth of beings is called karma.",
+      "audio": "/assets/audio/ch08/verse_08_03.mp3",
+      "word_breakdown": [
+        {
+          "word": "अक्षरम्",
+          "transliteration": "akṣaram",
+          "root": "a (not) + √kṣar (to flow, to decay, to perish)",
+          "grammatical_form": "Adjective used as noun, neuter, nominative, singular",
+          "meaning": "the Imperishable / the indestructible / that which does not decay or flow away — the eternal Absolute"
+        },
+        {
+          "word": "परमम्",
+          "transliteration": "paramam",
+          "root": "para (beyond, highest) + superlative suffix -ma",
+          "grammatical_form": "Adjective, neuter, nominative, singular",
+          "meaning": "supreme / highest / the ultimate — qualifying Brahman as the highest reality"
+        },
+        {
+          "word": "स्वभावः",
+          "transliteration": "svabhāvaḥ",
+          "root": "sva (own, self) + bhāva (nature, becoming, being)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "one's own nature / inherent nature / the nature of the Self itself — here meaning the individual self's nature as Brahman"
+        },
+        {
+          "word": "विसर्गः",
+          "transliteration": "visargaḥ",
+          "root": "vi + √sṛj (to let go, to emit, to create)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "creative outpouring / the act of releasing or offering / the primal sacrifice that sends forth beings into existence"
+        },
+        {
+          "word": "कर्मसंज्ञितः",
+          "transliteration": "karma-saṃjñitaḥ",
+          "root": "karma (action) + saṃjñita (called, designated, named)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "known by the name of karma / designated as karma / what is properly called action in its deepest sense"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would pause at the very first word: 'Akṣaram' — the Imperishable. What a word to begin an answer with! Krishna does not begin with definitions or philosophical categories; he begins with the nature of Reality itself. 'This is Brahman,' he says — 'that which never decays, never perishes, never flows away.' And then he says: the way that same Imperishable presents itself as your own individual being is called adhyātman — your Self. So you are not separate from Brahman; you are its expression as a living self. And karma, he explains, is the creative act of visarga — the sacred outpouring that brings beings into existence. Action, rightly understood, is always participation in the divine creative act.",
+        "sarvapriyananda": "Krishna's answer is a masterpiece of Vedantic precision. He defines Brahman as 'akṣara' — the Imperishable — which in the context of this chapter means the foundational, immutable substratum of all existence. 'Svabhāva' as adhyātman is the key philosophical term: the Self's own inherent nature is Brahman itself, not something separate from it. Adhyātman is therefore not a second entity but Brahman as it appears when reflected through the individual. The definition of karma as 'visarga' — creative outpouring or emission — is subtle and deep: true karma is not merely individual action but the primal creative act of existence itself, the ongoing sacrifice by which beings are sustained and renewed.",
+        "yogananda": "Yogananda illuminated the word 'akṣara' with particular richness. He noted that it means both 'imperishable' and 'syllable' (as in the sacred syllable AUM) — and that this double meaning is intentional. Brahman is the imperishable Reality that underlies and expresses itself through the primordial sound. The definition of karma as 'visarga' — outpouring, emission — Yogananda connected to the outflow of divine creative energy: the Shakti that unceasingly pours forth from the Divine and constitutes all phenomenal existence. Every act of sincere worship or selfless service is the individual's participation in this cosmic visarga, this ongoing divine outpouring that sustains the universe.",
+        "goyandka": "The Gita Press commentary carefully distinguishes the three definitions given in this verse. 'Akṣaraṃ brahma paramaṃ' — the supreme Brahman is the Imperishable — refers specifically to the Parabrahman, the ultimate transcendent Reality. 'Svabhāvaḥ' as adhyātman refers to the individual jīva's essential nature, which is that same Brahman though appearing individuated through upādhi (limiting adjuncts). The definition of karma as 'visarga' — creative offering — is understood by Goyandka in the context of the cosmic sacrifice (yajña) described in Chapter 3: karma here means the primal act of divine creation by which beings are manifested, and all individual karma participates in and is sustained by this greater cosmic act."
+      }
+    },
+    {
+      "verse": 4,
+      "sanskrit": "श्रीभगवानुवाच ।\nअधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् ।\nअधियज्ञोऽहमेवात्र देहे देहभृतां वर ॥",
+      "transliteration": "śrī-bhagavān uvāca\nadhibhūtaṃ kṣaro bhāvaḥ puruṣaś cādhidaivatam\nadhiyajño 'ham evātra dehe dehavatāṃ vara",
+      "translation": "The Blessed Lord said: Adhibhūta is the perishable nature — all transient material existence. The Cosmic Person (Puruṣa) is adhidaiva. And I Myself am adhiyajña here in this body, O best among the embodied.",
+      "audio": "/assets/audio/ch08/verse_08_04.mp3",
+      "word_breakdown": [
+        {
+          "word": "क्षरः भावः",
+          "transliteration": "kṣaro bhāvaḥ",
+          "root": "√kṣar (to flow, to decay) + bhāva (being, existence)",
+          "grammatical_form": "Adjective + noun, masculine, nominative, singular",
+          "meaning": "perishable existence / transient being / all that flows and decays — the entire world of changing matter"
+        },
+        {
+          "word": "पुरुषः",
+          "transliteration": "puruṣaḥ",
+          "root": "pura (city, body) + √śī (to lie) or puru (many, much) + √ṣā (to nourish)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "the Cosmic Person / Hiraṇyagarbha / the universal consciousness that presides over all devas and all creation"
+        },
+        {
+          "word": "अधिदैवतम्",
+          "transliteration": "adhidaivatam",
+          "root": "adhi (over, presiding) + daivata (deity, divine principle)",
+          "grammatical_form": "Compound noun, neuter, nominative, singular",
+          "meaning": "the presiding deity / the cosmic divine principle that governs the realm of the gods and cosmic intelligence"
+        },
+        {
+          "word": "अधियज्ञः",
+          "transliteration": "adhiyajñaḥ",
+          "root": "adhi (over) + yajña (sacrifice)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "the lord and witness of all sacrifice / the inner deity who presides over every act of worship within the body"
+        },
+        {
+          "word": "देहभृताम्",
+          "transliteration": "dehavatāṃ vara",
+          "root": "deha (body) + √bhṛ (to bear, to hold) + vara (best, excellent)",
+          "grammatical_form": "Compound noun + adjective, masculine, genitive, plural; vocative",
+          "meaning": "O best among the embodied / O finest of all those who bear a body — an address to Arjuna"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would say: look at what Krishna is doing here. He has answered four questions in verse 3 and four more in verse 4 — but the most important word in this verse is 'aham' — 'I Myself.' 'Adhiyajño 'ham evātra dehe' — I am the adhiyajña here in this very body. Not somewhere far away in a cosmic realm, not in some abstract philosophical category — right here, in this body, in this breath, in this heartbeat. The Lord of all sacrifice is present as the silent witness at the center of your own being. Every time you offer anything — a prayer, a kind act, a moment of surrender — it is received by that inner presence. You need never look anywhere else.",
+        "sarvapriyananda": "The verse completes Krishna's systematic answering of Arjuna's seven questions, and its climax is the assertion 'aham eva' — 'I Myself.' The adhiyajña is not an external deity invoked through ritual but the indwelling Self, the pure Witness-consciousness that presides over the sacrifice of the body-mind complex. In Vedantic terms: the Ātman, which is identical to Brahman, is the actual adhiyajña — the one who is always already present at the center of all action and worship. Krishna identifies himself as that Ātman. The address 'dehavatāṃ vara' — best of the embodied — reminds us that this teaching is given precisely to one who is in a body, and therefore supremely relevant to embodied life.",
+        "yogananda": "Yogananda saw in 'adhiyajño 'ham evātra dehe' the key to understanding the body as a temple. The physical body, with its seven spinal centers (chakras), is itself a sacred altar. The Cosmic Intelligence — what Yogananda called Christ Consciousness or Kutastha Chaitanya — presides as the inner Puruṣa over the entire cosmic creation (adhidaiva), while the same Consciousness, as indwelling Ātman, presides within each individual body as adhiyajña. The outer sacrifice of the Vedic ritual and the inner sacrifice of yoga are both expressions of the same offering to the same inner Lord. This is why Yogananda called kriyā yoga a 'divine science of God-realization': it is the recognition and union with this inner adhiyajña.",
+        "goyandka": "The Gita Press commentary identifies the 'Puruṣa' of adhidaiva as Hiraṇyagarbha — the cosmic golden egg of creative intelligence, the first being, who presides over the realm of the devas and governs the subtle cosmic order. Adhibhūta as 'kṣaro bhāvaḥ' encompasses all transient, perishable phenomena — the entire realm of the five elements and their products. And adhiyajña as 'aham eva' — 'I Myself' — is the most striking answer: the Lord of all sacrifice is Krishna himself, present within every body as the inner witness of every act of yajña. Goyandka notes that this identification makes possible the teaching of verses 5-7: if Krishna is already present as adhiyajña within the body, then remembering Krishna at death is not seeking something distant but recognizing what is already nearest."
+      }
+    },
+    {
+      "verse": 5,
+      "sanskrit": "श्रीभगवानुवाच ।\nअन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nanta-kāle ca mām eva smaran muktvā kalevaram\nyaḥ prayāti sa mad-bhāvaṃ yāti nāsty atra saṃśayaḥ",
+      "translation": "The Blessed Lord said: He who, at the time of death, remembers Me alone while giving up the body — he attains My state. Of this there is no doubt.",
+      "audio": "/assets/audio/ch08/verse_08_05.mp3",
+      "word_breakdown": [
+        {
+          "word": "अन्तकाले",
+          "transliteration": "anta-kāle",
+          "root": "anta (end, final) + kāla (time)",
+          "grammatical_form": "Compound noun, masculine, locative, singular",
+          "meaning": "at the time of the end / at the final moment / at the hour of death — the supreme threshold moment"
+        },
+        {
+          "word": "स्मरन्",
+          "transliteration": "smaran",
+          "root": "√smṛ (to remember, to call to mind)",
+          "grammatical_form": "Present participle, masculine, nominative, singular",
+          "meaning": "while remembering / while holding in memory and heart — an active, present-tense remembrance"
+        },
+        {
+          "word": "मुक्त्वा",
+          "transliteration": "muktvā",
+          "root": "√muc (to release, to set free)",
+          "grammatical_form": "Absolutive (gerund)",
+          "meaning": "having released / having given up / having relinquished — describing the act of leaving the body at death"
+        },
+        {
+          "word": "मद्भावम्",
+          "transliteration": "mad-bhāvam",
+          "root": "mad (my) + bhāva (being, nature, state of existence)",
+          "grammatical_form": "Compound noun, masculine, accusative, singular",
+          "meaning": "My state of being / My nature / the divine mode of existence that is Krishna's own — liberation itself"
+        },
+        {
+          "word": "संशयः",
+          "transliteration": "saṃśayaḥ",
+          "root": "sam + √śī (to lie) or sam + √śay (to doubt)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "doubt / uncertainty / wavering of the mind — here negated: 'there is no doubt whatsoever'"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is one of the most compassionate promises in the entire Geeta. Dadaji would read it slowly: 'He who remembers Me alone at the moment of death — he attains My state. There is no doubt.' No conditions about caste or learning or years of practice — just this: remember Me. Dadaji would say this verse contains the entire practice. If we practice remembering the Lord throughout our lives — in the morning, at meals, in difficulty, in joy — then at the time of death, that remembrance will arise naturally, as the flower of a lifetime of devotion. The word 'eva' — 'alone' — is key: undivided remembrance, the mind given wholly to the Lord in that final moment. This is what the Lord asks for, and this is what he promises to honor.",
+        "sarvapriyananda": "This verse is the pivotal teaching of Chapter 8. 'Mad-bhāvam yāti' — he attains My state — means the practitioner achieves identity with the divine nature, not merely proximity to it. From the Advaita standpoint, what is being described is the final dissolution of the veil of ignorance (avidyā): at the moment of death, the practitioner who has cultivated constant God-remembrance finds that the mind's last impression (saṃskāra) is the Lord himself. This final imprint carries the departing consciousness beyond all further rebirth. The phrase 'nāsty atra saṃśayaḥ' — 'there is no doubt here' — is Krishna's own guarantee, the most authoritative assurance in all of spiritual literature.",
+        "yogananda": "Yogananda called this the 'law of last thought.' The quality of consciousness at the moment of death determines the next state of existence because death is essentially a withdrawal of the life-force from the body, and wherever the mind rests at that withdrawal, that is the direction in which the life-force flows. The yogi who has trained the mind in God-remembrance throughout life will find that practice coming to its fruition in that final moment. Yogananda emphasized that 'mām eva smaran' — 'remembering Me alone' — implies one-pointedness: the mind must not be scattered among family anxieties or bodily pain but held with devotional focus on the divine. This is why the kriyā yogi practices the withdrawal of the senses (pratyāhāra) daily in meditation.",
+        "goyandka": "The Gita Press commentary emphasizes the phrase 'mām eva' — 'Me alone.' This 'alone' (eva) is determinative: it is not sufficient to remember the Lord along with worldly attachments or other concerns. The remembrance must be undivided, exclusive, complete. Goyandka notes that this verse answers Arjuna's seventh question directly: the self-controlled (niyatātmabhiḥ) are precisely those who have disciplined themselves throughout life such that their remembrance of the Lord at death is natural and undivided. The promise 'mad-bhāvaṃ yāti' — he attains My state — is understood as liberation (mokṣa), freedom from the cycle of birth and death. The verse sets up the teaching of verses 6-7 which explain the universal law underlying this promise."
+      }
+    },
+    {
+      "verse": 6,
+      "sanskrit": "श्रीभगवानुवाच ।\nयं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।\nतं तमेवैति कौन्तेय सदा तद्भावभावितः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nyaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram\ntaṃ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ",
+      "translation": "The Blessed Lord said: Whatever state (bhāva) one remembers when giving up the body at the time of death — to that very state one goes, O son of Kuntī, always being made of that.",
+      "audio": "/assets/audio/ch08/verse_08_06.mp3",
+      "word_breakdown": [
+        {
+          "word": "भावम्",
+          "transliteration": "bhāvam",
+          "root": "√bhū (to be, to become)",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "state of being / mode of consciousness / the nature or quality that pervades one's awareness — not just a passing thought but a deep orientation of the self"
+        },
+        {
+          "word": "त्यजति",
+          "transliteration": "tyajati",
+          "root": "√tyaj (to abandon, to leave, to give up)",
+          "grammatical_form": "Present tense, 3rd person singular, Parasmaipada",
+          "meaning": "one gives up / one abandons / one relinquishes — here referring to the leaving of the body at death"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "root": "Kuntī (Arjuna's mother) + eya (son of)",
+          "grammatical_form": "Patronymic noun, masculine, vocative, singular",
+          "meaning": "O son of Kuntī / O Arjuna — an address evoking noble lineage and the teaching context"
+        },
+        {
+          "word": "सदा",
+          "transliteration": "sadā",
+          "root": "sa + dā (always, at all times)",
+          "grammatical_form": "Indeclinable adverb",
+          "meaning": "always / at all times / perpetually — indicating the constancy of the inner orientation, not just a momentary thought"
+        },
+        {
+          "word": "तद्भावभावितः",
+          "transliteration": "tad-bhāva-bhāvitaḥ",
+          "root": "tad (that) + bhāva (state) + bhāvita (permeated, steeped in, made of)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "being permeated by that state / having been formed and shaped by that mode of consciousness / made entirely of that bhāva through long cultivation"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would say: this verse is the most honest teaching about how life actually works. It reveals a universal law, not just a spiritual injunction. Whatever you are filled with at the moment of death — that is where you go. And the last phrase tells you everything: 'sadā tad-bhāva-bhāvitaḥ' — always being made of that state. The last thought is not random; it is the natural summation of the life we have lived. We become what we consistently think, feel, and love. If we have filled our life with love for God, then at the end of life, love for God will be what rises naturally. This is why Dadaji always said: do not wait until old age to begin your practice. Begin now. Each thought of the Lord today is a deposit in the account that will be drawn upon at death.",
+        "sarvapriyananda": "This verse articulates the universal law (dharma) of consciousness that underlies the specific promise of verse 5. The law is: at death, consciousness flows toward whatever bhāva — state, mode of being — has been most deeply cultivated throughout life. 'Tad-bhāva-bhāvitaḥ' — permeated by that state — is the crucial phrase. This is not about a single thought at the last second; it is about the accumulated orientation of a lifetime of habitual thought, feeling, and desire. The Vedantic principle at work is saṃskāra: mental impressions are deepened through repetition and eventually become the dominant coloring of the mind. At death, the mind's deepest saṃskāra surfaces and determines the next state of becoming.",
+        "yogananda": "Yogananda called this the 'law of last thought' extended to its full cosmic scope. Verse 5 gave the promise; verse 6 gives the universal principle. Whatever is most real to you — whatever state of being you have saturated your consciousness with through long habit — that is what you will find at death and beyond. Yogananda taught that this is simultaneously a warning and an invitation. The warning: casual spiritual practice, lived alongside dominant worldly attachment, will not suffice. The invitation: it is always possible to change one's inner orientation. The meditator who genuinely turns the mind toward God — even if beginning late in life — is beginning to cultivate the bhāva that will carry them beyond death. 'Sadā tad-bhāva-bhāvitaḥ' — always saturated in that state — is the goal of all yogic practice.",
+        "goyandka": "The Gita Press commentary presents this verse as the most universal teaching in the chapter: it applies to all beings equally, not only to devotees of Krishna. Whatever one's dominant love — whether for wealth, family, power, or God — that love will assert itself at the moment of death and determine the subsequent birth. This is the law of karma operating at the subtlest level: the karma of thought and bhāva, deeper even than the karma of action. Goyandka particularly emphasizes 'sadā' — always — to show that what determines the last thought is not willpower at the deathbed but the entire direction of one's inner life. The implication for sādhana is clear: constant God-remembrance (nāma-smaraṇa, bhajana, dhyāna) throughout life is the only reliable preparation for a God-absorbed death."
+      }
+    },
+    {
+      "verse": 7,
+      "sanskrit": "श्रीभगवानुवाच ।\nतस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम् ॥",
+      "transliteration": "śrī-bhagavān uvāca\ntasmāt sarveṣu kāleṣu mām anusmara yudhya ca\nmayy arpita-mano-buddhir mām evaiṣyasy asaṃśayam",
+      "translation": "The Blessed Lord said: Therefore, at all times remember Me and fight. With mind and intellect surrendered to Me (mayy arpita-mano-buddhiḥ), you will come to Me without doubt.",
+      "audio": "/assets/audio/ch08/verse_08_07.mp3",
+      "word_breakdown": [
+        {
+          "word": "अनुस्मर",
+          "transliteration": "anusmara",
+          "root": "anu (continuously, following) + √smṛ (to remember)",
+          "grammatical_form": "Imperative, 2nd person singular",
+          "meaning": "remember continuously / recall without interruption / keep in constant recollection — more than mere thought, an unbroken current of remembrance"
+        },
+        {
+          "word": "युध्य",
+          "transliteration": "yudhya",
+          "root": "√yudh (to fight, to engage in battle)",
+          "grammatical_form": "Imperative, 2nd person singular",
+          "meaning": "fight! / engage in battle / perform your duty — indicating that remembrance does not excuse one from one's worldly responsibilities"
+        },
+        {
+          "word": "अर्पितमनोबुद्धिः",
+          "transliteration": "arpita-mano-buddhiḥ",
+          "root": "√ṛ (to go) causative: arpaṇa (offering, surrendering) + manas (mind) + buddhi (intellect)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "with mind and intellect offered up / having surrendered both the feeling-mind and the discerning intellect entirely to the Lord"
+        },
+        {
+          "word": "एष्यसि",
+          "transliteration": "eṣyasi",
+          "root": "√i (to go) — future tense",
+          "grammatical_form": "Future tense, 2nd person singular, Parasmaipada",
+          "meaning": "you will come / you will arrive / you will attain — a definite promise of the future fruit of this practice"
+        },
+        {
+          "word": "असंशयम्",
+          "transliteration": "asaṃśayam",
+          "root": "a (not) + saṃśaya (doubt)",
+          "grammatical_form": "Compound noun/adverb, neuter, accusative, singular",
+          "meaning": "without doubt / beyond all uncertainty — used as an adverb to guarantee the certainty of the promised result"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would say: this is the most practical verse in the entire eighth chapter. 'Tasmāt' — therefore. Because of the law just stated, here is what you must do: 'mām anusmara' — remember Me without interruption — 'yudhya ca' — and fight, engage in your duty. Krishna does not say, 'Leave the battlefield and go meditate in a cave.' He says: remember Me, and also fight. Do both simultaneously. This is the whole secret of karma yoga — not the abandonment of life but the infusion of divine consciousness into every moment of life. The two words 'anusmara' and 'yudhya' together describe the complete life of a yogi: inner remembrance and outer engagement, united in a seamless flow of dedicated action.",
+        "sarvapriyananda": "The logical structure of this verse is crucial: 'tasmāt' — therefore — draws the practical conclusion from the universal law of verses 5-6. If the last thought determines the next state, and if the last thought is determined by lifetime habit, then the practice prescribed is exactly this: constant remembrance, 'sarveṣu kāleṣu' — at all times — not just during formal worship but woven into every moment of activity. 'Mayy arpita-mano-buddhiḥ' — with mind and intellect surrendered to Me — is the technical description of the state the Vedantic practitioner must cultivate: the ordinary ego-driven functioning of manas and buddhi is replaced by a God-centered functioning in which all cognition and volition flow from and toward the divine.",
+        "yogananda": "Yogananda drew deep meaning from 'anusmara' — the prefix 'anu' indicating a continuous, following, flowing quality of remembrance, not a sudden recollection. He taught that the practice of constant God-remembrance does not compete with one's duties; it elevates them. 'Yudhya ca' — 'and fight' — means: go about your life fully, but do so with the current of God-remembrance flowing beneath all activity, like a river flowing beneath the ice. This double injunction — anusmara and yudhya — describes the state of the jīvanmukta, the one liberated while living: acting in the world while permanently established in divine consciousness. The surrender of 'mano-buddhiḥ' — mind and intellect — to God is what makes this possible.",
+        "goyandka": "The Gita Press commentary highlights 'sarveṣu kāleṣu' — at all times — as the key qualification. The remembrance prescribed is not to be confined to morning prayers or temple visits; it must pervade every moment of waking life. Goyandka compares this to the instruction given to a soldier at the front: even while performing every military duty, the soldier never forgets the battlefield. Similarly, the devotee of the Lord must never forget the Lord, whatever outer activity they are engaged in. 'Arpita-mano-buddhiḥ' — mind and intellect surrendered — means that both the emotional and the rational aspects of the inner life must be offered to God: not just devotional feeling, but also all discernment and understanding must be consecrated to the divine."
+      }
+    },
+    {
+      "verse": 8,
+      "sanskrit": "श्रीभगवानुवाच ।\nअभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥",
+      "transliteration": "śrī-bhagavān uvāca\nabhyāsa-yoga-yuktena cetasā nānya-gāminā\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan",
+      "translation": "The Blessed Lord said: With a mind absorbed in the yoga of practice (abhyāsa-yoga), not wandering to anything else, meditating constantly on the divine Supreme Purusha — one reaches Him, O Pārtha.",
+      "audio": "/assets/audio/ch08/verse_08_08.mp3",
+      "word_breakdown": [
+        {
+          "word": "अभ्यासयोगयुक्तेन",
+          "transliteration": "abhyāsa-yoga-yuktena",
+          "root": "abhi + √as (to practice repeatedly) + yoga (union, discipline) + √yuj (to join, to yoke)",
+          "grammatical_form": "Compound adjective, masculine, instrumental, singular",
+          "meaning": "by a mind harnessed through the yoga of practice / equipped with disciplined, repeated training — describing the mind shaped by consistent, devoted repetition"
+        },
+        {
+          "word": "चेतसा",
+          "transliteration": "cetasā",
+          "root": "√cit (to be conscious, to perceive)",
+          "grammatical_form": "Noun, neuter, instrumental, singular",
+          "meaning": "with the mind / with consciousness / with the heart-mind faculty — the seat of both awareness and feeling"
+        },
+        {
+          "word": "नान्यगामिना",
+          "transliteration": "nānya-gāminā",
+          "root": "na (not) + anya (other) + √gam (to go)",
+          "grammatical_form": "Compound adjective, masculine, instrumental, singular",
+          "meaning": "not going to any other / not wandering elsewhere / a mind that does not stray from the object of meditation"
+        },
+        {
+          "word": "दिव्यम्",
+          "transliteration": "divyam",
+          "root": "div (heaven, light, the divine realm)",
+          "grammatical_form": "Adjective, masculine, accusative, singular",
+          "meaning": "divine / luminous / belonging to the realm of pure light and consciousness — qualifying the Supreme Purusha as of a transcendent, radiant nature"
+        },
+        {
+          "word": "अनुचिन्तयन्",
+          "transliteration": "anucintayan",
+          "root": "anu (following, continuously) + √cint (to think, to meditate upon)",
+          "grammatical_form": "Present participle, masculine, nominative, singular",
+          "meaning": "continuously meditating upon / thinking of without interruption / following the thought of the Lord with sustained attention"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would say: now Krishna gives us the method. How do we achieve the constant remembrance prescribed in verse 7? Through abhyāsa-yoga — the yoga of practice. Practice means: doing it again and again, returning the mind to God again and again, without discouragement. 'Nānya-gāminā' — not going to any other — this is the whole art of meditation. The mind will wander; that is its nature. The practice is not to have a mind that never wanders, but to keep bringing it back, lovingly, patiently, again and again. Each time you bring the mind back to the Lord, you are doing yoga. And 'anucintayan' — continuously meditating — is the fruit of this practice: a mind that has been trained so thoroughly that it flows naturally toward the divine, like water flowing to the sea.",
+        "sarvapriyananda": "This verse is the methodological answer to the question: how does one cultivate the constant God-remembrance of verse 7? The answer is abhyāsa-yoga — the yoga of repeated practice. This echoes the teaching of Chapter 6, where abhyāsa (practice) and vairāgya (dispassion) were given as the twin pillars of meditation. Here 'abhyāsa-yoga-yuktena cetasā' — a mind equipped through the yoga of practice — describes the mature meditator's mind: it has been trained through sustained, repetitive effort until it has acquired a natural disposition toward one-pointedness. 'Nānya-gāminā' — not moving to any other — is the technical description of dhāraṇā merging into dhyāna: the mind so thoroughly absorbed in its object that the tendency to wander has been overcome.",
+        "yogananda": "Yogananda saw in this verse the entire science of kriyā yoga compressed into three phrases. 'Abhyāsa-yoga-yuktena cetasā' — a mind disciplined through consistent practice — refers to the systematic techniques of meditation that harness the life-force and attention. 'Nānya-gāminā' — not going to any other — describes the state of pratyāhāra and dhāraṇā: the senses withdrawn and the mind fixed. 'Anucintayan paramaṃ puruṣaṃ divyam' — continuously meditating on the divine Supreme Purusha — is dhyāna itself, the sustained flow of awareness toward the divine target. Yogananda noted that 'divyam' — luminous, of the nature of light — suggests the meditator's perception of the divine as inner light, the ādiśakti or cosmic energy perceived in deep meditation.",
+        "goyandka": "The Gita Press commentary connects this verse directly to the practice prescribed in verse 7: if constant remembrance is the injunction, then abhyāsa-yoga is the means. The word 'abhyāsa' (practice, repetition) indicates that this remembrance is not a matter of natural gift but of training and discipline. Goyandka notes that 'paramaṃ puruṣaṃ divyam' — the divine Supreme Purusha — is none other than the Parabrahman Krishna has been describing throughout: the supreme, transcendent Reality that is pure consciousness, pure light. 'Anucintayan' — continuously meditating — implies a sustained, unbroken stream of contemplation, which is only possible after the mind has been sufficiently purified and stabilized through the practice of abhyāsa-yoga."
+      }
+    },
+    {
+      "verse": 9,
+      "sanskrit": "श्रीभगवानुवाच ।\nकविं पुराणमनुशासितारमणोरणीयांसमनुस्मरेद्यः ।\nसर्वस्य धातारमचिन्त्यरूपमादित्यवर्णं तमसः परस्तात् ॥",
+      "transliteration": "śrī-bhagavān uvāca\nkaviṃ purāṇam anuśāsitāram aṇor aṇīyāṃsam anusmared yaḥ\nsarvasya dhātāram acintya-rūpam āditya-varṇaṃ tamasaḥ parastāt",
+      "translation": "The Blessed Lord said: He who meditates on the Seer (kavi), the ancient (purāṇa), the ruler (anuśāsitā), subtler than the subtlest atom, the sustainer of all, inconceivable in form, luminous like the sun, beyond all darkness —",
+      "audio": "/assets/audio/ch08/verse_08_09.mp3",
+      "word_breakdown": [
+        {
+          "word": "कविम्",
+          "transliteration": "kavim",
+          "root": "√ku (to sound) or √kav (to describe, to perceive) — ancient root meaning seer, poet",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "the omniscient Seer / the divine Poet who perceives and expresses all of existence / the one whose vision encompasses the past, present, and future"
+        },
+        {
+          "word": "पुराणम्",
+          "transliteration": "purāṇam",
+          "root": "purā (formerly, of old) + √nī (to lead) or simply ancient",
+          "grammatical_form": "Adjective, masculine, accusative, singular",
+          "meaning": "the most ancient / older than the oldest / the primordial one who existed before all creation and time"
+        },
+        {
+          "word": "अणोरणीयांसम्",
+          "transliteration": "aṇor aṇīyāṃsam",
+          "root": "aṇu (atom, smallest particle) + aṇīyāṃs (comparatively smaller) — superlative of smallness",
+          "grammatical_form": "Compound: aṇoḥ (ablative) + aṇīyāṃsam (comparative adjective, accusative)",
+          "meaning": "subtler than the subtlest atom / smaller than the smallest — describing the Lord's ability to penetrate and pervade what is most infinitesimally fine"
+        },
+        {
+          "word": "अचिन्त्यरूपम्",
+          "transliteration": "acintya-rūpam",
+          "root": "a (not) + √cint (to think) + rūpa (form, appearance)",
+          "grammatical_form": "Compound adjective, masculine, accusative, singular",
+          "meaning": "of inconceivable form / whose nature transcends the grasp of the mind and the imagination — beyond all conceptual limitation"
+        },
+        {
+          "word": "आदित्यवर्णम्",
+          "transliteration": "āditya-varṇam",
+          "root": "āditya (the sun, son of Aditi) + varṇa (color, appearance, radiance)",
+          "grammatical_form": "Compound adjective, masculine, accusative, singular",
+          "meaning": "having the radiance of the sun / of solar luminosity — self-luminous, shining by its own light, not illuminated by any other"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would say: this verse is a garland of divine names — not names in the ordinary sense, but each one a door into a different facet of the infinite Lord. 'Kavi' — the Seer, the Poet — this is the Lord who perceives all things and who poured forth the cosmos as a poem of consciousness. 'Purāṇam' — the Ancient — older than time itself, before the first moment, before the first creation. 'Aṇor aṇīyāṃsam' — subtler than the subtlest — so fine that no atom can contain him, no concept can catch him. 'Āditya-varṇam' — shining like the sun — self-luminous, the light by which all else is known. And 'tamasaḥ parastāt' — beyond all darkness — beyond ignorance, beyond sorrow, beyond the shadow of any limitation. This is who we are remembering when we meditate.",
+        "sarvapriyananda": "This verse is one of the most magnificent descriptions of the Absolute in the entire Geeta. Each epithet is a negation of limitation: 'kavi' — the omniscient Seer, nothing unknown to him; 'purāṇam' — the eternal, nothing before him; 'aṇor aṇīyāṃsam' — subtler than the subtlest, nothing finer than him; 'acintya-rūpam' — inconceivable in form, no concept can contain him; 'āditya-varṇam' — self-luminous, no other light illuminates him; 'tamasaḥ parastāt' — beyond darkness, utterly transcending ignorance. From the Advaita perspective, this is the nirguṇa Brahman described through its own self-transcendence: it surpasses every category of thought, yet in the act of transcending all, it reveals its own blazing presence.",
+        "yogananda": "Yogananda gave his most profound teachings on verses 9 and 10 together, for they describe the Supreme and the method of reaching it in the context of death and liberation. 'Kavi' — the divine Poet-Seer — Yogananda identified with the Kutastha Chaitanya, the universal Christ Consciousness that reflects the cosmic dream of creation. 'Āditya-varṇam' — of solar radiance — he connected to the inner light perceived in the spiritual eye (ājñā chakra): the meditator who reaches the ajna center perceives a blazing golden-silver light that is the threshold of this divine solar reality. 'Tamasaḥ parastāt' — beyond all darkness — means beyond the darkness of material consciousness, beyond the three states of waking, dream, and deep sleep, into the turīya, the fourth state of pure awareness.",
+        "goyandka": "The Gita Press commentary treats this verse as a technical meditation-object description: it gives the meditator precisely the qualities upon which to fix the mind in order to achieve the state described in verse 8. 'Kavi' is traditionally identified as the omniscient witness-consciousness. 'Purāṇam' establishes the Lord's eternity. 'Anuśāsitāram' — the inner ruler — establishes his governance of all creation. 'Aṇor aṇīyāṃsam' is the famous Upanishadic quality (cf. Kaṭha Upaniṣad: 'aṇor aṇīyān mahato mahīyān') that paradoxically combines the infinitely small with the infinitely great. 'Āditya-varṇam tamasaḥ parastāt' echoes the Vedic prayer for the removal of the veil of darkness to reveal the solar truth: 'hiraṇmayena pātreṇa satyasyāpihitaṃ mukham' (Īśā Upaniṣad)."
+      }
+    },
+    {
+      "verse": 10,
+      "sanskrit": "श्रीभगवानुवाच ।\nप्रयाणकाले मनसाचलेन भक्त्या युक्तो योगबलेन चैव ।\nभ्रुवोर्मध्ये प्राणमावेश्य सम्यक् स तं परं पुरुषमुपैति दिव्यम् ॥",
+      "transliteration": "śrī-bhagavān uvāca\nprayāṇa-kāle manasācalena bhaktyā yukto yoga-balena caiva\nbhruvor madhye prāṇam āveśya samyak sa taṃ paraṃ puruṣam upaiti divyam",
+      "translation": "The Blessed Lord said: At the time of death, with an unwavering mind, endowed with devotion and the power of yoga, fixing the prāṇa between the eyebrows completely — he reaches that divine Supreme Purusha.",
+      "audio": "/assets/audio/ch08/verse_08_10.mp3",
+      "word_breakdown": [
+        {
+          "word": "मनसाचलेन",
+          "transliteration": "manasā acalena",
+          "root": "manas (mind) + a (not) + √cal (to move, to waver)",
+          "grammatical_form": "Compound: manas (noun, instrumental) + acalena (adjective, instrumental, singular)",
+          "meaning": "with an unwavering mind / with a mind that does not tremble or waver — the absolute steadiness of attention achieved through lifelong practice"
+        },
+        {
+          "word": "भक्त्या युक्तः",
+          "transliteration": "bhaktyā yuktaḥ",
+          "root": "bhaj (to share, to worship, to be devoted) + √yuj (to join, to equip)",
+          "grammatical_form": "Noun (instrumental) + participle (nominative, singular)",
+          "meaning": "endowed with devotion / equipped with love for God / one in whom bhakti pervades the entire being at the moment of departure"
+        },
+        {
+          "word": "योगबलेन",
+          "transliteration": "yoga-balena",
+          "root": "yoga (union, discipline) + bala (strength, power, force)",
+          "grammatical_form": "Compound noun, masculine, instrumental, singular",
+          "meaning": "by the power of yoga / with the strength accumulated through yogic practice — the concentrated energy and control developed through years of disciplined meditation"
+        },
+        {
+          "word": "भ्रुवोर्मध्ये",
+          "transliteration": "bhruvor madhye",
+          "root": "bhrū (eyebrow) + madhya (middle, center)",
+          "grammatical_form": "Compound: bhruvoḥ (dual, genitive) + madhye (locative)",
+          "meaning": "in the middle between the two eyebrows / at the ājñā chakra / the spiritual eye at the center of the forehead — the point of convergence of prāṇa and consciousness in deep meditation"
+        },
+        {
+          "word": "प्राणमावेश्य",
+          "transliteration": "prāṇam āveśya",
+          "root": "prāṇa (life-force, vital breath) + ā + √viś (to enter, to concentrate into)",
+          "grammatical_form": "Noun (accusative) + absolutive (gerund)",
+          "meaning": "having concentrated the prāṇa / having fixed and gathered the life-force — the yogic act of drawing the vital energy upward and inward to the spiritual center between the eyebrows"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would say: this verse completes the answer to Arjuna's seventh question — and it is the most intimate answer the Lord has given. At the time of death, the yogi does three things simultaneously: holds the mind unwavering, brings the fullness of devotion, and uses the power of years of yoga to consciously gather the prāṇa at the point between the eyebrows. 'Bhruvor madhye prāṇam āveśya samyak' — fixing the prāṇa between the eyebrows completely. This is not a technique for the last moment alone; it is the fruit of a lifetime of practice. Every meditation in which we have drawn the attention inward and upward has been preparation for this. The lover of God who has practiced with sincerity throughout life will find that this happens naturally, gracefully, in the fullness of divine love.",
+        "sarvapriyananda": "This verse, paired with verse 9, gives the complete picture of conscious dying from the yogic standpoint. Verse 9 described the object of meditation: the divine Supreme Purusha with all his transcendent qualities. Verse 10 gives the method: an unwavering mind (manasā acalena), devotion (bhaktyā), yogic power (yoga-balena), and the specific technique of concentrating prāṇa at the ājñā chakra (bhruvor madhye). From the Vedantic perspective, the point between the eyebrows is the seat of the witnessing consciousness, the jñāna-chakṣu or eye of wisdom. When prāṇa is gathered there at death, consciousness withdraws from all peripheral engagements and concentrates in the highest center of awareness, from which liberation — merging with the divine Supreme Purusha — naturally follows.",
+        "yogananda": "Yogananda's most detailed and celebrated teachings focused on exactly this verse. He taught that 'bhruvor madhye prāṇam āveśya' — fixing the prāṇa at the point between the eyebrows — is the very technique of kriyā yoga applied at the moment of death. The ājñā chakra, the spiritual eye, is the seat of superconsciousness (the doorway to samādhi) and also the exit point for the consciousness of the advanced yogi at death. Through lifelong practice of kriyā, the yogi learns to consciously direct the life-current (prāṇa) upward through the spine and out through this center. At death, instead of the prāṇa involuntarily scattering or withdrawing through lower centers, the kriyā yogi consciously gathers it here and exits in full awareness into the divine light. 'Sa taṃ paraṃ puruṣam upaiti divyam' — he reaches that divine Supreme Purusha — is the yogi's liberation at death.",
+        "goyandka": "The Gita Press commentary on this verse provides a classical understanding of the yogic death described here. The three qualifications — unwavering mind, devotion, and the power of yoga — are not separate practices but three aspects of a single perfected inner life. An unwavering mind indicates the attainment of samādhi or at least deep dhāraṇā. Bhakti indicates the devotional motivation and orientation that infuses the practice with love for the personal God. Yoga-bala indicates the accumulated power of prāṇāyāma, pratyāhāra, and dhyāna that gives the yogi actual control over the prāṇa. 'Bhruvor madhye prāṇam āveśya samyak' — concentrating the prāṇa between the eyebrows completely — is understood as the technical ājñā-dhāraṇā: fixing the concentrated life-force at the command center of the subtle body, from which it can exit into the divine realm without being pulled back by residual karmas."
+      }
+    }
+  ]
+}

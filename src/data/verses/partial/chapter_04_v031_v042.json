@@ -1,0 +1,549 @@
+{
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 31,
+      "sanskrit": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् ।\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ॥",
+      "transliteration": "yajña-śiṣṭāmṛta-bhujo yānti brahma sanātanam\nnāyaṃ loko 'sty ayajñasya kuto 'nyaḥ kuru-sattama",
+      "translation": "Those who partake of the nectar left over from sacrifice go to the eternal Brahman. This world is not for one who does not perform sacrifice — how then the other, O best of the Kurus?",
+      "audio": "/assets/audio/ch04/verse_04_31.mp3",
+      "word_breakdown": [
+        {
+          "word": "यज्ञशिष्टामृतभुजः",
+          "transliteration": "yajña-śiṣṭāmṛta-bhujaḥ",
+          "root": "yajña (sacrifice) + śiṣṭa (remainder) + amṛta (nectar) + √bhuj (to enjoy)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "those who eat the nectar-remnant of sacrifice"
+        },
+        {
+          "word": "सनातनम्",
+          "transliteration": "sanātanam",
+          "root": "sanātana (eternal, ancient)",
+          "grammatical_form": "Adjective, neuter, accusative, singular",
+          "meaning": "eternal / everlasting / the primordial"
+        },
+        {
+          "word": "अयज्ञस्य",
+          "transliteration": "ayajñasya",
+          "root": "a (not) + yajña (sacrifice)",
+          "grammatical_form": "Noun, masculine, genitive, singular",
+          "meaning": "of the one who does not perform sacrifice"
+        },
+        {
+          "word": "कुरुसत्तम",
+          "transliteration": "kuru-sattama",
+          "root": "kuru (of the Kuru clan) + sattama (best, superlative of sat)",
+          "grammatical_form": "Compound noun, masculine, vocative, singular",
+          "meaning": "O best of the Kurus / O noblest of the Kuru race"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Krishna is telling us something so beautiful here, dear one. The one who participates in yajna — who gives, serves, worships, and offers — tastes something divine in that very act: the nectar that remains after the offering. This is not a physical leftover; it is the inner sweetness that fills the heart of a person who has truly given themselves to something greater. And for one who never sacrifices? Krishna says plainly — not even this world belongs to them, what to speak of the higher? The teaching here is personal and urgent: life without offering, without giving, without worship, is a life that cannot truly flower. Let us ask ourselves daily — what have we offered today?",
+        "sarvapriyananda": "This verse presents the cosmological dimension of yajna. Those who consume the amṛta — the nectar-remnant of sacrifice — go to the eternal Brahman, sanātanam brahma. The word amṛta is key: it literally means 'that which is not subject to death,' a-mṛta. When action is offered as yajna, it no longer generates karma; it becomes, paradoxically, a door to the deathless. Advaita would interpret this: the one who acts with complete selflessness — whose ego is consumed in the fire of offering — is already touching Brahman. The second half is a stark warning: one who does not perform any form of yajna lacks even the basic qualification for worldly flourishing, much less liberation. The verse is an affirmation that the universe runs on sacrifice.",
+        "yogananda": "The 'nectar of sacrifice' is the bliss experienced by the devotee who has truly surrendered self-will to the Divine will in every action. This inner amṛta — the ambrosia of selfless service — is a direct taste of the soul's own immortal nature. Yogananda would teach: every meditation in which we offer the ego-self into the fire of Spirit produces this nectar. Those who regularly drink from this inner source naturally ascend to ever-higher states of consciousness, ultimately merging in the eternal Brahman. The warning about one who does not sacrifice is a spiritual law: consciousness that only grasps and never gives becomes progressively contracted, cut off even from ordinary life's blessings.",
+        "goyandka": "The Gītā Press commentary observes that yajña-śiṣṭa — the remnant of sacrifice — signifies prasāda, the grace-imbued fruit of offering. Those who receive all their enjoyment as prasāda from God, and not as a result of selfish effort, ascend to the eternal. The verse establishes the universal obligation of yajna for all embodied beings. The word kuru-sattama (best of the Kurus) is significant: Krishna addresses Arjuna thus to remind him of the elevated standard expected of one of noble lineage. Ayajñasya — one devoid of the spirit of sacrifice — cannot sustain even worldly existence properly, for the entire cosmos is sustained by the law of mutual giving. Neglecting yajna violates the divine compact that holds creation together."
+      }
+    },
+    {
+      "verse": 32,
+      "sanskrit": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे ।\nकर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ॥",
+      "transliteration": "evaṃ bahu-vidhā yajñā vitatā brahmaṇo mukhe\nkarma-jān viddhi tān sarvān evaṃ jñātvā vimokṣyase",
+      "translation": "Thus many kinds of sacrifice are spread out before Brahman. Know them all as born of action. Knowing this, you will be liberated.",
+      "audio": "/assets/audio/ch04/verse_04_32.mp3",
+      "word_breakdown": [
+        {
+          "word": "बहुविधाः",
+          "transliteration": "bahu-vidhāḥ",
+          "root": "bahu (many) + vidha (kind, type)",
+          "grammatical_form": "Adjective, masculine, nominative, plural",
+          "meaning": "of many kinds / manifold / diverse"
+        },
+        {
+          "word": "विततாः",
+          "transliteration": "vitatāḥ",
+          "root": "vi + √tan (to spread, extend)",
+          "grammatical_form": "Past participle, masculine, nominative, plural",
+          "meaning": "spread out / spread before / laid forth"
+        },
+        {
+          "word": "ब्रह्मणो मुखे",
+          "transliteration": "brahmaṇo mukhe",
+          "root": "brahman (the Veda/Brahman) + mukha (mouth, face, entrance)",
+          "grammatical_form": "Genitive + locative, singular",
+          "meaning": "in the mouth of Brahman / in the face of the Vedas / before Brahman"
+        },
+        {
+          "word": "विमोक्ष्यसे",
+          "transliteration": "vimokṣyase",
+          "root": "vi + √muc (to release, liberate)",
+          "grammatical_form": "Verb, future tense, 2nd person singular, middle voice",
+          "meaning": "you will be liberated / you shall be set free"
+        }
+      ],
+      "commentary": {
+        "dadaji": "What a generous teaching! Krishna has just given us so many forms of yajna — not to confuse us, but to include everyone. Whether you are a scholar, a devotee, a yogi who controls the breath, or a simple person who offers their daily work — there is a yajna for you. All of them are spread before Brahman like different doors to the same house. And all of them have one root: karma, action. This is so important, dear one. Action done with the right spirit is never wasted. And then comes that precious promise at the end — 'knowing this, you will be liberated.' Not 'you might be,' not 'perhaps' — you will be. Let this promise settle into your heart and give you courage to act.",
+        "sarvapriyananda": "The phrase brahmaṇo mukhe has been interpreted in two ways: 'in the mouth of Brahman' — meaning within the universal sacrificial order — or 'in the face of the Veda,' since mukha also means opening or source. Either reading affirms that all these diverse yajnas exist within one sacred framework. Krishna's taxonomy of sacrifice (verses 25–30) has covered external ritual, breath-control, sense-restraint, knowledge-cultivation, and more. Now he draws all threads together: they are all karma-jān, born of action. And the conclusion is definitive — jñātvā vimokṣyase, knowing this you shall be liberated. Knowledge of the unity underlying diverse spiritual practices is itself liberating, because it dissolves the sectarian rigidity that makes practitioners feel their path alone is valid.",
+        "yogananda": "The many forms of yajna represent the infinite creativity of the Divine in leading souls back to their Source. Yogananda taught that God has designed each soul's unique path home — some through devotion, some through knowledge, some through breath-mastery, some through service. All these are 'spread before Brahman' like a feast prepared for wandering children. The phrase karma-jān — born of action — reminds us that spiritual practice must be active and intentional; liberation does not come through passive waiting but through engaged, conscious inner work. The liberating knowledge spoken of here is not book-learning but the direct inner realization that transforms the consciousness from its restless state to the stillness of the Infinite.",
+        "goyandka": "Brahmaṇo mukhe: the Gita Press tradition reads this as 'in the mouth of the Vedas' — that is, all these yajnas are sanctioned by and described within scriptural revelation. They are not human inventions but divine prescriptions for the purification of the jīva. The phrase karma-jān viddhi tān sarvān — know all of these as born of action — establishes that no form of genuine spiritual effort is outside the category of purifying karma. Even what appears to be purely mental sacrifice (jñāna-yajna) requires the action of disciplined attention. The liberating knowledge referred to in vimokṣyase is the fruit of sincere practice of any of these forms, which progressively purifies the antaḥkaraṇa until the Self stands revealed."
+      }
+    },
+    {
+      "verse": 33,
+      "sanskrit": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप ।\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ॥",
+      "transliteration": "śreyān dravyamayād yajñāj jñāna-yajñaḥ paran-tapa\nsarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate",
+      "translation": "Superior to the sacrifice of material objects is the sacrifice of knowledge, O Scorcher of Enemies. All action without exception, O Partha, culminates in knowledge.",
+      "audio": "/assets/audio/ch04/verse_04_33.mp3",
+      "word_breakdown": [
+        {
+          "word": "श्रेयान्",
+          "transliteration": "śreyān",
+          "root": "śreyas (better, more excellent, comparative of śrī)",
+          "grammatical_form": "Adjective, masculine, nominative, singular (comparative)",
+          "meaning": "superior / better / more excellent"
+        },
+        {
+          "word": "द्रव्यमयात्",
+          "transliteration": "dravyamayāt",
+          "root": "dravya (material substance, objects) + maya (consisting of, made of)",
+          "grammatical_form": "Adjective, ablative, singular",
+          "meaning": "than the one made of material things / than material sacrifice"
+        },
+        {
+          "word": "ज्ञानयज्ञः",
+          "transliteration": "jñāna-yajñaḥ",
+          "root": "√jñā (to know) + yajña (sacrifice)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "the sacrifice of knowledge / knowledge-offering"
+        },
+        {
+          "word": "परिसमाप्यते",
+          "transliteration": "parisamāpyate",
+          "root": "pari + sam + √āp (to reach, attain, complete)",
+          "grammatical_form": "Verb, present tense, passive, 3rd person singular",
+          "meaning": "culminates in / is fully completed in / finds its consummation in"
+        },
+        {
+          "word": "परन्तप",
+          "transliteration": "paran-tapa",
+          "root": "para (others/enemies) + √tap (to burn, scorch)",
+          "grammatical_form": "Compound noun, masculine, vocative, singular",
+          "meaning": "O Scorcher of Enemies / O Subduer of foes"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here is the crown jewel of this section, dear one. All the external yajnas — pouring ghee into fire, offering food, performing rituals — are beautiful and good. But Krishna says clearly: jñāna-yajna, the sacrifice of knowledge, is superior. Why? Because external offerings can be misused, can feed pride, can be mechanical. But true knowledge — the kind that transforms you from within — leaves nowhere for ego to hide. And then comes this luminous statement: all action, every single act of karma, ultimately finds its completion in knowledge. This means spiritual practice is not endless — it has a destination. Every honest effort you make is moving you, even when you cannot see it, toward that light of inner knowing.",
+        "sarvapriyananda": "This is one of the most philosophically charged verses in the Gītā. Jñāna-yajna — the sacrifice of knowledge — is declared superior to dravyamaya-yajna, material sacrifice. Why? Material offerings purify and generate merit, but they remain within the field of duality. Knowledge, in the Advaitic sense, is not merely information about Brahman but direct experiential recognition of one's identity with Brahman. This alone ends the fundamental ignorance — avidyā — that is the root of all suffering. The second line is equally remarkable: sarvaṃ karmākhilaṃ jñāne parisamāpyate — all action without remainder finds its fulfillment in knowledge. This is not a demotion of karma but its ultimate consecration. Action purifies; purified consciousness becomes transparent; through that transparency, Self-knowledge dawns.",
+        "yogananda": "The inner meaning Yogananda would emphasize: dravyamaya-yajna is any practice that remains at the outer level — ritual, charity, even prayer spoken with a distracted mind. Jñāna-yajna is the practice that transforms consciousness from within, ultimately leading to direct God-contact. The deepest jñāna-yajna is meditation — the offering of ego, desire, and restless thought into the fire of concentrated awareness until the Self alone remains. The great promise — all karma culminates in knowledge — gives the sincere seeker enormous confidence. No genuine spiritual effort is ever lost. Like tributaries joining the ocean, every pure action eventually joins the stream of illuminating wisdom.",
+        "goyandka": "The Gita Press tradition is careful here: dravyamaya-yajna (material sacrifice) is not disparaged — it is prescribed by the Vedas and is indeed purifying. But it is inferior to jñāna-yajna because material sacrifice yields perishable fruits while knowledge yields the imperishable fruit of liberation. Parisamāpyate is translated by Goyandka as 'completely culminates in' — meaning all karma eventually exhausts itself in knowledge, which is the final goal. This provides a complete scheme of spiritual progress: karma begins the process of purification, leads to upāsanā (worship and meditation), which in turn matures into jñāna (knowledge of the Self). These are not competing paths but sequential stages of one integral ascent."
+      }
+    },
+    {
+      "verse": 34,
+      "sanskrit": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥",
+      "transliteration": "tad viddhi praṇipātena paripraśnena sevayā\nupadekṣyanti te jñānaṃ jñāninas tattva-darśinaḥ",
+      "translation": "Know that by prostrating, by sincere inquiry, by service — the wise who have seen the truth will instruct you in that knowledge.",
+      "audio": "/assets/audio/ch04/verse_04_34.mp3",
+      "word_breakdown": [
+        {
+          "word": "प्रणिपातेन",
+          "transliteration": "praṇipātena",
+          "root": "pra + ni + √pat (to fall down)",
+          "grammatical_form": "Noun, masculine, instrumental, singular",
+          "meaning": "by prostration / by falling at the feet / by humble submission"
+        },
+        {
+          "word": "परिप्रश्नेन",
+          "transliteration": "paripraśnena",
+          "root": "pari + √praś (to ask, inquire thoroughly)",
+          "grammatical_form": "Noun, masculine, instrumental, singular",
+          "meaning": "by sincere inquiry / by thorough questioning"
+        },
+        {
+          "word": "सेवया",
+          "transliteration": "sevayā",
+          "root": "√sev (to serve, attend upon)",
+          "grammatical_form": "Noun, feminine, instrumental, singular",
+          "meaning": "by service / through devoted attendance"
+        },
+        {
+          "word": "तत्त्वदर्शिनः",
+          "transliteration": "tattva-darśinaḥ",
+          "root": "tattva (truth, thatness) + √dṛś (to see)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "those who have seen the truth / seers of reality"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is the heart of the guru-disciple relationship, and I hold it very dear. Three things are asked of us: praṇipāta — to bow, to truly humble ourselves without pretension; paripraśna — to ask genuine questions born from real inner anguish, not to show off or argue; and sevā — to serve the teacher with love and sincerity. When these three come together in a student, the teacher cannot help but give. The knowledge flows naturally, like water finding its level. The teacher described here is not just learned — they are tattva-darśī, one who has seen the truth directly. A bookish person can teach information; only one who has seen can transmit that which transforms. Approach such a one with humility, and your questions will be answered from within.",
+        "sarvapriyananda": "Verse 34 is the classical methodology of Vedantic transmission. The triad praṇipāta-paripraśna-sevā is not arbitrary but psychologically precise. Praṇipāta — prostration — dismantles the ego's armor. The ego cannot receive wisdom while asserting itself. Paripraśna — thorough inquiry — ensures that the teaching engages the student's actual doubts, not merely theoretical curiosity. Sevā — service — creates the sustained intimacy in which subtle transmission becomes possible. The teacher must be jñānī (one of deep knowledge) and tattva-darśī (one who sees reality directly, not merely conceptually). In Advaita, this is the distinction between parokṣa-jñāna (indirect knowledge) and aparokṣa-jñāna (immediate self-realization). Only the latter can transmit liberation.",
+        "yogananda": "This verse describes the immutable spiritual law of guru-disciple transmission. Yogananda taught that true wisdom cannot be found in books alone — it lives in the realized consciousness of the master, and it flows only when the disciple's receptivity is perfectly prepared. The three conditions — humble surrender, sincere questioning, and loving service — together create an interior silence, a prepared vessel. Praṇipāta removes pride; paripraśna removes lazy acceptance of secondhand belief; sevā removes self-centeredness. In that purified state, the guru's awakened consciousness touches the disciple's, and real knowing — not intellectual but transformative — occurs. Seek such a teacher with patience and persistence; when you are truly ready, the universe brings you together.",
+        "goyandka": "The Gita Press commentary emphasizes that this verse establishes the indispensability of a qualified guru for the highest knowledge. Self-study (svādhyāya) is good and necessary, but the knowledge that liberates — jñāna — requires personal transmission from one who embodies it. The three qualifications of the student — praṇipāta (reverence), paripraśna (discriminating inquiry), and sevā (service) — correspond to the purification of body-speech-mind respectively. The teacher's two qualifications — jñānī and tattva-darśī — distinguish between one who merely knows the scriptures and one who has realized their truth in direct experience. This verse thus defines both sides of the sacred teacher-student relationship that is the vessel for liberation."
+      }
+    },
+    {
+      "verse": 35,
+      "sanskrit": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।\nयेन भूतान्यशेषाणि द्रक्ष्यस्यात्मन्यथो मयि ॥",
+      "transliteration": "yaj jñātvā na punar moham evaṃ yāsyasi pāṇḍava\nyena bhūtāny aśeṣāṇi drakṣyasy ātmany atho mayi",
+      "translation": "Knowing which, O Pandava, you will no longer fall into delusion like this — and by which you will see all beings without exception in the Self, and then in Me.",
+      "audio": "/assets/audio/ch04/verse_04_35.mp3",
+      "word_breakdown": [
+        {
+          "word": "मोहम्",
+          "transliteration": "moham",
+          "root": "√muh (to be confused, deluded)",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "delusion / confusion / bewilderment"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhūtāni",
+          "root": "√bhū (to be, exist)",
+          "grammatical_form": "Noun, neuter, accusative, plural",
+          "meaning": "all beings / all creatures / all that exists"
+        },
+        {
+          "word": "अशेषाणि",
+          "transliteration": "aśeṣāṇi",
+          "root": "a (not) + śeṣa (remainder)",
+          "grammatical_form": "Adjective, neuter, accusative, plural",
+          "meaning": "without exception / all without remainder / entirely"
+        },
+        {
+          "word": "आत्मनि",
+          "transliteration": "ātmani",
+          "root": "ātman (Self, soul)",
+          "grammatical_form": "Noun, masculine/neuter, locative, singular",
+          "meaning": "in the Self / within the Atman"
+        },
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "root": "mad (I, first person pronoun)",
+          "grammatical_form": "Pronoun, locative, singular",
+          "meaning": "in Me / within Me / in Krishna"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Oh, what a promise this is, dear one! Krishna says: once you gain this knowledge, moha — this heaviness, this confusion, this grief — will not come back to you like this again. And then He describes what you will see instead: all beings resting in the Self, and the Self resting in Him. This is not a philosophical idea — it is a description of a state of inner vision that changes everything. When you truly see every person, every animal, every leaf as a manifestation of the one Self, how can you hate? How can you harm? How can you be lonely? Dadaji used to say that the greatest miracle is not parting oceans — it is seeing God in the person who irritates you most. This verse is pointing at that miracle.",
+        "sarvapriyananda": "This verse reveals the practical fruit of Self-knowledge: the permanent cessation of moha (fundamental delusion). The word punar — 'again' — is significant. One may have passing emotional disturbances, but the root delusion that gives rise to existential grief does not return after true jñāna. The vision described — seeing all beings in the Self, and the Self in the Divine — is the Advaitic realization of non-duality. First, ātmani: all beings are seen as modifications of the one Consciousness, the way waves are seen as water. Then, mayi: that universal Consciousness is recognized as the very Being of Krishna, the absolute Reality. This two-stage description — ātman first, then Brahman-as-Krishna — mirrors the classical progression of Advaita realization.",
+        "yogananda": "The 'delusion' spoken of is not temporary emotional confusion but the soul's fundamental amnesia — its forgetting of its divine origin. Knowledge burns away this amnesia permanently. Yogananda would teach: when the meditator enters deep samādhi, all boundaries dissolve. The practitioner first perceives all beings as expressions of the same cosmic life-force, the universal ātman. Then, plunging deeper still, that universal awareness is recognized as none other than the personal Divine — 'in Me,' says Krishna. This is the mystical vision that the great saints describe: the entire creation shining as one luminous Being. Once tasted, even briefly, it changes the way one moves through the world permanently.",
+        "goyandka": "Goyandka notes the profound sequence of this verse: first, the negative promise — na punar moham yāsyasi, you will no longer return to such delusion; then the positive vision — all beings seen first in the ātman, then in the Supreme. The word aśeṣāṇi (without exception) is emphatic: the vision of unity leaves out nothing — no being is outside it, not even those we consider adversaries or strangers. The Gita Press tradition reads this as a description of vijñāna — the realized, experiential form of jñāna that goes beyond theoretical understanding. This verse is thus a description of the highest state of spiritual attainment while living — the jīvanmukta's inner vision."
+      }
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः ।\nसर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ॥",
+      "transliteration": "api ced asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛttamaḥ\nsarvaṃ jñāna-plavenaiva vṛjinaṃ santariṣyasi",
+      "translation": "Even if you were the most sinful among all sinners, you would cross over all sin by the boat of knowledge alone.",
+      "audio": "/assets/audio/ch04/verse_04_36.mp3",
+      "word_breakdown": [
+        {
+          "word": "पापकृत्तमः",
+          "transliteration": "pāpa-kṛttamaḥ",
+          "root": "pāpa (sin, evil) + √kṛ (to do) + tama (superlative suffix)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "the greatest sinner / the most sinful doer of evil"
+        },
+        {
+          "word": "ज्ञानप्लवेन",
+          "transliteration": "jñāna-plavena",
+          "root": "√jñā (to know) + plava (raft, boat, that which floats)",
+          "grammatical_form": "Compound noun, masculine, instrumental, singular",
+          "meaning": "by the boat/raft of knowledge / using knowledge as a vessel"
+        },
+        {
+          "word": "वृजिनम्",
+          "transliteration": "vṛjinam",
+          "root": "vṛjina (sin, wickedness, the crooked)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "sin / wickedness / the ocean of wrong-doing"
+        },
+        {
+          "word": "सन्तरिष्यसि",
+          "transliteration": "santariṣyasi",
+          "root": "sam + √tṝ (to cross over, to swim across)",
+          "grammatical_form": "Verb, future tense, 2nd person singular",
+          "meaning": "you will cross over / you shall traverse completely"
+        }
+      ],
+      "commentary": {
+        "dadaji": "If there is one verse in the Gītā that I would offer to someone drowning in guilt and shame, it is this one, dear one. Krishna does not say 'even if you have sinned a little.' He says: even if you are the very worst sinner of all — pāpa-kṛttamaḥ, the most extreme case — even then, the boat of knowledge will carry you across. This is not permission to sin; it is reassurance to the one already broken by remorse that the door is not closed. Knowledge here is not mere information — it is the transforming inner light that, once lit, consumes past darkness as naturally as a lamp drives out the dark. No darkness, however long it has lasted, can resist the light that jñāna brings. Take heart.",
+        "sarvapriyananda": "This verse is among the most compassionate in the entire Gītā. The logic is this: karma — including sinful karma — is rooted in avidyā, ignorance. Jñāna, true knowledge, is the direct dissolution of avidyā. When the root is removed, the fruit cannot remain. The metaphor of the plava — the raft or boat — is vivid: karma is an ocean that no amount of remedial ritual can fully drain; but knowledge is a boat that carries one across without requiring the ocean to be emptied. This is why jñāna-yajna is superior to dravyamaya-yajna: rituals can reduce karma incrementally, but knowledge transcends the entire karmic framework by removing the ignorance that makes karma binding in the first place.",
+        "yogananda": "The metaphysical logic Yogananda would offer: sin is the crystallized residue of ego-action taken in ignorance of one's divine nature. When the consciousness truly awakens to the Self — through meditation, through grace, through the guru's touch — the fundamental error is corrected. It is as though a dreamer realizes they are dreaming: the dream-actions committed in the dream do not bind the waking person. Jñāna is this awakening. No past configuration of karma can resist the light of Self-realization, because karma operates only within the dream of separated individual existence. The boat of knowledge carries the soul safely to the other shore where karma has no jurisdiction.",
+        "goyandka": "The Gita Press commentary reads this as a statement about the incomparable power of ātma-jñāna — knowledge of the Self. The verse uses the extreme case — the worst sinner — precisely to make clear that no karmic accumulation, however vast, is beyond the purifying power of true knowledge. This does not encourage sin; it offers hope to the genuinely repentant. The image of the plava (boat/raft) suggests that knowledge is a vehicle, not merely a concept — it actively carries one across. Goyandka emphasizes that this knowledge must be aparokṣa (direct, immediate) — not secondhand information — for it to have this liberating effect. Intellectual knowledge of theology alone cannot cross the ocean of karma."
+      }
+    },
+    {
+      "verse": 37,
+      "sanskrit": "यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन ।\nज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥",
+      "transliteration": "yathaidhāṃsi samiddho 'gnir bhasma-sāt kurute 'rjuna\njñānāgniḥ sarva-karmāṇi bhasma-sāt kurute tathā",
+      "translation": "Just as a blazing fire reduces firewood to ashes, O Arjuna, so the fire of knowledge reduces all karma to ashes.",
+      "audio": "/assets/audio/ch04/verse_04_37.mp3",
+      "word_breakdown": [
+        {
+          "word": "समिद्धः",
+          "transliteration": "samiddhaḥ",
+          "root": "sam + √idh (to kindle, to blaze)",
+          "grammatical_form": "Past participle, masculine, nominative, singular",
+          "meaning": "well-kindled / blazing / fully ignited"
+        },
+        {
+          "word": "भस्मसात्",
+          "transliteration": "bhasma-sāt",
+          "root": "bhasma (ash) + sāt (becoming, reducing to)",
+          "grammatical_form": "Indeclinable compound (avyaya)",
+          "meaning": "to ashes / into complete ash / utterly reduced"
+        },
+        {
+          "word": "ज्ञानाग्निः",
+          "transliteration": "jñānāgniḥ",
+          "root": "√jñā (to know) + agni (fire)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "the fire of knowledge / knowledge-as-fire"
+        },
+        {
+          "word": "एधांसि",
+          "transliteration": "edhāṃsi",
+          "root": "edhas (firewood, fuel)",
+          "grammatical_form": "Noun, neuter, accusative, plural",
+          "meaning": "pieces of firewood / fuel"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This simile is so perfect, dear one, that once you hear it, you never forget it. Watch a fire consume wood — the wood disappears completely. Not suppressed, not hidden somewhere, not waiting to return — gone, transformed into light and warmth. The fire of jñāna does exactly this to karma. It does not suppress our tendencies or push them underground where they will emerge again later. It dissolves them at the root, transforms them into light. Many people try to fight their habits and accumulated tendencies with willpower, and they exhaust themselves. But when true knowledge dawns — even a glimpse of one's real nature — the old patterns begin to loosen their hold naturally, the way ice melts in sunshine. Pray for this fire, dear one.",
+        "sarvapriyananda": "The simile here is exact, not merely illustrative. What does fire do to wood? It does not merely transform wood — it eliminates the wood's capacity to be wood ever again. The ashes cannot become wood. Similarly, when jñāna operates on karma, it destroys not just the accumulated karma but the very mechanism — ahaṃkāra (ego-sense) and avidyā (ignorance) — that produces and sustains karma. This is the Advaitic distinction between karma-kṣaya (reduction of karma through ritual or tapas) and karma-dāha (complete incineration of karma through knowledge). The word samiddha — fully blazing — is important: partial or intellectual knowledge may reduce karma, but the fully blazing fire of realization incinerate the entire store.",
+        "yogananda": "The fire Yogananda speaks of is the awakened kuṇḍalinī — the spiritual fire that, when fully aroused through deep meditation, consumes the karmic seeds stored in the spine and subtle body. But more broadly, jñānāgni is any state of heightened God-awareness in which the sense of separate, sinful individuality is completely consumed. The great saints who have entered nirvikalpa samādhi report exactly this: they emerged from deep states of cosmic consciousness free from fears and compulsions that had previously bound them. The fire of knowledge is not metaphorical — it is a real interior process, as concrete in its effects on consciousness as physical fire is on physical wood.",
+        "goyandka": "The simile of fire and wood is used here with technical precision. The word edhāṃsi refers specifically to dry firewood — ready fuel. Karma accumulated over many lifetimes is like dry wood; it is ready to produce results. The blazing fire of knowledge — jñānāgniḥ — consumes this fuel before it can sprout into experience (phala). The Gita Press tradition distinguishes between sañcita karma (stored karma awaiting fruition), prārabdha karma (already-begun karma producing the current life), and āgāmī karma (karma being accumulated now). Jñāna destroys sañcita and prevents āgāmī; prārabdha continues until the body falls, but it no longer creates new bondage for the liberated soul."
+      }
+    },
+    {
+      "verse": 38,
+      "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥",
+      "transliteration": "na hi jñānena sadṛśaṃ pavitram iha vidyate\ntat svayaṃ yoga-saṃsiddhaḥ kālenātmani vindati",
+      "translation": "Indeed, nothing in this world is as purifying as knowledge. In time, one perfected in yoga finds this within himself.",
+      "audio": "/assets/audio/ch04/verse_04_38.mp3",
+      "word_breakdown": [
+        {
+          "word": "सदृशम्",
+          "transliteration": "sadṛśam",
+          "root": "sa (with, like) + dṛś (seeing, appearance)",
+          "grammatical_form": "Adjective, neuter, nominative, singular",
+          "meaning": "equal to / comparable to / like"
+        },
+        {
+          "word": "पवित्रम्",
+          "transliteration": "pavitram",
+          "root": "√pū (to purify) + suffix -itra",
+          "grammatical_form": "Adjective/noun, neuter, nominative, singular",
+          "meaning": "purifier / that which purifies / sacred"
+        },
+        {
+          "word": "योगसंसिद्धः",
+          "transliteration": "yoga-saṃsiddhaḥ",
+          "root": "yoga + sam + √sidh (to succeed, to be perfected)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "perfected in yoga / one who has attained maturity through yoga"
+        },
+        {
+          "word": "विन्दति",
+          "transliteration": "vindati",
+          "root": "√vid (to find, to obtain, to know)",
+          "grammatical_form": "Verb, present tense, 3rd person singular",
+          "meaning": "finds / discovers / obtains"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Is there anything more purifying than knowledge? Krishna says plainly: No. Not holy rivers, not austerities, not pilgrimages, not rituals. All of these are helpful and precious in their place, but they are all purifying from the outside. Only jñāna purifies from the very core. And then comes this gentle promise: svayam — by itself, on its own, spontaneously — this knowledge finds the yogi who is ripening in their practice. You do not have to force it. You do not have to crack yourself open with effort. The word kālena means 'in time' — there is a ripening that happens through sincere, sustained practice. Like a fruit ripening on the vine, it cannot be hurried beyond its season, but if the vine is well-tended, the fruit will surely come.",
+        "sarvapriyananda": "The opening declaration — na hi jñānena sadṛśaṃ pavitram — is an absolute statement. In all of creation, nothing purifies like knowledge. The word pavitra does not only mean ritually pure; it means that which transforms the nature of what it touches. And the mechanism of discovery described is exquisite: the yoga-saṃsiddha — one perfected through the disciplines of yoga — finds this knowledge svayam (by itself), kālena (in time), ātmani (within the Self). Note: not in a temple, not in a book, not from a teacher — within oneself. This is the Advaita conviction that the Self, which is already Brahman, is self-luminous. The practices of yoga do not create the Self or import knowledge from outside — they simply remove the obstructions until the pre-existing light becomes visible.",
+        "yogananda": "Yogananda would point to the word svayam — by itself — as the key to this verse. True knowledge is not achieved by the ego's strenuous effort but by the removal of obstacles that prevent its natural self-revelation. The regular practice of meditation — Kriya Yoga in Yogananda's tradition — gradually dissolves the karmic and egoic obstructions until knowledge, like the sunrise, becomes naturally apparent. Kālena (in time) acknowledges the reality of spiritual maturation: the practitioner must be patient with the process without being passive. Each sincere meditation is removing a layer of obscuration. At some point, the accumulated effect of practice tips into revelation. The yogi finds the knowledge not 'out there' but ātmani — within the Self that was always already present.",
+        "goyandka": "The Gita Press commentary notes three elements in the second line: svayam (self-manifesting — it cannot be forced), yoga-saṃsiddha (ripened through the combined practice of karma and jñāna yoga), and kālena (through the natural passage of time as practice matures). The word vindati — from the root vid — means both 'to find' and 'to know.' Knowledge discovers itself within the prepared vessel. Goyandka emphasizes that this verse is a great encouragement to steady practice: the aspirant who practices yoga sincerely over time becomes qualified (adhikārī) to receive this knowledge, and when qualified, the knowledge comes of itself. The guru can point, the scriptures can describe, but the actual arising of jñāna within the ātman is a self-revealing event."
+      }
+    },
+    {
+      "verse": 39,
+      "sanskrit": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः ।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥",
+      "transliteration": "śraddhāvāṃl labhate jñānaṃ tat-paraḥ saṃyatendriyaḥ\njñānaṃ labdhvā parāṃ śāntim acireṇādhigacchati",
+      "translation": "The person of faith, devoted to it, with senses restrained — attains knowledge. Having attained knowledge, one swiftly reaches supreme peace.",
+      "audio": "/assets/audio/ch04/verse_04_39.mp3",
+      "word_breakdown": [
+        {
+          "word": "श्रद्धावान्",
+          "transliteration": "śraddhāvān",
+          "root": "śraddhā (faith, trust, earnest aspiration) + suffix -vat",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "the person of faith / one endowed with śraddhā"
+        },
+        {
+          "word": "तत्परः",
+          "transliteration": "tat-paraḥ",
+          "root": "tad (that) + para (highest, intent upon)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "devoted to that / intent on that alone / absorbed in it"
+        },
+        {
+          "word": "संयतेन्द्रियः",
+          "transliteration": "saṃyatendriyaḥ",
+          "root": "sam + √yam (to restrain) + indriya (sense organ)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "one with controlled senses / with restrained sense organs"
+        },
+        {
+          "word": "अचिरेण",
+          "transliteration": "acireṇa",
+          "root": "a (not) + cira (long time)",
+          "grammatical_form": "Adjective used as adverb, instrumental, singular",
+          "meaning": "quickly / without long delay / swiftly"
+        },
+        {
+          "word": "परां शान्तिम्",
+          "transliteration": "parāṃ śāntim",
+          "root": "para (supreme, highest) + √śam (to be at peace, to cease)",
+          "grammatical_form": "Adjective + noun, feminine, accusative, singular",
+          "meaning": "supreme peace / the highest tranquility / ultimate stillness"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Three qualities, dear one, and then knowledge comes — and then, swiftly, supreme peace. The first is śraddhā, which is not blind belief but a living trust, a heart-leaning toward the truth. The second is tat-para — being entirely intent on That, not distracted by a thousand other things. The third is saṃyatendriya — the one who has brought the senses under the guidance of the inner wisdom, so they do not constantly drag the mind outward. These three create the conditions in which knowledge flows in naturally, the way water flows into a vessel that is properly positioned and open. And once knowledge comes, peace — parā śānti, the highest peace — comes acireṇa, swiftly. Not after a long wait, not in some distant future life. Swiftly. Be encouraged.",
+        "sarvapriyananda": "The three qualifications listed here are a progression. Śraddhā — faith or earnest aspiration — is the beginning: the intellect turns toward the possibility of truth and leans into it. Tat-para — devotion to that alone — is the deepening: the whole life begins to orient around the inquiry. Saṃyatendriya — sense restraint — is the purification: the energy that was dispersed outward through the senses is now recollected inward. Together, these three mature the antaḥkaraṇa — the inner organ — to the point of readiness. Then jñāna is attained; not as information but as direct cognition. And the result — parāṃ śāntim — supreme peace — is not a temporary state but the natural condition of the Self recognized as such. Acireṇa (quickly) confirms that genuine ripening does not require endless lifetimes.",
+        "yogananda": "Yogananda taught that śraddhā is not mere credulity; it is the soul's innate recognition that truth exists and can be found. The soul has an instinct for its own nature, and śraddhā is the activation of that instinct. Tat-para — being entirely absorbed in the spiritual goal — describes the one-pointed life of the sincere devotee-yogi who has made God the central fact of existence. Saṃyatendriya — controlled senses — is the practical result of pranayama and inner withdrawal; the life-force, no longer dissipated through senses, pools in the spine and brain, creating the luminous clarity through which jñāna dawns. The supreme peace (parāṃ śāntim) Yogananda identifies with the profound stillness of nirvikalpa samādhi — not unconsciousness but pure awareness resting in itself.",
+        "goyandka": "Goyandka enumerates these three qualifications as the minimal necessary conditions for receiving jñāna. Śraddhā: without faith in the teacher, the teaching, and the possibility of liberation, the teaching cannot penetrate. Tat-para: distracted pursuit of many goals prevents the inner concentration needed for wisdom to crystallize. Saṃyatendriya: sense control frees the energy of attention for the inner inquiry. When all three are present, jñāna is attained — labhate jñānam. The use of the present tense (labhate) rather than the future is deliberate: when these qualities exist, knowledge follows as a natural consequence, not as a distant hope. The result — supreme peace — is the hallmark that jñāna has been truly received and not merely intellectually grasped."
+      }
+    },
+    {
+      "verse": 40,
+      "sanskrit": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति ।\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः ॥",
+      "transliteration": "ajñaś cāśraddadhānaś ca saṃśayātmā vinaśyati\nnāyaṃ loko 'sti na paro na sukhaṃ saṃśayātmanaḥ",
+      "translation": "The ignorant, the faithless, and the doubting self — all perish. There is neither this world, nor the next, nor happiness for the doubting one.",
+      "audio": "/assets/audio/ch04/verse_04_40.mp3",
+      "word_breakdown": [
+        {
+          "word": "अज्ञः",
+          "transliteration": "ajñaḥ",
+          "root": "a (not) + √jñā (to know)",
+          "grammatical_form": "Adjective/noun, masculine, nominative, singular",
+          "meaning": "the ignorant one / one lacking discrimination"
+        },
+        {
+          "word": "अश्रद्दधानः",
+          "transliteration": "aśraddadhānaḥ",
+          "root": "a (not) + śraddhā (faith) + √dhā (to hold, place)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "the faithless one / one who does not hold faith"
+        },
+        {
+          "word": "संशयात्मा",
+          "transliteration": "saṃśayātmā",
+          "root": "sam + √śī (to lie, to doubt) + ātman (self)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "the doubting self / one whose very nature is doubt"
+        },
+        {
+          "word": "विनश्यति",
+          "transliteration": "vinaśyati",
+          "root": "vi + √naś (to perish, to be destroyed)",
+          "grammatical_form": "Verb, present tense, 3rd person singular",
+          "meaning": "perishes / is destroyed / comes to ruin"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is Krishna's loving but firm warning, dear one. He is not condemning these people — He is describing what happens when doubt becomes one's very identity, one's ātman. Notice the three: ajña is one who simply has not yet learned — that is forgivable and remediable. Aśraddadhāna is one who has heard but refused to receive — more serious but still capable of turning. But saṃśayātmā — the one whose very self has become identified with doubt — that is the deepest danger. Such a person can find peace neither in the world of action nor in the world of contemplation. Doubt as an occasional guest is healthy; doubt as a permanent resident destroys the capacity for both worldly and spiritual fulfillment. This is the sternest love a parent can show — 'Child, your cleverness will be your undoing if you cannot learn to trust.'",
+        "sarvapriyananda": "The verse presents a graduated scale of spiritual incapacity. Ajña — the ignorant — lacks the discriminative capacity (viveka) to distinguish real from unreal, permanent from impermanent. Aśraddadhāna — the faithless — possesses intellect but withholds trust from the teaching and the teacher, treating all spiritual knowledge as merely provisional opinion. Saṃśayātmā — one whose entire self is doubt — is the most tragic: the habitual doubter whose every aspiration is immediately eroded by second-guessing. In Advaita, doubt (saṃśaya) is one of the primary functions of a disturbed intellect (vikṣipta antaḥkaraṇa). Such a person cannot act effectively in the world (na ayaṃ lokaḥ) nor access higher states (na paraḥ). Happiness (sukha) requires that the mind rest somewhere — the doubter's mind finds no resting place.",
+        "yogananda": "Yogananda viewed habitual doubt as the primary obstacle to spiritual realization — more damaging than passion or anger, because those emotions at least contain energy. Doubt is a form of spiritual paralysis. The saṃśayātmā analyzed here is not the sincere questioner who seeks clarity — the previous verse endorsed sincere inquiry (paripraśna). This is the cynic who has made doubt itself into a philosophy, who refuses every answer offered and uses apparent intellectual rigor to avoid genuine commitment to practice. Such a person cannot progress, because every spiritual teaching requires a leap of initial trust that is then confirmed through direct experience. Without that initial leap, experience never comes and trust never builds — a vicious circle of spiritual stagnation.",
+        "goyandka": "The Gita Press commentary carefully distinguishes the three types. Ajña: one who has had no access to knowledge — their destruction is through ignorance alone. Aśraddadhāna: one who has had access to teaching but lacks the receptive faith to receive it — their problem is attitudinal. Saṃśayātmā: one who may have knowledge and even some faith, but whose chronic doubt prevents either from bearing fruit — this is the most dangerous condition. The word vinaśyati is sobering: perishes. Not merely fails to progress, but is actively destroyed by this inner state. Na ayaṃ lokaḥ: unable to succeed in worldly life (because no sustained effort is possible without some faith). Na paraḥ: unable to attain the higher life. Na sukham: unable to enjoy even basic contentment. Doubt corrodes everything it touches."
+      }
+    },
+    {
+      "verse": 41,
+      "sanskrit": "योगसन्न्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् ।\nआत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ॥",
+      "transliteration": "yoga-sannyasta-karmāṇaṃ jñāna-sañchinna-saṃśayam\nātmavantaṃ na karmāṇi nibadhnanti dhanaṃjaya",
+      "translation": "One who has renounced action through yoga, whose doubt is cut asunder by knowledge, who is self-possessed — actions do not bind that one, O Dhananjaya.",
+      "audio": "/assets/audio/ch04/verse_04_41.mp3",
+      "word_breakdown": [
+        {
+          "word": "योगसन्न्यस्तकर्माणम्",
+          "transliteration": "yoga-sannyasta-karmāṇam",
+          "root": "yoga + sam + ni + √as (to throw, to cast off) + karman (action)",
+          "grammatical_form": "Compound adjective, masculine, accusative, singular",
+          "meaning": "one who has renounced actions through yoga / who has cast off karma via yoga"
+        },
+        {
+          "word": "ज्ञानसञ्छिन्नसंशयम्",
+          "transliteration": "jñāna-sañchinna-saṃśayam",
+          "root": "√jñā (to know) + sam + √chid (to cut) + saṃśaya (doubt)",
+          "grammatical_form": "Compound adjective, masculine, accusative, singular",
+          "meaning": "whose doubt has been completely cut by knowledge"
+        },
+        {
+          "word": "आत्मवन्तम्",
+          "transliteration": "ātmavantam",
+          "root": "ātman (Self) + suffix -vat (possessing)",
+          "grammatical_form": "Adjective, masculine, accusative, singular",
+          "meaning": "self-possessed / one who possesses the Self / established in the Self"
+        },
+        {
+          "word": "निबध्नन्ति",
+          "transliteration": "nibadhnanti",
+          "root": "ni + √bandh (to bind, to tie)",
+          "grammatical_form": "Verb, present tense, 3rd person plural",
+          "meaning": "bind / tie / fetter"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Look at the portrait Krishna draws of the free person, dear one — three strokes and complete. First: yoga-sannyasta-karmāṇam — one who has offered all actions into the fire of yoga, not clinging to a single result. Second: jñāna-sañchinna-saṃśayam — one whose doubt has been cut clean, not suppressed or argued away but surgically removed by the sword of knowledge. Third: ātmavantam — one who possesses the Self, who has found their true home. Such a person can do anything — even go to war — and karma does not cling to them. They are like a lotus in the pond: fully immersed but not wet. This is the state Dadaji used to call 'in the world but not of it' — not a withdrawal from life but a transformation of one's relationship to it.",
+        "sarvapriyananda": "This verse synthesizes the entire teaching of Chapter 4 in three compound descriptors. Yoga-sannyasta-karmāṇam: the renunciation of action through yoga does not mean inaction but the inner abandonment of doership — 'I am not the doer.' Jñāna-sañchinna-saṃśayam: doubt is not merely allayed or managed but sañchinna — completely cut, like a rope severed. The imagery of cutting will be taken up again in verse 42 with the sword metaphor. Ātmavantam: the one who is ātmavān is not scattered in external pursuits but centered in the Self — literally 'possessing the ātman,' or better, 'abiding as the ātman.' For such a person, actions continue — the body moves, the world is served — but the karmic mechanism does not engage because there is no ego-self to be its substrate.",
+        "yogananda": "Yogananda's commentary on this verse would center on the word ātmavantam — the one who is established in the Self. The realized yogi performs all actions — meditation, teaching, healing, even apparently ordinary activities — from the center of inner stillness. The actions arise from the universal Self, not from the limited personal ego. Therefore they create no karmic residue, just as a mirror creates no image of its own when reflecting the world. The doubt that has been 'cut by knowledge' is the deepest existential uncertainty — 'Am I the body? Am I the mind? What happens when I die?' — all of which dissolve in the light of direct Self-realization. With that dissolution, the fear-based compulsive doing that creates binding karma also dissolves.",
+        "goyandka": "The Gita Press commentary notes that this verse stands in direct contrast to verse 40. There, the doubting self (saṃśayātmā) perishes; here, the one whose doubt is cut (sañchinna-saṃśaya) is free from all bondage. The contrast is complete. The three qualities described here are not sequential conditions but simultaneous descriptions of the same inner state: renunciation through yoga, annihilation of doubt through knowledge, and establishment in the Self are one integrated reality, not three separate achievements. When any one is fully realized, the others follow. Karma does not bind such a one — nibadhnanti in the present tense indicates a permanent, ongoing freedom, not a temporary relief. The liberation is here and now, not postponed."
+      }
+    },
+    {
+      "verse": 42,
+      "sanskrit": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः ।\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ॥",
+      "transliteration": "tasmād ajñāna-sambhūtaṃ hṛt-sthaṃ jñānāsinātmanaḥ\nchittvainaṃ saṃśayaṃ yogam ātiṣṭhottiṣṭha bhārata",
+      "translation": "Therefore, cutting asunder with the sword of knowledge this doubt about the Self born of ignorance which dwells in your heart — resort to yoga, arise, O Bharata!",
+      "audio": "/assets/audio/ch04/verse_04_42.mp3",
+      "word_breakdown": [
+        {
+          "word": "ज्ञानासिना",
+          "transliteration": "jñānāsinā",
+          "root": "√jñā (to know) + asi (sword)",
+          "grammatical_form": "Compound noun, masculine, instrumental, singular",
+          "meaning": "with the sword of knowledge / using knowledge as a sword"
+        },
+        {
+          "word": "हृत्स्थम्",
+          "transliteration": "hṛt-stham",
+          "root": "hṛd (heart) + √sthā (to stand, to dwell)",
+          "grammatical_form": "Compound adjective, neuter, accusative, singular",
+          "meaning": "dwelling in the heart / seated in the heart"
+        },
+        {
+          "word": "छित्त्वा",
+          "transliteration": "chittvā",
+          "root": "√chid (to cut, to cleave)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having cut / cutting asunder / after severing"
+        },
+        {
+          "word": "आतिष्ठ",
+          "transliteration": "ātiṣṭha",
+          "root": "ā + √sthā (to stand, to take up, to resort to)",
+          "grammatical_form": "Verb, imperative, 2nd person singular",
+          "meaning": "take recourse to / resort to / stand in / undertake"
+        },
+        {
+          "word": "उत्तिष्ठ",
+          "transliteration": "uttiṣṭha",
+          "root": "ud + √sthā (to stand up, to rise)",
+          "grammatical_form": "Verb, imperative, 2nd person singular",
+          "meaning": "arise / stand up / rise"
+        }
+      ],
+      "commentary": {
+        "dadaji": "And here we are, dear one — the final verse of Chapter 4, and what a call it is. Tasmāt — therefore — because of everything that has been said. The doubt that paralyzes you is sitting right there in your heart, born of ignorance about your true nature. Krishna does not say 'think about cutting it' or 'perhaps try to cut it' — He says chittvā, 'having cut it,' as if it is already done, as if you already have the capacity. Use the sword of knowledge. And then: ātiṣṭha yogam uttiṣṭha — take up yoga and arise. These two commands together are so beautiful. First the inner work: take your stand in yoga, in the discipline of inner alignment. Then the outer expression: arise. Get up. Move. Fight your battle. This is the Gītā's answer to despair — not reassurance, but a sword, a path, and a command.",
+        "sarvapriyananda": "The verse is the grand conclusion of Chapter 4 and carries immense force. Four elements: (1) Tasmāt — the conclusion follows from all that has been taught. (2) The doubt is identified precisely: ajñāna-sambhūtam (born of ignorance), hṛt-stham (dwelling in the heart — not peripheral but central). (3) The instrument is named: jñānāsinā ātmanaḥ — the sword of Self-knowledge, knowledge of the ātman. (4) The dual command: ātiṣṭha yogam — take your stand in yoga; uttiṣṭha — arise. The movement from inner to outer is deliberate: first establish yourself in the yoga of wisdom and equanimity, then act from that established ground. This is the integration the Gītā offers — not mysticism divorced from action but wisdom fused with engaged life.",
+        "yogananda": "This closing verse of Chapter 4 is one of the Gītā's most electrifying moments. The doubt that Arjuna carries — 'Who am I? What is right? What is real?' — is identified as hṛt-stham, dwelling in the heart itself. The heart is the seat of the ego, and the ego is constituted by exactly this doubt about the true Self. The sword of jñāna — the razor of discriminating wisdom, cultivated through meditation and inquiry — is the one instrument that can cut this knot. Once cut — ātiṣṭha yogam, resort to yoga; make yoga the basis of your life. And then uttiṣṭha — arise. This final command echoes from the beginning of the Gītā to its end. Yogananda would say: rise in consciousness, rise in love, rise in action. Arise from the dream of limitation into the wakefulness of your divine nature.",
+        "goyandka": "The Gita Press tradition reads this closing verse as the perfect summary of the Gītā's practical teaching for Arjuna — and for every aspirant. Saṃśaya (doubt) is not an intellectual problem; it is a defect of the antaḥkaraṇa (inner instrument) arising directly from ajñāna (ignorance of the Self). It dwells in the hṛdaya (heart/center of being) — not on the surface but at the core. Only the sword of ātma-jñāna — direct Self-knowledge — can reach and sever this deep-seated knot. The command ātiṣṭha yogam is not merely 'practice yoga exercises' but 'take your fundamental stand in the discipline of Self-realization.' Uttiṣṭha — arise — is then not merely a military command but a spiritual declaration: arise from the sleep of ignorance. Bharata — O descendant of Bharata — recalls Arjuna's noble lineage and the standard of courage and truth it demands."
+      }
+    }
+  ]
+}

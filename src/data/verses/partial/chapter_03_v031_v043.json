@@ -1,0 +1,837 @@
+{
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 31,
+      "sanskrit": "श्रीभगवानुवाच ।\nये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nye me matam idaṃ nityam anutiṣṭhanti mānavāḥ\nśraddhāvanto 'nasūyanto mucyante te 'pi karmabhiḥ",
+      "translation": "Those human beings who always practise this teaching of Mine with faith and without carping — they too are freed from the bondage of karma.",
+      "audio": "/assets/audio/ch03/verse_03_31.mp3",
+      "word_breakdown": [
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "root": "yad (relative pronoun)",
+          "grammatical_form": "Pronoun, masculine, nominative, plural",
+          "meaning": "those who"
+        },
+        {
+          "word": "मतम्",
+          "transliteration": "matam",
+          "root": "√man (to think, to hold an opinion)",
+          "grammatical_form": "Noun / past passive participle, neuter, accusative, singular",
+          "meaning": "teaching / doctrine / view / opinion"
+        },
+        {
+          "word": "नित्यम्",
+          "transliteration": "nityam",
+          "root": "nitya (constant, eternal) — adverbial accusative",
+          "grammatical_form": "Adverb / adjective, neuter, accusative, singular",
+          "meaning": "always / constantly / ever"
+        },
+        {
+          "word": "अनुतिष्ठन्ति",
+          "transliteration": "anutiṣṭhanti",
+          "root": "√sthā (to stand, to abide) — with prefix anu-",
+          "grammatical_form": "Verb, parasmaipada, present tense, 3rd person plural",
+          "meaning": "follow / practise / abide by"
+        },
+        {
+          "word": "श्रद्धावन्तः",
+          "transliteration": "śraddhāvantaḥ",
+          "root": "śraddhā (faith) — possessive suffix -vant",
+          "grammatical_form": "Adjective, masculine, nominative, plural",
+          "meaning": "endowed with faith / faithful"
+        },
+        {
+          "word": "अनसूयन्तः",
+          "transliteration": "anasūyantaḥ",
+          "root": "√sūy (to carp, to find fault) — prefix an- (negative) + a-",
+          "grammatical_form": "Present participle, masculine, nominative, plural",
+          "meaning": "without carping / free from envy / not cavilling"
+        },
+        {
+          "word": "मुच्यन्ते",
+          "transliteration": "mucyante",
+          "root": "√muc (to release, to free)",
+          "grammatical_form": "Verb, passive, present tense, 3rd person plural",
+          "meaning": "are freed / are liberated / are released"
+        },
+        {
+          "word": "कर्मभिः",
+          "transliteration": "karmabhiḥ",
+          "root": "√kṛ (to do, to act)",
+          "grammatical_form": "Noun, neuter, instrumental, plural",
+          "meaning": "from karmas / from the bondage of actions"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Krishna begins by distinguishing two types of seekers: those who follow His teaching with śraddhā (faith) and without finding fault, and those who reject it. The word 'nityam' — always, constantly — reveals that spiritual practice must be uninterrupted, not merely occasional. 'Anasūyantaḥ' (without carping) is equally vital: intellectual ego often disguises itself as critical inquiry. The liberated person neither demands constant proof nor projects resistance onto wisdom. The promise 'mucyante karmabhiḥ' — freed from karma — means not the cessation of action, but freedom from the binding force of identification with the doer. Faith here is not blind belief but a receptive openness, a willingness to align one's inner life with divine truth as transmitted by the teacher.",
+        "sarvapriyananda": "Swami Sarvapriyananda draws attention to the pair śraddhā and anasūyā as the twin prerequisites for genuine spiritual learning. Śraddhā is not superstition — it is the trust that makes a student capable of receiving wisdom rather than immediately deflecting it through argument. Anasūyā means freedom from envy or faultfinding: the ego's tendency to tear down what it cannot yet understand. Together these qualities create the inner vessel that can hold transformative knowledge. The result — liberation from karma — is not earned by effort alone but flows naturally when knowledge is properly received and lived. This verse makes clear that the Gita's teaching is not intellectual content but a way of being, and its fruit is freedom.",
+        "yogananda": "Paramahansa Yogananda comments that the devotee who practices Krishna's teaching with unwavering faith plants seeds of divine liberation in every action. 'Nityam' — constantly — is the key word: the spiritual aspirant does not switch between the divine and the mundane but sustains an unbroken thread of consciousness. Śraddhā, the faith born of direct inner experience, distinguishes true devotion from mere ritual compliance. And anasūyā — the absence of jealousy and carping — ensures the ego does not poison the well of wisdom from within. Such sincere practitioners are not bound by the results of their karma; their actions, performed in the spirit of offering to God, no longer generate the chain of cause and effect that perpetuates rebirth.",
+        "goyandka": "Shri Jayadayal Goyandka notes that Krishna here promises liberation to those who follow His word with two essential virtues: faith and absence of malice. The person of faith takes the Lord's instruction as authoritative and does not subordinate it to personal preference or cleverness. The faultfinder, by contrast, is inwardly resistant — even if their outer behaviour conforms, the inner attitude negates the benefit. Liberation from karma does not mean one stops acting; it means one's actions no longer bind because they are performed without the ownership of doership. These verses serve as both an encouragement and a warning: the teaching is powerful, but its power is accessible only to those who approach it with the right inner disposition."
+      }
+    },
+    {
+      "verse": 32,
+      "sanskrit": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥",
+      "transliteration": "ye tv etad abhyasūyanto nānutiṣṭhanti me matam\nsarva-jñāna-vimūḍhāṃs tān viddhi naṣṭān acetasaḥ",
+      "translation": "But those who, carping at this teaching, do not practise it — know them to be deluded in all knowledge, senseless, and utterly lost.",
+      "audio": "/assets/audio/ch03/verse_03_32.mp3",
+      "word_breakdown": [
+        {
+          "word": "अभ्यसूयन्तः",
+          "transliteration": "abhyasūyantaḥ",
+          "root": "√sūy (to carp, to find fault) — with prefix abhi-",
+          "grammatical_form": "Present participle, masculine, nominative, plural",
+          "meaning": "cavilling / finding fault / criticising"
+        },
+        {
+          "word": "सर्वज्ञान-विमूढान्",
+          "transliteration": "sarva-jñāna-vimūḍhān",
+          "root": "sarva (all) + jñāna (knowledge) + √muh (to be deluded) — prefix vi-",
+          "grammatical_form": "Compound adjective, masculine, accusative, plural",
+          "meaning": "deluded in all knowledge / completely bewildered"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "root": "√vid (to know)",
+          "grammatical_form": "Verb, parasmaipada, imperative, 2nd person singular",
+          "meaning": "know / understand — a direct command"
+        },
+        {
+          "word": "नष्टान्",
+          "transliteration": "naṣṭān",
+          "root": "√naś (to perish, to be lost)",
+          "grammatical_form": "Past passive participle, masculine, accusative, plural",
+          "meaning": "lost / ruined / destroyed"
+        },
+        {
+          "word": "अचेतसः",
+          "transliteration": "acetasaḥ",
+          "root": "cetas (mind, consciousness) — prefix a- (negative)",
+          "grammatical_form": "Adjective, masculine, accusative, plural",
+          "meaning": "senseless / devoid of discrimination / without wisdom"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is the sober counterpart to the previous one. The word 'abhyasūyantaḥ' — those who actively carp and find fault — describes not genuine inquiry but the egoic habit of dismissing truth to protect one's current worldview. Krishna says such people are 'sarva-jñāna-vimūḍhāḥ': deluded not in some knowledge but in all knowledge. This is a penetrating insight — when the foundational orientation is resistant and envious, every level of knowing becomes distorted. 'Naṣṭān acetasaḥ' — lost, without consciousness — is not a condemnation but a diagnosis. The remedy is not punishment but a return to śraddhā. This verse urges us to examine our own tendency to reject teachings that disturb our comfort, recognising that such rejection, however sophisticated it sounds, is ultimately a form of self-destruction.",
+        "sarvapriyananda": "Swami Sarvapriyananda points out that the word 'tu' (but) in this verse creates a sharp contrast with the preceding one. The previous verse offered liberation; this one diagnoses loss. The person who carps is not merely wrong intellectually — they are 'vimūḍha' in all knowledge, meaning their capacity for discernment is perverted from the root. The Gita does not treat spiritual ignorance as neutral; it has active consequences. To reject the teaching of karma yoga — doing one's duty without selfish attachment — is to remain bound to the cycle of compulsive action and reaction. 'Acetasaḥ' literally means 'without consciousness' — suggesting that faultfinding, far from being a sign of keen intellect, is actually a failure of awareness.",
+        "yogananda": "Yogananda observes that this verse delivers a compassionate warning. Those who mock or ignore the divine teaching of selfless action are not merely missing an opportunity — they are actively reinforcing the very delusion that keeps them bound. 'Sarva-jñāna-vimūḍhān' is striking: they are deluded in ALL knowledge, not merely ignorant of spiritual matters. When the divine law is rejected, one's entire framework of understanding becomes distorted because the Source of true knowing is shut out. Yogananda urges practitioners not to become spiritually arrogant upon reading this verse but to use it as a mirror — examining where in their own lives they resist divine guidance in favour of personal preference or intellectual pride.",
+        "goyandka": "Goyandka notes that the twin description 'naṣṭān acetasaḥ' — lost and without wisdom — indicates the cumulative effect of faultfinding. It is not a single act of rejection that destroys, but the habitual attitude of carping that gradually erodes one's discrimination. The person loses first the ability to recognise truth, then the very desire to seek it. The teaching of nishkama karma (desireless action in accordance with dharma) is not arbitrary; it reflects the structure of the universe. To reject it is therefore not merely a philosophical error but a fundamental misalignment with reality itself. Goyandka urges readers to cultivate humility before sacred wisdom and to distinguish genuine questioning from the ego's self-protective resistance."
+      }
+    },
+    {
+      "verse": 33,
+      "sanskrit": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥",
+      "transliteration": "sadṛśaṃ ceṣṭate svasyāḥ prakṛter jñānavān api\nprakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati",
+      "translation": "Even the wise person acts in accordance with their own nature; all beings follow their nature — what can restraint accomplish?",
+      "audio": "/assets/audio/ch03/verse_03_33.mp3",
+      "word_breakdown": [
+        {
+          "word": "सदृशम्",
+          "transliteration": "sadṛśam",
+          "root": "sa (like) + dṛś (to see) — resemblance",
+          "grammatical_form": "Adverb / adjective, neuter, accusative, singular",
+          "meaning": "in accordance with / conformingly / similarly"
+        },
+        {
+          "word": "चेष्टते",
+          "transliteration": "ceṣṭate",
+          "root": "√ceṣṭ (to move, to strive, to act)",
+          "grammatical_form": "Verb, ātmanepada, present tense, 3rd person singular",
+          "meaning": "acts / strives / behaves"
+        },
+        {
+          "word": "प्रकृतेः",
+          "transliteration": "prakṛteḥ",
+          "root": "pra + √kṛ (to make) — nature, constitution",
+          "grammatical_form": "Noun, feminine, genitive, singular",
+          "meaning": "of one's own nature / of nature / of prakriti"
+        },
+        {
+          "word": "ज्ञानवान्",
+          "transliteration": "jñānavān",
+          "root": "jñāna (knowledge) — possessive suffix -vant",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "the wise person / one endowed with knowledge"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "root": "api (indeclinable particle)",
+          "grammatical_form": "Indeclinable particle — concessive or inclusive",
+          "meaning": "even / also / though"
+        },
+        {
+          "word": "निग्रहः",
+          "transliteration": "nigrahaḥ",
+          "root": "ni + √grah (to seize, to restrain)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "restraint / suppression / control"
+        },
+        {
+          "word": "करिष्यति",
+          "transliteration": "kariṣyati",
+          "root": "√kṛ (to do, to accomplish)",
+          "grammatical_form": "Verb, parasmaipada, future tense, 3rd person singular",
+          "meaning": "will do / will accomplish / can achieve"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is one of the Gita's most psychologically penetrating verses. Even the person of wisdom — 'jñānavān api' — acts according to their own nature. The word 'prakṛti' here encompasses one's accumulated tendencies, conditioning, and guṇa-composition. The rhetorical question 'nigrahaḥ kiṃ kariṣyati?' — what will mere restraint do? — does not endorse passivity or abandon ethics. Rather, it points beyond surface suppression to the need for transformation of nature itself. Merely forcing the body or senses to comply while leaving the inner disposition unchanged is futile. True freedom arises not from restraint but from the purification and eventual transcendence of one's lower nature through sustained practice, devotion, and the cultivation of the witness-self.",
+        "sarvapriyananda": "Swami Sarvapriyananda explains that this verse should not be read as fatalism — Krishna is not saying that one is helpless before nature. Rather, He is distinguishing two levels of engagement: external restraint (nigraha) versus internal transformation. All beings, including the learned, express their accumulated nature. The question 'what will restraint do?' points to the inadequacy of willpower alone as a spiritual method. What is needed is a change in the very quality of one's being — a shift in the guṇas — achieved through the karma yoga described in this chapter. Restraint without inner transformation creates conflict and repression; practice with right understanding transforms the nature from which action flows.",
+        "yogananda": "Yogananda reads this verse as an honest acknowledgement of the power of habitual tendencies (samskaras). Even the greatest sages carry residual prakriti. The solution, Yogananda emphasises, is not to fight nature on its own terms through brute will but to go deeper — to the Self beyond prakriti — through meditation, devotion, and surrender to God. When consciousness is anchored in the Self, the pull of lower nature loses its compulsive force. 'Nigrahaḥ kiṃ kariṣyati?' is Krishna's gentle prod: stop struggling at the surface and dive to the source. Transformation begins at the level of consciousness, not at the level of behavior alone.",
+        "goyandka": "Goyandka explains that this verse acknowledges a fundamental truth about the embodied being: our actions are deeply conditioned by the three guṇas composing our particular nature. This is not a license for inaction but a call for discernment about the kind of effort required. Mechanical suppression of desires through force of will alone merely pushes them underground. The Gita's path involves a subtler work: performing one's natural duties without attachment, gradually purifying the guṇas through association with sattva, and ultimately transcending all three through the steady practice of nishkama karma and devotion to God. Mere external nigraha, unsupported by inner transformation, is insufficient for liberation."
+      }
+    },
+    {
+      "verse": 34,
+      "sanskrit": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।\ntayoर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥",
+      "transliteration": "indriyasyendriyasyārthe rāga-dveṣau vyavasthitau\ntayor na vaśam āgacchet tau hy asya paripanthinau",
+      "translation": "Attraction and aversion are seated in every sense in relation to its objects; one should not come under their sway — for they are one's enemies on the path.",
+      "audio": "/assets/audio/ch03/verse_03_34.mp3",
+      "word_breakdown": [
+        {
+          "word": "इन्द्रियस्य",
+          "transliteration": "indriyasya",
+          "root": "indra (lord of senses) — indriya (sense organ)",
+          "grammatical_form": "Noun, neuter, genitive, singular — repeated for each sense",
+          "meaning": "of each sense / in respect of the sense"
+        },
+        {
+          "word": "अर्थे",
+          "transliteration": "arthe",
+          "root": "√arth (to seek) — artha (object, purpose)",
+          "grammatical_form": "Noun, masculine, locative, singular",
+          "meaning": "in the object / with regard to the sense object"
+        },
+        {
+          "word": "रागद्वेषौ",
+          "transliteration": "rāga-dveṣau",
+          "root": "√rañj (to be attached) + √dviṣ (to hate)",
+          "grammatical_form": "Compound noun, masculine, nominative, dual",
+          "meaning": "attraction and aversion / love and hate / liking and disliking"
+        },
+        {
+          "word": "व्यवस्थितौ",
+          "transliteration": "vyavasthitau",
+          "root": "vi + ava + √sthā (to stand, to be stationed)",
+          "grammatical_form": "Past passive participle, masculine, nominative, dual",
+          "meaning": "are stationed / are seated / are established"
+        },
+        {
+          "word": "वशम् आगच्छेत्",
+          "transliteration": "vaśam āgacchet",
+          "root": "vaśa (control, sway) + √gam (to go) — prefix ā-",
+          "grammatical_form": "Verb + noun, optative (potential/prescriptive) — prohibitive with 'na'",
+          "meaning": "should come under the sway / should fall under the control"
+        },
+        {
+          "word": "परिपन्थिनौ",
+          "transliteration": "paripanthinau",
+          "root": "pari + patha (path) — one who blocks the path",
+          "grammatical_form": "Noun/adjective, masculine, nominative, dual",
+          "meaning": "enemies on the path / obstacles / obstructors"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Krishna now moves from the philosophical (nature-driven action) to the practical: the specific mechanism of bondage. Rāga (attraction) and dveṣa (aversion) are not incidental emotions — they are described as 'vyavasthitau', firmly stationed in each sense-faculty. This means the mechanism of attachment is built into the very structure of embodied perception. The warning 'tayor na vaśam āgacchet' — do not come under their sway — does not mean eliminate rāga and dveṣa immediately, which is impossible by an act of will, but means: do not let them make your decisions. The practitioner of karma yoga becomes a witness to these pulls without being swept away. Calling them 'paripanthinau' — enemies on the path — is precise: they do not destroy the aspirant outright but subtly redirect them away from liberation.",
+        "sarvapriyananda": "Swami Sarvapriyananda explains that this verse provides a map of spiritual pitfalls embedded in ordinary perception. Every sensory encounter carries embedded attraction or aversion — this is simply how the conditioned mind experiences the world. The teaching is not to become insensible but to develop the skill of engaging the world without being governed by these reactive pulls. The term 'paripanthinau' is especially significant: pari-pantha means one who waits by the roadside to waylay a traveller. Rāga and dveṣa are exactly this — they appear innocent, even natural, but over time they steer the aspirant away from the path of wisdom. Awareness of their presence is the first act of spiritual intelligence.",
+        "yogananda": "Yogananda meditates on the dual nature of rāga and dveṣa as the twin forces sustaining the wheel of rebirth. Every attachment creates a demand for satisfaction; every aversion creates a demand for avoidance. Both bind the consciousness to the object. The only escape is not through exhaustion of desires — which simply generates new ones — but through the shift of identity from the sense-self to the soul. In meditation and devotion, the practitioner discovers a joy that does not depend on sensory objects, and from that stability they can act in the world without being controlled by like or dislike. Yogananda calls this the practical meaning of 'samatvam' — equanimity — described throughout Chapter Two.",
+        "goyandka": "Goyandka emphasises the phrase 'indriyasyendriyasya arthe' — rāga and dveṣa are present in each sense, not just one. This is comprehensive: the eye desires pleasant forms, the ear pleasant sounds, the tongue pleasant tastes, and so on. The entire sensory apparatus is saturated with these two tendencies. To become enslaved to them is therefore not unusual — it is the default condition of the unwise person. The Gita's instruction is to remain the master of the senses rather than their servant. This does not require the annihilation of sense function but rather their regulation by discriminative wisdom (viveka), so that actions are chosen according to dharma rather than impulse."
+      }
+    },
+    {
+      "verse": 35,
+      "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥",
+      "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt\nsva-dharme nidhanaṃ śreyaḥ para-dharmo bhayāvahaḥ",
+      "translation": "Better is one's own dharma, though imperfectly performed, than the dharma of another well performed. Even death in one's own dharma is preferable; the dharma of another is fraught with danger.",
+      "audio": "/assets/audio/ch03/verse_03_35.mp3",
+      "word_breakdown": [
+        {
+          "word": "श्रेयान्",
+          "transliteration": "śreyān",
+          "root": "śreyas (the good, the better) — comparative",
+          "grammatical_form": "Adjective, masculine, nominative, singular — comparative degree",
+          "meaning": "better / more auspicious / more to be preferred"
+        },
+        {
+          "word": "स्वधर्मः",
+          "transliteration": "sva-dharmaḥ",
+          "root": "sva (own) + √dhṛ (to hold, to sustain) — dharma",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "one's own dharma / one's own duty / one's innate calling"
+        },
+        {
+          "word": "विगुणः",
+          "transliteration": "viguṇaḥ",
+          "root": "vi (without, away from) + guṇa (quality, merit)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "imperfect / lacking merit / deficient in quality"
+        },
+        {
+          "word": "परधर्मात्",
+          "transliteration": "para-dharmāt",
+          "root": "para (another, other) + dharma",
+          "grammatical_form": "Compound noun, masculine, ablative, singular",
+          "meaning": "than the dharma of another / than another's duty"
+        },
+        {
+          "word": "स्वनुष्ठितात्",
+          "transliteration": "sv-anuṣṭhitāt",
+          "root": "su (well) + anu + √sthā (to perform, to carry out)",
+          "grammatical_form": "Past passive participle, masculine, ablative, singular",
+          "meaning": "well performed / excellently executed"
+        },
+        {
+          "word": "निधनम्",
+          "transliteration": "nidhanam",
+          "root": "ni + √dhā (to place) — nidhanam (death, extinction)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "death / end / destruction"
+        },
+        {
+          "word": "भयावहः",
+          "transliteration": "bhayāvahaḥ",
+          "root": "bhaya (fear) + √vah (to carry, to bring)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "fraught with danger / fear-bringing / perilous"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is a cornerstone of the Gita's ethical teaching and must not be reduced to caste orthodoxy. Svadharma means the path that is genuinely one's own — arising from one's spiritual constitution, temperament, and soul-calling — not simply a role assigned by birth. The comparison is stark: even an imperfectly followed personal dharma ('viguṇaḥ') is superior to another's dharma brilliantly executed, because inauthenticity — no matter how impressive — does not lead to liberation. 'Sva-dharme nidhanaṃ śreyaḥ' — death in one's own duty is better — echoes Krishna's earlier counsel to Arjuna: your dharma as a warrior, however painful, is your path to transcendence. Imitating another's path, however beautiful it appears from outside, leads only to inner fragmentation and fear.",
+        "sarvapriyananda": "Swami Sarvapriyananda explains that the concept of svadharma here operates on multiple levels simultaneously — social, psychological, and spiritual. At the social level it means performing the duties appropriate to one's station without envying others. At the psychological level it means acting from one's own deepest nature rather than performing a role borrowed from another. At the spiritual level it points to the unique path of each soul toward the divine. 'Para-dharmo bhayāvahaḥ' — another's dharma brings fear — because living inauthentically creates an ongoing internal conflict between one's actual nature and one's performed identity. This internal warfare is more dangerous than the external battle Arjuna faced on the Kurukshetra field.",
+        "yogananda": "Yogananda interprets svadharma primarily in its inner, spiritual sense: the unique soul-path of each individual toward God-realisation. No two paths to the divine are identical, just as no two souls are identical. To copy another's spiritual method without discernment — even if that method is genuinely great for another — is to abandon one's own unique relationship with God. 'Para-dharmo bhayāvahaḥ' warns that this substitution ultimately generates spiritual confusion and anxiety. Yogananda emphasises that the Gita's insistence on svadharma is not restrictive but liberating: it is an invitation to discover and honour the particular form of one's own divine calling rather than seeking safety in imitation.",
+        "goyandka": "Goyandka approaches this verse in the context of the Gita's warning against social disruption and personal imitation. He notes that the verse specifically states 'viguṇaḥ' — even if one's own dharma is imperfect, deficient, or not well executed — it remains superior to another's dharma perfectly performed. This is because authentic engagement with one's own path, however fumbling, aligns the individual with the divine order (ṛta) that structures their existence. Performing another's dharma well may produce worldly success but does not purify one's inner nature or advance liberation. Goyandka connects this to the broader teaching of nishkama karma: do your own work, without attachment to results, and spiritual progress will follow."
+      }
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अर्जुन उवाच ।\nअथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥",
+      "transliteration": "arjuna uvāca\natha kena prayukto 'yaṃ pāpaṃ carati pūruṣaḥ\nanicchann api vārṣṇeya balād iva niyojitaḥ",
+      "translation": "Arjuna said: But what is it, O Varshneya (Krishna), by which this person is driven to commit sinful deeds even against their will, as if compelled by force?",
+      "audio": "/assets/audio/ch03/verse_03_36.mp3",
+      "word_breakdown": [
+        {
+          "word": "केन",
+          "transliteration": "kena",
+          "root": "kim (what, which) — interrogative pronoun",
+          "grammatical_form": "Pronoun, neuter/masculine, instrumental, singular",
+          "meaning": "by what / by whom — instrumental of cause"
+        },
+        {
+          "word": "प्रयुक्तः",
+          "transliteration": "prayuktaḥ",
+          "root": "pra + √yuj (to yoke, to impel, to drive)",
+          "grammatical_form": "Past passive participle, masculine, nominative, singular",
+          "meaning": "driven / impelled / propelled / urged on"
+        },
+        {
+          "word": "पापम्",
+          "transliteration": "pāpam",
+          "root": "√pāp (evil, sin) — or from papā (bad deed)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "sin / sinful deed / evil action"
+        },
+        {
+          "word": "चरति",
+          "transliteration": "carati",
+          "root": "√car (to move, to act, to perform)",
+          "grammatical_form": "Verb, parasmaipada, present tense, 3rd person singular",
+          "meaning": "commits / performs / acts"
+        },
+        {
+          "word": "अनिच्छन्",
+          "transliteration": "anicchhan",
+          "root": "an (negative) + √iṣ (to wish, to desire)",
+          "grammatical_form": "Present participle, masculine, nominative, singular — negative",
+          "meaning": "even unwilling / not wishing to / against one's will"
+        },
+        {
+          "word": "वार्ष्णेय",
+          "transliteration": "vārṣṇeya",
+          "root": "Vṛṣṇi (name of a clan) — patronymic",
+          "grammatical_form": "Proper noun, masculine, vocative, singular",
+          "meaning": "O Varshneya / O descendant of Vrishni — epithet of Krishna"
+        },
+        {
+          "word": "बलात् इव",
+          "transliteration": "balāt iva",
+          "root": "bala (force, strength) + iva (like, as if)",
+          "grammatical_form": "Noun ablative + particle of comparison",
+          "meaning": "as if by force / as if compelled / forcibly as it were"
+        },
+        {
+          "word": "नियोजितः",
+          "transliteration": "niyojitaḥ",
+          "root": "ni + √yuj (to yoke, to assign, to compel)",
+          "grammatical_form": "Past passive participle, masculine, nominative, singular",
+          "meaning": "directed / constrained / assigned — employed by force"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Arjuna asks one of the most profound questions in all of spiritual literature: what compels a person to act sinfully against their own wish? 'Anicchann api' — even while unwilling — acknowledges that the human being is not simply a rational agent freely choosing good or evil. There is a force at work that overrides choice. Arjuna uses the image 'balād iva niyojitaḥ' — as if yoked by force — which is psychologically precise: anyone who has struggled with an impulse they know is harmful and yet felt compelled toward it recognises this description. This question sets up Krishna's most important psychological teaching in the Gita: the identification of kāma (desire) and krodha (anger) as the deep mechanisms of bondage. Arjuna's courage in asking this honestly is itself a spiritual act.",
+        "sarvapriyananda": "Swami Sarvapriyananda notes that Arjuna's question in this verse moves the dialogue from cosmology and ethics into depth psychology. The key phrase is 'anicchann api' — even unwillingly. This is not a question about deliberate wrongdoing but about compulsion: why does a person act against their own better judgment? This is precisely the question that modern psychology attempts to address through the study of unconscious motivation and addiction. Krishna's forthcoming answer — kāma and krodha — is not moralistic but analytical. It identifies the specific psychological forces behind sinful compulsion. Arjuna's use of 'vārṣṇeya' (kinsman of Krishna's clan) is intimate, reflecting the depth of trust in this dialogue.",
+        "yogananda": "Yogananda observes that Arjuna has now arrived at the deepest level of the spiritual problem. Earlier in the chapter, he was told to control the senses; now he asks what the controller of the controller is — what force is so powerful that even the willing cannot resist it? This is not theoretical: every sincere aspirant has experienced the phenomenon of performing actions they regret and did not consciously choose. Yogananda explains that the answer lies in the accumulated force of past desires — the samskaras — which have gained momentum over many incarnations and express themselves through the physical and mental instruments as compulsive tendencies. Krishna's response in the next verses names this force and shows how to face it.",
+        "goyandka": "Goyandka notes that Arjuna's question demonstrates his sincere desire to understand — not to make excuses — the mechanism of moral failure. 'Bala iva niyojitaḥ' — as if compelled by force — is the honest confession of one who has observed the gap between intention and action. This gap is universal in human experience; the Gita takes it seriously and addresses it directly. Goyandka sees in this question the transition point of the chapter: the first part (verses 1–35) addressed the philosophy and duty of action; the second part (verses 36–43) will address the psychology of bondage and the path to freedom from the inner enemy. Arjuna's inquiry is the hinge that opens this deeper teaching."
+      }
+    },
+    {
+      "verse": 37,
+      "sanskrit": "श्रीभगवानुवाच ।\nकाम एष क्रोध एष रजोगुणसमुद्भवः ।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥",
+      "transliteration": "śrī-bhagavān uvāca\nkāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ\nmahāśano mahā-pāpmā viddhy enam iha vairiṇam",
+      "translation": "The Blessed Lord said: It is desire (kāma), it is anger (krodha) — born of the quality of rajas — insatiable and greatly sinful. Know this to be the enemy here.",
+      "audio": "/assets/audio/ch03/verse_03_37.mp3",
+      "word_breakdown": [
+        {
+          "word": "काम एष",
+          "transliteration": "kāma eṣa",
+          "root": "√kam (to desire, to love) — kāma (desire, passion)",
+          "grammatical_form": "Noun + demonstrative pronoun, masculine, nominative, singular",
+          "meaning": "this is desire / it is desire — emphatic identification"
+        },
+        {
+          "word": "क्रोध एष",
+          "transliteration": "krodha eṣa",
+          "root": "√krudh (to be angry) — krodha (anger, wrath)",
+          "grammatical_form": "Noun + demonstrative pronoun, masculine, nominative, singular",
+          "meaning": "this is anger / it is anger — emphatic identification"
+        },
+        {
+          "word": "रजोगुण-समुद्भवः",
+          "transliteration": "rajo-guṇa-samudbhavaḥ",
+          "root": "rajas (passion) + guṇa (quality) + sam + ud + √bhū (to be born)",
+          "grammatical_form": "Compound noun/adjective, masculine, nominative, singular",
+          "meaning": "born of the quality of rajas / arising from the rajas-guṇa"
+        },
+        {
+          "word": "महाशनः",
+          "transliteration": "mahāśanaḥ",
+          "root": "mahā (great) + √aś (to eat, to consume) — mahāśana",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "all-devouring / of great appetite / insatiable"
+        },
+        {
+          "word": "महापाप्मा",
+          "transliteration": "mahā-pāpmā",
+          "root": "mahā (great) + pāpman (sin, evil)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "greatly sinful / of great evil / mighty sinner"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "root": "√vid (to know)",
+          "grammatical_form": "Verb, parasmaipada, imperative, 2nd person singular",
+          "meaning": "know! / understand! — direct imperative command"
+        },
+        {
+          "word": "वैरिणम्",
+          "transliteration": "vairiṇam",
+          "root": "vaira (enmity, hostility) — suffix -in",
+          "grammatical_form": "Noun/adjective, masculine, accusative, singular",
+          "meaning": "the enemy / the foe / the adversary"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is one of the pivotal verses of the entire Gita. Krishna's answer to Arjuna's question is immediate and unambiguous: 'kāma eṣa krodha eṣa' — it is this, desire; it is this, anger. The repetition with 'eṣa' is emphatic — as if pointing a finger directly at the culprit. Kāma (desire) is the primary force; krodha (anger) is desire obstructed — the secondary explosion when desire meets resistance. Both spring from rajas, the principle of passionate activity. Krishna names desire as 'mahāśana' — all-devouring — because it is never satisfied: each fulfilment creates a greater hunger. It is also 'mahā-pāpmā' — greatly sinful — not in a moralistic sense but because it perpetuates ignorance of the true Self. The imperative 'viddhi enam vairiṇam' — know this as your enemy — is not a call to suppress desire through hatred but to recognise it clearly with the intelligence.",
+        "sarvapriyananda": "Swami Sarvapriyananda regards this verse as Krishna's supreme diagnostic moment. The enemy is not external — not Duryodhana, not circumstance — but desire itself, and its transformation into anger when thwarted. 'Rajo-guṇa-samudbhavaḥ' locates the origin precisely: rajas, the quality of restless passion, is the matrix from which both arise. The two epithets are penetrating: mahāśana (devourer) captures desire's insatiability — more is always needed — while mahā-pāpmā (greatly sinful) indicates that unrestrained desire is not just personally harmful but ontologically corrosive, severing one's connection with truth. Sarvapriyananda notes that the Gita does not ask one to kill desire (which is impossible) but to see it clearly, name it, and refuse to be governed by it.",
+        "yogananda": "Yogananda meditates on kāma as the fundamental force of extroversion — the outward pull of consciousness toward sense objects that constitutes the essence of avidyā (ignorance). When kāma is satisfied it creates temporary pleasure and a desire for more; when frustrated it generates krodha (anger). Yogananda sees in this analysis the exact mechanism of human suffering: consciousness, which is inherently blissful in its own nature, turns outward through desire and experiences the inevitable cycle of temporary satisfaction and renewed craving. The solution is not mortification but inversion of direction — through meditation and devotion, the same force of desire is turned toward God (bhakti), consuming itself in the infinite Object that alone can truly satisfy.",
+        "goyandka": "Goyandka focuses on the compound 'rajo-guṇa-samudbhavaḥ' — completely born of the rajas quality. This is significant: kāma and krodha are not permanent features of human nature but specific expressions of the rajas-guṇa predominating in the individual. This means they are not ineradicable: by cultivating sattva through right conduct, right association, right diet, and devotion to God, the grip of rajas — and therefore of desire and anger — can be progressively loosened. Goyandka also notes the significance of 'iha vairiṇam' — the enemy here, in this world, in this very life. The battle against desire is not deferred to a future incarnation but is the immediate work of every sincere aspirant."
+      }
+    },
+    {
+      "verse": 38,
+      "sanskrit": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ॥",
+      "transliteration": "dhūmenāvriyate vahnir yathādarśo malena ca\nyatholbenāvṛto garbhas tathā tenedam āvṛtam",
+      "translation": "As fire is enveloped by smoke, as a mirror by dust, as an embryo by the womb — so is this (knowledge) enveloped by that (desire).",
+      "audio": "/assets/audio/ch03/verse_03_38.mp3",
+      "word_breakdown": [
+        {
+          "word": "धूमेन",
+          "transliteration": "dhūmena",
+          "root": "√dhū (to shake, to agitate) — dhūma (smoke)",
+          "grammatical_form": "Noun, masculine, instrumental, singular",
+          "meaning": "by smoke / through smoke"
+        },
+        {
+          "word": "आव्रियते",
+          "transliteration": "āvriyate",
+          "root": "ā + √vṛ (to cover, to envelop, to obstruct)",
+          "grammatical_form": "Verb, passive, present tense, 3rd person singular",
+          "meaning": "is enveloped / is covered / is obscured"
+        },
+        {
+          "word": "वह्निः",
+          "transliteration": "vahniḥ",
+          "root": "√vah (to carry, to bear) — vahni (fire, that which carries oblation)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "fire / the fire — Agni"
+        },
+        {
+          "word": "आदर्शः",
+          "transliteration": "ādarśaḥ",
+          "root": "ā + √dṛś (to see) — ādarśa (mirror, that by which one sees clearly)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "mirror / looking-glass"
+        },
+        {
+          "word": "मलेन",
+          "transliteration": "malena",
+          "root": "mala (dirt, impurity, dust)",
+          "grammatical_form": "Noun, neuter, instrumental, singular",
+          "meaning": "by dust / by dirt / by impurity"
+        },
+        {
+          "word": "उल्बेन",
+          "transliteration": "ulbena",
+          "root": "ulba / ulva (membrane, caul, amniotic sac — womb covering)",
+          "grammatical_form": "Noun, neuter, instrumental, singular",
+          "meaning": "by the womb-membrane / by the embryonic covering"
+        },
+        {
+          "word": "आवृतम्",
+          "transliteration": "āvṛtam",
+          "root": "ā + √vṛ (to cover)",
+          "grammatical_form": "Past passive participle, neuter, nominative, singular",
+          "meaning": "is enveloped / is covered / is veiled"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Krishna employs three ascending images to illuminate how desire envelops knowledge. The smoke-and-fire analogy is the most accessible: smoke does not extinguish fire but makes it difficult to see or use it directly. Similarly, desire clouds knowledge without destroying it — the knowledge is still there, but inaccessible. The dust-on-mirror image is subtler: a mirror that is dusty cannot reflect clearly; it shows distorted images. Knowledge veiled by desire does not disappear but distorts: one sees what one wants to see. Most profound is the embryo-in-womb analogy: here the covering is total, organic, and formative — knowledge is not just obscured but has not yet emerged into light. These three images represent progressively deeper degrees of knowledge-concealment corresponding to different levels of desire's hold.",
+        "sarvapriyananda": "Swami Sarvapriyananda interprets the three analogies as a graduated teaching. The smoke-fire example shows how knowledge and desire can coexist — fire continues to burn under smoke, and similarly awareness persists under the veil of desire. The dust-mirror example shows how the reflecting capacity of intellect (buddhi) is impaired: the mirror is still there but cannot serve its purpose. The embryo-womb analogy suggests a state of complete enclosure where knowledge exists as potential but has no avenue of expression. Sarvapriyananda notes that these three cover respectively: jñāna (general knowledge), viveka (discrimination), and self-knowledge — the deepest form being most completely hidden by desire.",
+        "yogananda": "Yogananda finds in this verse a profound description of the spiritual condition of ordinary human beings. Like the embryo enclosed in the womb, the soul is present and alive but has not yet emerged into the full light of Self-knowledge. Desire is the womb of spiritual immaturity. The process of sadhana — spiritual practice — is precisely the birthing process: gradually the veils of desire are thinned and finally removed, allowing the Self to emerge into its own natural luminosity. Yogananda connects this to the Vedantic teaching of sat-chit-ānanda: the soul is inherently consciousness-bliss, but desire wraps it in the three bodies (gross, subtle, causal) that obscure this truth.",
+        "goyandka": "Goyandka draws attention to the logical structure of these three analogies in terms of removability. Smoke from fire disperses easily in wind. Dust from a mirror can be wiped away. But the womb-covering of an embryo must be dissolved over time through the natural maturation process. This suggests that the degree to which desire has enveloped knowledge varies among individuals, and accordingly the effort required to remove the veil also varies. For those whose desire is like smoke — already thin — a single teaching may suffice to reveal the Self. For those whose covering is like an embryo's membrane — thick and organic — sustained, patient practice over time is required. This verse counsels neither despair nor complacency."
+      }
+    },
+    {
+      "verse": 39,
+      "sanskrit": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥",
+      "transliteration": "āvṛtaṃ jñānam etena jñānino nitya-vairiṇā\nkāma-rūpeṇa kaunteya duṣpūreṇānalena ca",
+      "translation": "Knowledge is enveloped by this constant enemy of the wise, O Kaunteya (Arjuna) — by this insatiable fire in the form of desire.",
+      "audio": "/assets/audio/ch03/verse_03_39.mp3",
+      "word_breakdown": [
+        {
+          "word": "आवृतम्",
+          "transliteration": "āvṛtam",
+          "root": "ā + √vṛ (to cover, to veil)",
+          "grammatical_form": "Past passive participle, neuter, nominative, singular",
+          "meaning": "enveloped / covered / veiled"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jñānam",
+          "root": "√jñā (to know)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "knowledge / wisdom / Self-knowledge"
+        },
+        {
+          "word": "ज्ञानिनः",
+          "transliteration": "jñāninaḥ",
+          "root": "jñānin (one who knows) — from jñāna + suffix -in",
+          "grammatical_form": "Noun, masculine, genitive, singular",
+          "meaning": "of the wise / of the one who knows — genitive of possession"
+        },
+        {
+          "word": "नित्यवैरिणा",
+          "transliteration": "nitya-vairiṇā",
+          "root": "nitya (eternal, constant) + vaira (enmity) + suffix -in",
+          "grammatical_form": "Compound noun/adjective, masculine, instrumental, singular",
+          "meaning": "by the constant enemy / by the eternal foe"
+        },
+        {
+          "word": "कामरूपेण",
+          "transliteration": "kāma-rūpeṇa",
+          "root": "kāma (desire) + rūpa (form, appearance)",
+          "grammatical_form": "Compound noun, masculine, instrumental, singular",
+          "meaning": "in the form of desire / having the form of kāma"
+        },
+        {
+          "word": "दुष्पूरेण",
+          "transliteration": "duṣpūreṇa",
+          "root": "duṣ (hard, difficult) + √pṛ (to fill, to satisfy) — duṣpūra",
+          "grammatical_form": "Adjective, masculine, instrumental, singular",
+          "meaning": "insatiable / hard to fill / impossible to satisfy"
+        },
+        {
+          "word": "अनलेन",
+          "transliteration": "analena",
+          "root": "an (not) + ala (enough) — anala (fire; that which is never satisfied)",
+          "grammatical_form": "Noun, masculine, instrumental, singular",
+          "meaning": "by fire / by the fire — anala literally means 'never enough'"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse deepens the previous analogy by introducing a crucial phrase: 'jñānino nitya-vairiṇā' — the constant enemy of the wise. This is significant: even the jñānī (one possessed of knowledge) is targeted by desire. Desire does not simply prey on the ignorant; it is the nitya-vairiṇa — the perpetual, constitutional enemy of all who seek wisdom. 'Kāma-rūpeṇa analena' — by the fire in the form of desire — fuses two images: desire as an entity with a definite form (rūpa) and desire as fire (anala — literally 'that which is never satisfied'). The Sanskrit word 'anala' itself encodes insatiability: a-nala means 'not enough'. Desire-as-fire is never quenched by feeding; fuel only intensifies it. This verse is Krishna's most direct characterisation of kāma as an active agent of spiritual warfare.",
+        "sarvapriyananda": "Swami Sarvapriyananda is struck by the phrase 'nitya-vairiṇā' — the eternal enemy. This is not a temporary adversary encountered in difficult circumstances but a structural feature of conditioned existence: as long as one is embodied and operating through the guṇas, desire will seek to reassert dominance. 'Duṣpūreṇa analena' — the insatiable fire — explains why satisfaction of desires is not a strategy for liberation: each gratification restokes the flame. Sarvapriyananda connects this to the teaching of karma: each satisfied desire strengthens the saṃskāra (latent tendency) that will demand fulfilment again. The only route to genuine peace is recognition of desire's nature and the transcendence of one's identification with the desiring self.",
+        "yogananda": "Yogananda meditates on the extraordinary psychological precision of this verse. The description 'duṣpūreṇa analena' — insatiable fire — perfectly captures the phenomenology of desire: the more it is fed, the more it burns. This is the opposite of genuine spiritual joy, which is self-sustaining and increases with depth. Yogananda emphasises that desire feeds on the sense of lack — it is generated by the fundamental misidentification of the self with the body and senses, which are inherently in a state of incompleteness. The cure is not suppression but the discovery of the ānanda (bliss) of the Self, which being inherently full requires nothing external. When even a glimpse of this inner fullness is tasted in meditation, desire's hold begins to loosen.",
+        "goyandka": "Goyandka notes that this verse elaborates on the enemy introduced in verse 37 with two devastating characterisations. First, it is 'nitya-vairiṇa' — the permanent enemy, not one that can be finally defeated in a single battle. This calls for constant vigilance rather than complacency. Second, it is 'duṣpūra' — that which cannot be filled. This is the philosophical root of desire's destructive power: it masquerades as something that will ultimately satisfy but by its nature never can. Goyandka emphasises the word 'jñānino' — even the jñānī's knowledge is covered by this enemy. This is not to discourage the pursuit of knowledge but to insist that intellectual knowledge alone, without devotion and surrender to God, cannot fully dislodge the deep-rooted force of desire."
+      }
+    },
+    {
+      "verse": 40,
+      "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥",
+      "transliteration": "indriyāṇi mano buddhir asyādhiṣṭhānam ucyate\netair vimohayaty eṣa jñānam āvṛtya dehinam",
+      "translation": "The senses, mind (manas), and intellect (buddhi) are said to be the seats of this (desire); through these it deludes the embodied soul by veiling knowledge.",
+      "audio": "/assets/audio/ch03/verse_03_40.mp3",
+      "word_breakdown": [
+        {
+          "word": "इन्द्रियाणि",
+          "transliteration": "indriyāṇi",
+          "root": "indriya (sense organ) — from Indra (the lord who governs)",
+          "grammatical_form": "Noun, neuter, nominative, plural",
+          "meaning": "the senses / the sense organs"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manaḥ",
+          "root": "√man (to think) — manas (mind, the thinking faculty)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "the mind / the lower mind — faculty of thought and feeling"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhiḥ",
+          "root": "√budh (to awaken, to know) — buddhi (intellect, discriminative faculty)",
+          "grammatical_form": "Noun, feminine, nominative, singular",
+          "meaning": "the intellect / the discriminating intelligence"
+        },
+        {
+          "word": "अधिष्ठानम्",
+          "transliteration": "adhiṣṭhānam",
+          "root": "adhi + √sthā (to stand upon) — adhiṣṭhāna (seat, basis, abode)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "the seat / the abode / the base of operations"
+        },
+        {
+          "word": "विमोहयति",
+          "transliteration": "vimohayati",
+          "root": "vi + √muh (to be deluded) — causative: to cause delusion",
+          "grammatical_form": "Verb, causative, parasmaipada, present tense, 3rd person singular",
+          "meaning": "causes delusion / deludes / bewilders — active causation"
+        },
+        {
+          "word": "ज्ञानम् आवृत्य",
+          "transliteration": "jñānam āvṛtya",
+          "root": "jñāna + ā + √vṛ (to cover) — gerund",
+          "grammatical_form": "Noun + gerund (absolutive) — action preceding the main verb",
+          "meaning": "having veiled knowledge / by covering knowledge"
+        },
+        {
+          "word": "देहिनम्",
+          "transliteration": "dehinam",
+          "root": "deha (body) + suffix -in — dehin (the embodied one)",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "the embodied soul / the one with a body / the jīva"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse provides a precise map of how desire operates through the human instrument. Its three seats — indriyāṇi (senses), manas (mind), buddhi (intellect) — represent a progression from periphery to core. Desire first captures the senses, creating impulse; then colonises the mind, creating habitual desire-patterns; and finally corrupts the buddhi itself, the faculty of discrimination, so that even reasoning becomes rationalisation in the service of desire. This last infiltration — the corruption of buddhi — is the most dangerous because it removes the very capacity to discern the enemy. 'Vimohayati eṣa dehinam' — this enemy deludes the embodied soul — makes clear that the target is the jīva, the individual self, which loses touch with its true identity. The prescription follows in the next verses: begin by reclaiming the outermost layer — the senses — and work inward.",
+        "sarvapriyananda": "Swami Sarvapriyananda explains that verse 40 provides the 'anatomy of temptation': desire installs itself not merely in one level of the human being but at every level — sensory, mental, and intellectual. This is why superficial restraint (nigraha) is insufficient, as noted in verse 33. A desire repressed at the sensory level simply resurfaces through the mind; a desire repressed at the mind level finds rationalisation in the intellect. The only complete resolution lies in the transcendence of all three through Self-knowledge — the recognition of the ātman that underlies and is untouched by these instruments. Sarvapriyananda connects this to the Vedantic analysis of the pañcakośas (five sheaths): desire permeates the annamaya, prāṇamaya, and manomaya kośas simultaneously.",
+        "yogananda": "Yogananda identifies the three seats of desire in this verse with three levels of spiritual practice. At the level of the senses, the practice is pratyāhāra — withdrawal of sensory attention inward. At the level of manas, it is dhāraṇā — concentration that quiets the mind's restless fluctuation. At the level of buddhi, it is dhyāna and samādhi — deep meditation that allows the pure awareness of the ātman to shine through the polished intellect undistorted by desire. The verse thus implicitly outlines the inner architecture of yoga practice: working from the outermost instrument toward the innermost self. The final revelation — that the Self is beyond even buddhi — comes in verses 42–43.",
+        "goyandka": "Goyandka highlights the grammatical structure of the verse: senses, manas, and buddhi are described as the 'adhiṣṭhāna' of desire — its base of operations. Desire does not float free but must operate through these instruments. This is actually good news, because it means desire can be dislodged by purifying and strengthening each instrument in turn. Goyandka recommends: control of the senses through sense-regulation and fasting; control of the mind through prayer, japa, and satsang; control of the intellect through viveka (discrimination) and the study of scripture. As each instrument is progressively freed from desire's grip, the individual's natural wisdom begins to shine. This is the practical programme implicit in Krishna's teaching."
+      }
+    },
+    {
+      "verse": 41,
+      "sanskrit": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।\nपाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ॥",
+      "transliteration": "tasmāt tvam indriyāṇy ādau niyamya bharatarṣabha\npāpmānaṃ prajahi hy enaṃ jñāna-vijñāna-nāśanam",
+      "translation": "Therefore, O best of Bharatas (Arjuna), having first controlled the senses, slay this sinful destroyer of knowledge and direct experience (vijñāna).",
+      "audio": "/assets/audio/ch03/verse_03_41.mp3",
+      "word_breakdown": [
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmāt",
+          "root": "tad (that) — ablative singular",
+          "grammatical_form": "Pronoun, ablative, singular — used as inferential conjunction",
+          "meaning": "therefore / hence / for this reason"
+        },
+        {
+          "word": "इन्द्रियाणि आदौ",
+          "transliteration": "indriyāṇi ādau",
+          "root": "indriya (sense) + ādi (beginning) in locative",
+          "grammatical_form": "Noun plural + locative adverb",
+          "meaning": "the senses first / the senses at the outset — beginning with the peripheral"
+        },
+        {
+          "word": "नियम्य",
+          "transliteration": "niyamya",
+          "root": "ni + √yam (to restrain, to control)",
+          "grammatical_form": "Gerund (absolutive) — action prior to the main verb",
+          "meaning": "having regulated / having controlled — then proceed to the next step"
+        },
+        {
+          "word": "भरतर्षभ",
+          "transliteration": "bharatarṣabha",
+          "root": "Bharata (ancestor) + ṛṣabha (bull — symbol of the best)",
+          "grammatical_form": "Compound noun, masculine, vocative, singular",
+          "meaning": "O bull among the Bharatas / O best of the Bharata clan — honorific address to Arjuna"
+        },
+        {
+          "word": "पाप्मानम्",
+          "transliteration": "pāpmānam",
+          "root": "pāpman (sin, evil, the sinful one) — accusative",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "this sinful one / this evil one — desire personified as sinner"
+        },
+        {
+          "word": "प्रजहि",
+          "transliteration": "prajahi",
+          "root": "pra + √hā (to abandon, to slay, to give up)",
+          "grammatical_form": "Verb, parasmaipada, imperative, 2nd person singular — intensified with pra-",
+          "meaning": "slay! / destroy! / abandon completely! — strong imperative"
+        },
+        {
+          "word": "ज्ञान-विज्ञान-नाशनम्",
+          "transliteration": "jñāna-vijñāna-nāśanam",
+          "root": "jñāna + vijñāna + √naś (to destroy) — nāśana",
+          "grammatical_form": "Compound noun/adjective, masculine, accusative, singular",
+          "meaning": "destroyer of knowledge and direct realisation / that which ruins jñāna and vijñāna"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse provides the strategic instruction: begin with the senses ('ādau niyamya'), for they are the outermost and most accessible seat of desire. From there, work inward. But the ultimate command is 'prajahi' — slay, destroy — desire as the 'pāpmānam', the sinful destroyer of knowledge. The distinction between jñāna and vijñāna is significant: jñāna is theoretical or intellectual knowledge, while vijñāna is the knowledge born of direct inner experience and realisation. Desire destroys not only one's conceptual understanding of truth but also — and more crucially — one's direct living experience of it. The honorific address 'bharatarṣabha' (bull of the Bharatas) reminds Arjuna of his noble lineage and the strength available to him. This is not a counsel of defeat but of confident engagement with the inner enemy.",
+        "sarvapriyananda": "Swami Sarvapriyananda explains that 'ādau' — first — reveals the sequential strategy: begin at the outermost periphery and work inward. This is the wisdom of graduated practice. The Gita does not demand immediate and complete transformation of the deepest levels of the psyche; it recommends beginning where the aspirant is — at the level of sensory engagement with the world — and gradually claiming each level of the inner instrument back from desire's dominion. The compound 'jñāna-vijñāna-nāśanam' is crucial: jñāna is knowledge in general, vijñāna is the special knowledge of direct experience — the gnosis that arises in meditation and samādhi. Desire destroys both levels, making even the most learned person spiritually blind if they have not overcome it.",
+        "yogananda": "Yogananda draws attention to the imperative 'prajahi' — slay, completely destroy. This is warrior language, and it is deliberate: the battle against desire is a genuine inner war, not a polite request or a mild suggestion. Yogananda notes that 'jñāna-vijñāna' refers to the two levels of God-knowledge: understanding God intellectually (jñāna) and experiencing God directly (vijñāna). Desire destroys the first by distorting one's understanding, and the second by preventing the deep inner stillness required for the divine experience. The path forward requires beginning with sensory regulation — not through violence toward the body but through the cultivation of inner stillness that makes sensory objects less compelling than the inner light.",
+        "goyandka": "Goyandka notes that the verse gives a clear programme: 'niyamya' (having controlled) the senses as the first step, followed by 'prajahi' (completely abandoning) desire. This sequence is important — first regulate the outward instruments, then attack the inner root. One cannot slay the root without first having established some basic discipline at the peripheral level. Goyandka also emphasises 'vijñāna-nāśanam': desire destroys vijñāna, the direct knowledge of Brahman. This is why a person may accumulate vast amounts of scriptural knowledge and still remain bound — because desire has destroyed not the information but the inner experiential realisation that the information points toward. Outer learning without inner freedom from desire produces pride, not liberation."
+      }
+    },
+    {
+      "verse": 42,
+      "sanskrit": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ॥",
+      "transliteration": "indriyāṇi parāṇy āhur indriyebhyaḥ paraṃ manaḥ\nmanasas tu parā buddhir yo buddheḥ paratas tu saḥ",
+      "translation": "They say the senses are superior (to gross matter); greater than the senses is the mind; greater than the mind is the intellect (buddhi); and that which is greater than the intellect — that is the Self (Ātman).",
+      "audio": "/assets/audio/ch03/verse_03_42.mp3",
+      "word_breakdown": [
+        {
+          "word": "इन्द्रियाणि पराणि",
+          "transliteration": "indriyāṇi parāṇi",
+          "root": "indriya (sense organ) + para (superior, beyond)",
+          "grammatical_form": "Noun plural + adjective plural, neuter, nominative",
+          "meaning": "the senses are superior / the sense faculties are higher — than gross matter"
+        },
+        {
+          "word": "आहुः",
+          "transliteration": "āhuḥ",
+          "root": "√ah (to say) — perfect tense used as present",
+          "grammatical_form": "Verb, parasmaipada, perfect, 3rd person plural — often used as present",
+          "meaning": "they say / it is said — traditional teaching cited"
+        },
+        {
+          "word": "परम् मनः",
+          "transliteration": "paraṃ manaḥ",
+          "root": "para (beyond, superior) + manas (mind)",
+          "grammatical_form": "Adjective + noun, neuter, nominative, singular",
+          "meaning": "the mind is superior — higher than the senses"
+        },
+        {
+          "word": "परा बुद्धिः",
+          "transliteration": "parā buddhiḥ",
+          "root": "parā (superior, feminine) + buddhi (intellect)",
+          "grammatical_form": "Adjective + noun, feminine, nominative, singular",
+          "meaning": "the intellect is superior — higher than the mind"
+        },
+        {
+          "word": "यः बुद्धेः परतः",
+          "transliteration": "yaḥ buddheḥ parataḥ",
+          "root": "yad (relative pronoun) + buddhi + paratas (beyond, further than)",
+          "grammatical_form": "Relative pronoun + genitive + adverb",
+          "meaning": "that which is beyond the intellect / what lies further than buddhi"
+        },
+        {
+          "word": "सः",
+          "transliteration": "saḥ",
+          "root": "tad (that) — demonstrative pronoun",
+          "grammatical_form": "Pronoun, masculine, nominative, singular — the ultimate referent",
+          "meaning": "that is It / that is He / that is the Self — pointing to the Ātman"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse presents in compressed form the Sāṃkhya-Vedāntic hierarchy of reality from gross to subtle to transcendent. The senses are superior to the gross body and its objects. The mind (manas) is superior to the senses, for it coordinates sensory experience. The intellect (buddhi) is superior to the mind, being the faculty of discrimination and judgment. But the verse's power lies in its final clause: 'yaḥ buddheḥ paratas tu saḥ' — that which is beyond even the intellect, that is it. This is the ātman — the pure witnessing consciousness that underlies and illumines all the other faculties. Identifying the Self with the ātman rather than with any of the instrument-levels is the foundation of liberation. This hierarchy is not merely theoretical; it is a practical map for where to take one's stand in spiritual practice.",
+        "sarvapriyananda": "Swami Sarvapriyananda explains that this verse is a compressed version of the Kaṭha Upaniṣad's famous hierarchy (2.3.7: indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ...). The traditional formulation is cited with 'āhuḥ' — they say, implying the ancient wisdom-tradition. The critical move is the final one: beyond buddhi is 'saḥ' — that, pointing with a finger that cannot name its object directly. This is the ātman, the pure subjectivity that is never an object, that illumines buddhi from within without being illumined by anything else. Sarvapriyananda notes that this hierarchy also indicates the strategy for overcoming desire: by progressively disidentifying from senses, mind, and intellect, and identifying with the witnessing Self, desire loses its substrate.",
+        "yogananda": "Yogananda describes this verse as the Gita's map of inner ascent. In samādhi, consciousness withdraws from the senses, then from the mind, then from the intellect, and finally rests in its own pure nature — the ātman. This is not the obliteration of personality but its clarification: the instruments are still present but the identification shifts from instrument to the Self that uses them. Yogananda connects 'saḥ' — that — to the Upaniṣadic 'tat tvam asi' (thou art That): the Self beyond intellect is none other than the cosmic Brahman. The recognition of this identity is moksha. This verse therefore contains in seed the entire programme of raja yoga as Patañjali would later systematise it.",
+        "goyandka": "Goyandka notes that this ascending hierarchy serves the practical purpose of showing the seeker where desire must ultimately be confronted. Desire at the sensory level is the most visible and the most commonly addressed. But desire embedded in the mind is subtler and stronger. Desire lodged in the intellect — in the form of intellectual pride, ideological attachment, or the desire for knowledge itself as a possession — is the subtlest and most difficult to recognise. The ātman alone, being beyond all three levels, is the vantage point from which desire in all its forms can be witnessed without being compelled. Goyandka therefore emphasises the cultivation of viveka (discrimination) as the means of ascending through these levels toward the Self."
+      }
+    },
+    {
+      "verse": 43,
+      "sanskrit": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।\nजहि शत्रुं महाबाहो कामरूपं दुरासदम् ॥",
+      "transliteration": "evaṃ buddheḥ paraṃ buddhvā saṃstabhyātmānam ātmanā\njahi śatruṃ mahā-bāho kāma-rūpaṃ durāsadam",
+      "translation": "Thus, knowing that which is beyond the intellect, steadying the self by the Self, slay this enemy, O great-armed Arjuna — this foe in the form of desire that is so difficult to overcome.",
+      "audio": "/assets/audio/ch03/verse_03_43.mp3",
+      "word_breakdown": [
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "root": "evam (thus, in this way) — indeclinable",
+          "grammatical_form": "Indeclinable adverb — summarising all that precedes",
+          "meaning": "thus / in this manner / accordingly"
+        },
+        {
+          "word": "बुद्धेः परम् बुद्ध्वा",
+          "transliteration": "buddheḥ paraṃ buddhvā",
+          "root": "buddhi (intellect) + para (beyond) + √budh (to know) — gerund",
+          "grammatical_form": "Genitive + accusative + gerund (absolutive)",
+          "meaning": "having known that which is beyond the intellect — prior completing action"
+        },
+        {
+          "word": "संस्तभ्य",
+          "transliteration": "saṃstabhya",
+          "root": "sam + √stambh (to make firm, to steady, to support)",
+          "grammatical_form": "Gerund (absolutive), action prior to the main verb",
+          "meaning": "having steadied / having stabilised / having braced firmly"
+        },
+        {
+          "word": "आत्मानम् आत्मना",
+          "transliteration": "ātmānam ātmanā",
+          "root": "ātman (Self, soul) — same word in accusative and instrumental",
+          "grammatical_form": "Reflexive construction: accusative + instrumental of same noun",
+          "meaning": "the self by the Self / oneself by the higher Self — the lower steadied by the higher"
+        },
+        {
+          "word": "जहि",
+          "transliteration": "jahi",
+          "root": "√han (to slay, to strike down)",
+          "grammatical_form": "Verb, parasmaipada, imperative, 2nd person singular",
+          "meaning": "slay! / kill! / strike down! — the final battle-command of the chapter"
+        },
+        {
+          "word": "शत्रुम्",
+          "transliteration": "śatrum",
+          "root": "√śat (to destroy) or √han variant — śatru (enemy, destroyer)",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "the enemy / the foe — desire in its full destructive nature"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "mahā-bāho",
+          "root": "mahā (great) + bāhu (arm) — vocative",
+          "grammatical_form": "Compound noun, masculine, vocative, singular",
+          "meaning": "O great-armed one / O mighty-armed Arjuna — honorific address"
+        },
+        {
+          "word": "कामरूपम्",
+          "transliteration": "kāma-rūpam",
+          "root": "kāma (desire) + rūpa (form, appearance)",
+          "grammatical_form": "Compound noun/adjective, masculine, accusative, singular",
+          "meaning": "in the form of desire / having the nature of desire — desire as the enemy's shape"
+        },
+        {
+          "word": "दुरासदम्",
+          "transliteration": "durāsadam",
+          "root": "dur (difficult) + ā + √sad (to sit, to approach) — durāsada",
+          "grammatical_form": "Compound adjective, masculine, accusative, singular",
+          "meaning": "difficult to overcome / hard to approach / formidable — the enemy's power"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse closes Chapter Three with a battle-cry that is simultaneously a philosophical synthesis and a call to inner action. 'Buddheḥ paraṃ buddhvā' — having known that which is beyond the intellect — is the Vedantic prerequisite: the aspirant must first achieve the intellectual recognition that the Self transcends all instruments. But this knowledge must become more than intellectual. 'Saṃstabhyātmānam ātmanā' — steadying the self by the Self — is the yogic act: the lower self (conditioned ego operating through senses, mind, and intellect) is stabilised and supported by the higher Self (pure witnessing ātman). From this steady ground, the battle against desire — 'kāma-rūpaṃ durāsadam' — can be effectively waged. 'Durāsadam' (hard to overcome) is honest: Krishna does not minimise the difficulty. But with the Self as one's foundation, victory is possible. The address 'mahā-bāho' reminds Arjuna that the strength of the great-armed one is not only of body but of Spirit.",
+        "sarvapriyananda": "Swami Sarvapriyananda identifies the key instruction of this verse as the reflexive construction 'ātmānam ātmanā' — the self by the Self. This is the Gita's method in miniature: the lower self (jīva, ego, the instrument-complex of senses, mind, and intellect) is to be steadied and ultimately transcended by identification with the higher Self (ātman, the pure witness). This is not an external resource but an internal one — the very consciousness that is already present and already free, veiled only by the habit of misidentification with the instruments. The chapter ends with 'durāsadam' — difficult to overcome — which is precise and important. No spiritual bypassing is offered here. Desire is a formidable enemy. But the weapon — Self-knowledge — is more formidable still.",
+        "yogananda": "Yogananda reads this closing verse as the entire teaching of yoga compressed into four phrases: know the Self (buddhvā), stabilise in the Self (saṃstabhya ātmanā), identify with the Self rather than the ego (ātmānam ātmanā), and then act from that ground (jahi śatrum). This is the sequence of genuine spiritual transformation: intellectual understanding, inner stabilisation through practice, experiential shift of identity, and the resulting freedom of action. 'Kāma-rūpaṃ durāsadam' — the enemy in the form of desire, hard to overcome — is met not by force of ego-will alone but by the infinitely greater force of the Self, which is none other than the divine Purusha dwelling in the heart. The 'great-armed Arjuna' is reminded that his truest strength is spiritual, not muscular.",
+        "goyandka": "Goyandka concludes his commentary on Chapter Three by noting that this final verse provides the complete method in seed form. First, the means: 'buddheḥ paraṃ buddhvā' — know the Self that transcends even the intellect. This knowledge is the sword. Second, the inner posture: 'saṃstabhya ātmānam ātmanā' — stabilise the ego-self in the higher Self. This stabilisation is achieved through sustained practice, devotion, and surrender to God. Third, the action: 'jahi śatruṃ kāma-rūpam' — from that established position, slay desire. Goyandka emphasises that 'durāsadam' should not discourage but motivate: the Gita would not describe so complete and powerful a method if the enemy were not genuinely formidable. The greatness of the teaching matches the greatness of the obstacle."
+      }
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": 31,
+      "sanskrit": "श्रीभगवानुवाच ।\nसर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः ।\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते ॥",
+      "transliteration": "śrī-bhagavān uvāca\nsarva-bhūta-sthitaṃ yo māṃ bhajatyekatvam āsthitaḥ\nsarvathā vartamāno 'pi sa yogī mayi vartate",
+      "translation": "The Blessed Lord said: That yogi who, established in non-duality, worships Me as abiding in all beings — in whatever way he lives, he lives in Me.",
+      "audio": "/assets/audio/ch06/verse_06_31.mp3",
+      "word_breakdown": [
+        {
+          "word": "सर्वभूतस्थितम्",
+          "transliteration": "sarva-bhūta-sthitaṃ",
+          "root": "sarva (all) + bhūta (being) + √sthā (to stand, to abide)",
+          "grammatical_form": "Compound adjective, masculine, accusative, singular",
+          "meaning": "abiding in all beings — one who dwells within every creature without exception"
+        },
+        {
+          "word": "एकत्वम्",
+          "transliteration": "ekatvam",
+          "root": "eka (one) + tva (abstract suffix: -ness)",
+          "grammatical_form": "Neuter noun, accusative, singular",
+          "meaning": "non-duality / oneness — the state of seeing only the One in all multiplicity"
+        },
+        {
+          "word": "आस्थितः",
+          "transliteration": "āsthitaḥ",
+          "root": "ā + √sthā (to stand, to be established)",
+          "grammatical_form": "Past passive participle, masculine, nominative, singular",
+          "meaning": "established in / grounded in — one who is firmly settled in that oneness"
+        },
+        {
+          "word": "भजति",
+          "transliteration": "bhajati",
+          "root": "√bhaj (to worship, to adore, to share in)",
+          "grammatical_form": "Present tense, 3rd person singular",
+          "meaning": "worships / adores — offers loving devotion; not ritual worship but continual communion"
+        },
+        {
+          "word": "वर्तते",
+          "transliteration": "vartate",
+          "root": "√vṛt (to exist, to move, to abide)",
+          "grammatical_form": "Present tense, 3rd person singular, ātmanepada",
+          "meaning": "abides / lives / exists — dwells in; the yogi's every moment is a living within the Divine"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is the crown of the whole chapter, my dear. Baba used to say, 'When you truly see Bhagwan in each face, you never leave His lap.' The word ekatvam is so beautiful — it does not mean sameness in appearance, but oneness in essence. When you worship the Lord as dwelling in all — the beggar at your door, the crow on the wire, the child crying in the night — you yourself enter into the Lord. Notice 'sarvathā vartamāno 'pi' — even while going about all duties, cooking, working, quarreling perhaps — still the yogi lives in Me, says Krishna. The devotional act of bhajati here is not chanting alone; it is the heart's steady recognition. This is the fruit of dhyana: you stop seeing 'others.' What a gift Bhagwan gives in this one shloka.",
+        "sarvapriyananda": "This verse expresses the pinnacle of the Advaita realization within bhakti. Ekatvam āsthitaḥ — established in non-duality. The yogi sees sarva-bhūta-sthitaṃ māṃ — Me, the Lord, abiding in all beings. This is not pantheism but the Vedantic truth that Brahman, the one Self, underlies all apparent multiplicity. The Māṇḍūkya Upaniṣad declares: 'All this is Brahman.' When worship flows from this non-dual understanding, there is no worshipper separate from the worshipped. 'Sarvathā vartamāno 'pi sa yogī mayi vartate' — regardless of external activity, he lives in Me. This integrates jñāna and bhakti perfectly. The outer world does not disturb him, for he sees no outer world separate from the Self.",
+        "yogananda": "In the language of divine realization, ekatvam — cosmic oneness — is the direct perception of God as the one Life pulsating through every atom. Paramahansaji taught that the advanced devotee literally sees the Light of Brahman shining through all faces. 'Sarva-bhūta-sthitaṃ māṃ' is not metaphor; it is mystical fact, perceived in the highest states of samādhi and then retained even in waking consciousness. The ordinary person lives in delusion, seeing separateness; the yogi, awakened through meditation, sees unity. 'Sarvathā vartamāno 'pi' — though moving through all conditions — the inner vision never wavers. Such a one has transcended the oscillating states of the mind and lives perpetually in the cosmic AUM, in the omnipresent Christ Consciousness.",
+        "goyandka": "Bhagavan here defines the highest yogi — one established in ekatvam, non-difference. This means seeing Paramātmā as the indwelling Reality in all jīvas. He worships that all-pervading Lord through the recognition of His presence everywhere. The phrase 'sarvathā vartamāno 'pi' — though living in all manner of ways — indicates that external circumstances are irrelevant once the inner vision is established. Such a devotee, even while performing worldly duties, never actually leaves the Lord, for his consciousness remains anchored in the divine omnipresence. This verse crowns the previous descriptions of the realized yogi and shows that the acme of yoga is not withdrawal from the world but the constant living awareness of the Lord's all-pervasive presence."
+      }
+    },
+    {
+      "verse": 32,
+      "sanskrit": "श्रीभगवानुवाच ।\nआत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन ।\nसुखं वा यदि वा दुःखं स योगी परमो मतः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nātmaupamyena sarvatra samaṃ paśyati yo 'rjuna\nsukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ",
+      "translation": "The Blessed Lord said: He who sees equality everywhere by comparison with himself — whether it be pleasure or pain — that yogi is considered the highest, O Arjuna.",
+      "audio": "/assets/audio/ch06/verse_06_32.mp3",
+      "word_breakdown": [
+        {
+          "word": "आत्मौपम्येन",
+          "transliteration": "ātmaupamyena",
+          "root": "ātman (self) + upamā (comparison, likeness)",
+          "grammatical_form": "Compound noun, neuter, instrumental, singular",
+          "meaning": "by comparison with oneself — using one's own experience as the measuring rod for all others"
+        },
+        {
+          "word": "समम्",
+          "transliteration": "samaṃ",
+          "root": "sama (equal, same, even)",
+          "grammatical_form": "Adjective/adverb, neuter, accusative, singular",
+          "meaning": "equality / sameness — the even vision that sees the same essential reality in all"
+        },
+        {
+          "word": "पश्यति",
+          "transliteration": "paśyati",
+          "root": "√paś / √dṛś (to see, to perceive, to observe)",
+          "grammatical_form": "Present tense, 3rd person singular",
+          "meaning": "sees / perceives — an active, living perception, not merely an intellectual belief"
+        },
+        {
+          "word": "परमः",
+          "transliteration": "paramaḥ",
+          "root": "para (beyond, supreme, highest)",
+          "grammatical_form": "Adjective, masculine, nominative, singular, superlative",
+          "meaning": "the highest / supreme — the pinnacle among all yogis; none is greater"
+        },
+        {
+          "word": "मतः",
+          "transliteration": "mataḥ",
+          "root": "√man (to think, to consider, to regard)",
+          "grammatical_form": "Past passive participle, masculine, nominative, singular",
+          "meaning": "considered / regarded — Krishna's own verdict; this is the Lord's direct assessment"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Ātmaupamyena — by comparison with oneself. This is the simplest and most beautiful teaching on compassion in the whole Gita. Feel your own joy, feel your own pain — and know that every creature feels exactly thus. When that knowing becomes real, not borrowed from a book, you stop hurting others automatically. The yogi of this verse does not need rules to be kind; he simply cannot be unkind, because he sees himself in everyone. And Bhagwan says such a one is 'paramo' — the very highest. Not the one who sits longest in meditation, but the one who has most fully erased the line between 'self' and 'other.' This is the final test of all spiritual practice, my child.",
+        "sarvapriyananda": "Ātmaupamyena — the method is striking in its practicality. The Vedanta says 'tat tvam asi — that thou art'; here Krishna gives the experiential method: use your own felt experience of joy and suffering as the universal yardstick. You know your own pain intimately; extend that same knowing to others. This is how the abstract teaching of oneness becomes compassionate action. Note that paśyati is in the present tense — it is a living perception, not a past realization filed away. The highest yogi is perpetually, actively seeing this equality. The Upaniṣad asks: 'Who sees all beings in the Self and the Self in all beings — from that person, what delusion, what sorrow can there be?'",
+        "yogananda": "The greatest yogi, says Krishna, is the one who has awakened to the universality of feeling. In the superconscious state of samādhi, the boundaries of the ego dissolve and one literally feels the joy and suffering of all creation as one's own. This is not mere sentiment; it is the cosmic empathy of Christ Consciousness. Ātmaupamyena — through the measure of the Self — means the realized master uses the expanded Self as the measuring rod, not the small ego-self. Yoganandaji wrote that such a one becomes an instrument of Divine Love, effortlessly serving all because he has ceased to see any separation between his own soul and the souls of others. This equality-vision is samādhi lived in the marketplace.",
+        "goyandka": "This verse describes the sādhana of samadarśitā — equal vision — in its most concrete form. The instruction 'ātmaupamyena' provides a practical method: as you yourself desire happiness and shrink from pain, so does every being. This empathic recognition, extended universally, becomes the foundation of true non-injury and genuine service. Such a yogi never harms another knowingly, for he understands from within what harm means. Bhagavan himself declares this yogi 'paramo mataḥ' — the highest in My estimation. This places equal vision above mere tapas, scholarship, or ritual purity. It is the culmination of all inner development and the living expression of the realization of the one Ātman in all."
+      }
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अर्जुन उवाच ।\nयोऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन ।\nएतस्याहं न पश्यामि चञ्चलत्वात् स्थितिं स्थिराम् ॥",
+      "transliteration": "arjuna uvāca\nyo 'yaṃ yogas tvayā proktaḥ sāmyena madhusūdana\netasyāhaṃ na paśyāmi cañcalatvāt sthitiṃ sthirām",
+      "translation": "Arjuna said: This yoga of equality that You have described, O Madhusudana — I do not see its steady foundation, because of the restlessness of the mind.",
+      "audio": "/assets/audio/ch06/verse_06_33.mp3",
+      "word_breakdown": [
+        {
+          "word": "साम्येन",
+          "transliteration": "sāmyena",
+          "root": "sāmya (equality, sameness, evenness)",
+          "grammatical_form": "Neuter noun, instrumental, singular",
+          "meaning": "by equality / through equanimity — the yoga characterized by the equal vision just described"
+        },
+        {
+          "word": "मधुसूदन",
+          "transliteration": "madhusūdana",
+          "root": "madhu (the demon Madhu) + √sūd (to destroy, to slay)",
+          "grammatical_form": "Masculine noun, vocative, singular (epithet of Krishna)",
+          "meaning": "O Slayer of the demon Madhu — Arjuna invokes Krishna's power to destroy obstacles, hinting that the mind's restlessness is his own demon"
+        },
+        {
+          "word": "चञ्चलत्वात्",
+          "transliteration": "cañcalatvāt",
+          "root": "cañcala (restless, wavering, fickle) + tva (abstract suffix)",
+          "grammatical_form": "Neuter abstract noun, ablative, singular",
+          "meaning": "because of restlessness — ablative of cause; the mind's oscillating, unsteady nature is the very obstacle"
+        },
+        {
+          "word": "स्थितिम्",
+          "transliteration": "sthitiṃ",
+          "root": "√sthā (to stand, to remain, to be stable)",
+          "grammatical_form": "Feminine noun, accusative, singular",
+          "meaning": "foundation / stability / steadiness — a firm resting place; the inability to find such a place is Arjuna's complaint"
+        },
+        {
+          "word": "स्थिराम्",
+          "transliteration": "sthirām",
+          "root": "sthira (firm, steady, stable, fixed)",
+          "grammatical_form": "Adjective, feminine, accusative, singular",
+          "meaning": "steady / firm / stable — qualifies sthitiṃ; he cannot find even a stable stability, as it were"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Arjuna speaks here for every one of us, and that is precisely why these verses are so precious. He has just heard the most sublime teaching — the yogi who sees oneness, who feels others' joy and pain — and his immediate, honest response is: 'I cannot do this. My mind will not sit still.' What I love is the name he uses: Madhusudana, Slayer of the demon Madhu. Unconsciously, he is calling on Krishna to slay the demon of his own restless mind. God always answers such prayers. And notice — Arjuna does not pretend. He does not say 'Yes, I understand.' He says 'I do not see how this can be steadily established.' This honesty before the Guru is itself a great spiritual act.",
+        "sarvapriyananda": "Arjuna's objection is the objection of every sincere student. The yoga of sāmya — equal vision — sounds beautiful in theory. But the mind, the instrument through which this vision must arise, is itself cañcala — restless, perpetually oscillating between attraction and repulsion. Without a steady mind, there can be no steady vision of equality. This is a real philosophical problem, not mere weakness. The Kaṭha Upaniṣad compares the Self to the passenger in the chariot, the buddhi to the charioteer, and the mind to the reins — if the reins are slack, the horses run wild. Arjuna is honestly reporting: his reins are slack. This confession sets up Krishna's practical and compassionate answer in the following verses.",
+        "yogananda": "Arjuna gives voice to the universal human predicament. The divine vision of oneness is perceived in glimpses during meditation — moments of breathtaking clarity when the boundaries of self dissolve — but then the mind reasserts itself and the vision vanishes. Cañcalatvāt — because of restlessness — this is the root affliction of the unawakened nervous system. Yoganandaji taught that this restlessness is caused by the outward-flowing life force (prāṇa) dispersed through the senses. Until prāṇa is interiorized through kriyā practice, the mind cannot maintain steady samādhi. Arjuna's complaint is not defeatism; it is the essential question that brings out Krishna's answer about abhyāsa and vairāgya — the twin pillars of yogic training.",
+        "goyandka": "Arjuna's question is of universal importance. Having understood the ideal yoga of equal vision, he frankly confesses his inability to achieve it due to the mind's inherent instability. The use of 'cañcalatvāt' — ablative of cause — is significant: it identifies the precise obstacle. The mind is not merely occasionally disturbed; its very nature is oscillation, as its root cañc (to move to and fro) indicates. Arjuna is asking not out of laziness but out of genuine inquiry: given this nature of the mind, how can the 'sthiti sthirā' — the steady resting place — ever be achieved? This question compels Krishna to give his most practical and accessible teaching in verses 35 and 36."
+      }
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अर्जुन उवाच ।\nचञ्चलं हि मनः कृष्ण प्रमाथि बलवद् दृढम् ।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ॥",
+      "transliteration": "arjuna uvāca\ncañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham\ntasyāhaṃ nigrahaṃ manye vāyor iva su-duṣkaram",
+      "translation": "Arjuna said: The mind is indeed restless, O Krishna, turbulent, powerful, and obstinate. I think restraining it is as difficult as restraining the wind.",
+      "audio": "/assets/audio/ch06/verse_06_34.mp3",
+      "word_breakdown": [
+        {
+          "word": "प्रमाथि",
+          "transliteration": "pramāthi",
+          "root": "pra + √math (to churn, to agitate, to torment)",
+          "grammatical_form": "Adjective, neuter, nominative, singular",
+          "meaning": "turbulent / tormenting — one that churns and agitates; the mind actively disturbs and churns all one's good intentions"
+        },
+        {
+          "word": "बलवत्",
+          "transliteration": "balavat",
+          "root": "bala (strength, power, force)",
+          "grammatical_form": "Adjective, neuter, nominative, singular",
+          "meaning": "powerful / forceful — possessed of great strength; the mind's pull toward objects is not a weak inclination but a powerful current"
+        },
+        {
+          "word": "दृढम्",
+          "transliteration": "dṛḍham",
+          "root": "√dṛh (to be firm, to be fixed, to be obstinate)",
+          "grammatical_form": "Adjective, neuter, nominative, singular",
+          "meaning": "obstinate / rigid / stubborn — the mind resists efforts to discipline it with a stiff tenacity"
+        },
+        {
+          "word": "निग्रहम्",
+          "transliteration": "nigrahaṃ",
+          "root": "ni + √grah (to hold, to restrain, to seize)",
+          "grammatical_form": "Masculine noun, accusative, singular",
+          "meaning": "restraint / control — the act of holding the mind back from its outward rush; the object of Arjuna's attempt"
+        },
+        {
+          "word": "सुदुष्करम्",
+          "transliteration": "su-duṣkaram",
+          "root": "su (intensifier: very) + duṣkara (difficult to do, duṣ + √kṛ)",
+          "grammatical_form": "Adjective, neuter, accusative, singular",
+          "meaning": "exceedingly difficult — not merely hard but supremely difficult, as if impossible by one's own unaided effort"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Four words Arjuna uses — cañcalaṃ, pramāthi, balavat, dṛḍham — and each one is true. Have you tried to sit quietly for even five minutes? The mind jumps to tomorrow's worries, yesterday's insults, tonight's dinner. And then Arjuna gives the most beautiful comparison: like trying to hold the wind. You cannot grab wind in your fist; it slips through. So does the mind — the harder you squeeze, the more it escapes. But Baba used to smile at this verse and say: 'The one who knows the mind is like the wind is already half a yogi. Most people don't even know they have a mind running wild.' This recognition is not defeat — it is the beginning of real sādhana.",
+        "sarvapriyananda": "Arjuna adds four devastating adjectives: cañcalaṃ — restless; pramāthi — turbulent, it churns everything it touches; balavat — powerful, its pull toward sense objects has enormous force; and dṛḍham — obstinate, it does not easily yield to discipline. The vāyu comparison is philosophically apt. In the subtle body, the mind and prāṇa are intimately connected — where prāṇa goes, the mind follows, and vice versa. Controlling the mind is indeed like catching the wind, because both the mind and vāyu are subtle, pervasive, and formless. The Haṭhayoga Pradīpikā says: 'When prāṇa moves, chitta moves; when prāṇa is still, chitta is still.' This gives us the key to what Krishna will prescribe.",
+        "yogananda": "Pramāthi — this word is extraordinary. It means the mind not only wanders but actively torments, churns, agitates. Anyone who has sat in meditation and watched the mind drag up ancient memories, project future fears, construct elaborate fantasies — knows this churning firsthand. Balavat dṛḍham — powerful and stubborn. Yoganandaji used to say the mind is like an untrained monkey stung by a scorpion: jumping, screeching, wildly erratic. The wind comparison points to the need for a subtle technology of control — you cannot wrestle with the wind; you must work with it. In kriyā yoga, the prāṇa-mind complex is redirected through the spine's subtle channels rather than forcibly suppressed, and this is the only truly effective method.",
+        "goyandka": "In this verse, Arjuna elaborates his concern from verse 33 by piling up four powerful epithets for the mind. Together they form a complete description of the mind's nature as an obstacle to yoga. Cañcalaṃ: its essential character is oscillation. Pramāthi: it actively disrupts even the wisdom one has accumulated. Balavat: it overpowers the discriminative intellect. Dṛḍham: its habits are deeply entrenched and resist reform. The wind metaphor is well-chosen; just as one cannot grasp and hold wind in one's hand, one cannot forcibly suppress the mind through brute willpower alone. This prepares the ground for Krishna's answer, which speaks of gradual practice and dispassion as the appropriate methods — working with the mind's nature rather than against it."
+      }
+    },
+    {
+      "verse": 35,
+      "sanskrit": "श्रीभगवानुवाच ।\nअसंशयं महाबाहो मनो दुर्निग्रहं चलम् ।\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ॥",
+      "transliteration": "śrī-bhagavān uvāca\nasaṃśayaṃ mahā-bāho mano durnigrahaṃ calam\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate",
+      "translation": "The Blessed Lord said: Without doubt, O mighty-armed, the mind is difficult to restrain and restless — but by practice and by dispassion it is restrained, O Kaunteya.",
+      "audio": "/assets/audio/ch06/verse_06_35.mp3",
+      "word_breakdown": [
+        {
+          "word": "असंशयम्",
+          "transliteration": "asaṃśayaṃ",
+          "root": "a (not) + saṃśaya (doubt)",
+          "grammatical_form": "Neuter noun used adverbially, accusative, singular",
+          "meaning": "without doubt / undoubtedly — Krishna begins by fully validating Arjuna's observation; this is not weakness but truth"
+        },
+        {
+          "word": "दुर्निग्रहम्",
+          "transliteration": "durnigrahaṃ",
+          "root": "dur (with difficulty) + ni + √grah (to hold, to restrain)",
+          "grammatical_form": "Adjective, neuter, nominative, singular",
+          "meaning": "difficult to restrain / hard to control — Krishna concedes the mind's stubbornness while implying it is not impossible"
+        },
+        {
+          "word": "अभ्यासेन",
+          "transliteration": "abhyāsena",
+          "root": "abhi + √as (to throw, to practice) — repetitive application",
+          "grammatical_form": "Masculine noun, instrumental, singular",
+          "meaning": "by practice / through repeated effort — the instrumental case indicates the method; consistent, sustained repetition of the chosen discipline"
+        },
+        {
+          "word": "वैराग्येण",
+          "transliteration": "vairāgyeṇa",
+          "root": "vi + rāga (passion, color, attachment) — freedom from coloring",
+          "grammatical_form": "Neuter noun, instrumental, singular",
+          "meaning": "by dispassion / through non-attachment — the progressive loosening of the mind's fascination with sense objects"
+        },
+        {
+          "word": "गृह्यते",
+          "transliteration": "gṛhyate",
+          "root": "√grah (to grasp, to hold, to restrain)",
+          "grammatical_form": "Present tense, passive voice, 3rd person singular",
+          "meaning": "is restrained / is held — passive construction: through these means, the mind becomes controlled; the process is gradual and sure"
+        }
+      ],
+      "commentary": {
+        "dadaji": "See how Krishna begins: 'Asaṃśayam' — without doubt. He does not scold Arjuna. He does not say 'You are weak, you should be stronger.' He says: Yes, you are right, the mind is indeed very hard to control. This is the compassion of a true teacher. Then comes the answer — just two words: abhyāsa and vairāgya. Practice and dispassion. Not miracles, not special powers — just daily, patient, loving practice. Like learning to ride a bicycle. You fall, you get back on. And vairāgya — not hatred of the world, but simply not clinging to it. When Baba explained vairāgya he said: 'Enjoy the rose, but do not try to own it.' That is enough.",
+        "sarvapriyananda": "Krishna's reply is a masterpiece of pedagogical compassion and philosophical precision. First, He validates: asaṃśayam — without doubt, the mind is durnigraham, hard to restrain. There is no shame in finding this difficult. Then He gives the two pillars of mental mastery: abhyāsa and vairāgya. These same two are prescribed at the very opening of Patañjali's practical teaching in the Yoga Sūtras (1.12): 'abhyāsa-vairāgyābhyāṃ tan-nirodhaḥ — by practice and dispassion comes the cessation of mental fluctuations.' Abhyāsa means the consistent, repeated turning of the mind back toward the chosen object of meditation. Vairāgya means the steady reduction of the mind's interest in sensory objects. Together they work: abhyāsa gives the mind something wholesome to cling to; vairāgya loosens its grip on the unwholesome.",
+        "yogananda": "Krishna's two-word prescription — abhyāsa and vairāgya — encapsulates the entire science of raja yoga. Abhyāsa is the positive pole: the daily, devoted practice of meditation, of returning the mind to its source. Vairāgya is the negative pole: the withdrawal of interest from the flickering attractions of the senses. These two create the tension within which the mind is gradually mastered — like two oars rowing a boat in tandem. Yoganandaji emphasized that vairāgya is not world-hatred but world-transcendence. The vairāgī still lives in the world but is no longer enslaved by it. And abhyāsa, in the kriyā context, means the specific technique that withdraws the life force from the senses and focuses it at the spiritual eye — the most effective of all practices for mental mastery.",
+        "goyandka": "This verse is foundational for all sincere spiritual aspirants. Krishna first confirms the difficulty Arjuna has described — this is not false encouragement but honest acknowledgment. Then He gives the two universal means: abhyāsa (practice) and vairāgya (dispassion). Abhyāsa is defined in the Yoga Sūtras as the effort toward steadiness, pursued long, without interruption, and with earnestness. Vairāgya is the mastery over craving — the progressive reduction of the mind's thirst for sensory objects. Together these two are sufficient. No special birth, no extraordinary grace, no esoteric technique is required beyond these. The word 'gṛhyate' — is restrained — in the passive voice is significant: through these means, the restraint happens; it is not forced but naturally achieved."
+      }
+    },
+    {
+      "verse": 36,
+      "sanskrit": "श्रीभगवानुवाच ।\nअसंयतात्मना योगो दुष्प्राप इति मे मतिः ।\nवश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nasaṃyatātmanā yogo duṣprāpa iti me matiḥ\nvaśyātmanā tu yatatā śakyo 'vāptum upāyataḥ",
+      "translation": "The Blessed Lord said: Yoga is difficult to attain by one whose self is uncontrolled — this is My opinion. But by the self-controlled one who strives through proper means, it can be attained.",
+      "audio": "/assets/audio/ch06/verse_06_36.mp3",
+      "word_breakdown": [
+        {
+          "word": "असंयतात्मना",
+          "transliteration": "asaṃyatātmanā",
+          "root": "a (not) + saṃyata (controlled, restrained, from sam + √yam) + ātman (self)",
+          "grammatical_form": "Compound noun, masculine, instrumental, singular (bahuvrīhi)",
+          "meaning": "by one whose self is uncontrolled — the person who has not yet brought the senses and mind under discipline"
+        },
+        {
+          "word": "दुष्प्रापः",
+          "transliteration": "duṣprāpaḥ",
+          "root": "duṣ (with difficulty) + pra + √āp (to reach, to attain)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "difficult to attain — not impossible, but requiring serious effort; duṣ indicates difficulty, not impossibility"
+        },
+        {
+          "word": "वश्यात्मना",
+          "transliteration": "vaśyātmanā",
+          "root": "vaśya (controllable, subdued, from √vaś) + ātman (self)",
+          "grammatical_form": "Compound noun, masculine, instrumental, singular (bahuvrīhi)",
+          "meaning": "by one whose self is controlled / subdued — the counterpart to asaṃyatātmanā; the disciplined practitioner"
+        },
+        {
+          "word": "यतता",
+          "transliteration": "yatatā",
+          "root": "√yat (to strive, to endeavor, to make effort)",
+          "grammatical_form": "Present participle, masculine, instrumental, singular",
+          "meaning": "by one who strives / by the earnest seeker — effort is indispensable; self-control alone without striving is insufficient"
+        },
+        {
+          "word": "उपायतः",
+          "transliteration": "upāyataḥ",
+          "root": "upāya (means, method, approach) + tas (ablative suffix)",
+          "grammatical_form": "Ablative of manner (adverbial)",
+          "meaning": "through proper means / by right method — yoga is not attained by any random effort but by the correct methods described"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Krishna is both encouraging and honest in this verse. He does not say yoga is impossible for the uncontrolled person — He says it is duṣprāpa, difficult to reach. There is hope in that word. And then see the beautiful construction: 'vaśyātmanā tu yatatā śakyo 'vāptum upāyataḥ' — by the one with a controlled self who strives through right means, it can be attained. Two conditions: self-control and right striving. Upāyataḥ — through proper means. This means the Guru's guidance matters; one must learn the correct method. Random tapasya or self-invented practices may not serve. Seek a teacher, follow the path, and practice consistently — yoga will come. Krishna guarantees it.",
+        "sarvapriyananda": "This verse completes the thought of verse 35. Krishna now frames the matter as a clear logical contrast. The uncontrolled self — asaṃyatātmā — will find yoga duṣprāpa, very hard to reach. Here 'self' (ātman) in this compound refers not to the supreme Self but to the jīvātman, the individual, with its instruments of mind and senses. The self-controlled person — vaśyātmā — who additionally yatata (strives) and uses upāya (right means), will find it śakya (possible, achievable). Note the particle 'tu' — but — which turns the verse from potentially discouraging to deeply encouraging. Self-control is developed through abhyāsa and vairāgya just described; right means includes all the preliminary disciplines of the Gita.",
+        "yogananda": "Asaṃyatātmanā — by the uncontrolled self — this refers to one who allows prāṇa to flow outward freely through the sense doors. Such a person sits for meditation but the mind follows the prāṇa outward and there is no real interiorization. Vaśyātmanā — by the controlled self — this is the practitioner who has learned to withdraw prāṇa at will, who can close the sense doors not by brute suppression but by the magnetic attraction of inner bliss. Upāyataḥ — through proper means — points to the scientific technique. Yoganandaji was emphatic: any sincere seeker who applies the right technique consistently will attain yoga. It is not a lottery; it is a science with guaranteed results for the sincere practitioner.",
+        "goyandka": "The word 'upāyataḥ' — through proper means — is especially significant in this verse. It indicates that yoga is not attained through mere desire, nor through haphazard effort, but through the intelligent application of prescribed methods. These means include yama-niyama (ethical discipline), āsana, prāṇāyāma, pratyāhāra, and the dhāraṇā-dhyāna-samādhi sequence described throughout this chapter. Me matiḥ — this is My view — Krishna takes personal responsibility for this statement, lending it the weight of divine authority. For those who worry whether yoga is achievable at all, this verse is the Lord's direct assurance: with self-mastery and right effort, it is certainly attainable."
+      }
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अर्जुन उवाच ।\nअयतिः श्रद्धयोपेतो योगाच्चलितमानसः ।\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ॥",
+      "transliteration": "arjuna uvāca\nayatiḥ śraddhayopeto yogāc calita-mānasaḥ\naprāpya yoga-saṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati",
+      "translation": "Arjuna said: One who has faith but does not strive enough, whose mind wanders away from yoga and who does not attain perfection in yoga — what end does he reach, O Krishna?",
+      "audio": "/assets/audio/ch06/verse_06_37.mp3",
+      "word_breakdown": [
+        {
+          "word": "अयतिः",
+          "transliteration": "ayatiḥ",
+          "root": "a (not) + yati (one who strives, from √yat)",
+          "grammatical_form": "Masculine noun, nominative, singular",
+          "meaning": "one who does not strive enough / the non-striver — not a faithless person, but one whose effort falls short of completion"
+        },
+        {
+          "word": "श्रद्धयोपेतः",
+          "transliteration": "śraddhayopetaḥ",
+          "root": "śraddhā (faith, trust) + upa + √i (to go, to be endowed with)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "endowed with faith — genuinely believing in yoga and in God; the problem is not lack of faith but lack of sustained effort"
+        },
+        {
+          "word": "चलितमानसः",
+          "transliteration": "calita-mānasaḥ",
+          "root": "calita (moved, wandered, from √cal) + mānasa (mind)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular (bahuvrīhi)",
+          "meaning": "one whose mind has wandered from yoga — who started the path but was deflected by distractions or circumstances"
+        },
+        {
+          "word": "योगसंसिद्धिम्",
+          "transliteration": "yoga-saṃsiddhiṃ",
+          "root": "yoga + sam + √sidh (to succeed, to be perfected)",
+          "grammatical_form": "Feminine compound noun, accusative, singular",
+          "meaning": "perfection in yoga / the fullness of yogic accomplishment — the complete realization; not progress but the final fruit"
+        },
+        {
+          "word": "गतिम्",
+          "transliteration": "gatiṃ",
+          "root": "√gam (to go, to move) — the path one takes",
+          "grammatical_form": "Feminine noun, accusative, singular",
+          "meaning": "destination / end / fate — the path or state attained after death; the ultimate trajectory of the soul"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is the question that makes every ordinary person's heart quicken — because most of us are exactly this: we have faith, we want God, we even practice for some time — and then life comes. Illness, family duties, laziness, doubt. The practice slips. Are we then condemned? Arjuna is asking this on behalf of all of us imperfect seekers, and it is one of the most loving questions in the entire Gita. Notice — this person has śraddhā, genuine faith. He is not a hypocrite or an unbeliever. He simply did not complete the journey this time. Krishna's answer in verse 40 will bring tears of relief to every such person.",
+        "sarvapriyananda": "This is one of the most poignant and practically important questions of the Gita. Arjuna describes a specific type of sādhaka: śraddhayopetaḥ — possessed of genuine faith, not a doubter or a worldly person; ayatiḥ — yet one who did not persevere sufficiently; calita-mānasaḥ — whose mind wandered from the path. Such a person, aprāpya yoga-saṃsiddhim — not having attained the fullness of yoga — what becomes of them? This is the anxiety of every sincere but struggling practitioner. The Vedantic question behind it is: does spiritual effort have cumulative, trans-life value? Krishna will answer with an unequivocal and deeply comforting yes.",
+        "yogananda": "This question could only come from Arjuna's compassionate heart. He is not asking for himself alone but for the countless sincere souls who begin the spiritual journey, make genuine progress, and then are cut short — by an untimely death, by an overwhelming temptation, by the sheer force of accumulated karma. Śraddhayopetaḥ — faith is present; yoga-saṃsiddhiṃ aprāpya — but perfection was not reached. Is all that effort wasted? Yoganandaji used to say this is the most reassuring passage in all scripture for the struggling devotee, because Krishna's answer makes it utterly clear that no sincere spiritual effort is ever lost or wasted. The soul carries its attainments from life to life.",
+        "goyandka": "Arjuna presents a case of great practical importance: the sādhaka who possesses the most important qualification — śraddhā, faith — but who falls short due to insufficient effort or due to the mind's wandering. He asks: kāṃ gatiṃ gacchati — what destination does such a person reach? The question implies a fear that such a person, having abandoned worldly pursuit without completing the spiritual path, might be 'lost' — falling between two worlds. This fear motivates the question. The pair of verses 37-38 together present a complete portrait of this fallen yogi's predicament. Krishna's comprehensive answer will be given in verses 40-45 and will fully resolve the anxiety."
+      }
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अर्जुन उवाच ।\nकच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति ।\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ॥",
+      "transliteration": "arjuna uvāca\nkaccin nobhaya-vibhraṣṭaś chinnābhram iva naśyati\napratiṣṭho mahā-bāho vimūḍho brahmaṇaḥ pathi",
+      "translation": "Arjuna said: Fallen from both paths, O mighty-armed, does he not perish like a torn cloud — without any support, deluded on the path to Brahman?",
+      "audio": "/assets/audio/ch06/verse_06_38.mp3",
+      "word_breakdown": [
+        {
+          "word": "उभयविभ्रष्टः",
+          "transliteration": "ubhaya-vibhraṣṭaḥ",
+          "root": "ubhaya (both) + vi + √bhraṃś (to fall, to slip, to be dislodged)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "fallen from both — from worldly life (abandoned for yoga) and from yoga (not yet perfected); stranded in between"
+        },
+        {
+          "word": "छिन्नाभ्रम्",
+          "transliteration": "chinnābhram",
+          "root": "chinna (cut, torn, from √chid) + abhra (cloud)",
+          "grammatical_form": "Compound noun, neuter, nominative, singular",
+          "meaning": "a torn / severed cloud — a fragment broken off from the main cloud-mass, with no substance of its own; a vivid image of purposeless drifting"
+        },
+        {
+          "word": "अप्रतिष्ठः",
+          "transliteration": "apratiṣṭhaḥ",
+          "root": "a (not) + prati + √sthā (to stand) — lacking a firm base",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "without support / without a firm footing — having no stable ground in either worldly achievement or spiritual realization"
+        },
+        {
+          "word": "विमूढः",
+          "transliteration": "vimūḍhaḥ",
+          "root": "vi (intensifier) + √muh (to be confused, to be deluded)",
+          "grammatical_form": "Past passive participle, masculine, nominative, singular",
+          "meaning": "utterly confused / thoroughly deluded — disoriented on the path, unable to find direction in the spiritual journey"
+        },
+        {
+          "word": "ब्रह्मणः पथि",
+          "transliteration": "brahmaṇaḥ pathi",
+          "root": "brahman (Absolute Reality) + patha (path, way)",
+          "grammatical_form": "Genitive + locative, masculine, singular",
+          "meaning": "on the path to Brahman — the great spiritual highway leading to liberation; the path the seeker has set out upon but not yet traversed"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The image of the torn cloud is so poignant. A small cloud that breaks off from the main cloud has no weight to fall as rain, no size to linger — it simply evaporates, scattered by the wind, becoming nothing. Arjuna is asking: is the fallen yogi like this? Gone from the world, not yet arrived at God, adrift — does he simply dissolve? And 'apratiṣṭho' — without any footing. Nowhere to stand. This is the fear of the spiritual seeker who has left behind the familiar securities of worldly life. But notice — Arjuna already seems to sense the answer will be reassuring, because he phrases it as a question: 'does he not perish?' He is hoping Krishna will say 'No.' And Krishna will.",
+        "sarvapriyananda": "The chinnābhram — torn cloud — simile is philosophically rich. A cloud that is severed from its formation has no coherence; it disperses and vanishes. Arjuna fears this is the fate of the yogi who has cut ties with worldly dharma to pursue liberation, but then fails to reach liberation. Ubhaya-vibhraṣṭaḥ — fallen from both worlds. From the worldly perspective he has been a failure; from the spiritual perspective he has not succeeded. Apratiṣṭhaḥ — no foothold anywhere. Vimūḍhaḥ — deluded. This is a complete picture of spiritual desolation. The question is not merely academic; every sincere sādhaka fears this outcome. It is the fundamental question about the security of the spiritual path.",
+        "yogananda": "The chinnābhram image is one of the most evocative in the Gita. A shred of cloud torn from the main body has no capacity to produce rain — it simply fades. Arjuna fears the spiritually incomplete soul shares this fate: cut off from materialistic fulfillment, cut off from divine realization — lost in the in-between. Vimūḍho brahmaṇaḥ pathi — confused on the path to Brahman. Yoganandaji assured us that no soul is ever truly lost in this way. The very fact that a soul has turned toward God, even imperfectly, leaves an indelible mark on the causal body that draws it back toward the divine in future incarnations. The torn cloud must eventually rejoin the ocean in rain or mist — and so must every soul.",
+        "goyandka": "This verse presents the worst-case scenario that Arjuna can envision. Ubhaya-vibhraṣṭa — fallen from both. He has given up worldly activities and enjoyments for yoga; he has then also given up or been unable to complete yoga. He stands in a no-man's land. The chinnābhram simile captures this precisely: a shred of cloud, separated from its mass, has no power to become rain, no endurance to remain, and simply vanishes. Apratiṣṭhaḥ — without any stable support. Vimūḍhaḥ — thoroughly confused, having lost the guidance of both worldly wisdom and spiritual discrimination. This verse completes Arjuna's anguished question, and the two together — 37 and 38 — call forth one of the most reassuring pronouncements in the entire Gita."
+      }
+    },
+    {
+      "verse": 39,
+      "sanskrit": "अर्जुन उवाच ।\nएतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः ।\nत्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते ॥",
+      "transliteration": "arjuna uvāca\netan me saṃśayaṃ kṛṣṇa chettum arhasy aśeṣataḥ\ntvad-anyaḥ saṃśayasyāsya chettā na hy upapadyate",
+      "translation": "Arjuna said: O Krishna, please resolve this doubt of mine completely — for no one other than You is capable of dispelling this doubt.",
+      "audio": "/assets/audio/ch06/verse_06_39.mp3",
+      "word_breakdown": [
+        {
+          "word": "संशयम्",
+          "transliteration": "saṃśayaṃ",
+          "root": "sam + √śi (to lie, to rest) — that which lies across both sides; uncertainty",
+          "grammatical_form": "Masculine noun, accusative, singular",
+          "meaning": "doubt / uncertainty — specifically a doubt that agitates, that pulls in two directions at once and gives no peace"
+        },
+        {
+          "word": "छेत्तुम्",
+          "transliteration": "chettum",
+          "root": "√chid (to cut, to cleave, to sever)",
+          "grammatical_form": "Infinitive",
+          "meaning": "to cut / to sever — doubt is like a knot (saṃśaya also means a knot); it must be cut, not untied gradually; the image is of decisive resolution"
+        },
+        {
+          "word": "अशेषतः",
+          "transliteration": "aśeṣataḥ",
+          "root": "a (not) + śeṣa (remainder, residue) + tas (adverbial suffix)",
+          "grammatical_form": "Adverb (ablative form)",
+          "meaning": "completely / without any remainder — leaving nothing unresolved; Arjuna does not want a partial answer that might leave secondary doubts"
+        },
+        {
+          "word": "त्वदन्यः",
+          "transliteration": "tvad-anyaḥ",
+          "root": "tvad (than you) + anya (other)",
+          "grammatical_form": "Compound pronoun/adjective, masculine, nominative, singular",
+          "meaning": "other than You — excluding Krishna from those unable to answer; an implicit affirmation of Krishna's unique omniscience and grace"
+        },
+        {
+          "word": "उपद्यते",
+          "transliteration": "upapadyate",
+          "root": "upa + √pad (to fall, to come about, to be possible)",
+          "grammatical_form": "Present tense, passive, 3rd person singular",
+          "meaning": "is possible / is appropriate / comes about — literally: no other cutter of this doubt comes about or exists"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This one verse is a whole teaching on the Guru-disciple relationship. Arjuna says: 'Tvad-anyaḥ saṃśayasyāsya chettā na hy upapadyate' — no one but You can cut this doubt. He is not saying no one else is smart enough. He is saying: this doubt is in my deepest heart, and only the one who lives in my deepest heart can answer it. Only the Guru who is also the God within can answer the questions that truly matter. And 'aśeṣataḥ' — completely, leaving no residue. This is the right way to come before the Lord with one's troubles: completely, honestly, trusting that He alone can resolve what no amount of human cleverness can. This verse is itself a prayer.",
+        "sarvapriyananda": "This verse marks the emotional culmination of Arjuna's inquiry. He has asked his question in two parts — verses 37 and 38 — and now he explicitly surrenders the resolution to Krishna alone. Chettum — to cut. The Muṇḍaka Upaniṣad uses the same image: 'Bhidyate hṛdaya-granthiḥ — the knot of the heart is cut asunder' upon Self-knowledge. A doubt that is merely argued away on the intellectual surface may return; but a doubt cut at the root by the direct insight of a realized teacher is gone for good. 'Tvad-anyaḥ... na upapadyate' — no one other than You. This is the recognition of the Guru's indispensability — not because others lack intellect, but because only the one who has realized the truth can transmit the certainty that dissolves doubt.",
+        "yogananda": "In this verse, Arjuna makes the complete surrender of the questioner to the teacher. Note that he has not asked abstractly — he has asked from the ache of personal concern: what happens to people like me, who have faith but struggle? And now he says: only You can cut this. Not merely answer it intellectually, but cut it — with the sword of divine wisdom that leaves no wound of remaining uncertainty. Yoganandaji often said that the highest form of spiritual inquiry is this: not the clever intellectual question designed to impress, but the burning personal question that keeps one awake at night, brought in full vulnerability before the one who knows. Arjuna's surrender here is as beautiful as his question.",
+        "goyandka": "Arjuna's appeal in this verse has three noteworthy features. First, 'chettum arhasi' — 'You are fit to cut' — this is not mere flattery but acknowledgment of Krishna's authority as Brahman Itself. Second, 'aśeṣataḥ' — completely — shows the thoroughness required; a partial answer would only generate further doubt. Third, 'tvad-anyaḥ... na upapadyate' — no one other than You — this exclusive appeal reveals that Arjuna understands the unique status of the Sadguru: only one who has transcended death and rebirth can speak with authority about the fate of the soul after death. The question of what happens to the incomplete yogi is a question about the next world; only the one who knows all worlds can answer it."
+      }
+    },
+    {
+      "verse": 40,
+      "sanskrit": "श्रीभगवानुवाच ।\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।\nन हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति ॥",
+      "transliteration": "śrī-bhagavān uvāca\npārtha naiveha nāmutra vināśas tasya vidyate\nna hi kalyāṇa-kṛt kaścid durgatiṃ tāta gacchati",
+      "translation": "The Blessed Lord said: O Partha, there is no destruction for him, neither in this world nor in the next — for no one who does good, O beloved, ever comes to grief.",
+      "audio": "/assets/audio/ch06/verse_06_40.mp3",
+      "word_breakdown": [
+        {
+          "word": "विनाशः",
+          "transliteration": "vināśaḥ",
+          "root": "vi + √naś (to perish, to be lost, to be destroyed)",
+          "grammatical_form": "Masculine noun, nominative, singular",
+          "meaning": "destruction / perdition / utter loss — the feared fate of the fallen yogi; Krishna's answer is its direct negation"
+        },
+        {
+          "word": "कल्याणकृत्",
+          "transliteration": "kalyāṇa-kṛt",
+          "root": "kalyāṇa (auspicious, good, virtuous, beneficial) + √kṛ (to do, to make)",
+          "grammatical_form": "Compound noun/adjective, masculine, nominative, singular",
+          "meaning": "one who does good / doer of the auspicious — includes not just ethics but all sincere spiritual effort; any turning toward the higher is 'kalyāṇa'"
+        },
+        {
+          "word": "दुर्गतिम्",
+          "transliteration": "durgatiṃ",
+          "root": "dur (bad, evil, difficult) + gati (destination, movement, from √gam)",
+          "grammatical_form": "Feminine noun, accusative, singular",
+          "meaning": "evil destiny / miserable end / bad fate — the opposite of what is promised; the fallen yogi will definitively NOT reach this"
+        },
+        {
+          "word": "तात",
+          "transliteration": "tāta",
+          "root": "tāta (affectionate address: dear child, dear one)",
+          "grammatical_form": "Masculine noun, vocative, singular (term of endearment)",
+          "meaning": "O beloved / O dear one / O my child — one of the most tender forms of address in Sanskrit; Krishna's deep love for Arjuna pours through this single word"
+        },
+        {
+          "word": "नैव",
+          "transliteration": "naiva",
+          "root": "na (not) + eva (indeed, certainly, emphatic particle)",
+          "grammatical_form": "Negative emphatic particle",
+          "meaning": "certainly not / absolutely not / not at all — the emphatic eva removes all ambiguity; destruction is unequivocally ruled out"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Tāta — this word. This is the whole Gita in one word. Tāta means 'my dear child.' The Lord of the universe calls Arjuna — calls each of us — 'my dear child.' And He says: no destruction. None. Neither here nor there. And then the universal law that should be written on every heart: 'na hi kalyāṇa-kṛt kaścid durgatiṃ gacchati' — no one who does good ever comes to grief. Not some people. Not most people. No one. Ever. If you have turned toward God — even once, even imperfectly, even with a wandering mind — that turning is kalyāṇa. It is written in the ledger of eternity. No amount of falling can erase it. This is why we say Bhagwan is karuṇāmaya — full of compassion beyond all measure.",
+        "sarvapriyananda": "This is one of the most liberating verses in all of scripture. Krishna's answer is an absolute, unequivocal assurance: na vināśaḥ vidyate — destruction simply does not exist for such a person. Not in this life, not in the hereafter. The logic is dharmic: spiritual progress is not like money that can be lost. It is inscribed in the subtle and causal bodies of the jīva and persists across births. 'Kalyāṇa-kṛt' — one who does good, who pursues the auspicious, who orients toward the Divine — such a one cannot ultimately fail. The word 'tāta' — dear child — is deeply moving here. It is not the tone of a theological pronouncement but of a parent comforting an anxious child. The Absolute speaks as Love.",
+        "yogananda": "Na hi kalyāṇa-kṛt kaścid durgatiṃ tāta gacchati — not one single doer of good, ever, comes to an evil end. This is the cosmic law of spiritual gravity: the soul that has turned toward God is drawn by that turning forever forward and upward. It may take many lives, many rebirths in progressive circumstances — as described in the following verses — but the direction is set. Yoganandaji taught that this is precisely what resurrection means in the deepest sense: the soul that has been touched by divine grace cannot truly die. It rises again and again, in body after body, in life after life, until the journey is complete. Tāta — beloved — the Lord uses the most intimate word to deliver the most universal promise.",
+        "goyandka": "This verse constitutes one of the most definitive assurances in the entire Bhagavad Gītā. Krishna's answer is direct and absolute. The word 'naiva' — certainly not — leaves no room for exception or qualification. The fear expressed in verses 37-38, that the failed yogi might be utterly lost like a torn cloud, is completely dispelled. The reason given is the fundamental spiritual law encapsulated in 'na kalyāṇa-kṛt kaścid durgatiṃ gacchati': no doer of good ever reaches a bad end. Spiritual effort, once made with faith, cannot be negated. It accumulates across lives. The word 'tāta' — a term of the deepest affection — reveals that this is not a cold legal guarantee but a promise from the Lord to His own child. The following verses will explain the positive destiny in detail."
+      }
+    }
+  ]
+}

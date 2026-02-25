@@ -1,0 +1,505 @@
+{
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 11,
+      "sanskrit": "श्रीभगवानुवाच ।\nदेवान्भावयतानेन ते देवा भावयन्तु वः ।\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥",
+      "transliteration": "śrī-bhagavān uvāca\ndevān bhāvayatānena te devā bhāvayantu vaḥ\nparasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha",
+      "translation": "The Blessed Lord said: By this (yajna) cherish and nourish the gods, and may those gods cherish and nourish you; thus nourishing one another, you shall attain the highest good.",
+      "audio": "/assets/audio/ch03/verse_03_11.mp3",
+      "word_breakdown": [
+        {
+          "word": "देवान्",
+          "transliteration": "devān",
+          "root": "√div (to shine)",
+          "grammatical_form": "Noun, masculine, accusative, plural",
+          "meaning": "the gods / the shining ones / the divine powers"
+        },
+        {
+          "word": "भावयत",
+          "transliteration": "bhāvayata",
+          "root": "√bhū (to be) — causative",
+          "grammatical_form": "Verb, causative, imperative, 2nd person plural",
+          "meaning": "cherish / nourish / cause to flourish"
+        },
+        {
+          "word": "परस्परम्",
+          "transliteration": "parasparam",
+          "root": "para (other) + para (other)",
+          "grammatical_form": "Indeclinable / adverb",
+          "meaning": "mutually / reciprocally / one another"
+        },
+        {
+          "word": "श्रेयः",
+          "transliteration": "śreyaḥ",
+          "root": "√śrī (to be excellent) — comparative",
+          "grammatical_form": "Noun / adjective, neuter, nominative-accusative, singular",
+          "meaning": "the highest good / the supreme welfare / blessedness"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "root": "para (beyond, supreme)",
+          "grammatical_form": "Adjective, neuter, accusative, singular",
+          "meaning": "the supreme / the highest / ultimate"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji reveals a living covenant of love between humanity and the divine. Every act of sincere sacrifice — every selfless offering of our labours, our food, our prayers — ascends like incense to nourish the gods who preside over the cosmic forces. In return they shower rains, health, inspiration, and grace. This is not a transaction but a family bond: children offering to parents who lovingly provide in return. 'Bhāvayata' — cherish, cause to bloom. The Lord does not say merely 'feed' the gods but 'cause them to flourish'. When we uplift the divine through consecrated action, the divine uplifts us. Mutual flourishing is the great secret of spiritual life. This yajna-chain restores the original joy for which creation itself was poured forth by Brahma.",
+        "sarvapriyananda": "Swami Sarvapriyananda draws attention to the Vedic vision of cosmic interdependence underlying this verse. The Vedic sacrificial system was not mere ritual but a philosophy: the universe runs on a principle of giving. The gods — cosmic powers governing rain, fire, wind — depend on human worship and offering; humans depend on the gods for the forces of nature. The Sanskrit 'bhāvayantaḥ' — nourishing each other in the present-active participle — implies an ongoing, dynamic relationship, not a one-time exchange. Vedānta sees in this verse a pointer to Brahman as the ground of all interconnection. When the ego dissolves into this vast cycle of mutual support, the individual realizes their own infinite nature and thus gains 'param śreyas' — the supreme good that transcends any particular benefit.",
+        "yogananda": "Paramahansa Yogananda sees this cosmic nourishment as the law of vibration and attunement. The 'gods' are not remote mythological beings but divine qualities and cosmic energies — intelligence, life-force, love — that interpenetrate all creation. When through meditation, service, and right action we tune our consciousness upward, we resonate with these higher vibrations; they in turn amplify our inner light. Yogananda taught that yoga itself is the supreme yajna: the inward offering of breath and ego-sense into the fire of divine awareness. 'Parasparaṃ bhāvayantaḥ' — as we elevate our consciousness, cosmic intelligence responds by elevating us further. This reciprocal ascent is the purpose of human life: through God-attunement, to ultimately realize our oneness with the Divine.",
+        "goyandka": "Pandit Goyandka explains this verse as the foundational principle of the Vedic social and cosmic order. The gods — Indra, Varuna, Agni, Vayu and others — are the controllers of natural forces. They are energized and pleased by human yajnas performed according to scriptural injunction. Pleased gods then bestow timely rains, health, progeny, and prosperity. This is not superstition but the Vedic science of cosmic cause and effect. 'Śreyaḥ param avāpsyatha' — you shall attain the supreme welfare. Goyandka notes that this welfare extends beyond material prosperity to liberation itself, because a life lived in dutiful yajna purifies the mind, reduces selfishness, and ultimately leads the aspirant to the Self-knowledge that is mokṣa. The yajna cycle is thus both a practical and a spiritual imperative."
+      }
+    },
+    {
+      "verse": 12,
+      "sanskrit": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥",
+      "transliteration": "iṣṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ\ntair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ",
+      "translation": "The gods, nourished by sacrifice, will indeed grant you the enjoyments you desire. He who enjoys their gifts without offering back to them is verily a thief.",
+      "audio": "/assets/audio/ch03/verse_03_12.mp3",
+      "word_breakdown": [
+        {
+          "word": "इष्टान्",
+          "transliteration": "iṣṭān",
+          "root": "√iṣ (to desire, to seek)",
+          "grammatical_form": "Adjective / past passive participle, masculine, accusative, plural",
+          "meaning": "desired / wished for / sought-after (enjoyments)"
+        },
+        {
+          "word": "भोगान्",
+          "transliteration": "bhogān",
+          "root": "√bhuj (to enjoy, to experience)",
+          "grammatical_form": "Noun, masculine, accusative, plural",
+          "meaning": "enjoyments / pleasures / objects of experience"
+        },
+        {
+          "word": "यज्ञभाविताः",
+          "transliteration": "yajña-bhāvitāḥ",
+          "root": "yajña (sacrifice) + √bhū causative (to nourish)",
+          "grammatical_form": "Compound adjective, masculine, nominative, plural",
+          "meaning": "nourished / cherished / sustained by sacrifice"
+        },
+        {
+          "word": "अप्रदाय",
+          "transliteration": "apradāya",
+          "root": "a (not) + pra + √dā (to give)",
+          "grammatical_form": "Negative gerund / indeclinable",
+          "meaning": "without giving back / without offering in return"
+        },
+        {
+          "word": "स्तेनः",
+          "transliteration": "stenaḥ",
+          "root": "√stā / stena (thief)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "thief / one who takes without giving — a robber"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji emphasizes the moral gravity of this verse with tender directness. Every breath we draw, every morsel we taste, every sunrise we behold is a gift from the divine forces that sustain life. To receive these gifts in a spirit of ownership — as though they are ours by right — while giving nothing back in love, service, or worship, is spiritual theft. The Lord's word 'stena' — thief — is arresting. The thief takes what belongs to another. When we hoard the world's bounty in the ego's small vault, we steal from the sacred trust of creation. But the remedy is not guilt; it is gratitude transformed into offering. Every meal becomes a yajna, every act of love a return gift. The heart that gives freely becomes the heart that is always full.",
+        "sarvapriyananda": "Swami Sarvapriyananda unpacks the ethical philosophy embedded here. The Vedic tradition establishes five great debts (pañca-ṛṇas): to the gods, to the seers, to ancestors, to humanity, and to creatures. We are born into these debts and a life of yajna — ritual, charity, study, service — is how we honour them. The verse does not condemn enjoyment but enjoins responsibility. 'Tair dattān apradāyaibhyo' — receiving the gods' gifts without giving back — creates what modern ethics calls an asymmetric moral relationship. In Vedāntic terms, the ego that only takes reinforces the illusion of separateness. Every act of giving, by contrast, dissolves the ego-boundary and moves the aspirant toward the experience of non-dual unity that is liberation.",
+        "yogananda": "Yogananda interprets 'theft' here as the spiritual crime of self-absorption. God pours the whole universe into every soul — sunlight, food, intelligence, love. When we consume these gifts while directing consciousness only inward and downward toward sense pleasure, we steal the divine energy meant to flow onward through us to others. Yogananda taught tithing of energy: just as we offer a portion of income in charity, we must offer attention, time, and love to God and to creation. 'Yajña-bhāvitāḥ devā' — gods nourished by sacrifice — point to those cosmic centres of Divine Intelligence through which God's light flows. To enjoy the light without turning back to its Source in gratitude and meditation is to cut oneself off from an infinite reservoir.",
+        "goyandka": "Pandit Goyandka gives a crisp classical reading: the gods are the legitimate owners of the world's goods. They grant us enjoyment as a loan, not as an outright gift. To use their loan without repaying through yajna is theft, pure and simple. This is not metaphor but Vedic law. Goyandka notes Śaṅkara's commentary here: one who does not perform the five great yajnas (pañca-mahāyajña) — deva-yajña, pitṛ-yajña, ṛṣi-yajña, manuṣya-yajña, bhūta-yajña — is guilty of this theft even if he performs no outwardly criminal act. The social teaching is equally strong: wealth hoarded by those who do not give is ill-gotten. The spirit of yajna — giving back — is the basis of a just and harmonious society."
+      }
+    },
+    {
+      "verse": 13,
+      "sanskrit": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥",
+      "transliteration": "yajña-śiṣṭāśinaḥ santo mucyante sarva-kilbiṣaiḥ\nbhuñjate te tv aghaṃ pāpā ye pacanty ātma-kāraṇāt",
+      "translation": "The righteous who eat the remnants of sacrifice are freed from all sins; but those sinful ones who cook food only for themselves — they eat only sin.",
+      "audio": "/assets/audio/ch03/verse_03_13.mp3",
+      "word_breakdown": [
+        {
+          "word": "यज्ञशिष्टाशिनः",
+          "transliteration": "yajña-śiṣṭāśinaḥ",
+          "root": "yajña (sacrifice) + śiṣṭa (remainder) + √aś (to eat)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "those who eat the remnants of sacrifice — the prasāda-eaters"
+        },
+        {
+          "word": "किल्बिषैः",
+          "transliteration": "kilbiṣaiḥ",
+          "root": "kilbiṣa (sin, impurity)",
+          "grammatical_form": "Noun, neuter, instrumental, plural",
+          "meaning": "from sins / from impurities / from moral taints"
+        },
+        {
+          "word": "अघम्",
+          "transliteration": "agham",
+          "root": "agha (sin, evil, suffering)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "sin / evil / the fruit of sinful action"
+        },
+        {
+          "word": "पचन्ति",
+          "transliteration": "pacanti",
+          "root": "√pac (to cook)",
+          "grammatical_form": "Verb, present indicative, active, 3rd person plural",
+          "meaning": "they cook / they prepare food"
+        },
+        {
+          "word": "आत्मकारणात्",
+          "transliteration": "ātma-kāraṇāt",
+          "root": "ātman (self) + kāraṇa (cause, reason)",
+          "grammatical_form": "Compound noun, ablative, singular",
+          "meaning": "for the sake of the self alone / for one's own purpose only"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji teaches that what we eat shapes our consciousness. The food offered first to God and then received as prasāda carries divine vibrations; it purifies not only the body but the subtle mind. 'Yajña-śiṣṭa' — the remnant of sacrifice — is sacred because it has been touched by divine acceptance. The 'santo' — the good, the righteous — understand this and make every meal a ritual of offering before eating. Contrast this with those who cook solely for personal satisfaction, driven by appetite. Their every meal reinforces self-centredness, which is the root of all sin. The teaching is practical: begin the day with offering — to God, to guests, to the hungry — and what you then eat will nourish both body and soul.",
+        "sarvapriyananda": "Swami Sarvapriyananda connects this verse to the Vedic institution of the pañca-mahāyajña (five great daily sacrifices). The householder was enjoined to offer to gods, ancestors, sages, fellow humans, and creatures before eating. The 'remnant' is what remains after these offerings. Philosophically, this practice dismantles ahankāra — the ego that says 'this is mine'. The verb 'mucyante' — they are freed — is significant: liberation is not only a fruit of meditation but also of right social and ritual action. Those who cook only for themselves ('ātma-kāraṇāt') trap themselves in the cycle of karma by tightening the ego-knot with every meal. Food becomes karma when consumed in selfishness, and prasāda when received with gratitude.",
+        "yogananda": "Yogananda sees in this verse a law of spiritual nutrition. Food carries prāṇa — life-force — and the consciousness of the preparer and the purpose of the cooking both infuse the food's vibrational quality. Food offered to God in devotion and received back as prasāda is magnetized with divine awareness. It nourishes not only the physical cells but the astral body. Yogananda was known to bless food before eating and to teach his disciples to offer every meal to God before eating. 'Those who cook only for themselves eat sin' — meaning they consume energy that reinforces the bodily ego, binding them more tightly to material consciousness. The spiritual aspirant transforms the mundane act of eating into a sacrament through this simple discipline of offering.",
+        "goyandka": "Pandit Goyandka gives a precise Dharmaśāstra reading: before eating, the householder must perform the five great sacrifices daily. Only after feeding gods (through fire-ritual), sages (through study and teaching), ancestors (through water libation), fellow humans (through hospitality), and creatures (through putting out food) may he eat his own meal. What he then eats is 'yajña-śiṣṭa' — the lawful remainder. Goyandka cites Manu and other smṛti authorities who hold that the householder who eats without these prior offerings is guilty of the gravest social sin. This is not asceticism but ordered social responsibility. The verse thus supports the Gītā's broader argument: Karma Yoga — selfless, disciplined action — is not an optional refinement but the very basis of dharmic life."
+      }
+    },
+    {
+      "verse": 14,
+      "sanskrit": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥",
+      "transliteration": "annād bhavanti bhūtāni parjanyād anna-sambhavaḥ\nyajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ",
+      "translation": "From food all beings come into existence; from rain food is produced; rain proceeds from sacrifice; sacrifice is born from action.",
+      "audio": "/assets/audio/ch03/verse_03_14.mp3",
+      "word_breakdown": [
+        {
+          "word": "अन्नात्",
+          "transliteration": "annāt",
+          "root": "√ad (to eat) — past passive participle",
+          "grammatical_form": "Noun, neuter, ablative, singular",
+          "meaning": "from food / from nourishment"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhūtāni",
+          "root": "√bhū (to be, to become)",
+          "grammatical_form": "Noun, neuter, nominative, plural",
+          "meaning": "all beings / all living creatures / all that has come into existence"
+        },
+        {
+          "word": "पर्जन्यात्",
+          "transliteration": "parjanyāt",
+          "root": "parjanya (rain-cloud, rain-god)",
+          "grammatical_form": "Noun, masculine, ablative, singular",
+          "meaning": "from rain / from the rain-god Parjanya"
+        },
+        {
+          "word": "यज्ञात्",
+          "transliteration": "yajñāt",
+          "root": "√yaj (to worship, to sacrifice)",
+          "grammatical_form": "Noun, masculine, ablative, singular",
+          "meaning": "from sacrifice / as a result of yajna"
+        },
+        {
+          "word": "कर्मसमुद्भवः",
+          "transliteration": "karma-samudbhavaḥ",
+          "root": "karma (action) + sam + ud + √bhū (to arise)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "born of action / arising from prescribed duty / produced by karma"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji rejoices in this cosmic chain as a revelation of divine generosity. How intimately God has woven every link of sustenance! Beings eat food; food grows from rain; rain falls because the gods are pleased by our yajnas; and yajna itself arises when we act. Nothing is random — everything is connected through a great web of giving. Our bodies are literally made of the gifts of God and of every farmer, cloud, and sacred fire that came before us. When we see this clearly, the ego's small claim — 'this is mine, I earned this, I deserve this' — dissolves into wonder and gratitude. Dadaji would say: 'Your very breath is a gift. How can you hoard what you did not create?' This understanding is the deepest motivation for yajna.",
+        "sarvapriyananda": "Swami Sarvapriyananda presents this as the Gītā's ecological and metaphysical ecology. Modern science confirms part of the chain: the water cycle, photosynthesis, the food web. But the Gītā adds a dimension science does not measure: the causal role of conscious, morally ordered action. 'Yajñāt parjanyo' — rain from sacrifice — points to the Vedic understanding that the moral quality of human action affects the natural order. A society that gives, that lives in the spirit of yajna, maintains cosmic balance. A society given to pure consumption disrupts it. This is not naive superstition but a profound insight: consciousness and cosmos are not separate. The Vedic concept of ṛta — cosmic order — is upheld by dharmic action. Karma Yoga is therefore not merely personal salvation but planetary service.",
+        "yogananda": "Yogananda reads this causal chain as a description of spiritual law at every level of creation. At the gross level: food sustains the body. At the subtle level: prāṇa (cosmic life-force, the inner 'rain') sustains the astral body. At the causal level: the sacrifice of ego-identity releases the soul's prāṇa into divine channels. The 'rain' that feeds spiritual growth is the descent of grace — which is activated by the yajna of meditation, service, and devotion. 'Karma-samudbhavaḥ' — arising from action — Yogananda interprets as the soul's inherent impulse to express divine love in action. The entire chain, from cosmic manifestation back to the Absolute, is God playing the game of giving and receiving with Himself through the medium of creation.",
+        "goyandka": "Pandit Goyandka traces the logical sequence precisely. Beings need food; food needs rain; rain needs the gods' cooperation; the gods are activated by yajna; yajna requires action (karma). The chain establishes that karmic duty — performing one's prescribed actions — is not merely personal but cosmically necessary. Any break in the chain — humans refusing to perform yajna, gods withholding rain, food failing — causes universal suffering. Goyandka stresses the word 'samudbhavaḥ' — well-arisen, properly originated: action must be the right kind of action, performed in the spirit of offering (yajna), not merely any random effort. This is why the Gītā teaches Karma Yoga — not just action, but action as worship, embedded in the sacred cycle."
+      }
+    },
+    {
+      "verse": 15,
+      "sanskrit": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।\nतस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥",
+      "transliteration": "karma brahmodbhavaṃ viddhi brahmākṣara-samudbhavam\ntasmāt sarva-gataṃ brahma nityaṃ yajñe pratiṣṭhitam",
+      "translation": "Know that action arises from Brahman (the Veda), and Brahman arises from the Imperishable (Akshara). Therefore the all-pervading Brahman is eternally established in sacrifice.",
+      "audio": "/assets/audio/ch03/verse_03_15.mp3",
+      "word_breakdown": [
+        {
+          "word": "ब्रह्मोद्भवम्",
+          "transliteration": "brahmodbhavam",
+          "root": "brahman (Veda / the Absolute) + ud + √bhū (to arise)",
+          "grammatical_form": "Compound adjective, neuter, accusative, singular",
+          "meaning": "arising from Brahman / having its source in the Veda"
+        },
+        {
+          "word": "अक्षर",
+          "transliteration": "akṣara",
+          "root": "a (not) + √kṣar (to flow, to perish)",
+          "grammatical_form": "Noun / adjective, neuter",
+          "meaning": "the Imperishable / the Indestructible — the Supreme Absolute, also syllable (Om)"
+        },
+        {
+          "word": "सर्वगतम्",
+          "transliteration": "sarva-gatam",
+          "root": "sarva (all) + √gam (to go)",
+          "grammatical_form": "Compound adjective, neuter, nominative, singular",
+          "meaning": "all-pervading / omnipresent / present in all things"
+        },
+        {
+          "word": "नित्यम्",
+          "transliteration": "nityam",
+          "root": "nitya (eternal, constant)",
+          "grammatical_form": "Adjective / adverb, neuter, nominative or accusative",
+          "meaning": "eternally / always / perpetually"
+        },
+        {
+          "word": "प्रतिष्ठितम्",
+          "transliteration": "pratiṣṭhitam",
+          "root": "prati + √sthā (to stand, to be established)",
+          "grammatical_form": "Past passive participle, neuter, nominative, singular",
+          "meaning": "established / resting / permanently grounded in"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji illuminates the magnificent ascent traced in this verse. First, our action (karma) must be rooted in Brahman — the sacred Veda, divine wisdom, the revealed Word of God. Not mere personal ambition or social custom, but the eternal dharma. And where does the Veda itself come from? From Akshara — the Imperishable, the Supreme Being, the Absolute. So action, properly performed, connects every human moment to the Infinite. And because all-pervading Brahman is eternally established in yajna, every selfless act of offering is a point of contact with the divine. Dadaji would say: 'When you act in the spirit of God's will and God's wisdom, you act as God Himself acting in the world. That is the glory of Karma Yoga.'",
+        "sarvapriyananda": "Swami Sarvapriyananda unpacks two usages of 'Brahman' in this verse. The first — 'karma brahmodbhavaṃ' — refers to Brahman as the Vedas (śabda-brahman), the scriptural revelation that prescribes right action. The second — 'brahmākṣara-samudbhavam' — refers to Akshara, the Supreme Transcendent Brahman from which the Vedas themselves emerge. This is a cosmological ladder: Supreme Brahman → Vedic revelation → prescribed action → yajna → rain → food → beings. The implication is that when a human being performs action in accordance with the Vedas, in the spirit of yajna, they align themselves with the entire cosmic hierarchy from the material world all the way up to the Absolute. This is the metaphysical depth behind the seemingly ritual instruction of Karma Yoga.",
+        "yogananda": "Yogananda finds in 'akṣara' the key teaching: the Imperishable, the AUM, the Cosmic Vibration from which all sacred scripture and all creation emanates. He taught that the Vedas are not merely books but vibrations of divine consciousness crystallized into sound. All right action (karma) flows from alignment with this divine vibration. 'Sarva-gataṃ brahma nityaṃ yajñe pratiṣṭhitam' — the all-pervading Brahman is eternally established in sacrifice — means that AUM, the divine presence, is not somewhere else but right here in every sincere act of giving and offering. Meditation on AUM is thus the supreme yajna: the offering of one's individual consciousness back into the ocean of divine Consciousness from which it arose.",
+        "goyandka": "Pandit Goyandka carefully distinguishes the two Brahmans in this verse, following Śaṅkara. 'Brahman' in 'brahmodbhavam' refers to the Vedas — the source of prescribed duty (karma). 'Akshara' is the supreme Imperishable Brahman — the source of the Vedas themselves. This establishes the complete metaphysical pedigree of human duty: it is not arbitrarily imposed by society or rulers but descends from the Absolute through the Vedic revelation into the fabric of cosmic order. Therefore, to perform one's prescribed duty in the spirit of yajna is to participate in the Absolute. 'Nityaṃ yajñe pratiṣṭhitam' — eternally established in sacrifice: this 'eternity' means the yajna-principle is not historically contingent but a permanent feature of the relationship between the individual and the Absolute."
+      }
+    },
+    {
+      "verse": 16,
+      "sanskrit": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति ॥",
+      "transliteration": "evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ\naghāyur indriyārāmo moghaṃ pārtha sa jīvati",
+      "translation": "He who does not follow this wheel of creation set in motion — whose life is full of sin, who rejoices in the senses — O son of Pritha, he lives in vain.",
+      "audio": "/assets/audio/ch03/verse_03_16.mp3",
+      "word_breakdown": [
+        {
+          "word": "चक्रम्",
+          "transliteration": "cakram",
+          "root": "√car (to move) — or related to cakra (wheel)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "the wheel / the cosmic cycle of sacrifice and sustenance"
+        },
+        {
+          "word": "अघायुः",
+          "transliteration": "aghāyuḥ",
+          "root": "agha (sin) + āyus (life)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "one whose life is sinful / one who lives a life of sin"
+        },
+        {
+          "word": "इन्द्रियारामः",
+          "transliteration": "indriyārāmaḥ",
+          "root": "indriya (sense organs) + √ram (to delight, to sport)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "one who delights in the senses / one whose playground is sense pleasure"
+        },
+        {
+          "word": "मोघम्",
+          "transliteration": "mogham",
+          "root": "mogha (vain, fruitless, useless)",
+          "grammatical_form": "Adjective / adverb, neuter, accusative",
+          "meaning": "in vain / fruitlessly / uselessly / without purpose"
+        },
+        {
+          "word": "जीवति",
+          "transliteration": "jīvati",
+          "root": "√jīv (to live, to be alive)",
+          "grammatical_form": "Verb, present indicative, active, 3rd person singular",
+          "meaning": "he lives / he exists"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji speaks here with the compassion of a parent watching a child waste a precious inheritance. This wheel — cakra — is the great gift of creation, a living system of cosmic reciprocity in which every being has a meaningful, honoured role. To opt out — to live purely for one's own pleasure, consuming without giving, taking without offering — is to betray one's divine birthright. 'Moghaṃ jīvati' — lives in vain. Not wickedly, not criminally (though sin is involved), but emptily — like a lamp that hoards its oil instead of burning. Dadaji taught that the most tragic life is not a life of obvious wrongdoing but a life of missed opportunity for love and service — a life that passes through the world leaving no fragrance of selfless offering behind it.",
+        "sarvapriyananda": "Swami Sarvapriyananda reads 'cakra' as the wheel of dharma — the interlocking system of cosmic, social, and individual duties that sustain both material and spiritual order. 'Nānuvartayati' — does not follow — implies both refusal and ignorance. The person given to 'indriyārāma' — sense-sport — is so absorbed in immediate pleasure that they cannot perceive the larger wheel they are part of. Vedānta diagnoses this as avidyā — ignorance of one's true nature. We are not isolated consumers but nodes in a vast field of consciousness. To live as though we are only separate, pleasure-seeking egos is not merely morally wrong but metaphysically confused. 'Mogham' resonates with one of Vedānta's deepest concerns: the 'wasted' human birth that could have been used to attain liberation.",
+        "yogananda": "Yogananda interprets 'indriyārāma' — delighting in the senses — as the fundamental spiritual error: taking the theatre of the senses to be ultimate reality. The senses offer only fleeting, fragmentary pleasures; the Self offers unending, unconditional bliss. To spend a human lifetime chasing sense-objects is, in Yogananda's metaphor, like a king who has forgotten his palace and is rooting around in dustbins. 'Moghaṃ jīvati' — lives in vain. The great waste is not of money or time but of the singular human capacity for God-realization. Yogananda taught that every other species lives by instinct and sense; only the human being has the developed nervous system and intellect required for the inward journey. To squander that capacity is the true tragedy.",
+        "goyandka": "Pandit Goyandka expounds the compound 'aghāyuḥ' with characteristic precision. Agha means both sin and the suffering that follows sin. So 'aghāyuḥ' denotes one whose life-breath (āyus) is pervaded by both sin and its inevitable pain. Such a person goes through the motions of living — eating, working, sleeping — but never fulfils the human purpose. Goyandka insists on the social dimension: one who breaks the yajna-chain does not merely harm himself but weakens the cosmic and social fabric that sustains all others. The verse is therefore a warning against both personal hedonism and social irresponsibility. Dharmic action — selfless, scripture-guided, offered as yajna — is not optional extra virtue but the minimum obligation of a being who has received the extraordinary gift of human birth."
+      }
+    },
+    {
+      "verse": 17,
+      "sanskrit": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः ।\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ॥",
+      "transliteration": "yas tv ātma-ratir eva syād ātma-tṛptaś ca mānavaḥ\nātmany eva ca santuṣṭas tasya kāryaṃ na vidyate",
+      "translation": "But that man who rejoices only in the Self, who is satisfied in the Self, and who is content in the Self alone — for him there is no duty to perform.",
+      "audio": "/assets/audio/ch03/verse_03_17.mp3",
+      "word_breakdown": [
+        {
+          "word": "आत्मरतिः",
+          "transliteration": "ātma-ratiḥ",
+          "root": "ātman (Self) + √ram (to delight)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "one who delights in the Self / one whose joy is the Self alone"
+        },
+        {
+          "word": "आत्मतृप्तः",
+          "transliteration": "ātma-tṛptaḥ",
+          "root": "ātman (Self) + √tṛp (to be satisfied)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "satisfied in the Self / one who is fully satiated by the Self"
+        },
+        {
+          "word": "सन्तुष्टः",
+          "transliteration": "santuṣṭaḥ",
+          "root": "sam (completely) + √tuṣ (to be pleased, to be content)",
+          "grammatical_form": "Past passive participle used as adjective, masculine, nominative, singular",
+          "meaning": "completely content / perfectly satisfied / at utter peace"
+        },
+        {
+          "word": "कार्यम्",
+          "transliteration": "kāryam",
+          "root": "√kṛ (to do) — future passive participle",
+          "grammatical_form": "Gerundive / noun, neuter, nominative, singular",
+          "meaning": "that which must be done / obligatory duty / prescribed action"
+        },
+        {
+          "word": "न विद्यते",
+          "transliteration": "na vidyate",
+          "root": "√vid (to know, to find, to be found)",
+          "grammatical_form": "Verb, passive, present, 3rd person singular with negation",
+          "meaning": "there is none / it is not found / it does not exist (for him)"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji sees this verse as the Gītā's most tender acknowledgment: the fully God-realized soul is free. When the heart is flooded with the joy of the Self — not the ego-self but the divine Ātman, the indwelling God — nothing in the outer world can add to or subtract from that completeness. Such a soul may still act, and act with great energy and compassion, but not from duty or fear or desire. Dadaji would describe this as the state of a truly surrendered devotee: all giving now flows as naturally as the river flows to the sea — not because the river must, but because that is its nature. The 'ātma-ratiḥ' is not withdrawn from the world; they are fully in the world but not of it, acting from fullness rather than from need.",
+        "sarvapriyananda": "Swami Sarvapriyananda identifies this as the pivotal verse of the Gītā's teaching on karma and jñāna. The three qualifications given — ātma-ratiḥ (delighting in Self), ātma-tṛptaḥ (satisfied in Self), ātmany eva santuṣṭaḥ (content in Self) — are not redundant but progressively deeper: joy, fulfilment, and abiding contentment. These describe the jñānī who has realized Ātman as the only reality. For such a person, the prescriptions of yajna and karma no longer bind, because the entire purpose of those prescriptions — to purify the mind, reduce ego-attachment, and prepare for Self-knowledge — has been accomplished. This is the Vedāntic principle: action is a means to knowledge; once knowledge dawns, the means is no longer necessary.",
+        "yogananda": "Yogananda calls this the description of the Paramahansa — the supreme swan who has crossed the ocean of delusion. 'Ātma-ratiḥ' — rejoicing in the Self — corresponds to the state of samādhi, where consciousness rests in its own infinite nature and finds there a bliss that no sense experience can approximate. Yogananda taught: 'Seek ye first the kingdom of God' — this is ātma-tṛpti, inner satisfaction. Once that inner kingdom is found, outer duties transform in character. The sage may still teach, serve, and guide, but they do so as instruments of divine will, not as obligated egos. Their action is spontaneous divine expression — like sunlight that shines not out of duty but because that is its nature.",
+        "goyandka": "Pandit Goyandka addresses a potential misunderstanding directly: this verse does not give an excuse to the unenlightened person to abandon duties. The exemption applies only to the utterly Self-realized — one who has directly experienced the Ātman as the fullness of existence. For all others, the prescribed duties of yajna, karma, and dharma remain binding. Goyandka cites Śaṅkara: just as a person who has crossed the river no longer needs the ferry, the Self-realized person has no use for karma as a vehicle to liberation. But until that shore is reached, to abandon the boat mid-river is not liberation — it is drowning. The verse is therefore a beacon of the goal, not permission to abandon the path before reaching it."
+      }
+    },
+    {
+      "verse": 18,
+      "sanskrit": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ॥",
+      "transliteration": "naiva tasya kṛtenārtho nākṛteneha kaścana\nna cāsya sarva-bhūteṣu kaścid artha-vyapāśrayaḥ",
+      "translation": "For him there is no interest whatsoever in work done or in work left undone in this world; nor does he depend on any being for any object.",
+      "audio": "/assets/audio/ch03/verse_03_18.mp3",
+      "word_breakdown": [
+        {
+          "word": "कृतेन",
+          "transliteration": "kṛtena",
+          "root": "√kṛ (to do)",
+          "grammatical_form": "Past passive participle, neuter, instrumental, singular",
+          "meaning": "by what is done / through action performed"
+        },
+        {
+          "word": "अकृतेन",
+          "transliteration": "akṛtena",
+          "root": "a (not) + √kṛ (to do)",
+          "grammatical_form": "Negative past passive participle, neuter, instrumental, singular",
+          "meaning": "by what is not done / through inaction / by omission"
+        },
+        {
+          "word": "अर्थः",
+          "transliteration": "arthaḥ",
+          "root": "√arth (to seek, to mean)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "purpose / interest / gain / meaning / object"
+        },
+        {
+          "word": "सर्वभूतेषु",
+          "transliteration": "sarva-bhūteṣu",
+          "root": "sarva (all) + √bhū (to be)",
+          "grammatical_form": "Compound noun, neuter, locative, plural",
+          "meaning": "among all beings / in all living creatures"
+        },
+        {
+          "word": "अर्थव्यपाश्रयः",
+          "transliteration": "artha-vyapāśrayaḥ",
+          "root": "artha (object, purpose) + vi + apa + √śri (to depend, to resort to)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "dependence for any purpose / reliance on any being for any object or gain"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji points to this verse as the portrait of perfect inner freedom. The realized soul has no interest in results — not because they are indifferent or cold, but because they are already complete. 'Kṛtena' — by what is done, 'akṛtena' — by what is not done: neither success nor failure, neither achievement nor omission touches the deep peace of the one established in the Self. And 'na cāsya sarva-bhūteṣu kaścid artha-vyapāśrayaḥ' — they do not depend on any being for any object. This does not mean they live in isolation; it means their well-being, joy, and security rest entirely in God. They love all beings but need nothing from them. This freedom from need is what makes their love truly unconditional — the pure love that gives without expectation.",
+        "sarvapriyananda": "Swami Sarvapriyananda reads this verse in conjunction with verse 17 as the Gītā's description of the jīvan-mukta — the one liberated while living. Two kinds of freedom are indicated. First, freedom from the injunctions: 'kṛtena arthaḥ na' — no personal gain from action, 'akṛtena arthaḥ na' — no personal loss from inaction. The karma-yoga practitioner moves toward this by performing action without personal stake in results. Second, freedom from dependency: 'artha-vyapāśrayaḥ na' — no dependence on any being. This points to the Ātman's self-sufficiency (svayaṃ-prabhu). The liberated person may accept or reject relationships, food, and service freely, but their fundamental being does not depend on any external source. This is Vedānta's definition of absolute freedom: pūrṇatva — completeness.",
+        "yogananda": "Yogananda describes this state as 'cosmic consciousness' — the state in which the individual awareness has merged with the universal. For such a being, action and inaction are equally irrelevant to identity. They act because it is divine play (līlā), not because they need to accomplish something. And their relationship to other beings is one of universal love without personal dependency. Yogananda taught: 'The saint is not aloof from the world but detached within it.' They move through relationships like a lotus in water — fully present, fully loving, yet untouched. 'Artha-vyapāśrayaḥ' — needing no object or being for sustenance — describes one who has found the inner spring of divine bliss that makes all outer fountains redundant, though still beautiful.",
+        "goyandka": "Pandit Goyandka treats this as the classical definition of the sthita-prajña — the one of steady wisdom — elaborated here from the perspective of karma. He notes that 'arthaḥ' encompasses both worldly gain and dharmic merit: the Self-realized person has no concern for either. They perform no action to acquire merit (puṇya) and lose no merit by omission. Furthermore, 'na artha-vyapāśrayaḥ' — no dependence for any purpose — means they do not engage in social relationships out of need, fear, or desire. This is the positive flipside of the warning in verse 16: the 'indriyārāma' person is bound by dependence on sense-objects and other beings, while the ātma-ratiḥ is free of all such bondage. The contrast sets the goal clearly before the sādhaka."
+      }
+    },
+    {
+      "verse": 19,
+      "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥",
+      "transliteration": "tasmād asaktaḥ satataṃ kāryaṃ karma samācara\nasakto hy ācaran karma param āpnoti pūruṣaḥ",
+      "translation": "Therefore, without attachment, always perform the action that must be done; for by performing action without attachment, a person attains the Supreme.",
+      "audio": "/assets/audio/ch03/verse_03_19.mp3",
+      "word_breakdown": [
+        {
+          "word": "असक्तः",
+          "transliteration": "asaktaḥ",
+          "root": "a (not) + √sañj (to attach, to cling)",
+          "grammatical_form": "Negative past passive participle, masculine, nominative, singular",
+          "meaning": "unattached / without clinging / free from attachment"
+        },
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "root": "sa (with) + tata (extended, continuous)",
+          "grammatical_form": "Adverb / accusative of duration",
+          "meaning": "always / constantly / continually / without break"
+        },
+        {
+          "word": "कार्यम्",
+          "transliteration": "kāryam",
+          "root": "√kṛ (to do) — future passive participle",
+          "grammatical_form": "Gerundive, neuter, accusative, singular",
+          "meaning": "what ought to be done / obligatory duty / prescribed action"
+        },
+        {
+          "word": "समाचर",
+          "transliteration": "samācara",
+          "root": "sam (completely) + ā + √car (to move, to act, to practice)",
+          "grammatical_form": "Verb, imperative, 2nd person singular",
+          "meaning": "perform / practise / carry out / execute properly"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "root": "para (beyond, supreme)",
+          "grammatical_form": "Adjective / noun, neuter, accusative, singular",
+          "meaning": "the Supreme / the Highest / the Absolute (Brahman / mokṣa)"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji calls this verse the practical heart of the Gītā's Karma Yoga. 'Tasmāt' — therefore — points back to everything that has been established: the cosmic chain of yajna, the ideal of the Self-realized sage, the emptiness of a life lived only for the senses. Given all this, what should we do? 'Asaktaḥ satataṃ kāryaṃ karma samācara' — without attachment, always perform your duty. Not sometimes, not when convenient, not only when inspired — but constantly, as a way of being. And the promise is luminous: 'param āpnoti' — attains the Supreme. Not a modest reward, not mere worldly success, but the Highest — liberation, God-realization, infinite bliss. Dadaji taught that every ordinary moment of selfless, loving, God-offered action is a step on this shining road.",
+        "sarvapriyananda": "Swami Sarvapriyananda presents this as the Gītā's central prescription in crystallized form. 'Asaktaḥ' — without attachment — is the operative word. The Vedāntic analysis is this: action by itself does not bind; it is the attachment to results, the ego-identification with the actor and the outcome, that creates karma and perpetuates saṃsāra. Remove attachment and action becomes a vehicle of purification. A purified mind is capable of the self-inquiry (ātma-vicāra) that leads to liberation. Thus Karma Yoga is not the goal but the indispensable preparation. 'Param āpnoti' — attains the Supreme — is the Vedāntic promise: not heaven, not rebirth in better circumstances, but the direct realization of Brahman, one's own true nature.",
+        "yogananda": "Yogananda reads 'asaktaḥ' as the yogi's fundamental attitude: engaged in all activities yet inwardly free, like an actor playing a role with full energy while knowing they are not the character. He taught the technique of offering all actions to God: 'I am Thine; do Thou with me what Thou wilt.' This offering dissolves attachment at its root. 'Satatam' — always, continuously — is key: Karma Yoga is not a periodic spiritual exercise but a continuous orientation of consciousness. The 'param' attained is not a future state but an ever-present reality gradually unveiled as attachment drops away. Yogananda identified this 'param' with the cosmic AUM-consciousness that underlies all action — the realization that the actor, the action, and the result are all one divine movement.",
+        "goyandka": "Pandit Goyandka draws out the causal relationship with precision: 'asakto hy ācaran karma param āpnoti' — because (hi) the unattached person acting attains the Supreme. 'Hi' is the logical connector — this is not merely recommended behaviour but a law of spiritual causation. Attachment to results causes karma; karma causes rebirth; rebirth perpetuates suffering. Remove the attachment and the chain breaks at its source. Goyandka emphasizes 'kāryam karma' — duty-action, not just any action: it must be the prescribed, dharmic action appropriate to one's station (varṇāśrama-dharma) performed in a spirit of offering. Random activity performed without attachment is not sufficient; it must be the right action, properly performed, with inward non-attachment — then, and only then, it leads to the Supreme."
+      }
+    },
+    {
+      "verse": 20,
+      "sanskrit": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।\nलोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ॥",
+      "transliteration": "karmaṇaiva hi saṃsiddhim āsthitā janakādayaḥ\nloka-saṃgraham evāpi sampaśyan kartum arhasi",
+      "translation": "Janaka and others indeed attained perfection through action alone. Even with a view to the protection and welfare of the world, you should act.",
+      "audio": "/assets/audio/ch03/verse_03_20.mp3",
+      "word_breakdown": [
+        {
+          "word": "संसिद्धिम्",
+          "transliteration": "saṃsiddhim",
+          "root": "sam (completely) + √sidh (to succeed, to be accomplished)",
+          "grammatical_form": "Noun, feminine, accusative, singular",
+          "meaning": "perfection / complete accomplishment / the highest attainment (liberation)"
+        },
+        {
+          "word": "जनकादयः",
+          "transliteration": "janakādayaḥ",
+          "root": "janaka (proper name) + ādi (beginning, et cetera)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "Janaka and others like him / Janaka and similar royal sages"
+        },
+        {
+          "word": "लोकसंग्रहम्",
+          "transliteration": "loka-saṃgraham",
+          "root": "loka (world) + sam + √grah (to hold, to gather, to sustain)",
+          "grammatical_form": "Compound noun, masculine, accusative, singular",
+          "meaning": "welfare of the world / holding the world together / maintenance of social order"
+        },
+        {
+          "word": "सम्पश्यन्",
+          "transliteration": "sampaśyan",
+          "root": "sam (completely) + √paś (to see, to perceive)",
+          "grammatical_form": "Present active participle, masculine, nominative, singular",
+          "meaning": "bearing in mind / looking carefully at / considering / perceiving fully"
+        },
+        {
+          "word": "अर्हसि",
+          "transliteration": "arhasi",
+          "root": "√arh (to deserve, to be worthy, to be fit)",
+          "grammatical_form": "Verb, present indicative, active, 2nd person singular",
+          "meaning": "you ought / you should / you are fit to / it is proper for you to"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji presents King Janaka as one of the most beloved exemplars of the Gītā's teaching: a royal householder who attained the heights of Self-realization while governing a kingdom, raising a family, and performing all worldly duties. He did not renounce the world; he transformed it into a temple. 'Karmaṇaiva hi' — through action alone indeed — not despite action but by means of it. This is the Gītā's revolutionary declaration: the world is not an obstacle to God but the very field in which God is to be found and served. And 'loka-saṃgraham' — the welfare and holding-together of the world — is Krishna's gift to Arjuna: even if personal liberation were not the question, the duty of the great soul is to act for the world's good. Love alone justifies action.",
+        "sarvapriyananda": "Swami Sarvapriyananda holds this verse as the Gītā's answer to the question of whether action is compatible with the highest realization. Janaka — a rāja-rṣi, royal sage — is the scriptural proof that it is. Janaka appears in the Bṛhadāraṇyaka Upaniṣad as a great knower of Brahman who taught even the sage Yājñavalkya in certain respects. He held court, fought battles, and administered a vast kingdom — and yet was fully liberated. The word 'saṃsiddhi' — perfection, the highest accomplishment — leaves no ambiguity: this is not worldly success but mokṣa. Furthermore, 'loka-saṃgraha' introduces a purely social-ethical motivation: even the liberated sage acts for the welfare of the world, setting an example that others can follow. Action, rightly understood, is universal service.",
+        "yogananda": "Yogananda cites Janaka as one of the great exemplars of what he called the 'householder path' — the spiritual possibility available to those who live fully in the world. He saw in Janaka's example the fulfilment of the Karma Yoga ideal: a consciousness rooted in divine awareness, expressing itself freely through every form of worldly engagement. 'Loka-saṃgraham sampaśyan' — bearing in mind the welfare of the world — is, for Yogananda, the defining characteristic of the true master: not withdrawal but engagement, not escape but transformation. Yogananda's own life embodied this: he built institutions, taught thousands, and lived in the midst of society while never losing the inner consciousness of the Divine. He taught that the world is God's ashram and every sincere act of service is a form of worship.",
+        "goyandka": "Pandit Goyandka uses this verse to address the socially influential person's unique responsibility. Janaka was a king — a person whose choices, attitudes, and actions shaped the behaviour of millions. 'Loka-saṃgraha' — maintaining the cohesion and moral order of society — is identified here as an independent justification for action, separate from the question of personal liberation. Even if Arjuna were already liberated (which he is not), his duty as a kṣatriya and his social role as a warrior-leader of the Pāṇḍavas would still require him to fight. Goyandka stresses that the Gītā never advocates quietism or social withdrawal for the able-bodied person of social responsibility. 'Kartum arhasi' — you ought to act — remains the Lord's clear, unambiguous command to Arjuna throughout the entire teaching."
+      }
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 64,
+      "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् ।\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ॥",
+      "transliteration": "rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran\nātma-vaśyair vidheyātmā prasādam adhigacchati",
+      "translation": "But the self-disciplined man, moving among sense objects with senses governed by the Self — free from attraction and aversion — attains tranquillity (prasāda).",
+      "audio": "/assets/audio/ch02/verse_02_64.mp3",
+      "word_breakdown": [
+        {
+          "word": "रागद्वेषवियुक्तैः",
+          "transliteration": "rāga-dveṣa-viyuktaiḥ",
+          "root": "rāga (attraction) + dveṣa (aversion) + vi + √yuj (to yoke, to join)",
+          "grammatical_form": "Compound adjective, instrumental plural",
+          "meaning": "free from / uncoupled from attraction and aversion"
+        },
+        {
+          "word": "आत्मवश्यैः",
+          "transliteration": "ātma-vaśyaiḥ",
+          "root": "ātman (Self) + vaśya (under control of)",
+          "grammatical_form": "Compound adjective, instrumental plural",
+          "meaning": "governed by the Self / under the Self's sway"
+        },
+        {
+          "word": "विधेयात्मा",
+          "transliteration": "vidheyātmā",
+          "root": "vi + √dhā (to place) + ātman (self/mind)",
+          "grammatical_form": "Compound noun, nominative singular",
+          "meaning": "one whose self/mind is disciplined / obedient"
+        },
+        {
+          "word": "प्रसादम्",
+          "transliteration": "prasādam",
+          "root": "pra + √sad (to sit, to be clear, to settle)",
+          "grammatical_form": "Noun, masculine, accusative singular",
+          "meaning": "tranquillity / grace / serene clarity of mind"
+        },
+        {
+          "word": "अधिगच्छति",
+          "transliteration": "adhigacchati",
+          "root": "adhi + √gam (to go, to attain)",
+          "grammatical_form": "Verb, 3rd person singular, present tense",
+          "meaning": "attains / reaches / comes to"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji always smiled when he reached this verse and said: 'Krishna is not asking us to run away from the world. He is asking us to walk through it differently.' The bhogi (pleasure-seeker) moves among sense objects driven by rāga — clinging to what pleases — and dveṣa — pushing away what displeases. The yogi moves through the very same world, among the very same objects, but the senses are now leashed to the Self within. It is like the difference between a dog dragging its master through the street and a well-trained dog walking calmly at its master's side. The world has not changed. The streets have not changed. Only the inner relationship has changed. And out of that one inner change flows prasāda — that soft, luminous peace that Dadaji called 'the fragrance of the soul.' This verse is a great assurance: renunciation is an inner act, not a physical flight.",
+        "sarvapriyananda": "Having described in the previous verses the chaos that follows uncontrolled senses, Krishna now presents the positive counter-image: the vidheyātmā, the one whose inner instrument is disciplined. Two key phrases deserve close attention. 'Ātma-vaśyaiḥ' means the senses are controlled not by suppression but by the Self — they have been subordinated to the higher principle of pure awareness. And 'rāga-dveṣa-viyuktaiḥ' points to the Vedantic understanding that bondage is not caused by contact with the world but by the psychological reactions of attraction and aversion. The liberated one moves freely in the world — 'viṣayān caran' — because contact without attachment generates no karma, no agitation. The result is prasāda: the natural luminosity of a mind no longer muddied by likes and dislikes. This is the Vedantic ideal of jīvan-mukti, liberation while living.",
+        "yogananda": "Yogananda teaches that rāga and dveṣa — attraction and repulsion — are the two poles of ego-consciousness, the very mechanism by which the soul becomes entrapped in the drama of the senses. The cosmic delusion of māyā operates precisely through these two forces: it lures the soul toward pleasant sensations and drives it away from unpleasant ones, keeping it perpetually spinning. The yogi who has awakened his inner Self — through meditation, through the awakening of the spine's inner current — finds that the senses still function but no longer generate the voltage of desire. He tastes, sees, hears, but is not seized. Prasāda, Yogananda explains, is not merely peace but a state of inner radiance — the mind becomes like a polished mirror that reflects Spirit. It is the beginning of direct God-perception.",
+        "goyandka": "Goyandaka explains that vidheyātmā — one whose mind (antaḥkaraṇa) is made obedient — is the essential qualification for the path of knowledge. When the mind is no longer pulled by the twin currents of rāga and dveṣa, it naturally becomes receptive to the light of viveka (discrimination). The term ātma-vaśya is important: the senses are not destroyed but brought under the dominion of the higher self. The Gita does not advocate dry suppression (nigraha in a violent sense) but a graceful mastery that comes through consistent practice and dispassion (abhyāsa and vairāgya). Prasāda — inner serenity — is the direct outcome, and it is not a reward granted from outside but the mind's own natural condition when the agitation of attraction and aversion ceases. This verse establishes the positive path after the warning of verses 62–63."
+      }
+    },
+    {
+      "verse": 65,
+      "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते ।\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ॥",
+      "transliteration": "prasāde sarva-duḥkhānāṃ hānir asyopajāyate\nprasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhate",
+      "translation": "In that tranquillity, there is the cessation of all sorrows. For the one of tranquil mind, intelligence quickly becomes steady.",
+      "audio": "/assets/audio/ch02/verse_02_65.mp3",
+      "word_breakdown": [
+        {
+          "word": "प्रसादे",
+          "transliteration": "prasāde",
+          "root": "pra + √sad (to settle, to be clear)",
+          "grammatical_form": "Noun, masculine, locative singular",
+          "meaning": "in tranquillity / in serenity / in the state of inner grace"
+        },
+        {
+          "word": "सर्वदुःखानाम्",
+          "transliteration": "sarva-duḥkhānām",
+          "root": "sarva (all) + duḥkha (sorrow, suffering)",
+          "grammatical_form": "Compound noun, genitive plural",
+          "meaning": "of all sorrows / of all sufferings"
+        },
+        {
+          "word": "हानिः",
+          "transliteration": "hāniḥ",
+          "root": "√hā (to abandon, to cease)",
+          "grammatical_form": "Noun, feminine, nominative singular",
+          "meaning": "cessation / destruction / falling away"
+        },
+        {
+          "word": "प्रसन्नचेतसः",
+          "transliteration": "prasanna-cetasaḥ",
+          "root": "prasanna (serene, clear) + cetas (mind, consciousness)",
+          "grammatical_form": "Compound noun, genitive singular",
+          "meaning": "of one with a serene / clear mind"
+        },
+        {
+          "word": "पर्यवतिष्ठते",
+          "transliteration": "paryavatiṣṭhate",
+          "root": "pari + ava + √sthā (to stand, to be established)",
+          "grammatical_form": "Verb, 3rd person singular, present tense",
+          "meaning": "becomes established / becomes firmly steady / settles"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji used to say that people spend their whole lives trying to escape sorrow — running toward pleasure, running away from pain — and yet sorrow follows them like their own shadow. The reason, he said, is that we look for the exit in the wrong place. We try to rearrange the outer world when the answer lies in the quality of the inner world. This verse is Krishna's gentle promise: attain prasāda — that inner serenity of verse 64 — and all sorrow falls away of itself. Not one sorrow here and another there, but sarva-duḥkhānāṃ hāniḥ — the cessation of all sorrows. And then the buddhi, freed from grief and agitation, quickly becomes steady. Dadaji would fold his hands when reciting this verse and say, 'This is the only real medicine. All else is temporary relief.'",
+        "sarvapriyananda": "The logical flow of this verse is impeccable. Prasāda — inner clarity — is not merely pleasant; it is causally efficacious. It destroys all sorrow (sarva-duḥkhānāṃ hāniḥ). From a Vedantic standpoint, sorrow arises from the superimposition of limitation and mortality upon the infinite Self. When the mind is prasanna — clear, unagitated — it is in a condition closer to its own true nature as pure awareness. In that nearness to the Self, the projections of grief and loss do not find purchase. And simultaneously, the buddhi — the discriminating intelligence — becomes firmly established (paryavatiṣṭhate). The word 'āśu' — swiftly — is significant: Vedanta does not promise a distant future result; in the tranquil mind, right understanding dawns quickly. This verse describes the self-reinforcing upward spiral of the spiritual life.",
+        "yogananda": "Yogananda sees in this verse the description of a profound inner alchemy. When the meditating devotee attains that state of prasāda — the joy-saturated calmness that comes in deep meditation — the accumulated karmic impressions that generate suffering begin to dissolve. Yogananda called this the 'cauterizing' effect of divine joy: the bliss of samādhi burns away the seeds of sorrow just as a flame burns seeds so they can no longer sprout. 'Sarva-duḥkhānāṃ hāniḥ' is not a vague promise but a description of spiritual law. The prasanna-cetas — the mind luminous with inner joy — is no longer fertile ground for anguish. And in that joyful clarity, the buddhi finds its natural ground and stands steady. This is why Yogananda taught meditation not as a discipline of suppression but as cultivation of divine joy.",
+        "goyandka": "Goyandaka notes the precise sequence: prasāda (verse 64) leads to the destruction of sorrow (verse 65), which in turn stabilizes the buddhi. This is the Gita's practical psychology laid out step by step. The phrase 'sarva-duḥkhānāṃ hāniḥ' is comprehensive — not merely the reduction of sorrow but its complete cessation. This is because sorrow ultimately has one root: the restless, desire-driven mind. When that restlessness is stilled in prasāda, there is no longer a medium in which sorrow can exist. Goyandaka also emphasizes 'āśu' — quickly or swiftly. The scriptures promise that the seeker who has genuinely attained inner tranquillity does not wait long for steady wisdom; the discrimination between the real and the unreal becomes clear with remarkable speed, because clarity is the mind's natural state once agitation subsides."
+      }
+    },
+    {
+      "verse": 66,
+      "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना ।\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ॥",
+      "transliteration": "nāsti buddhir ayuktasya na cāyuktasya bhāvanā\nna cābhāvayataḥ śāntir aśāntasya kutaḥ sukham",
+      "translation": "There is no wisdom for the unsteady; no meditation for the unsteady; no peace for the one without meditation — and for the unpeaceful, where is happiness?",
+      "audio": "/assets/audio/ch02/verse_02_66.mp3",
+      "word_breakdown": [
+        {
+          "word": "अयुक्तस्य",
+          "transliteration": "ayuktasya",
+          "root": "a (not) + √yuj (to yoke, to unite, to discipline)",
+          "grammatical_form": "Adjective, genitive singular",
+          "meaning": "of the undisciplined / of one not yoked / of the unsteady"
+        },
+        {
+          "word": "भावना",
+          "transliteration": "bhāvanā",
+          "root": "√bhū (to become, to be) causative",
+          "grammatical_form": "Noun, feminine, nominative singular",
+          "meaning": "meditation / contemplation / sustained reflection"
+        },
+        {
+          "word": "अभावयतः",
+          "transliteration": "abhāvayataḥ",
+          "root": "a (not) + bhāvana (contemplating, meditating)",
+          "grammatical_form": "Participle, genitive singular",
+          "meaning": "of one who does not meditate / who does not contemplate"
+        },
+        {
+          "word": "शान्तिः",
+          "transliteration": "śāntiḥ",
+          "root": "√śam (to be calm, to cease)",
+          "grammatical_form": "Noun, feminine, nominative singular",
+          "meaning": "peace / tranquillity / cessation of agitation"
+        },
+        {
+          "word": "कुतः",
+          "transliteration": "kutaḥ",
+          "root": "interrogative particle",
+          "grammatical_form": "Indeclinable interrogative adverb",
+          "meaning": "from where / how / whence"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji loved this verse for its unflinching honesty. He said Krishna here lays out a simple chain: no discipline, no real wisdom; no real wisdom, no meditation; no meditation, no peace; no peace — and this is the final arrow — no happiness. 'Aśāntasya kutaḥ sukham?' Where is happiness for the unpeaceful? Dadaji would pause after that question and let it hang in the air for a long moment. 'Just ask yourself,' he would say softly, 'are you at peace? If not, stop searching for happiness in the next experience, the next achievement, the next relationship. The unpeaceful heart cannot hold happiness even if the whole world is placed in its hands. It leaks out immediately.' This verse, he said, is not a rebuke but an invitation to turn inward.",
+        "sarvapriyananda": "This is one of the most structurally elegant verses in the Gita. Krishna builds a descending chain of negations — each absence causing the next — to demonstrate with cold logic why the undisciplined life is a life of guaranteed misery. Ayuktasya nāsti buddhiḥ: the undisciplined cannot access discriminating wisdom, because the buddhi is clouded by desire and emotion. Without buddhi, bhāvanā — the sustained meditative contemplation that leads to realization — is impossible. Without bhāvanā, śānti does not arise. And without śānti, sukha — lasting happiness — is utterly out of reach. The Vedantic insight here is that happiness is not found; it is uncovered. It is the Self's own nature. But it can only be uncovered in the śānta mind. Every worldly pursuit of happiness that bypasses inner peace is, by this verse's logic, structurally doomed.",
+        "yogananda": "Yogananda explains this verse as a description of the law of spiritual causation. 'Ayukta' means one who is not in yoga — not united with the inner Self through meditation. For such a person, he says, true buddhi — intuitive wisdom that perceives the real — simply does not arise. The ordinary intellect of such a person may be brilliant in worldly matters but remains blind to the deeper Reality. And without that wisdom-perception, the mind cannot sustain the inner contemplation (bhāvanā) that leads to peace. Yogananda often pointed out that no amount of external success, pleasure, or comfort can confer the peace this verse describes. 'Aśāntasya kutaḥ sukham?' — the unquiet soul is restless whether in a palace or a cave. Only yoga — inner union — delivers genuine happiness.",
+        "goyandka": "Goyandaka presents this verse as a rigorous logical syllogism establishing that inner discipline is the only foundation for a meaningful life. The ayukta — the one whose mind is not regulated, not concentrated — lacks buddhi not in the sense of ordinary intelligence but in the specific Gita-sense of the discriminating wisdom that distinguishes the eternal from the transient. This being absent, bhāvanā — the sustained mental dwelling on the Supreme that constitutes true meditation — cannot occur. Without bhāvanā, śānti is impossible; and śānti being absent, sukha — true happiness as opposed to momentary pleasure — cannot exist. Goyandaka emphasizes that 'kutaḥ sukham?' is a rhetorical question that admits no answer: there is simply no happiness for the unpeaceful. This is why the Gita's entire discipline aims first at inner steadiness."
+      }
+    },
+    {
+      "verse": 67,
+      "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते ।\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ॥",
+      "transliteration": "indriyāṇāṃ hi caratāṃ yan mano 'nuvidhīyate\ntad asya harati prajñāṃ vāyur nāvam ivāmbhasi",
+      "translation": "For when the mind follows the wandering senses, it carries away one's wisdom as the wind carries a boat on the waters.",
+      "audio": "/assets/audio/ch02/verse_02_67.mp3",
+      "word_breakdown": [
+        {
+          "word": "इन्द्रियाणाम्",
+          "transliteration": "indriyāṇām",
+          "root": "indriya (sense organ, faculty of Indra)",
+          "grammatical_form": "Noun, neuter, genitive plural",
+          "meaning": "of the senses / of the sense faculties"
+        },
+        {
+          "word": "अनुविधीयते",
+          "transliteration": "anuvidhīyate",
+          "root": "anu (following) + vi + √dhā (to place, to follow)",
+          "grammatical_form": "Verb, 3rd person singular, passive present",
+          "meaning": "follows after / is led by / dances to the tune of"
+        },
+        {
+          "word": "हरति",
+          "transliteration": "harati",
+          "root": "√hṛ (to take, to carry away, to steal)",
+          "grammatical_form": "Verb, 3rd person singular, present tense",
+          "meaning": "carries away / steals / sweeps away"
+        },
+        {
+          "word": "प्रज्ञाम्",
+          "transliteration": "prajñām",
+          "root": "pra + √jñā (to know)",
+          "grammatical_form": "Noun, feminine, accusative singular",
+          "meaning": "wisdom / deep intuitive understanding / discernment"
+        },
+        {
+          "word": "वायुः",
+          "transliteration": "vāyuḥ",
+          "root": "√vā (to blow)",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "wind / air"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji described this verse as a picture painted with just a few words — and what a vivid picture it is. Imagine a boat on dark waters. A strong wind comes. The sailor is helpless; the boat is swept wherever the wind wills. That is the mind that chases the senses. One attractive sight, one appealing sound, one tempting taste — and the mind abandons all it knew, all its spiritual effort, all its hard-won clarity. Prajñā — not just ordinary knowledge but the deep, earned wisdom of spiritual practice — is simply swept away. Dadaji would say, 'The danger is not that the senses are strong. The danger is that the mind volunteers to follow them. It is not kidnapped — it runs.' The cure, he said, is to develop such love for the inner state of peace that the mind simply has no desire to run after the senses.",
+        "sarvapriyananda": "The simile in this verse is one of the Gita's finest: the wind and the boat on water. Notice the precise mechanics Krishna describes. The senses wander — 'caratāṃ' — that is their nature; they are designed to reach outward to their objects. The problem is not the senses wandering; the problem is 'yan mano 'nuvidhīyate' — when the mind follows after them. The mind is the pivot. When the mind goes after the senses, the entire ship of discriminative wisdom is at the mercy of the winds of sense-experience. Prajñā — the Atman-revealing intelligence — is not merely confused; it is carried away (harati). From a Vedanta perspective, this verse explains why mere intellectual knowledge of Vedanta is insufficient for liberation: if the mind is sense-bound, no amount of scriptural learning translates into realization. The mind must first be steadied.",
+        "yogananda": "Yogananda finds in this verse a precise description of what happens to the meditator who has not fully interiorized the mind. In meditation, there are moments of deep calm — and then a sound, a physical sensation, a stray thought connected to a sense impression arises, and the mind races outward. The fragile boat of concentration is blown off course in an instant. He teaches that this is why the progressive stages of Patanjali's yoga — pratyāhāra (withdrawal of senses), dhāraṇā (concentration), and dhyāna (meditation) — must be cultivated step by step. The wind cannot be stopped, but the boat can be anchored. Interiorization through systematic meditation techniques anchors the mind in the spinal centers so deeply that the outer winds of sense-experience lose their power to sweep it away.",
+        "goyandka": "Goyandaka draws attention to the word 'hi' — 'indeed' or 'truly' — with which the verse begins. This particle indicates that the statement is being offered as self-evident truth, a fact of practical experience that every sincere seeker has observed in themselves. The image of the boat swept by wind on water perfectly conveys both the suddenness and the completeness of the loss: prajñā is not merely obscured but carried away (harati). Goyandaka also notes that this verse explains why the previous verse spoke of no bhāvanā for the undisciplined: once the wind-mind follows the senses, all possibility of sustained contemplation is destroyed. The cure is the practice described in verse 64 — bringing the senses under the dominion of the Self — and the result is the prasāda of verse 65. These verses form a tightly interlocked teaching."
+      }
+    },
+    {
+      "verse": 68,
+      "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः ।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ॥",
+      "transliteration": "tasmād yasya mahā-bāho nigṛhītāni sarvaśaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā",
+      "translation": "Therefore, O mighty-armed, he whose senses are completely withdrawn from sense objects in every way — his wisdom is firmly established.",
+      "audio": "/assets/audio/ch02/verse_02_68.mp3",
+      "word_breakdown": [
+        {
+          "word": "निगृहीतानि",
+          "transliteration": "nigṛhītāni",
+          "root": "ni + √grah (to seize, to restrain, to hold)",
+          "grammatical_form": "Past passive participle, neuter, nominative plural",
+          "meaning": "completely restrained / fully withdrawn / firmly held back"
+        },
+        {
+          "word": "सर्वशः",
+          "transliteration": "sarvaśaḥ",
+          "root": "sarva (all, every)",
+          "grammatical_form": "Adverb (derived from adjective)",
+          "meaning": "in every way / completely / from all sides"
+        },
+        {
+          "word": "इन्द्रियार्थेभ्यः",
+          "transliteration": "indriyārthebhyaḥ",
+          "root": "indriya (senses) + artha (object, purpose)",
+          "grammatical_form": "Compound noun, neuter, ablative plural",
+          "meaning": "from sense objects / from the objects of the senses"
+        },
+        {
+          "word": "प्रतिष्ठिता",
+          "transliteration": "pratiṣṭhitā",
+          "root": "prati + √sthā (to stand, to be established)",
+          "grammatical_form": "Past passive participle, feminine, nominative singular",
+          "meaning": "firmly established / steadily grounded / well-settled"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji called this verse 'the positive conclusion' — after warning us about what happens when senses run wild, Krishna now states directly what steady wisdom looks like. The word 'sarvaśaḥ' — in every way, completely — is what Dadaji always highlighted. He said, 'Not the senses withdrawn from most objects. Not the senses withdrawn sometimes. Sarvaśaḥ — completely.' He would smile and add: 'This is not cruelty to the senses. It is freedom from being a slave to them.' And 'mahā-bāho' — mighty-armed — is not accidental. Krishna addresses the warrior in Arjuna, recognizing the enormous strength required for this inner battle. The one who achieves it earns the real title of hero: not the hero of the battlefield, but the hero of the inner life, whose prajñā is firmly established like a lamp in a windless place.",
+        "sarvapriyananda": "This verse is the positive counterpart to verse 67 and the logical conclusion of this entire section. 'Tasmāt' — therefore — connects directly to the preceding teaching: because an uncontrolled mind loses all wisdom, therefore the one who has controlled the senses finds wisdom fully established. 'Nigṛhītāni sarvaśaḥ' — withdrawn completely — suggests not selective or partial restraint but a total reorientation of the cognitive apparatus. The senses are withdrawn from 'indriyārtha' — their objects — meaning the mind-sense complex is no longer outward-reaching but has turned toward the Self. In Vedantic terms this is pratyāhāra fully accomplished. Prajñā pratiṣṭhitā — established wisdom — refers to the buddhi that now abides in its own source, the Ātman, rather than being dispersed across sense objects. This is the sthita-prajña of the Gita.",
+        "yogananda": "Yogananda sees in this verse the fruit of the deep meditative practice he called 'interiorization.' 'Nigṛhītāni sarvaśaḥ' — the senses completely restrained — corresponds to the advanced stages of meditation in which the life-force is actually withdrawn from the sensory nerves and gathered at the spinal centers. In this state, the outer world simply does not impinge upon consciousness; the meditator has, as Yogananda described, 'pulled the telephones out of their sockets.' What remains is the pure luminosity of the Self, and in that luminosity, prajñā — intuitive wisdom — stands firmly established. This is not unconsciousness but superconscious awareness. Yogananda taught that Kriya Yoga was specifically designed to achieve this complete withdrawal and the lasting wisdom it produces.",
+        "goyandka": "Goyandaka observes that this verse completes a carefully constructed argument spanning verses 62 through 68. Verse 62 described how desire arises from dwelling on sense objects; verses 63–67 traced the cascading consequences; verse 68 now declares the way out and the reward. The word 'nigṛhītāni' — restrained — should be understood in the context of the full Gita teaching: this restraint is not achieved by brute force (which Krishna elsewhere says merely suppresses the senses while the mind still dwells on objects) but by the higher detachment that comes from God-realization. 'Sarvaśaḥ' — in all respects — indicates that no loophole is left: not one sense, not one type of object, remains a conduit for distraction. The result is prajñā pratiṣṭhitā — wisdom that stands as unshakeably as a mountain."
+      }
+    },
+    {
+      "verse": 69,
+      "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ॥",
+      "transliteration": "yā niśā sarva-bhūtānāṃ tasyāṃ jāgarti saṃyamī\nyasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ",
+      "translation": "That which is night for all beings is the time of waking for the self-controlled. That which all beings are awake to is night for the seeing sage.",
+      "audio": "/assets/audio/ch02/verse_02_69.mp3",
+      "word_breakdown": [
+        {
+          "word": "निशा",
+          "transliteration": "niśā",
+          "root": "niś (night, darkness)",
+          "grammatical_form": "Noun, feminine, nominative singular",
+          "meaning": "night / darkness / ignorance (metaphorically)"
+        },
+        {
+          "word": "जागर्ति",
+          "transliteration": "jāgarti",
+          "root": "√jāgṛ (to be awake, to be vigilant)",
+          "grammatical_form": "Verb, 3rd person singular, present tense",
+          "meaning": "is awake / is vigilant / watches"
+        },
+        {
+          "word": "संयमी",
+          "transliteration": "saṃyamī",
+          "root": "sam + √yam (to restrain, to control)",
+          "grammatical_form": "Noun/adjective, masculine, nominative singular",
+          "meaning": "the self-restrained one / the disciplined one"
+        },
+        {
+          "word": "पश्यतः",
+          "transliteration": "paśyataḥ",
+          "root": "√paś (to see, to perceive)",
+          "grammatical_form": "Present participle, genitive singular",
+          "meaning": "of the one who sees / of the seer"
+        },
+        {
+          "word": "मुनेः",
+          "transliteration": "muneḥ",
+          "root": "√man (to think) or muna (silence)",
+          "grammatical_form": "Noun, masculine, genitive singular",
+          "meaning": "of the sage / of the silent wise one"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji said this is one of the most beautiful verses in all of scripture — a single couplet that contains an entire universe of meaning. He would close his eyes after reciting it. 'Think about it,' he would say. 'The world is wide awake to things: money, status, pleasure, fear, competition. The sage looks at all this and sees — night. Darkness. Not even real. And the world looks at what the sage is awake to — silence, the Self, the eternal Presence — and sees nothing, emptiness, a kind of madness or irrelevance. Two beings walking the same earth, living in completely different worlds.' He said this verse is not a condemnation of ordinary people. It is simply an honest description of how completely different the two orientations of consciousness are. 'Paśyato muneḥ' — the seeing sage — sees what others cannot.",
+        "sarvapriyananda": "This is perhaps the most philosophically concentrated verse in the second chapter. It describes the complete inversion of values between ordinary consciousness and the awakened sage's vision. For all beings (sarva-bhūtānām) the ultimate Reality — the Ātman, pure Awareness — is like night: they simply cannot see it, are asleep to it, unaware of its existence. But the saṃyamī — the self-controlled one — is fully awake in precisely that realm of pure consciousness that the world sleeps through. Conversely, the world of name, form, pleasure, and achievement that ordinary beings are keenly awake to — the saṃsāra — is night for the paśyato muniḥ, the seeing sage. He is not merely indifferent to it; it has become phenomenologically dim, like a dream recollected after waking. This verse encapsulates the Vedantic teaching that the waking state of the world is itself a form of collective ignorance.",
+        "yogananda": "Yogananda calls this verse a perfect description of the two states of consciousness — cosmic ignorance and cosmic wakefulness — that the Gita's entire teaching is designed to distinguish. The 'night' of the Self — the realm of pure Spirit, of ānanda, of the God within — is utterly dark and impenetrable to the sense-bound mind. But the meditator who has turned his consciousness inward through kriyā and praṇāyāma finds himself awake in a luminous inner world, while the noisy, colorful, seemingly vivid world of the senses has become shadowy and unreal. Yogananda taught his students to seek that reversal — to become, through daily meditation, increasingly 'asleep' to the world's distractions and increasingly 'awake' to the ever-present bliss of the inner Self. The verse is both a description and an encouragement.",
+        "goyandka": "Goyandaka explains this verse through the lens of viveka — discrimination between the real and the unreal. The 'night' and 'wakefulness' are not literal but refer to two fundamentally different orientations of consciousness. For the ordinary person, the empirical world of pleasure and pain is vivid, real, and fully illuminated — they are wide awake to it. But the transcendent Self, pure and eternal, is 'night' to them — invisible, unperceived, beyond their experience. The saṃyamī — the disciplined seeker established in the Self — has the opposite perception: worldly objects and experiences have lost their vivid fascination (they have become 'night'), while the Self shines with undeniable luminosity (he is fully 'awake' in it). This is the meaning of brahma-niṣṭhā: being established in Brahman so completely that the world's spell is broken."
+      }
+    },
+    {
+      "verse": 70,
+      "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं\nसमुद्रमापः प्रविशन्ति यद्वत् ।\nतद्वत्कामा यं प्रविशन्ति सर्वे\nस शान्तिमाप्नोति न कामकामी ॥",
+      "transliteration": "āpūryamāṇam acala-pratiṣṭhaṃ\nsamudram āpaḥ praviśanti yadvat\ntadvat kāmā yaṃ praviśanti sarve\nsa śāntim āpnoti na kāma-kāmī",
+      "translation": "As all waters flow into the ocean — which is ever full and remains unmoved — so the person into whom all desires enter without disturbing him attains peace; not the one who craves desires.",
+      "audio": "/assets/audio/ch02/verse_02_70.mp3",
+      "word_breakdown": [
+        {
+          "word": "आपूर्यमाणम्",
+          "transliteration": "āpūryamāṇam",
+          "root": "ā + √pṛ (to fill completely)",
+          "grammatical_form": "Present passive participle, accusative singular",
+          "meaning": "being continually filled / ever-full / receiving all waters"
+        },
+        {
+          "word": "अचलप्रतिष्ठम्",
+          "transliteration": "acala-pratiṣṭham",
+          "root": "a (not) + √cal (to move) + prati + √sthā (to stand)",
+          "grammatical_form": "Compound adjective, accusative singular",
+          "meaning": "unmoved / whose foundation is unshakeable / immovably established"
+        },
+        {
+          "word": "कामाः",
+          "transliteration": "kāmāḥ",
+          "root": "√kam (to desire, to love)",
+          "grammatical_form": "Noun, masculine, nominative plural",
+          "meaning": "desires / sense cravings / longings"
+        },
+        {
+          "word": "शान्तिम्",
+          "transliteration": "śāntim",
+          "root": "√śam (to be calm, to subside)",
+          "grammatical_form": "Noun, feminine, accusative singular",
+          "meaning": "peace / tranquillity / the supreme calm"
+        },
+        {
+          "word": "कामकामी",
+          "transliteration": "kāma-kāmī",
+          "root": "kāma (desire) + kāmin (one who desires)",
+          "grammatical_form": "Compound noun, masculine, nominative singular",
+          "meaning": "one who craves desires / the desirer of desires"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji said this verse stopped him in his tracks the very first time he heard it as a young man. The image is staggering: the ocean. Rivers pour into it from every direction, all day and all night, year after year, century after century — and the ocean does not overflow, does not become restless, does not jump up in excitement and say 'more, more!' It simply receives all of it and remains what it is: full, vast, unmoved. This is the inner life of the wise. Desires — the rivers of the world — do enter. Krishna does not say the sage has no desires entering him. He says the desires enter him as rivers enter the ocean: they disappear into him without disturbing him. The kāma-kāmī — the one who runs after desires — cannot be at peace, because every satisfied desire only reveals another. But the ocean-like sage is already full. He has nothing to seek.",
+        "sarvapriyananda": "The ocean simile is one of the most magnificent in all of Sanskrit literature, and its theological depth is extraordinary. Notice that Krishna does not describe a sage from whom desires are absent — he describes one into whom all desires (sarve kāmāḥ) enter (praviśanti). The sage is not desire-less in the sense of being a dry, affectless being. He is desire-less in the sense of being so completely full — āpūryamāṇam — that nothing can overflow him, nothing can displace him from his center. From a Vedantic standpoint, this fullness is the natural condition of the Ātman, which is pūrṇa — infinite and complete. The sage who has realized the Ātman simply is that ocean. Desires arise in the mind — as rivers must flow — but they do not touch the Self. 'Acala-pratiṣṭham' — his foundation is unmoving. The kāma-kāmī, by contrast, is like a small pond that overflows with every new stream and dries up with every drought.",
+        "yogananda": "Yogananda considers this one of the most practically instructive verses for the meditator. He points out that the ocean is not empty — it is 'āpūryamāṇam,' continually being filled, ever-full. The sage is not a void but a being filled with divine bliss — ānanda. Because he is already full of the joy of God, the pleasures and enticements of the world flow into his awareness and are absorbed without creating ripples. Yogananda taught that this is the actual experience of advanced meditation: when the soul is brimful with inner divine joy, sense pleasures simply lose their drawing power — not because of willpower or suppression, but because a greater, more satisfying fullness already exists within. The kāma-kāmī runs after desires precisely because he is inwardly empty, perpetually thirsting. The yogī, full with God-contact, is the ocean that the rivers of desire cannot disturb.",
+        "goyandka": "Goyandaka explains that the verse contains a crucial distinction: 'kāmāḥ praviśanti' — desires enter — versus 'kāma-kāmī' — the one who actively pursues desires. The wise person cannot prevent desires from arising in the mind; the impressions (saṃskāras) and the contact of senses with objects will produce mental movements. But there is a fundamental difference between thoughts of desire arising and the person rushing after them. The ocean does not chase the rivers; the rivers come to it. Similarly, the sthita-prajña does not pursue desires; if they arise, they dissolve in the vast fullness of his equanimity without producing agitation. 'Na kāma-kāmī' — not the one who hankers after desires — is the pointed conclusion: chasing desires cannot bring peace because the very act of chasing presupposes and perpetuates a sense of lack."
+      }
+    },
+    {
+      "verse": 71,
+      "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः ।\nनिर्ममो निरहङ्कारः स शान्तिमधिगच्छति ॥",
+      "transliteration": "vihāya kāmān yaḥ sarvān pumāṃś carati niḥspṛhaḥ\nnirmamo nirahaṃkāraḥ sa śāntim adhigacchati",
+      "translation": "The man who abandons all desires and moves about without longing, without the sense of mine, and without ego — he attains peace.",
+      "audio": "/assets/audio/ch02/verse_02_71.mp3",
+      "word_breakdown": [
+        {
+          "word": "विहाय",
+          "transliteration": "vihāya",
+          "root": "vi + √hā (to abandon, to leave behind)",
+          "grammatical_form": "Indeclinable past participle (gerund)",
+          "meaning": "having abandoned / having cast aside / relinquishing"
+        },
+        {
+          "word": "निःस्पृहः",
+          "transliteration": "niḥspṛhaḥ",
+          "root": "nis (without) + spṛhā (longing, craving)",
+          "grammatical_form": "Adjective, masculine, nominative singular",
+          "meaning": "free from longing / without craving / desireless"
+        },
+        {
+          "word": "निर्ममः",
+          "transliteration": "nirmamaḥ",
+          "root": "nis (without) + mama (mine, of me)",
+          "grammatical_form": "Adjective, masculine, nominative singular",
+          "meaning": "without sense of mine / free from possessiveness"
+        },
+        {
+          "word": "निरहङ्कारः",
+          "transliteration": "nirahaṃkāraḥ",
+          "root": "nis (without) + ahaṃkāra (I-making, ego-sense)",
+          "grammatical_form": "Adjective, masculine, nominative singular",
+          "meaning": "without ego / free from the I-making faculty"
+        },
+        {
+          "word": "अधिगच्छति",
+          "transliteration": "adhigacchati",
+          "root": "adhi + √gam (to go, to attain)",
+          "grammatical_form": "Verb, 3rd person singular, present tense",
+          "meaning": "attains / reaches / arrives at"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji said that this verse gives us three keys, and all three doors must be opened together: no longing (niḥspṛha), no sense of mine (nirmama), and no ego (nirahaṃkāra). He explained it like this: spṛhā is the reaching toward — the heart stretching out for something it does not yet have. Mamata is the clutching — this is mine, I must keep it. And ahaṃkāra is the one who is doing both the reaching and the clutching: the false 'I,' the small self that has claimed a life, a body, relationships, and achievements as its own. When all three fall away — not by force but by genuine understanding — what remains? The self that was never bound. The peace (śānti) that was always there beneath the noise. Dadaji used to say: 'We do not attain peace. We simply stop disturbing it.'",
+        "sarvapriyananda": "This verse gives the complete portrait of the liberated being in purely negative terms — not as a description of what the sage possesses, but of what he has shed. 'Vihāya kāmān sarvān' — having abandoned all desires — is not the suppression of desires but their natural falling away when the Self is known. Vedanta explains: desires arise because we believe we lack something. When the Ātman — which is pūrṇa, infinite fullness — is realized, lack becomes impossible, and desire has no foothold. 'Nirmama' — without mine — addresses the possessive superimposition: the ego's tendency to extend itself into objects and relationships and claim them as 'mine.' 'Nirahaṃkāra' is the deepest: the ahaṃkāra itself — the 'I am this body-mind' identification — is dissolved. Without these three false constructs, the natural peace of the Self, which was always present but obscured, stands revealed.",
+        "yogananda": "Yogananda points out that the sequence in this verse is instructive. 'Vihāya' — having abandoned — comes first, indicating an act of inner renunciation. But this is not the grim self-denial of the ascetic; it is the natural release that occurs when one has found something infinitely more satisfying within. When divine bliss is contacted in meditation, desires are not suppressed — they are outgrown. 'Niḥspṛhaḥ' — without longing — describes the heart that has drunk so deeply from the inner wellspring of ānanda that it has lost its thirst for outer stimulation. 'Nirmama' and 'nirahaṃkāra' describe the progressive dissolution of the ego's two most fundamental operations: claiming (this is mine) and being (I am this). When both operations cease, what Yogananda called the soul's innate peace — ever-existing, ever-conscious, ever-new bliss — stands alone.",
+        "goyandka": "Goyandaka comments that this verse is the most concise positive prescription for liberation in the chapter thus far. 'Vihāya kāmān sarvān' — all desires without exception, not merely gross desires but subtle ones too, including the desire for liberation if it carries the flavor of ego-motivated seeking. The three qualifiers — niḥspṛha, nirmama, nirahaṃkāra — represent the threefold dissolution of the ego's architecture: its craving (spṛhā), its possessiveness (mamata), and its very existence as a separate self (ahaṃkāra). Goyandaka notes that these are not three separate practices but three aspects of one inner transformation. When through sādhanā the ego's hold weakens — through devotion, discrimination, and surrender — all three fall away together, and śānti, the peace of the Self, is naturally adhigacchati, attained. This verse bridges the description of the sage's peace (verse 70) with the supreme declaration of verse 72."
+      }
+    },
+    {
+      "verse": 72,
+      "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति ।\nस्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ॥",
+      "transliteration": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati\nsthitvāsyām anta-kāle 'pi brahma-nirvāṇam ṛcchati",
+      "translation": "This, O Partha, is the brahmi-sthiti — the state established in Brahman. Having attained it, one is no longer deluded. Even established in it at the time of death, one attains brahma-nirvāṇa — absorption in Brahman.",
+      "audio": "/assets/audio/ch02/verse_02_72.mp3",
+      "word_breakdown": [
+        {
+          "word": "ब्राह्मी स्थितिः",
+          "transliteration": "brāhmī sthitiḥ",
+          "root": "brahman (the Absolute) + sthiti (standing, established state)",
+          "grammatical_form": "Compound noun, feminine, nominative singular",
+          "meaning": "the state of being established in Brahman / Brahman-consciousness"
+        },
+        {
+          "word": "विमुह्यति",
+          "transliteration": "vimuhyati",
+          "root": "vi + √muh (to be deluded, to be confused, to faint)",
+          "grammatical_form": "Verb, 3rd person singular, present tense",
+          "meaning": "is deluded / becomes confused / falls into delusion"
+        },
+        {
+          "word": "अन्तकाले",
+          "transliteration": "anta-kāle",
+          "root": "anta (end) + kāla (time)",
+          "grammatical_form": "Compound noun, masculine, locative singular",
+          "meaning": "at the time of death / at the final moment / at life's end"
+        },
+        {
+          "word": "ब्रह्मनिर्वाणम्",
+          "transliteration": "brahma-nirvāṇam",
+          "root": "brahman (the Absolute) + nirvāṇa (extinction, liberation, blowing out of ego)",
+          "grammatical_form": "Compound noun, neuter, accusative singular",
+          "meaning": "liberation in Brahman / absorption into the Absolute / complete extinction of ego in the Divine"
+        },
+        {
+          "word": "ऋच्छति",
+          "transliteration": "ṛcchati",
+          "root": "√ṛ (to go, to attain, to reach)",
+          "grammatical_form": "Verb, 3rd person singular, present tense",
+          "meaning": "attains / reaches / arrives at"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji's eyes would fill with tears when he recited this verse. He called it 'the seal of the Gita's second chapter — and the seal is made of pure gold.' From verse 11, where Krishna began His teaching with 'the wise grieve not for the living or the dead,' all the way through the ocean-like sage, the night-and-day vision, the three inner freedoms — it all culminates here. Eṣā brāhmī sthitiḥ: THIS is it. This is the state established in Brahman that all the teaching has been pointing toward. And two promises are sealed in it. First: naināṃ prāpya vimuhyati — having reached it, you will not be deluded again. Not confused, not lost, not tossed by grief and fear as Arjuna was at the chapter's opening. And second — the supreme gift — even if you only reach this state at the very moment of death, you attain brahma-nirvāṇa: the final merging, the homecoming that knows no return to sorrow. 'It is all right,' Dadaji used to say. 'Even at the last breath — if this state is touched — everything is all right.'",
+        "sarvapriyananda": "With 'eṣā brāhmī sthitiḥ,' the second chapter of the Gita closes in the most complete way possible. 'This' — eṣā — refers to everything described in the preceding verses: the state of the sthita-prajña, the ocean-like equanimity, the withdrawal of the senses, the abandonment of ego and possessiveness, the wakefulness in the night of the Self. All of it together constitutes the brāhmī sthiti — the state of abidance in Brahman. The word 'sthiti' is crucial: it is not a temporary experience but a stable establishment, a permanent dwelling. The Vedantic reading is profound: this verse does not promise the future attainment of something not yet present. It reveals that Brahman — one's own true nature — was always the case; the brāhmī sthiti is the recognition of what eternally is. 'Naināṃ prāpya vimuhyati' — once this recognition is firm, delusion cannot return. And 'brahma-nirvāṇam' — Brahman-extinction — is not annihilation but the extinguishing of the false self in the fire of the true Self: the drop recognizing itself as the ocean.",
+        "yogananda": "Yogananda calls this verse the 'victory proclamation' of the second chapter and meditates on it as containing the entire teaching of the Gita in seed form. 'Brāhmī sthitiḥ' — established in Brahman — is the state Yogananda described as the final goal of all his spiritual teaching: the continuous, unbroken awareness of one's identity with the Divine, not merely in peak meditation experiences but as a stable condition of daily consciousness. 'Naināṃ prāpya vimuhyati' carries immense significance for Yogananda: he taught that the greatest terror of human life is the fear of death and the fear of meaninglessness — both are expressions of moha, delusion. The sage in brāhmī sthiti is immune to both. He has seen through the illusion of separateness, and death — which is merely the dissolution of the temporary body — holds no sting. Most beautifully, 'anta-kāle 'pi' — even at the time of death — affirms that it is never too late. Even the dying person who in their final moment achieves this inner establishment is liberated completely. This is the Gita's supreme mercy, sealed at the close of its second chapter.",
+        "goyandka": "Goyandaka regards this final verse as the crown jewel of the Gita's second chapter and one of the most important individual verses in the entire scripture. 'Eṣā' — this — looks backward across the entire teaching from verse 55 onward: the portrait of the sthita-prajña, his equanimity in pleasure and pain, his tortoise-like withdrawal of the senses, his non-attachment, his ocean-like fullness, his inversion of the world's waking and sleeping. All of this constitutes the brāhmī sthiti. Goyandaka notes that 'naināṃ prāpya vimuhyati' is absolute and unqualified: upon reaching this state, delusion does not merely diminish — it ceases. The Gita's first chapter opened with Arjuna's total delusion (viṣāda); this verse closes Chapter 2 by announcing that delusion can be permanently ended. And the final phrase — 'brahma-nirvāṇam ṛcchati' — is the ultimate promise of the Gita: liberation, mokṣa, the absorption of the individual self into the infinite Brahman. Goyandaka emphasizes that 'anta-kāle 'pi' — even at the moment of death — shows the infinite grace of the teaching: no spiritual work is wasted, and even a deathbed establishment in this state is sufficient for the final liberation. This verse is both the conclusion of Sāṃkhya Yoga and the seed of all that follows in the remaining sixteen chapters."
+      }
+    }
+  ]
+}

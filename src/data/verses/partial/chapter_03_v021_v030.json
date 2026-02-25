@@ -1,0 +1,512 @@
+{
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 21,
+      "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥",
+      "transliteration": "yad yad ācarati śreṣṭhas tat tad evetaro janaḥ\nsa yat pramāṇaṃ kurute lokas tad anuvartate",
+      "translation": "Whatever a great person does, that very thing other people also do. Whatever standard he sets, the world follows.",
+      "audio": "/assets/audio/ch03/verse_03_21.mp3",
+      "word_breakdown": [
+        {
+          "word": "यद्यद्",
+          "transliteration": "yad yad",
+          "root": "yad (relative pronoun)",
+          "grammatical_form": "Pronoun, neuter, nominative-accusative, singular — repeated for emphasis",
+          "meaning": "whatever / whatsoever"
+        },
+        {
+          "word": "आचरति",
+          "transliteration": "ācarati",
+          "root": "√car (to move, to act) — with prefix ā-",
+          "grammatical_form": "Verb, ātmanepada, present tense, 3rd person singular",
+          "meaning": "acts / practises / behaves / conducts"
+        },
+        {
+          "word": "श्रेष्ठः",
+          "transliteration": "śreṣṭhaḥ",
+          "root": "√śrī (to be excellent) — superlative",
+          "grammatical_form": "Adjective / noun, masculine, nominative, singular",
+          "meaning": "the great person / the best / the foremost one"
+        },
+        {
+          "word": "प्रमाणम्",
+          "transliteration": "pramāṇam",
+          "root": "√mā (to measure) — with prefix pra-",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "the standard / the authority / the measure / the criterion"
+        },
+        {
+          "word": "अनुवर्तते",
+          "transliteration": "anuvartate",
+          "root": "√vṛt (to exist, to move) — with prefix anu-",
+          "grammatical_form": "Verb, ātmanepada, present tense, 3rd person singular",
+          "meaning": "follows / conforms to / pursues in like manner"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Krishna reveals the profound responsibility borne by every elevated soul. The great person is not merely an individual — he is a living scripture for the world. His every act becomes a template that lesser-evolved souls, lacking inner discrimination, eagerly imitate. This is not mere social observation; it is a cosmic law. The guru, the elder, the sage — each sets a pramāṇa, a living standard of measure. Krishna is pointing gently at Himself: if the Lord of all worlds were to act lazily or abandon duty, the consequences would be catastrophic. The teaching carries a personal note for Arjuna too: as a Kshatriya chieftain, his surrender on the battlefield would give permission to thousands to similarly abandon their dharma. We become, whether we like it or not, examples. Let the example then be worthy.",
+        "sarvapriyananda": "Swami Sarvapriyananda draws attention to the sociological depth of this verse. Human beings are fundamentally imitative creatures — we learn by watching, and we validate our choices by seeing others make them. The word śreṣṭha means not just 'superior' but the person who is looked up to, whose opinion carries pramāṇa — authority and proof. Krishna uses this observation to lay the groundwork for His own explanation of why He, the unborn, boundless Self, still acts. The wise must act with full awareness that their actions will be magnified and replicated by others. This is why the Gītā insists that wisdom must express itself in engaged, exemplary action — not in passive withdrawal, which would itself set a dangerous precedent for society.",
+        "yogananda": "Paramahansa Yogananda saw in this verse the eternal truth that evolution of consciousness spreads through living examples more powerfully than through words. The Christ, the Buddha, the great yogis — they acted in the world not because they needed to, but because their actions created magnetic channels through which others could follow toward liberation. The śreṣṭha is one whose inner realisation has become outwardly visible in every gesture, every choice. Yogananda taught that a true spiritual teacher is not someone who merely lectures on God but one who has become a living demonstration of divine law. The pramāṇa such a one sets is not a rule imposed from outside but a radiant pattern woven into reality itself, drawing aspirants naturally toward the light.",
+        "goyandka": "Shri Jayadayal Goyandka notes that this verse establishes loka-saṃgraha — the holding together of the world — as a sacred duty of the wise. Society does not primarily follow ideas; it follows persons. When a person of stature acts carelessly, wrongly, or in contradiction to dharma, the ordinary person feels licensed to do the same. Conversely, the mahātmā's disciplined life quietly elevates the moral atmosphere of countless surrounding lives. Goyandka emphasises that this verse is also a warning: one who has realised the Self cannot claim that his outer life is irrelevant. Having attained inner freedom, he must manifest it responsibly, as a lamp that is lit does not hide its flame but illuminates the room."
+      }
+    },
+    {
+      "verse": 22,
+      "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥",
+      "transliteration": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana\nnānavāptam avāptavyaṃ varta eva ca karmaṇi",
+      "translation": "For Me, O Partha, there is nothing whatsoever to be done in all three worlds; there is nothing unattained that needs to be attained — yet I continue to engage in action.",
+      "audio": "/assets/audio/ch03/verse_03_22.mp3",
+      "word_breakdown": [
+        {
+          "word": "कर्तव्यम्",
+          "transliteration": "kartavyam",
+          "root": "√kṛ (to do) — gerundive",
+          "grammatical_form": "Gerundive, neuter, nominative, singular",
+          "meaning": "what ought to be done / duty / obligation"
+        },
+        {
+          "word": "त्रिषु लोकेषु",
+          "transliteration": "triṣu lokeṣu",
+          "root": "tri (three) + √lok (to shine, to see)",
+          "grammatical_form": "Numeral + Noun, masculine, locative, plural",
+          "meaning": "in the three worlds (earth, heaven, and the intermediate realm)"
+        },
+        {
+          "word": "अनवाप्तम्",
+          "transliteration": "anavāptam",
+          "root": "√āp (to obtain) — with prefix an- (negation) + ava-",
+          "grammatical_form": "Past passive participle, neuter, nominative, singular",
+          "meaning": "unattained / not yet obtained / not yet gained"
+        },
+        {
+          "word": "अवाप्तव्यम्",
+          "transliteration": "avāptavyam",
+          "root": "√āp (to obtain) — gerundive with prefix ava-",
+          "grammatical_form": "Gerundive, neuter, nominative, singular",
+          "meaning": "that which needs to be attained / worth obtaining"
+        },
+        {
+          "word": "वर्ते",
+          "transliteration": "varte",
+          "root": "√vṛt (to exist, to continue, to engage)",
+          "grammatical_form": "Verb, ātmanepada, present tense, 1st person singular",
+          "meaning": "I continue / I remain engaged / I persist"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here Krishna makes the most extraordinary personal disclosure of the entire Gītā. He who holds all three worlds in being, He for whom nothing remains to be gained — He yet acts. This is the mystery of the divine līlā. Dadaji taught that this verse strips away every possible selfish motive from the Lord's action, and in doing so, presents the purest model of karma yoga. The Lord acts not from need, not from desire, not from compulsion — but purely as an expression of His nature. This is precisely the standard Krishna sets for the liberated human being: act not because you must, not because you want, but because action arising from pure Being is itself an act of love. The knower of Brahman, like Krishna, has nothing to achieve — yet for the sake of the world, he continues.",
+        "sarvapriyananda": "Swami Sarvapriyananda highlights the philosophical precision of this verse. Krishna distinguishes between two possible reasons for action: duty (kartavya) and desire for gain (avāptavya). He has neither. Yet He acts — varta eva. This 'eva' carries tremendous weight: 'nevertheless,' 'even so,' 'assuredly.' The liberated being's action is not a contradiction but a mystery rooted in pure compassion. Vedanta teaches that the jīvanmukta, the one liberated while alive, does not merely sit in absorption but continues to be active in the world. His activity is not driven by saṃskāras or ego but flows effortlessly like a river that has reached the sea and yet keeps flowing for the benefit of all who dwell on its banks.",
+        "yogananda": "Yogananda saw in this verse a revelation of divine immanence. God is not a remote, retired Creator who set the universe in motion and then withdrew. God is perpetually active — sustaining every atom, guiding every consciousness — not out of any unfulfilled longing but out of the infinite fullness of divine Love. The man of God-realisation shares in this quality: having dissolved the personal ego in the Infinite, whatever action flows through him is God's action. Yogananda wrote that the true yogi does not retire from the world to protect his realisation; he moves through the world as an instrument of the divine will, free of personal agenda, acting because Love itself is inexhaustibly active. This is the essence of being a channel for God.",
+        "goyandka": "Goyandka explains that this verse answers the natural question: if Krishna is the Supreme, what could possibly motivate Him to act? The answer is — nothing personal. Neither duty owed to a higher authority (there is none) nor any gap between what He has and what He desires (there is none). This is the hallmark of the perfectly free agent: action without necessity, service without compulsion. Goyandka uses this to illuminate the meaning of niṣkāma karma — desireless action. It does not mean inaction; it means action from which the gravitational pull of personal gain has been entirely removed. Only the Lord exhibits this in perfect fullness; the sādhaka moves toward it as his ego progressively dissolves in the practice of surrender."
+      }
+    },
+    {
+      "verse": 23,
+      "sanskrit": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥",
+      "transliteration": "yadi hy ahaṃ na varteyaṃ jātu karmaṇy atandritaḥ\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ",
+      "translation": "For if I should ever cease to engage tirelessly in action, O Partha, people everywhere would follow My path.",
+      "audio": "/assets/audio/ch03/verse_03_23.mp3",
+      "word_breakdown": [
+        {
+          "word": "अतन्द्रितः",
+          "transliteration": "atandritaḥ",
+          "root": "tandrā (languor, sloth) — with prefix a- (negation)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "without sloth / tirelessly / with unceasing diligence"
+        },
+        {
+          "word": "वर्त्म",
+          "transliteration": "vartma",
+          "root": "√vṛt (to move, to turn) — noun",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "path / track / road / way of conduct"
+        },
+        {
+          "word": "अनुवर्तन्ते",
+          "transliteration": "anuvartante",
+          "root": "√vṛt (to move) — with prefix anu-",
+          "grammatical_form": "Verb, ātmanepada, present tense, 3rd person plural",
+          "meaning": "they follow / they trace after / they conform to"
+        },
+        {
+          "word": "सर्वशः",
+          "transliteration": "sarvaśaḥ",
+          "root": "sarva (all)",
+          "grammatical_form": "Indeclinable adverb",
+          "meaning": "entirely / everywhere / in every way / universally"
+        },
+        {
+          "word": "जातु",
+          "transliteration": "jātu",
+          "root": "jātu (an emphatic particle)",
+          "grammatical_form": "Indeclinable particle",
+          "meaning": "ever / at any time / by any chance"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Krishna continues His self-disclosure with remarkable candour. Were He — the very source of dharma — to become languid and cease action, that example of inaction would cascade through all humanity. Dadaji noted that this is not a hypothetical fear but a cosmic principle: the vibrational field set by an awakened being is far more powerful than any preaching. If Krishna, who has realised all, rested in silence and withdrawal, every sincere aspirant watching would feel justified in doing the same. The word atandritaḥ — 'without sloth, without torpor' — is particularly striking: even God is described as tireless. The divine does not rest. In this lies the rebuke to all who use 'spiritual peace' as a cover for comfortable inertia.",
+        "sarvapriyananda": "Swami Sarvapriyananda draws out the structural logic of these three verses (21-23) as a connected argument. Verse 21 establishes the sociological law of imitation. Verse 22 establishes that Krishna has no personal motive. Verse 23 applies both to explain why He must nevertheless act. The word atandritaḥ adds a quality to the action: it is not reluctant or mechanical but vigorous and fully engaged. This is significant for the karma yogi: the teaching is not merely to act, but to act with complete, undivided energy — bringing to one's appointed work the same wholeness that God brings to the sustaining of creation. Half-hearted action in the name of detachment is not karma yoga.",
+        "yogananda": "Yogananda's commentary on this verse focuses on the concept of spiritual authority. The liberated teacher's choices carry immense weight — not because his followers are blindly obedient but because the disciple's instinct correctly perceives that the guru's life reveals what is ultimately true. If such a one chose passivity, it would be read as a divine endorsement of retreat from life. Yogananda himself remained phenomenally active until his last breath, travelling, writing, teaching, building institutions — not from ego-drive but precisely because he understood this principle. The message of his life was: realisation does not remove you from the world; it makes you more lovingly present in it, more tirelessly useful to all.",
+        "goyandka": "Goyandka emphasises the phrase mama vartmānuvartante — 'they follow My path.' This reveals that the great soul's life becomes a path, a vartma, that others naturally trace. It is not merely that they hear his ideas; they feel his life as a directional pull. Goyandka connects this to the concept of the guru's anugraha — the grace that operates not through instruction alone but through the very manner of the teacher's being in the world. He warns that great souls must be mindful of their example even in seemingly small matters, for the impressionable devotee receives every signal and encodes it as dharma. This is both the burden and the glory of the enlightened: their whole life is a teaching."
+      }
+    },
+    {
+      "verse": 24,
+      "sanskrit": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।\nसङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥",
+      "transliteration": "utsīdeyur ime lokā na kuryāṃ karma ced aham\nsaṅkarasya ca kartā syām upahanyām imāḥ prajāḥ",
+      "translation": "These worlds would perish if I did not perform action; I would be the author of confusion; I would destroy these creatures.",
+      "audio": "/assets/audio/ch03/verse_03_24.mp3",
+      "word_breakdown": [
+        {
+          "word": "उत्सीदेयुः",
+          "transliteration": "utsīdeyuḥ",
+          "root": "√sad (to sink, to perish) — with prefix ud-",
+          "grammatical_form": "Verb, parasmaipada, optative (potential) mood, 3rd person plural",
+          "meaning": "would perish / would collapse / would sink into ruin"
+        },
+        {
+          "word": "सङ्करस्य",
+          "transliteration": "saṅkarasya",
+          "root": "√kṛ (to do, to mix) — with prefix sam-",
+          "grammatical_form": "Noun, masculine, genitive, singular",
+          "meaning": "of confusion / of intermixture / of disorder (social and cosmic)"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "kartā",
+          "root": "√kṛ (to do)",
+          "grammatical_form": "Noun (agent noun), masculine, nominative, singular",
+          "meaning": "the author / the maker / the agent / the one responsible"
+        },
+        {
+          "word": "उपहन्याम्",
+          "transliteration": "upahanyām",
+          "root": "√han (to strike, to destroy) — with prefix upa-",
+          "grammatical_form": "Verb, parasmaipada, optative (potential) mood, 1st person singular",
+          "meaning": "I would destroy / I would ruin / I would strike down"
+        },
+        {
+          "word": "प्रजाः",
+          "transliteration": "prajāḥ",
+          "root": "pra- + √jan (to be born)",
+          "grammatical_form": "Noun, feminine, accusative, plural",
+          "meaning": "creatures / offspring / people / the created beings"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse intensifies the teaching of the previous one. Krishna does not merely say 'things would be difficult' — He says the worlds themselves would utsīdeyuḥ, collapse and sink. And He, the Lord of dharma, would become the author of saṅkara — chaos, confusion, the dissolution of right order. Dadaji saw here a profound theological statement: the cosmos is not a machine that runs on its own. It is sustained moment to moment by the active participation of the divine. For the human sādhaka, this translates as: your dharma is not an optional extra. Your presence in your appointed role is part of the architecture of the world. To abandon it is not humility — it is a form of cosmic irresponsibility.",
+        "sarvapriyananda": "Swami Sarvapriyananda points to the word saṅkara — confusion — which appeared earlier in Chapter 1 when Arjuna used it as one of his reasons for not fighting (fear of mixing of varṇas and destruction of family dharma). Arjuna feared he would create saṅkara by fighting; Krishna now reveals the deeper irony: it is by not acting that saṅkara arises. The wise man's failure to engage is far more destructive than any chaos that might seem to follow from his engagement. This is the dialectical heart of the karma yoga teaching: the apparent peace of inaction is the most dangerous illusion, because it abandons the field to forces that will generate far greater disorder.",
+        "yogananda": "Yogananda meditated deeply on what it means for God to say 'I would destroy these creatures' by inaction. It reveals that the sustaining of life is itself an active divine function — Brahman is not the passive Absolute of some philosophies but the dynamically loving Presence that holds every electron in its orbit and every soul on its evolutionary path. The implication for the spiritual seeker is luminous: your service to others, your karma yoga, your active compassion — these are participations in God's sustaining activity. To withdraw from service under a misapplied notion of transcendence is, in a real sense, to work against the divine will. God's nature is love-in-action; the realised soul reflects that nature.",
+        "goyandka": "Goyandka draws out the practical import of this verse for the householder. If even the Almighty would become the cause of confusion by abandoning action, how much more so the ordinary person embedded in social and family responsibilities? The verse effectively demolishes the notion that spiritual advancement requires abandonment of worldly duty. Saṅkara here means not just social disorder but the confusion within one's own being that comes from denying one's dharma. Goyandka emphasises that the Gītā nowhere asks the householder to imitate the renunciate's external form; it asks him to perform his duties as an offering to God, as worship — and this purifies the heart as completely as formal renunciation."
+      }
+    },
+    {
+      "verse": 25,
+      "sanskrit": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसङ्ग्रहम् ॥",
+      "transliteration": "saktāḥ karmaṇy avidvāṃso yathā kurvanti bhārata\nkuryād vidvāṃs tathāsaktaś cikīrṣur loka-saṃgraham",
+      "translation": "As the ignorant act with attachment to action, O Bharata, so the wise should act without attachment, desiring the welfare and integration of the world.",
+      "audio": "/assets/audio/ch03/verse_03_25.mp3",
+      "word_breakdown": [
+        {
+          "word": "सक्ताः",
+          "transliteration": "saktāḥ",
+          "root": "√sañj (to cling, to be attached)",
+          "grammatical_form": "Past passive participle, masculine, nominative, plural",
+          "meaning": "attached / clinging / bound (to results)"
+        },
+        {
+          "word": "अविद्वांसः",
+          "transliteration": "avidvāṃsaḥ",
+          "root": "√vid (to know) — with prefix a- (negation)",
+          "grammatical_form": "Noun / adjective, masculine, nominative, plural (strong form of perfect participle)",
+          "meaning": "the ignorant / those who do not know / the unwise"
+        },
+        {
+          "word": "असक्तः",
+          "transliteration": "asaktaḥ",
+          "root": "√sañj (to cling) — with prefix a- (negation)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "unattached / free from clinging / without personal stake"
+        },
+        {
+          "word": "चिकीर्षुः",
+          "transliteration": "cikīrṣuḥ",
+          "root": "√kṛ (to do) — desiderative form",
+          "grammatical_form": "Adjective / noun (desiderative), masculine, nominative, singular",
+          "meaning": "desiring to accomplish / wishing to bring about / one who intends"
+        },
+        {
+          "word": "लोकसङ्ग्रहम्",
+          "transliteration": "loka-saṃgraham",
+          "root": "loka (world) + √grah (to hold, to gather) — with prefix sam-",
+          "grammatical_form": "Compound noun, masculine, accusative, singular",
+          "meaning": "the welfare and integration of the world / holding the world together / universal good"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The term loka-saṃgraha is one of the most luminous in the entire Gītā. Saṃgraha means not merely welfare but integration — the holding together of diverse elements into a coherent, flourishing whole. Dadaji taught that the wise person's motive for action is precisely this: not personal gain, not even the satisfaction of helping, but the vision of the entire human family as a single organism that needs its every member functioning rightly. The contrast drawn here is exquisite: both the ignorant and the wise act — the outer form is identical. What differs is the inner ground. The ignorant act from attachment to outcome; the wise act from compassion and a vision of wholeness. The Gītā does not ask us to stop acting; it asks us to transform the root of our action.",
+        "sarvapriyananda": "Swami Sarvapriyananda highlights that this verse provides the positive alternative to the earlier warning about not disturbing the ignorant. The wise person does not merely tolerate the world's ordinary activity — he actively participates in it, for the sake of loka-saṃgraha. The word cikīrṣu (desiring to bring about) shows that this is not passive or resigned engagement but a living, intentional will directed toward the world's integration. Vedanta's apparent aloofness from the world is always balanced by this principle: the jñānī who knows the world as Brahman loves it unconditionally and works for its elevation, precisely because he sees its divine ground more clearly than anyone else.",
+        "yogananda": "Yogananda, whose life was the very definition of loka-saṃgraha, saw this verse as the mandate for all spiritual organisations and teachers. The realised being does not gather disciples for self-glorification but for the integration of humanity around a common divine centre. The āśrama, the satsaṅg, the spiritual community — these are attempts at loka-saṃgraha, at weaving diverse human beings into a harmonious fabric of shared aspiration. Yogananda emphasised that karma yoga, when practised at this level, becomes indistinguishable from divine love: it is the willingness to hold the world in one's heart and work tirelessly for its highest flowering, asking nothing in return.",
+        "goyandka": "Goyandka notes the precision of Krishna's comparison. He does not say 'act even though the ignorant act' — He says 'act just as the ignorant act' (yathā... tathā), meaning with equal vigour, equal earnestness, equal visible engagement. The only difference is asakta — the inner freedom from grasping. This is the supreme test of karma yoga: can you act with the full intensity and commitment of someone who craves the result, while remaining as internally free as someone who has renounced all results? This is the razor's edge the Gītā asks us to walk. Goyandka emphasises that this is not suppression of effort but a total redirection of effort's motivating energy — from fear and craving to love and wisdom."
+      }
+    },
+    {
+      "verse": 26,
+      "sanskrit": "न बुद्धिभेदं जनयेद्ज्ञानां कर्मसङ्गिनाम् ।\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ॥",
+      "transliteration": "na buddhi-bhedaṃ janayed ajñānāṃ karma-saṅginām\njoṣayet sarva-karmāṇi vidvān yuktaḥ samācaran",
+      "translation": "The wise person should not unsettle the understanding of the ignorant who are attached to action; acting in yoga himself, let him inspire all actions joyfully.",
+      "audio": "/assets/audio/ch03/verse_03_26.mp3",
+      "word_breakdown": [
+        {
+          "word": "बुद्धिभेदम्",
+          "transliteration": "buddhi-bhedam",
+          "root": "buddhi (intellect) + √bhid (to split, to break)",
+          "grammatical_form": "Compound noun, masculine, accusative, singular",
+          "meaning": "splitting of understanding / unsettling of the mind / disruption of conviction"
+        },
+        {
+          "word": "कर्मसङ्गिनाम्",
+          "transliteration": "karma-saṅginām",
+          "root": "karma (action) + √sañj (to cling)",
+          "grammatical_form": "Compound noun, masculine, genitive, plural",
+          "meaning": "of those attached to action / of those whose identity is bound up in work"
+        },
+        {
+          "word": "जोषयेत्",
+          "transliteration": "joṣayet",
+          "root": "√juṣ (to enjoy, to be pleased) — causative, optative",
+          "grammatical_form": "Verb, causative, optative mood, 3rd person singular",
+          "meaning": "should inspire joy in / should cause to engage willingly / should make them relish"
+        },
+        {
+          "word": "युक्तः",
+          "transliteration": "yuktaḥ",
+          "root": "√yuj (to join, to yoke, to discipline)",
+          "grammatical_form": "Past passive participle, masculine, nominative, singular",
+          "meaning": "disciplined / united (with the Divine) / steadfast in yoga"
+        },
+        {
+          "word": "समाचरन्",
+          "transliteration": "samācaran",
+          "root": "√car (to move, to act) — with prefix sam-ā-",
+          "grammatical_form": "Present active participle, masculine, nominative, singular",
+          "meaning": "acting rightly / performing fully / engaging in complete action"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse reveals the pedagogy of the liberated. The wise teacher does not go about dismantling the ordinary person's framework of action by confronting them with abstract Vedantic negations. If you tell a sincere karma-saṅgī — a person whose whole moral identity is built around doing his duty rightly — that ultimately no one acts, that there is no doer, that karma is an illusion, you shatter his operative faith without giving him anything to replace it. The result is buddhi-bheda — a fracture of understanding that leads not to liberation but to moral paralysis and cynicism. Dadaji taught that the true teacher guides people through the next step of their actual evolution, not the final step of his own.",
+        "sarvapriyananda": "Swami Sarvapriyananda draws careful attention to joṣayet — 'let him cause them to relish, to engage joyfully.' The teacher's task is not correction but inspiration. The ignorant are already acting; the wise should not subtract motivation but elevate its quality by example. The beautiful phrase yuktaḥ samācaran — 'acting himself, established in yoga' — reveals that the teaching is entirely by demonstration. The wise person's own quality of engaged, absorbed, selfless action is the instruction. Those who observe him work find their own work subtly transformed: they begin, almost unconsciously, to act with more attention, more care, more inner freedom. This is how consciousness transmits wisdom.",
+        "yogananda": "Yogananda often spoke of the danger of premature Vedantic instruction. To tell a person who is still building their moral and emotional foundations that 'there is no sin, no karma, no separate self' — before they have developed the inner container to hold that truth — is to rob them of the scaffolding they need. The divine teacher honours where each soul actually is and offers the next handhold on the climbing wall, not a leap to the summit. Yogananda's own approach was always this: meet people in their lives, in their duties, in their relationships, and quietly reveal how those very duties, performed with devotion, become the path to God. This is the wisdom of joṣayet — making dharma itself the joy.",
+        "goyandka": "Goyandka reads this verse as a corrective to a certain misuse of the previous teaching on non-doership. If a person hears 'I am not the doer' and concludes 'therefore I need not act,' he has understood the letter and lost the spirit. The wise man knows the truth of non-doership — but he does not broadcast it indiscriminately, because for the unprepared it becomes a rationalisation for laziness. Instead, he leads by example, showing how karma yoga works from the inside: total engagement externally, total freedom internally. Goyandka emphasises that the Gītā's teaching on non-doership is not a metaphysical shortcut but an advanced attainment, approached gradually through disciplined action offered as worship."
+      }
+    },
+    {
+      "verse": 27,
+      "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥",
+      "transliteration": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ\nahaṃkāra-vimūḍhātmā kartāham iti manyate",
+      "translation": "All actions are being performed in every way by the gunas of Nature; the person whose mind is deluded by the ego thinks, 'I am the doer.'",
+      "audio": "/assets/audio/ch03/verse_03_27.mp3",
+      "word_breakdown": [
+        {
+          "word": "प्रकृतेः",
+          "transliteration": "prakṛteḥ",
+          "root": "pra- + √kṛ (to make) — the primal creative force",
+          "grammatical_form": "Noun, feminine, ablative (or genitive), singular",
+          "meaning": "by / of Nature / the primal creative matrix of the universe"
+        },
+        {
+          "word": "क्रियमाणानि",
+          "transliteration": "kriyamāṇāni",
+          "root": "√kṛ (to do) — present passive participle",
+          "grammatical_form": "Present passive participle, neuter, nominative, plural",
+          "meaning": "being done / being performed / being carried out (by another)"
+        },
+        {
+          "word": "गुणैः",
+          "transliteration": "guṇaiḥ",
+          "root": "guṇa (strand, quality)",
+          "grammatical_form": "Noun, masculine, instrumental, plural",
+          "meaning": "by the gunas / by the three qualities (sattva, rajas, tamas)"
+        },
+        {
+          "word": "अहङ्कारविमूढात्मा",
+          "transliteration": "ahaṃkāra-vimūḍhātmā",
+          "root": "aham (I) + √kṛ (to make) + vi- + √muh (to be confused) + ātman (self)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular (bahuvrīhi)",
+          "meaning": "one whose self (ātmā) is thoroughly deluded (vimūḍha) by the ego (ahaṃkāra)"
+        },
+        {
+          "word": "मन्यते",
+          "transliteration": "manyate",
+          "root": "√man (to think, to consider)",
+          "grammatical_form": "Verb, ātmanepada, present tense, 3rd person singular",
+          "meaning": "thinks / considers / believes / supposes"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is one of the most philosophically dense verses in the entire Gītā — the classic statement of Sāṃkhya-Yoga non-doership. All actions, sarvaśaḥ — in every possible way, without exception — are being done by the guṇas operating through prakṛti. The pure Self — the ātman — does not act; it witnesses. But the ahaṃkāra, the I-maker, superimposes itself upon the stream of action and claims: 'I am doing this.' Dadaji explained this with great care: the deluded one does not merely make an intellectual error — vimūḍhātmā means his very sense of being (ātmā) has been thoroughly confused. The error goes to the root. Liberation begins with the first genuine experiential insight: 'It is not I who acts — the body-mind-nature complex acts, and I am the silent, witnessing awareness.'",
+        "sarvapriyananda": "Swami Sarvapriyananda explains that this verse is the philosophical fulcrum of the entire karma yoga teaching. The liberation being pointed to is not a change in outer behaviour but a fundamental shift in the sense of agency. As long as I believe 'I am doing,' I am bound — because that belief entails the correlative belief 'I will receive the result.' The two arise together. When I see clearly that the guṇas are doing everything — that what I call 'my choice' is itself a configuration of sattva, rajas, and tamas playing out according to their nature — the false I-am-the-doer belief begins to dissolve. This is not fatalism; it is the beginning of true freedom, because the witness-consciousness that remains is the real Self, already free.",
+        "yogananda": "Yogananda translated this insight into practical terms: every time you feel pride swelling in the chest — 'I did this, I achieved that' — recognise it as ahaṃkāra-vimūḍha, the thoroughly confused ego. The body acted; the nerves acted; the habits built over lifetimes acted; the divine energy flowing through the instrument acted. The personal 'I' was the last to arrive and the first to claim credit. Yogananda's practice of offering all results to God — 'Lord, You are the Doer; I am the instrument' — is the practical antidote to this delusion. Over time, the repeated offering wears away the habit of claiming, until the yogi rests in the natural state: pure witnessing, pure presence, free from the compulsion of doership.",
+        "goyandka": "Goyandka's commentary here is subtle and important. He notes that recognising 'the guṇas act' is not a philosophical position to be adopted intellectually and used as a shield — 'I am not the doer, therefore I am not responsible.' That itself would be ahaṃkāra operating under a new disguise. True recognition of non-doership produces humility, not licence. When one genuinely sees that the guṇas perform all actions, the natural response is gratitude and surrender — not the smug comfort of claiming to be beyond karma. Goyandka emphasises that this verse must be received in the context of Chapter 3's overall teaching: act fully, selflessly, as an instrument — and only after long purification will the truth of non-doership dawn as living realisation rather than mere concept."
+      }
+    },
+    {
+      "verse": 28,
+      "sanskrit": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ॥",
+      "transliteration": "tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ\nguṇā guṇeṣu vartanta iti matvā na sajjate",
+      "translation": "But the one who knows the truth, O Mighty-armed, about the classification of the gunas and actions — knowing that 'the gunas move among the gunas' — is not attached.",
+      "audio": "/assets/audio/ch03/verse_03_28.mp3",
+      "word_breakdown": [
+        {
+          "word": "तत्त्ववित्",
+          "transliteration": "tattva-vit",
+          "root": "tattva (truth, that-ness) + √vid (to know)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "the knower of truth / one who sees reality as it is"
+        },
+        {
+          "word": "विभागयोः",
+          "transliteration": "vibhāgayoḥ",
+          "root": "√bhaj (to divide, to distribute) — with prefix vi-",
+          "grammatical_form": "Noun, masculine, genitive, dual",
+          "meaning": "of the classification / of the distinction / of the division (of both gunas and actions)"
+        },
+        {
+          "word": "गुणा गुणेषु",
+          "transliteration": "guṇā guṇeṣu",
+          "root": "guṇa (strand, quality of Nature)",
+          "grammatical_form": "Noun, masculine — nominative plural + locative plural",
+          "meaning": "gunas (move) among gunas — qualities interact with qualities (the Self is not involved)"
+        },
+        {
+          "word": "वर्तन्ते",
+          "transliteration": "vartante",
+          "root": "√vṛt (to exist, to move, to operate)",
+          "grammatical_form": "Verb, ātmanepada, present tense, 3rd person plural",
+          "meaning": "they move / they operate / they function / they play"
+        },
+        {
+          "word": "सज्जते",
+          "transliteration": "sajjate",
+          "root": "√sañj (to cling, to be attached)",
+          "grammatical_form": "Verb, ātmanepada, present tense, 3rd person singular",
+          "meaning": "clings / is attached / becomes bound"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The phrase guṇā guṇeṣu vartante is one of the most liberating formulas in all of scripture. The guṇas — sattva, rajas, tamas — move among and through each other. The sense organs (themselves guṇic modifications) contact the objects of the world (also guṇic modifications). The whole drama of perception, desire, action, and result is a play of guṇa-upon-guṇa. The ātman — pure consciousness — is not implicated. The tattva-vit, the one who knows this not merely as a concept but as living experience, is na sajjate — not attached, not caught, not hooked. Dadaji was fond of pointing out that this is not indifference: the tattva-vit sees more clearly than anyone else because his vision is unclouded by the distorting lens of 'I am doing.'",
+        "sarvapriyananda": "Swami Sarvapriyananda contrasts verses 27 and 28 as the two faces of humanity: the ahaṃkāra-vimūḍhātmā who claims false doership, and the tattva-vit who sees through the entire performance. The word tu — 'but' — marks the contrast sharply. The structure guṇā guṇeṣu — guṇas in guṇas — is a brilliant compression: it says that the whole of material existence (object, organ, action, result) consists of guṇas modifying guṇas, with no room for a separate 'experiencer I' to be genuinely involved as an agent. The one who realises this lives in the world fully — acts, speaks, engages — but is like a clear lens: the light passes through without itself being coloured.",
+        "yogananda": "Yogananda wrote that the realisation expressed in guṇā guṇeṣu vartante is what the genuine yogi discovers in deep meditation. In samādhi, the seer withdraws from identification with body, mind, and ego and rests in pure consciousness — and looking back at the world, sees it as a vast interplay of the three qualities, none of which touches the witnessing Self. This is not an abstract philosophy; it is a directly verifiable experience. And once tasted, even in ordinary waking consciousness, the yogi carries that spacious non-attachment into all activity. He acts but is not acted upon; he loves but is not enslaved by love; he responds to the world but is not defined by the world's response to him.",
+        "goyandka": "Goyandka explains the word vibhāgayoḥ — knowledge of the distinction (between guṇas and actions, and between both and the ātman). True discrimination (viveka) means not just knowing that the guṇas act but knowing precisely where the boundary lies between what is guṇic and what is the pure Self. This clarity is the medicine for ahaṃkāra-vimūḍha. Goyandka emphasises that such knowledge is not gained by study alone but by persistent sādhana — by the gradual quietening of the guṇas through sattvic discipline until the witness-consciousness shines on its own. The tattva-vit is not someone who has merely read Sāṃkhya texts; he is someone who has experientially separated the strands of his own being."
+      }
+    },
+    {
+      "verse": 29,
+      "sanskrit": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु ।\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥",
+      "transliteration": "prakṛter guṇa-sammūḍhāḥ sajjante guṇa-karmasu\ntān akṛtsna-vido mandān kṛtsna-vin na vicālayet",
+      "translation": "Those deluded by the gunas of Nature cling to the actions of the gunas. The knower of the whole (kṛtsna-vid) should not disturb those persons of incomplete knowledge who are slow of understanding.",
+      "audio": "/assets/audio/ch03/verse_03_29.mp3",
+      "word_breakdown": [
+        {
+          "word": "गुणसम्मूढाः",
+          "transliteration": "guṇa-sammūḍhāḥ",
+          "root": "guṇa + sam- + √muh (to be deluded) — past passive participle",
+          "grammatical_form": "Compound adjective, masculine, nominative, plural",
+          "meaning": "thoroughly deluded by the gunas / bewildered by the strands of Nature"
+        },
+        {
+          "word": "सज्जन्ते",
+          "transliteration": "sajjante",
+          "root": "√sañj (to cling, to be attached)",
+          "grammatical_form": "Verb, ātmanepada, present tense, 3rd person plural",
+          "meaning": "they cling / they become attached / they get stuck"
+        },
+        {
+          "word": "अकृत्स्नविदः",
+          "transliteration": "akṛtsna-vidaḥ",
+          "root": "a- (not) + kṛtsna (whole, complete) + √vid (to know)",
+          "grammatical_form": "Compound noun, masculine, accusative, plural",
+          "meaning": "those of incomplete knowledge / those who do not know the whole"
+        },
+        {
+          "word": "मन्दान्",
+          "transliteration": "mandān",
+          "root": "manda (slow, dull, sluggish)",
+          "grammatical_form": "Adjective, masculine, accusative, plural",
+          "meaning": "the slow / the dull-witted / those of sluggish understanding"
+        },
+        {
+          "word": "कृत्स्नवित्",
+          "transliteration": "kṛtsna-vit",
+          "root": "kṛtsna (whole, entire) + √vid (to know)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "the knower of the whole / one who knows the complete truth"
+        },
+        {
+          "word": "विचालयेत्",
+          "transliteration": "vicālayet",
+          "root": "√cal (to move, to shake) — with prefix vi-, causative, optative",
+          "grammatical_form": "Verb, causative, optative mood, 3rd person singular",
+          "meaning": "should not unsettle / should not cause to waver / should not shake loose"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Krishna now brings together the threads of verses 25-28 into a precise practical instruction. The kṛtsna-vid — the one who knows the whole truth, who sees guṇas acting in guṇas, who has realised the ātman as non-doer — should not use this knowledge as a weapon to unsettle those who are still building their lives around action, duty, and effort. Mandān — 'the slow ones' — is not a term of contempt but of compassionate realism. Spiritual evolution has its own pace. The person who is still at the stage of karma yoga — doing their duty earnestly, attached to results, finding meaning in effort — is exactly where they need to be. Destabilising them would be cruelty dressed as knowledge.",
+        "sarvapriyananda": "Swami Sarvapriyananda notes the beautiful contrast between akṛtsna-vid (one of incomplete knowledge) and kṛtsna-vid (one who knows the whole). The kṛtsna-vid does not condescend but serves — and serves by not interfering with processes of organic spiritual unfolding. There is a kind of spiritual impatience that wishes to rush everyone to the highest understanding immediately, but this impatience is itself a guṇic disturbance. The wise teacher has the patience of Nature herself: he plants seeds, creates conditions, models living truth — and trusts that each soul will arrive in its own season. Vicālayet — 'should not cause to waver' — implies that even well-intentioned philosophical discourse, mistimed, can do more harm than silence.",
+        "yogananda": "Yogananda drew a distinction between knowledge that liberates and knowledge that confuses. The same Vedantic truth — 'you are not the doer; the Self is ever free' — can either open a door or cause a crisis, depending on the readiness of the receiver. For someone who has not yet developed strong ethical foundations, renunciation of ego-sense can lead to irresponsible behaviour. For someone who has built a spiritual life through years of disciplined karma yoga, the same truth becomes the final release into freedom. Yogananda's method was always to gauge the student's level precisely before speaking. The kṛtsna-vid knows not only the truth but the timing of truth — which is itself a form of wisdom.",
+        "goyandka": "Goyandka relates this verse to the pedagogical tradition of adhikāra-bheda — the principle that different teachings are appropriate for different levels of spiritual qualification. The Gītā itself operates on this principle: karma yoga for those still identified with action, jñāna yoga for those ready for discrimination, bhakti yoga for those whose hearts have opened to devotion. The kṛtsna-vid recognises where each person stands and does not impose the curriculum of a higher level on one not yet prepared. Goyandka adds that this is also a teaching about the relationship between humility and wisdom: true knowledge makes one more compassionate, not more dismissive of those on earlier stages of the path."
+      }
+    },
+    {
+      "verse": 30,
+      "sanskrit": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥",
+      "transliteration": "mayi sarvāṇi karmāṇi sannyasyādhyātma-cetasā\nnirāśīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ",
+      "translation": "Surrendering all actions to Me, with mind absorbed in the Self (adhyātma), free from hope and free from the sense of 'mine,' fight — freed from the fever of the soul.",
+      "audio": "/assets/audio/ch03/verse_03_30.mp3",
+      "word_breakdown": [
+        {
+          "word": "संन्यस्य",
+          "transliteration": "sannyasya",
+          "root": "√as (to throw) — with prefix sam-ni-, gerund",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having surrendered / having fully laid down / having renounced (as an offering)"
+        },
+        {
+          "word": "अध्यात्मचेतसा",
+          "transliteration": "adhyātma-cetasā",
+          "root": "adhi- (above, over) + ātman (Self) + cetas (mind, consciousness)",
+          "grammatical_form": "Compound noun, neuter, instrumental, singular",
+          "meaning": "with mind fixed on the Self / with consciousness centred in the Absolute within"
+        },
+        {
+          "word": "निराशीः",
+          "transliteration": "nirāśīḥ",
+          "root": "nis- (without) + āśā (hope, desire)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "free from desire for result / without longing for reward"
+        },
+        {
+          "word": "निर्ममः",
+          "transliteration": "nirmamaḥ",
+          "root": "nis- (without) + mama (mine)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "free from the sense of 'mine' / without possessiveness / beyond the ego of ownership"
+        },
+        {
+          "word": "विगतज्वरः",
+          "transliteration": "vigata-jvaraḥ",
+          "root": "vi- (away) + √gam (to go) + jvara (fever, agitation)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular (bahuvrīhi)",
+          "meaning": "one from whom the fever has departed / free from the burning anxiety of the soul"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is the summit of the practical teaching of Chapter 3 — a distilled instruction of almost unbearable beauty. Mayi sarvāṇi karmāṇi sannyasya — 'having surrendered all actions to Me.' This is not the renunciation of action but the renunciation of the claim upon action. Every act becomes an act of worship. Adhyātma-cetasā — with the mind anchored in the Self, not in the turbulent surface of results and reactions. Nirāśīḥ — no longing for what is not yet here. Nirmamaḥ — no clinging to what passes through the hands. And then the call: yudhyasva — fight. Act. Engage completely. And do so as vigata-jvaraḥ — one whose inner fever, the burning restlessness of the unliberated ego, has been healed by this surrender.",
+        "sarvapriyananda": "Swami Sarvapriyananda calls this verse a summary of the entire bhakti-karma-jñāna synthesis that is the Gītā's gift. Surrender to Krishna (mayi) is the bhakti element. Adhyātma-cetasā — self-knowledge, keeping the mind in the Self — is the jñāna element. Sarvāṇi karmāṇi — performing all actions — is the karma yoga. These three streams are not separate paths here; they converge into a single movement. The word jvara is particularly significant: jvara is fever, the restless heat of anxiety, the burning of unfulfilled desire and unresolved fear. The Gītā's promise is cooling — not coldness, not detachment, but the peace that comes when the soul has found its true centre and no longer burns with the friction of misidentification.",
+        "yogananda": "Yogananda regarded this verse as the perfect summary of the devotional karma yogi's path. 'Mayi sarvāṇi karmāṇi' — he taught this as a daily practice: before beginning any work, mentally offer it to the Divine; at its completion, offer the result. Over time, this offering becomes effortless and continuous, until the practitioner no longer experiences a gap between himself and God's activity in him. Vigata-jvaraḥ — freedom from the fever — Yogananda described as the state of divine calmness (prasāda) that floods the devotee who has truly surrendered. It is not emotional flatness but a living peace that co-exists with full engagement in the world — the peace that passes understanding, acting through a transparent, joyful instrument.",
+        "goyandka": "Goyandka identifies this verse as the practical heart of the Lord's instruction to Arjuna in this chapter, and notes its structural elegance: it provides the internal state (adhyātma-cetasā), the three freedoms (from hope, mine-ness, and fever), the method (surrender of all actions to God), and the action (fight — engage fully). Nothing is left vague. Goyandka emphasises that sannyasya here is not saffron robes and monastery walls; it is the internal act of releasing one's grip on outcomes, performed in the midst of whatever life requires of us. This is the Gītā's unique and revolutionary teaching: the highest renunciation is available in the middle of the battlefield, in the middle of the marketplace, in the middle of one's most demanding duties."
+      }
+    }
+  ]
+}

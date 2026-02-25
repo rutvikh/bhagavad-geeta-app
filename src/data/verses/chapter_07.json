@@ -1,0 +1,1505 @@
+{
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "श्रीभगवानुवाच ।\nमय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः ।\nअसंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ॥",
+      "transliteration": "śrī-bhagavān uvāca\nmayy āsakta-manāḥ pārtha yogaṃ yuñjan mad-āśrayaḥ\nasaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tac chṛṇu",
+      "translation": "The Blessed Lord said: O Pārtha, with mind firmly fixed on Me, taking refuge in Me, practising yoga — hear now how you shall know Me completely, without any doubt.",
+      "audio": "/assets/audio/ch07/verse_07_01.mp3",
+      "word_breakdown": [
+        {
+          "word": "मय्यासक्तमनाः",
+          "transliteration": "mayy āsakta-manāḥ",
+          "root": "mayi (in Me) + ā + √sañj (to attach) + manas (mind)",
+          "grammatical_form": "Bahuvrīhi compound, masculine, nominative, singular",
+          "meaning": "one whose mind is firmly attached to Me / with mind fixed on Me"
+        },
+        {
+          "word": "युञ्जन्",
+          "transliteration": "yuñjan",
+          "root": "√yuj (to yoke, to practise)",
+          "grammatical_form": "Present participle, masculine, nominative, singular",
+          "meaning": "practising / engaging in / applying oneself to (yoga)"
+        },
+        {
+          "word": "मदाश्रयः",
+          "transliteration": "mad-āśrayaḥ",
+          "root": "mat (Me) + ā + √śri (to take shelter in)",
+          "grammatical_form": "Tatpuruṣa compound, masculine, nominative, singular",
+          "meaning": "taking refuge in Me / with Me as the sole shelter"
+        },
+        {
+          "word": "असंशयम्",
+          "transliteration": "asaṃśayam",
+          "root": "a (not) + saṃ + √śī (to doubt)",
+          "grammatical_form": "Indeclinable / adverb",
+          "meaning": "without doubt / beyond all uncertainty"
+        },
+        {
+          "word": "समग्रम्",
+          "transliteration": "samagraṃ",
+          "root": "sam (fully) + agra (foremost/whole)",
+          "grammatical_form": "Adjective, masculine, accusative, singular",
+          "meaning": "completely / in full / entirety — here modifying 'Me'"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Can you feel what the Lord is offering here, my dear one? He says: just turn your heart to Me, lean on Me alone, and I will reveal Myself to you completely. Not a fragment, not a glimpse — samagraṃ, the whole of Me. This is not reserved for great scholars or mighty yogis. It is for anyone who truly turns inward and says, 'Lord, I am Yours.' Dadaji used to say that all the philosophy in the world is nothing without this one movement of the heart toward the Divine. The yoga of which Krishna speaks here is not gymnastics — it is love made steady, devotion made into a way of life. So listen, as Arjuna listens, with everything you have.",
+        "sarvapriyananda": "Śaṅkarācārya notes that this seventh chapter opens with a promise: complete, integral knowledge — samagraṃ — of the Lord. The phrase mad-āśrayaḥ, 'taking refuge in Me alone,' is crucial. The Advaita teaching is that so long as we take refuge in anything other than Brahman — objects, relationships, even subtle ego — we remain in avidyā. Here Krishna is the supreme Ātman speaking to the jīva. The yoga prescribed is not a technique but a fundamental reorientation of consciousness away from the not-Self toward the Self. Asaṃśayam — without doubt — signals that this knowledge is not speculative inference but aparokṣa anubhūti, direct, immediate self-knowledge.",
+        "yogananda": "In this opening verse, the Lord reveals the supreme secret of spiritual attainment: concentrate the mind in Him. Mayy āsakta-manāḥ — the mind saturated with God-consciousness. This is the technique of all techniques. Paramahansaji taught that the restless mind must be gathered inward through meditation, through Kriyā, until every cell of the brain vibrates with divine awareness. When the devotee takes true shelter — mad-āśrayaḥ — in the Infinite, surrendering the ego's compulsive seeking, the Lord Himself becomes the guru within. 'Hear how you shall know Me fully' — this is the promise of Self-realization, of experiencing the omnipresent Cosmic Consciousness, not merely believing in it.",
+        "goyandka": "In the beginning of this chapter, the Bhagavān, with great compassion, instructs Arjuna on the path of Jñāna-Vijñāna Yoga. He first establishes the essential qualification: mayy āsakta-manāḥ — the mind must be sincerely attached to the Lord, not divided between the world and God. Mad-āśrayaḥ indicates complete dependence on God, surrendering all other props. The Lord gives a supreme assurance — asaṃśayam samagraṃ māṃ — 'you shall know Me without any doubt and in My entirety.' Such complete knowledge of God is not possible through intellectual means alone; it requires this yoga of devotion and single-pointed refuge. The aspirant must first bring the mind under such loving discipline before the deeper truths of this chapter can be assimilated."
+      }
+    },
+    {
+      "verse": 2,
+      "sanskrit": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः ।\nयज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ॥",
+      "transliteration": "jñānaṃ te 'haṃ sa-vijñānam idaṃ vakṣyāmy aśeṣataḥ\nyaj jñātvā neha bhūyo 'nyaj jñātavyam avaśiṣyate",
+      "translation": "I shall declare to you in full this knowledge (jñānam) together with direct experiential wisdom (vijñānam) — knowing which, nothing further whatsoever remains to be known in this world.",
+      "audio": "/assets/audio/ch07/verse_07_02.mp3",
+      "word_breakdown": [
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jñānam",
+          "root": "√jñā (to know)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "theoretical / scriptural knowledge; knowledge of principles"
+        },
+        {
+          "word": "सविज्ञानम्",
+          "transliteration": "sa-vijñānam",
+          "root": "sa (with) + vi + √jñā (to discern directly)",
+          "grammatical_form": "Compound adjective modifying jñānam, neuter, accusative, singular",
+          "meaning": "together with vijñāna — direct experiential wisdom; realised knowledge"
+        },
+        {
+          "word": "अशेषतः",
+          "transliteration": "aśeṣataḥ",
+          "root": "a (not) + śeṣa (remainder)",
+          "grammatical_form": "Ablative used as adverb",
+          "meaning": "completely / without any remainder / in full / exhaustively"
+        },
+        {
+          "word": "ज्ञातव्यम्",
+          "transliteration": "jñātavyam",
+          "root": "√jñā (to know) — gerundive",
+          "grammatical_form": "Gerundive (obligation), neuter, nominative, singular",
+          "meaning": "what is to be known / what ought to be known / the knowable"
+        },
+        {
+          "word": "अवशिष्यते",
+          "transliteration": "avaśiṣyate",
+          "root": "ava + √śiṣ (to leave as remainder)",
+          "grammatical_form": "Passive verb, present tense, third person, singular",
+          "meaning": "remains / is left over — here negated: 'nothing remains to be known'"
+        }
+      ],
+      "commentary": {
+        "dadaji": "What a gift the Lord is offering! 'After knowing this, nothing else remains to be known.' Dadaji would pause here and say — imagine possessing such knowledge. Not mere book-learning, but vijñāna — the living taste of Truth in one's own experience. All our learning, all our searching through libraries and scriptures and teachers, it is all preparing us for this one knowing. The difference between jñāna and vijñāna is the difference between reading about honey and tasting it on your tongue. Krishna says He will give both: the map and the territory, the teaching and the experience. How merciful is He, that He does not withhold even the deepest secret from His beloved devotee.",
+        "sarvapriyananda": "The classical Advaita distinction here is vital. Jñāna refers to parokṣa jñāna — indirect, conceptual knowledge of Brahman gained through śravaṇa (hearing the scriptures) and manana (reflection). Vijñāna, as Śaṅkara explains, is aparokṣa jñāna — direct, immediate realisation of Brahman as one's own Ātman. The Lord promises both. The phrase 'nothing further remains to be known' echoes the Muṇḍaka Upaniṣad: 'kasmin nu bhagavo vijñāte sarvam idaṃ vijñātaṃ bhavatīti' — by knowing what, O Lord, is everything known? The answer is Brahman, the substratum of all. When the absolute subject is known, the entire object-world is simultaneously known as its appearance.",
+        "yogananda": "Jñāna and vijñāna — these two together constitute complete God-knowledge. Yoganandaji explained that jñāna is the intellectual comprehension of spiritual truths as found in scriptures, while vijñāna is the superconscious realization of those truths in one's own direct inner experience, in the state of samādhi. Many read the scriptures and remain intellectually satisfied — this is jñāna alone, which cannot liberate. But the devoted meditator who enters into the silence of God-communion gains vijñāna — the living certainty that 'I and my Father are one.' Once the Cosmic Consciousness is directly perceived, every question about existence dissolves spontaneously. There is literally nothing left to know, because the knower, the known, and knowledge merge into One.",
+        "goyandka": "The Lord here distinguishes between jñāna and vijñāna, both of which He will impart. Jñāna is the knowledge of the nature of God, the jīva, and the world — the theoretical understanding gained through the study of scriptures and reasoning. Vijñāna is the direct, personal realisation of these truths through one's own experience in meditation and God-communion. Śāstra alone can impart jñāna; but vijñāna requires the grace of God obtained through sincere devotion and practice. The Lord's promise that 'nothing further remains to be known' indicates that this knowledge is the supreme knowledge (para-vidyā), by which the Absolute — the source and substratum of everything — is known, and thus everything is simultaneously known."
+      }
+    },
+    {
+      "verse": 3,
+      "sanskrit": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः ॥",
+      "transliteration": "manuṣyāṇāṃ sahasreṣu kaścid yatati siddhaye\nyatatām api siddhānāṃ kaścin māṃ vetti tattvataḥ",
+      "translation": "Among thousands of human beings, scarcely one strives for spiritual perfection; and even among those who strive and attain, scarcely one truly knows Me in reality.",
+      "audio": "/assets/audio/ch07/verse_07_03.mp3",
+      "word_breakdown": [
+        {
+          "word": "सहस्रेषु",
+          "transliteration": "sahasreṣu",
+          "root": "sahasra (thousand)",
+          "grammatical_form": "Noun, neuter, locative, plural",
+          "meaning": "among thousands / in thousands — indicating extreme rarity"
+        },
+        {
+          "word": "यतति",
+          "transliteration": "yatati",
+          "root": "√yat (to strive, to endeavour)",
+          "grammatical_form": "Verb, present tense, third person, singular",
+          "meaning": "strives / endeavours / makes effort (for liberation)"
+        },
+        {
+          "word": "सिद्धये",
+          "transliteration": "siddhaye",
+          "root": "√sidh (to accomplish, to succeed)",
+          "grammatical_form": "Noun, feminine, dative, singular",
+          "meaning": "for perfection / for spiritual accomplishment / for liberation"
+        },
+        {
+          "word": "तत्त्वतः",
+          "transliteration": "tattvataḥ",
+          "root": "tattva (truth, reality) + taḥ (ablative suffix)",
+          "grammatical_form": "Ablative used as adverb",
+          "meaning": "in truth / truly / in reality / as He really is"
+        },
+        {
+          "word": "वेत्ति",
+          "transliteration": "vetti",
+          "root": "√vid (to know)",
+          "grammatical_form": "Verb, present tense, third person, singular",
+          "meaning": "knows / understands / recognises directly"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse always moved Dadaji deeply. Out of thousands — just one! And out of those rare seekers who attain something, again — just one who truly knows the Lord. Does this discourage us? No, it should fill us with tremendous gratitude. The fact that you are drawn to these words, that you hold this Gita in your hands, that your heart feels something when you read of Krishna — this itself is the grace of past lives of seeking. You are among those rare ones. So do not take this precious human birth and this spiritual hunger lightly. Every prayer, every moment of sincere remembrance of God, is a step toward that one-in-a-million knowing. The Lord is not hiding — it is we who turn away.",
+        "sarvapriyananda": "This verse establishes the extraordinary rarity of jñāna. The Kaṭha Upaniṣad echoes this: 'śravaṇāyāpi bahubhir yo na labhyaḥ' — this Self is not attained even by hearing about It by many. Most human beings — sahasreṣu — live entirely identified with the body-mind and pursue only sensory pleasures. A rare few, stirred by viveka (discrimination), strive for siddhiḥ — spiritual liberation. And of even that rare group of siddhas who attain some level of realisation, kaścit — scarcely one — knows the Lord tattvatah, in His true nature as the non-dual Brahman. This is not meant to discourage but to inspire: to show the supreme value of this knowledge and the need for genuine, whole-hearted, single-pointed spiritual practice.",
+        "yogananda": "Here the Lord gently reveals the infrequency of true God-realisation. The masses of humanity, intoxicated with sensory experience, scarcely even conceive of striving for divine perfection. Among those who do seek — through yoga, through devotion, through wisdom — only the truly persevering, truly surrendered soul realises God completely. Paramahansaji often said that while all souls are on a journey back to God, the pace varies enormously. One who has deeply meditated, who has stilled the restless chitta (consciousness) through Kriyā Yoga and genuine self-offering, can break through to that direct knowing — māṃ vetti tattvataḥ — knowing the Infinite as it truly IS, not as a concept but as one's very Self.",
+        "goyandka": "The Lord here reveals the extreme rarity of true God-knowledge, so that the aspirant may not take it lightly. Sahasreṣu — among thousands of human beings — only one sincerely strives for liberation rather than pursuing worldly objects. And yatatām api siddhānāṃ — even among those who have attained a degree of spiritual perfection through sustained practice — kaścit, barely one, realises the Lord tattvatah, in His true, complete nature. This progression shows that mere ritual observance, or even some degree of spiritual attainment, is insufficient. The crowning achievement — direct knowledge of the Lord's real nature as described in this chapter — is the rarest of all attainments and requires complete purification, sustained devotion, and the Lord's own grace."
+      }
+    },
+    {
+      "verse": 4,
+      "sanskrit": "भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च ।\nअहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ॥",
+      "transliteration": "bhūmir āpo 'nalo vāyuḥ khaṃ mano buddhir eva ca\nahaṃkāra itīyaṃ me bhinnā prakṛtir aṣṭadhā",
+      "translation": "Earth, water, fire, air, ether (ākāśa), mind (manas), intelligence (buddhi), and ego-sense (ahaṃkāra) — thus this is My lower nature (aparā prakṛti), divided eightfold.",
+      "audio": "/assets/audio/ch07/verse_07_04.mp3",
+      "word_breakdown": [
+        {
+          "word": "भूमिः",
+          "transliteration": "bhūmiḥ",
+          "root": "√bhū (to be, to exist)",
+          "grammatical_form": "Noun, feminine, nominative, singular",
+          "meaning": "earth / the earth element / solidity (pṛthvī tattva)"
+        },
+        {
+          "word": "अहङ्कारः",
+          "transliteration": "ahaṃkāraḥ",
+          "root": "aham (I) + √kṛ (to make/do)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "ego-sense / the sense of 'I am this body' / individuation-principle"
+        },
+        {
+          "word": "भिन्ना",
+          "transliteration": "bhinnā",
+          "root": "√bhid (to split, to divide)",
+          "grammatical_form": "Past passive participle, feminine, nominative, singular (agreeing with prakṛtiḥ)",
+          "meaning": "divided / differentiated / split into parts"
+        },
+        {
+          "word": "प्रकृतिः",
+          "transliteration": "prakṛtiḥ",
+          "root": "pra + √kṛ (to make, to produce)",
+          "grammatical_form": "Noun, feminine, nominative, singular",
+          "meaning": "nature / the creative power / primordial material energy"
+        },
+        {
+          "word": "अष्टधा",
+          "transliteration": "aṣṭadhā",
+          "root": "aṣṭa (eight) + dhā (suffix: ways/parts)",
+          "grammatical_form": "Indeclinable numeral adverb",
+          "meaning": "eightfold / in eight divisions / as eight categories"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The Lord lovingly maps out the territory of creation so that we may understand what is His and what is not truly 'ours.' These eight — earth, water, fire, air, ether, mind, intellect, ego — form the costume the soul wears while playing its role in this world. Dadaji liked to say: when you take off a garment, do you weep for it? These are God's garments, not our true identity. The moment we cling to them — especially to the ego, the ahaṃkāra — we suffer. Krishna is gently preparing us: 'See this whole show of matter and mind? It is all Me, but it is the lower Me, the outer robe.' The real Self lies beyond all eight. This verse begins to untie the knot.",
+        "sarvapriyananda": "This verse introduces the Sāṃkhya-based cosmological schema that underpins the Gītā's metaphysics. The eightfold aparā prakṛti consists of the pañca-mahābhūtas — five gross elements (earth, water, fire, air, ether) — and the three inner instruments: manas (mind, the organ of sensation and volition), buddhi (intellect, the discriminating faculty), and ahaṃkāra (ego, the principle of individuation). The word 'me' — 'My nature' — is crucial: the Lord claims both this lower material nature and the higher spiritual nature as His own viśeṣaṇas (attributes). This is the cosmology of Viśiṣṭādvaita in seed form, though Śaṅkara reads it differently — as Brahman appearing as material through māyā. Either way, creation has its source in the Absolute.",
+        "yogananda": "The Lord here reveals the components of the cosmic dream-fabric — the eight aspects of His aparā, or lower, nature. The five elements represent the vibratory gradations of matter from gross (earth) to subtle (ether/space). Mind is the instrument of perception; buddhi is discrimination; and ahaṃkāra is the localising power that creates the sense of individual selfhood. Yoganandaji taught that these eight form the material matrix of our experience, and that through deep meditation, the meditator progressively dissolves identification with each layer — first the gross body (earth-principle), then the energetic, then the mental, and finally the ego-bubble — until the unconditioned Consciousness shines forth, unbounded and free.",
+        "goyandka": "Here the Bhagavān enumerates His aparā, or lower, prakṛti in its eightfold division. The five gross elements — earth, water, fire, air, and ether — constitute the material basis of all physical existence. These arise from the subtle elements (tanmātras) and ultimately from ahaṃkāra. Mind (manas) is the instrument of doubt and deliberation; buddhi is the faculty of determination and decision; ahaṃkāra is the root of the individual sense of 'I' and 'mine.' Together these eight are called aparā — inferior or lower — because they are insentient (jaḍa) by themselves, deriving their apparent vitality only from the higher nature, the parā prakṛti described in the next verse. Understanding this distinction is the foundation of viveka."
+      }
+    },
+    {
+      "verse": 5,
+      "sanskrit": "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।\nजीवभूतां महाबाहो ययेदं धार्यते जगत् ॥",
+      "transliteration": "apareyam itas tv anyāṃ prakṛtiṃ viddhi me parām\njīva-bhūtāṃ mahā-bāho yayedaṃ dhāryate jagat",
+      "translation": "This is My lower nature. But know My other, higher nature — O mighty-armed — which has become the life-element (jīvabhūtā), by which this entire universe is sustained.",
+      "audio": "/assets/audio/ch07/verse_07_05.mp3",
+      "word_breakdown": [
+        {
+          "word": "अपरा",
+          "transliteration": "aparā",
+          "root": "apa (away, lower) + ra (comparative suffix)",
+          "grammatical_form": "Adjective, feminine, nominative, singular",
+          "meaning": "lower / inferior / the lesser nature (material prakṛti)"
+        },
+        {
+          "word": "पराम्",
+          "transliteration": "parām",
+          "root": "para (beyond, higher, supreme)",
+          "grammatical_form": "Adjective, feminine, accusative, singular",
+          "meaning": "higher / superior / the supreme nature (conscious prakṛti)"
+        },
+        {
+          "word": "जीवभूताम्",
+          "transliteration": "jīva-bhūtām",
+          "root": "jīva (living being/life) + √bhū (to become/be)",
+          "grammatical_form": "Compound adjective, feminine, accusative, singular",
+          "meaning": "that which has become the life-principle / the element that constitutes living beings"
+        },
+        {
+          "word": "धार्यते",
+          "transliteration": "dhāryate",
+          "root": "√dhṛ (to hold, to sustain, to uphold)",
+          "grammatical_form": "Passive verb, present tense, third person, singular",
+          "meaning": "is sustained / is upheld / is held together / is maintained"
+        },
+        {
+          "word": "जगत्",
+          "transliteration": "jagat",
+          "root": "√gam (to go) — 'that which moves'",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "the world / the universe / all that moves and exists"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Having described the outer garments of creation, the Lord now lifts the veil to reveal the inner reality — His parā, His higher nature, the living consciousness that animates everything. Jīvabhūtā — it has become the life in all living beings. This is not a distant God sitting on a throne judging us. This is the very breath you breathe, the awareness with which you now read these words. Dadaji would say: the moment you feel truly alive — not just thinking, not just moving, but truly ALIVE — that aliveness is God's higher nature shining through the aperture of your being. And this living consciousness sustains the universe. Without it, the eight material elements would be lifeless props on an empty stage.",
+        "sarvapriyananda": "The transition from aparā to parā prakṛti is philosophically momentous. The aparā is the insentient material energy — the Sāṃkhya's pradhāna without puruṣa. The parā prakṛti is the conscious energy — the field of sentient beings, the jīva-śakti. The word jīva-bhūtā indicates that this higher nature 'has become' the individual jīvas — the living, conscious subjects of experience. Crucially, it is this parā prakṛti that upholds the jagat. The inert eightfold matter cannot sustain itself; it is held together and animated by consciousness. This points to the Vedāntic teaching that Consciousness is foundational, not an epiphenomenon. The entire universe is sustained on the substrate of divine Awareness.",
+        "yogananda": "After cataloguing the outer cosmic dream-fabric, the Lord now reveals its animating power: His parā prakṛti, the higher nature, the divine Consciousness that has entered into and enlivened all created things as the jīva — the individualised life-soul. Yoganandaji drew a beautiful parallel: the eight lower elements are like the film-reel, scenery, and costumes of a cosmic motion picture, while the parā prakṛti is the light of the projector that makes it all visible and alive. Without that divine Light — Consciousness — the entire universe would collapse into inert nothingness. The devotee's task is to discover this Light not merely in scriptures but shining within their own spine and brain in meditation.",
+        "goyandka": "This verse draws the crucial distinction between the Lord's two natures. The aparā prakṛti — the eightfold lower nature — is inert and unintelligent in itself. But the Lord possesses a higher nature — parā prakṛti — which is conscious (cetana). This higher nature has become jīvabhūtā — it has manifested as the multiplicity of individual living beings (jīvas) throughout creation. The operative phrase is yayedaṃ dhāryate jagat: 'by which this universe is sustained.' The entire cosmos — including the inert material world — is sustained not by matter itself, but by the consciousness of the living principle that pervades it. The Bhagavān thus teaches that life and consciousness, not matter, are the ultimate reality."
+      }
+    },
+    {
+      "verse": 6,
+      "sanskrit": "एतद्योनीनि भूतानि सर्वाणीत्युपधारय ।\nअहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा ॥",
+      "transliteration": "etad-yonīni bhūtāni sarvāṇīty upadhāraya\nahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayas tathā",
+      "translation": "Understand that all beings have their origin in these two natures. I am the source (prabhava) as well as the dissolution (pralaya) of the entire universe.",
+      "audio": "/assets/audio/ch07/verse_07_06.mp3",
+      "word_breakdown": [
+        {
+          "word": "एतद्योनीनि",
+          "transliteration": "etad-yonīni",
+          "root": "etat (these two) + yoni (womb, source, origin)",
+          "grammatical_form": "Bahuvrīhi compound, neuter, nominative, plural",
+          "meaning": "having these (two natures) as their womb / origin / source"
+        },
+        {
+          "word": "उपधारय",
+          "transliteration": "upadhāraya",
+          "root": "upa + √dhṛ (to hold, to understand firmly)",
+          "grammatical_form": "Causative imperative, second person, singular",
+          "meaning": "understand firmly / grasp well / realise / know for certain"
+        },
+        {
+          "word": "कृत्स्नस्य",
+          "transliteration": "kṛtsnasya",
+          "root": "kṛtsna (entire, whole, complete)",
+          "grammatical_form": "Adjective, masculine/neuter, genitive, singular",
+          "meaning": "of the entire / of the whole / of the complete (universe)"
+        },
+        {
+          "word": "प्रभवः",
+          "transliteration": "prabhavaḥ",
+          "root": "pra + √bhū (to arise, to come into being)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "origin / source / the cause of creation"
+        },
+        {
+          "word": "प्रलयः",
+          "transliteration": "pralayaḥ",
+          "root": "pra + √lī (to dissolve, to merge back)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "dissolution / cosmic destruction / merging back into the source"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here the Lord draws the circle of creation complete: 'I am both the source and the dissolution.' Everything that is born from these two natures — the material and the living — comes from Him and returns to Him. Like waves on the ocean. The wave rises, dances, crashes, and merges back into the ocean. The wave never was separate from the water; it was always the ocean in motion. Dadaji would look at the sky and say: the cloud forms, travels, gives rain, and vanishes — where did it go? Back into the same sky. So too our lives, our loves, our worlds — they arise in God and dissolve in God. Knowing this, what is there to fear? What is there to grieve?",
+        "sarvapriyananda": "This verse is the pinnacle of the ontological teaching so far. Ahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayas tathā — 'I am the origin and the dissolution of the entire universe.' This is the mahāvākya in cosmic form. From the Advaita standpoint, Brahman alone is real, and creation is its apparent manifestation (vivartavāda). Both the material substratum (aparā) and the conscious life-principle (parā) are expressions of the one Brahman. Therefore, prabhava and pralaya are not events that happen to Brahman — they are Brahman's own creative play (līlā). The jñānī, realising this, no longer sees creation as something apart from the Self. Birth and death become modifications within the Infinite.",
+        "yogananda": "All beings — from the blade of grass to the highest celestial beings — are born of these two natures, the material and the spiritual. They are woven from the cosmic fabric of God's own energy. And the Lord makes the most sweeping statement possible: He is the origin of the entire creation, and also its ultimate dissolution. In cosmic cycles of manvantara and pralaya, universes are born and absorbed back into the Infinite. Yoganandaji taught that in deep samādhi, the meditator directly witnesses this — how the entire universe of appearances rises and subsides in the ocean of Consciousness, like bubble-universes in the vast sea of God. To know this is to be freed from the terror of death.",
+        "goyandka": "The Lord now synthesises what He has taught about the two natures. All created beings, without exception, arise from the combination of these two — the inert material (aparā) and the conscious living principle (parā). Nothing in existence lies outside these two. Then He makes the most comprehensive declaration: 'I am the prabhava — the first cause, the origin of the entire universe — and also the pralaya — the final dissolution into which all returns.' This establishes the Lord as both the material cause (upādāna-kāraṇa) and the efficient cause (nimitta-kāraṇa) of creation. The universe has no independent existence; it rises and resolves in God alone."
+      }
+    },
+    {
+      "verse": 7,
+      "sanskrit": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥",
+      "transliteration": "mattaḥ parataraṃ nānyat kiñcid asti dhanaṃjaya\nmayi sarvam idaṃ protaṃ sūtre maṇi-gaṇā iva",
+      "translation": "There is absolutely nothing higher than Me, O Dhanañjaya. All of this universe is strung upon Me, like clusters of gems upon a thread.",
+      "audio": "/assets/audio/ch07/verse_07_07.mp3",
+      "word_breakdown": [
+        {
+          "word": "परतरम्",
+          "transliteration": "parataraṃ",
+          "root": "para (beyond, higher) + tara (comparative suffix)",
+          "grammatical_form": "Adjective used as adverb, comparative degree",
+          "meaning": "higher / more supreme / further beyond — nothing is more supreme"
+        },
+        {
+          "word": "प्रोतम्",
+          "transliteration": "protaṃ",
+          "root": "pra + √ve (to weave, to string through)",
+          "grammatical_form": "Past passive participle, neuter, nominative, singular",
+          "meaning": "strung upon / woven through / threaded through / pervading"
+        },
+        {
+          "word": "सूत्रे",
+          "transliteration": "sūtre",
+          "root": "√sīv (to sew) / sū (to produce)",
+          "grammatical_form": "Noun, neuter, locative, singular",
+          "meaning": "on a thread / in a string / like a sutra (thread that holds together)"
+        },
+        {
+          "word": "मणिगणाः",
+          "transliteration": "maṇi-gaṇāḥ",
+          "root": "maṇi (gem, jewel) + gaṇa (group, multitude)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "clusters of gems / groups of jewels"
+        },
+        {
+          "word": "इव",
+          "transliteration": "iva",
+          "root": "iva (particle of comparison)",
+          "grammatical_form": "Indeclinable particle",
+          "meaning": "like / as / just as — marks the simile"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Mani-gaṇā iva sūtre — what an image! Beads of jewels on a string. Think of a mālā — the thread is invisible, running through the centre of each bead, yet it is the thread that holds them all together, that gives the mālā its form and purpose. Remove the thread and the beads scatter and fall. The beads are you, me, the mountains, the stars, the smallest creature — all held together by the invisible thread of God. Dadaji said: in every experience, every joy, every moment of beauty, the thread of the Divine runs through the centre. We see only the beads. Meditation teaches us to feel the thread, and then to identify with the thread, not the bead.",
+        "sarvapriyananda": "Mattaḥ parataraṃ nānyat kiñcid asti — 'There is nothing whatsoever higher than Me.' This is an absolute ontological claim. The Lord is establishing His own nature as the Absolute, the highest reality, beyond which there is no other category of existence. The simile of gems strung on a thread is the classic illustration of the immanence of Brahman as the antaryāmin — the inner controller. The thread pervades each gem while remaining distinct from it in appearance. In Advaita, the thread is Brahman, and the gems are nāma-rūpas (names and forms). The universe has no independent existence; it is entirely 'threaded through' by Brahman. This verse is often cited in the Brahmasūtra commentary (2.1.18 area) regarding Brahman as the material cause.",
+        "yogananda": "What a magnificent revelation: 'There is nothing beyond Me, O Dhanañjaya.' God is the Absolute ceiling and foundation of existence simultaneously. The simile of gems on a thread reveals the twin truths of transcendence and immanence. The thread transcends any individual gem — it runs through all — yet each gem cannot exist for a moment without the thread passing through its very centre. Yoganandaji said this is precisely the relation of Cosmic Consciousness to all creation: it is the thread of divine Consciousness running through the spine of every atom and galaxy. And the truth of yoga is to consciously feel this thread — through pranayama, pratyahara, and samādhi — not merely to believe in it as a doctrine.",
+        "goyandka": "This verse is the culminating declaration of the Lord's supremacy and all-pervasiveness. Mattaḥ parataraṃ nānyat kiñcid asti: there is no category of existence — no god, no principle, no power — that transcends the Lord. He is the Highest (parama). Then comes the incomparable simile: mayi sarvam idaṃ protaṃ sūtre maṇi-gaṇā iva — everything is strung in the Lord like gems on a thread. The thread is invisible within each gem, yet it is the very reason the gems form a coherent, beautiful mālā. So the Lord, though unseen by ordinary perception, is the inner reality sustaining all beings and maintaining the order of the cosmos. This is sarvavyāpakatā — the universal pervasion of God."
+      }
+    },
+    {
+      "verse": 8,
+      "sanskrit": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः ।\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ॥",
+      "transliteration": "raso 'ham apsu kaunteya prabhāsmi śaśi-sūryayoḥ\npraṇavaḥ sarva-vedeṣu śabdaḥ khe pauruṣaṃ nṛṣu",
+      "translation": "I am the taste (rasa) in water, O Kaunteya; I am the radiance in the moon and the sun; I am the sacred syllable Om in all the Vedas; I am the sound in ether; and the manhood (vitality) in human beings.",
+      "audio": "/assets/audio/ch07/verse_07_08.mp3",
+      "word_breakdown": [
+        {
+          "word": "रसः",
+          "transliteration": "rasaḥ",
+          "root": "√ras (to taste, to relish)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "taste / flavour / the essential quality of water; also 'essence'"
+        },
+        {
+          "word": "प्रभा",
+          "transliteration": "prabhā",
+          "root": "pra + √bhā (to shine)",
+          "grammatical_form": "Noun, feminine, nominative, singular",
+          "meaning": "radiance / brilliance / luminosity / light"
+        },
+        {
+          "word": "प्रणवः",
+          "transliteration": "praṇavaḥ",
+          "root": "pra + √nu (to praise, to resound) / pra + nava (ever-new)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "the syllable Om / the Praṇava — the primordial cosmic sound"
+        },
+        {
+          "word": "शब्दः",
+          "transliteration": "śabdaḥ",
+          "root": "√śabd (to sound)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "sound / the quality of ether (ākāśa) — the subtle tanmātra"
+        },
+        {
+          "word": "पौरुषम्",
+          "transliteration": "pauruṣam",
+          "root": "puruṣa (person, spirit) + suffix -a",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "manhood / human vitality / the essential power in human beings"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Now the Lord begins the most intimate teaching — He tells us exactly where to find Him in everyday experience. The taste of cool water on a hot day — that is God. The silver light of the full moon filling a quiet night — that is God. The deep resonance of Om humming in a temple — that is God. The aliveness and strength we feel in our limbs — that is God. Dadaji used to do this: he would drink a glass of water slowly, eyes half-closed, and say, 'Taste that. Taste God.' These verses train us to practise the presence of God not as an abstract idea, but in the immediate sensory reality of our lives. Every sip of water can become a prayer.",
+        "sarvapriyananda": "With this verse begins the celebrated 'vibhūti' teaching — where the Lord identifies Himself as the essential quality (sāratattva) of things, not the thing itself. Rasa in water is not the water molecule but the irreducible quality of sweetness/taste that makes water what it is. Prabhā in the sun and moon is the essential luminosity. Praṇava is not merely a Sanskrit syllable but the foundational vibratory reality from which the Vedas arise. Śabda in ākāśa is the tanmātra — the subtle sound-essence. This methodology is significant: the Lord is pointing to the qualitative essence, the transcendent characteristic, the 'isness' behind each phenomenon — and identifying that isness as Himself, as Consciousness.",
+        "yogananda": "The Lord now begins His sublime enumeration of His cosmic manifestations in the experiential world. Each quality He names — taste, light, Om, sound, vitality — corresponds to a level of vibratory manifestation of the one divine Consciousness. Yoganandaji explains that praṇavaḥ sarva-vedeṣu is the deepest clue: Om is the Cosmic Vibration, the Shabda Brahman, the Word of John's Gospel, the primordial AUM from which all creation is woven. The meditator who in deep meditation hears the inner AUM sound has contacted the very creative vibration of the universe. Rasa in water corresponds to the water element's essential nature — its ability to nourish and reflect — both of which mirror divine grace.",
+        "goyandka": "In these two beautiful verses (8-9), the Lord lists His essential manifestations in the natural world. Rasa (taste) is the characteristic quality (guṇa) of the water element. Prabhā is the essential luminosity of the moon and sun — without which they would not be what they are. Praṇava, the syllable Om, is the very seed and essence of all the Vedas — the primordial sound from which all Vedic mantras arise. Śabda is the guṇa of ākāśa (ether/space). And pauruṣa is the vitality and strength that defines the human being. The Lord is teaching: when you appreciate any essential quality in the world — taste, light, sound, strength — you are, knowingly or unknowingly, appreciating God's own presence in that thing."
+      }
+    },
+    {
+      "verse": 9,
+      "sanskrit": "पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ ।\nजीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ॥",
+      "transliteration": "puṇyo gandhaḥ pṛthivyāṃ ca tejaś cāsmi vibhāvasau\njīvanaṃ sarva-bhūteṣu tapaś cāsmi tapasviṣu",
+      "translation": "I am the pure fragrance of the earth; and I am the brilliance in fire; I am the life in all beings; and I am the austerity (tapas) in all ascetics.",
+      "audio": "/assets/audio/ch07/verse_07_09.mp3",
+      "word_breakdown": [
+        {
+          "word": "पुण्यः",
+          "transliteration": "puṇyaḥ",
+          "root": "puṇya (pure, holy, auspicious)",
+          "grammatical_form": "Adjective, masculine, nominative, singular (modifying gandhaḥ)",
+          "meaning": "pure / holy / auspicious — here: the pure/original fragrance"
+        },
+        {
+          "word": "गन्धः",
+          "transliteration": "gandhaḥ",
+          "root": "√gandh (to smell, to fragrance)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "fragrance / smell / the essential quality (guṇa) of the earth element"
+        },
+        {
+          "word": "विभावसौ",
+          "transliteration": "vibhāvasau",
+          "root": "vi + bhāva (being, shining) + vasu (wealth/radiance)",
+          "grammatical_form": "Noun, masculine, locative, singular (epithet of fire/sun)",
+          "meaning": "in fire / in Agni — 'the brilliantly luminous one' (epithet for fire)"
+        },
+        {
+          "word": "जीवनम्",
+          "transliteration": "jīvanam",
+          "root": "√jīv (to live, to be alive)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "life / the life-force / the vital principle animating all beings"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapaḥ",
+          "root": "√tap (to burn, to heat, to purify through austerity)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "austerity / ascetic practice / the heat of self-discipline"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The scent of fresh earth after rain — what is that but God's own perfume? Dadaji would walk in the garden in the morning, pressing his feet into the damp soil, breathing deeply, and say: 'Smell that? That is His fragrance.' And the crackle and warmth of a sacred fire — its dancing light, its purifying heat — that is His brilliance (tejas). The life-force that pulses in your heart right now, the breath that moves in and out — jīvanam sarva-bhūteṣu — that is Him, living in all creatures. And the tapas of an ascetic — the quiet, burning dedication to God through discipline — that burning quality itself is God. He is in the seeking as much as He is in the finding.",
+        "sarvapriyananda": "The Lord continues identifying Himself as the essential quality of each element. Gandha is the guṇa of pṛthivī (earth) — in the Sāṃkhya-Vedānta system, each element has its characteristic tanmātra: earth's is smell. But the qualifier puṇya — pure, holy — is significant. It points not to any fragrance, but to the primary, uncorrupted essence. Tejas in fire is its luminosity, its transforming power — the very principle of heat and light. Jīvanam sarva-bhūteṣu is perhaps the most moving: the Lord is the life-force itself, throbbing in every heart, without exception. Even the ascetic's tapas — not the outer show of austerity, but the genuine burning purification of consciousness — is the Lord's own fire working in the practitioner.",
+        "yogananda": "The earth's fragrance — especially after rain, what we might call petrichor — carries something primeval and sacred. It is the earth element in its most characteristic self-expression: gandha, the quality of smell. Yoganandaji identified the Lord as the life-principle itself — jīvanam sarva-bhūteṣu — the prāṇa, the cosmic life-energy that animates every atom of organic existence. In the body this is the prāṇa moving through the spine and nerves; cosmically it is the vibration of Consciousness manifesting as vitality in matter. And tapas — austerity — when genuine, is the spiritual will of the Divine burning through the practitioner, purifying the dross of ego, just as fire purifies gold. God is that purifying intensity itself.",
+        "goyandka": "Continuing the enumeration of divine manifestations, the Lord names: puṇyo gandhaḥ pṛthivyāṃ — the pure, intrinsic fragrance which is the essential characteristic (guṇa) of the earth element. This is not any artificial scent but the natural, inherent fragrance of the earth. Tejas in fire is the blazing, transforming luminosity that makes fire what it is. Jīvanam sarva-bhūteṣu — the life-principle in all living beings, from the tiniest insect to the greatest sage — is the Lord Himself. Without His presence as jīvana, all would be inert matter. And tapas — the purifying spiritual discipline practiced by ascetics — is not merely human willpower; its efficacy and energy come from the Divine. These verses should inspire the devotee to recognise the sacred in the seemingly ordinary."
+      }
+    },
+    {
+      "verse": 10,
+      "sanskrit": "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।\nबुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ॥",
+      "transliteration": "bījaṃ māṃ sarva-bhūtānāṃ viddhi pārtha sanātanam\nbuddhir buddhimatām asmi tejas tejasvinām aham",
+      "translation": "Know Me, O Pārtha, as the eternal seed (sanātana bīja) of all beings; I am the intelligence of the intelligent, and the splendour of the splendid.",
+      "audio": "/assets/audio/ch07/verse_07_10.mp3",
+      "word_breakdown": [
+        {
+          "word": "बीजम्",
+          "transliteration": "bījam",
+          "root": "√bij (to germinate, to be a seed)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "seed / the original cause / the generative principle of all beings"
+        },
+        {
+          "word": "सनातनम्",
+          "transliteration": "sanātanam",
+          "root": "sanā (always, from of old) + tana (extending)",
+          "grammatical_form": "Adjective, neuter, accusative, singular (modifying bījam)",
+          "meaning": "eternal / primordial / that which has always existed / the everlasting"
+        },
+        {
+          "word": "बुद्धिमताम्",
+          "transliteration": "buddhimatām",
+          "root": "buddhi (intelligence) + mant (possessing) + genitive plural",
+          "grammatical_form": "Noun, masculine, genitive, plural",
+          "meaning": "of the intelligent ones / of those who possess sharp discrimination"
+        },
+        {
+          "word": "तेजस्",
+          "transliteration": "tejas",
+          "root": "√tij (to sharpen, to blaze)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "splendour / radiance / fiery brilliance / spiritual effulgence"
+        },
+        {
+          "word": "तेजस्विनाम्",
+          "transliteration": "tejasvinām",
+          "root": "tejas (splendour) + vin (possessing) + genitive plural",
+          "grammatical_form": "Adjective used as noun, masculine, genitive, plural",
+          "meaning": "of the splendid ones / of the radiant and powerful"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The eternal seed — sanātana bīja. Think of a seed held in your palm. It is small, dry, seemingly inert. But inside it, compressed and waiting, is an entire tree — roots, trunk, branches, leaves, flowers, fruit, thousands of future seeds. The Lord says: I am that in every being. The potential, the origin, the generative core of everything that exists. And in the brilliant scholar whose mind cuts through confusion like a sword — that brilliance is God's own buddhi. In the warrior whose presence fills a room, in the sage whose words carry authority — that luminosity, that tejas, is God Himself shining through. Dadaji said: whenever you see true greatness in another person, bow — you are seeing God.",
+        "sarvapriyananda": "The verse culminates this section with the declaration of the Lord as sanātana bījam — the eternal, primordial seed of all beings. In Vedānta, the bīja refers to the kāraṇa-śarīra, the causal body, but here the Lord transcends even that: He is the seed of seeds, the cause of causes, the unchanging substratum from which all emergence occurs. Buddhi buddhimatām — 'I am the intelligence of the intelligent' — points to the fact that the capacity to discriminate between the real and the unreal (viveka) is not a merely human faculty; it is divine light (prakāśa) operating through the mind. And tejas is the manifestation of ātma-śakti — the soul's own power — in its outer radiance. The Lord is the indwelling empowerer of all excellence.",
+        "yogananda": "The Lord as the eternal seed — sanātana bījam — of all beings is a teaching of extraordinary depth. In meditation, the yogi discovers the seedstate of consciousness: beneath all thought and perception, there is a ground of pure potentiality, an unmanifest matrix from which all mental events arise. This is the bīja. The Lord is that ground — eternal, unchanging, the source from which individual souls are projected like seeds from a cosmic tree. And the buddhi of the wise — the clear, penetrating intelligence that sees through illusion — that clarity is divine Consciousness functioning through the purified mind. The meditator who calms the lower mental activities begins to experience this divine buddhi directly, as the inner guru's voice.",
+        "goyandka": "The Lord concludes this section by identifying Himself as the sanātana bīja — the eternal seed — of all beings. Just as a seed contains within itself the entire potential of the future tree, the Lord is the original cause and innermost essence of every living being. There is nothing in creation that does not derive its being from this eternal seed. Then the Lord cites two more specific manifestations: buddhi buddhimatām — the Lord is the intelligence, the discriminating faculty, of those who are truly intelligent; and tejas tejasvinām — the fiery spiritual splendour of those who are brilliant and powerful. This verse teaches that all genuine excellence — intellectual, spiritual, or physical — is not merely a personal attribute but a manifestation of the Lord's own śakti flowing through the individual."
+      }
+    },
+    {
+      "verse": 11,
+      "sanskrit": "बलं बलवतां चाहं कामरागविवर्जितम् ।\nधर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ॥",
+      "transliteration": "balaṃ balavatāṃ cāhaṃ kāma-rāga-vivarjitam\ndharma-aviruddho bhūteṣu kāmo 'smi bharatarṣabha",
+      "translation": "I am the strength of the strong, devoid of desire and passion. In all beings, O best of the Bharatas, I am that desire which is not contrary to dharma.",
+      "audio": "/assets/audio/ch07/verse_07_11.mp3",
+      "word_breakdown": [
+        {
+          "word": "बलम्",
+          "transliteration": "balam",
+          "root": "bala (strength, power)",
+          "grammatical_form": "Noun, neuter, nominative singular",
+          "meaning": "strength / power / vital force"
+        },
+        {
+          "word": "बलवताम्",
+          "transliteration": "balavatām",
+          "root": "balavat (powerful one)",
+          "grammatical_form": "Adjective used as noun, genitive plural",
+          "meaning": "of the strong / of the mighty"
+        },
+        {
+          "word": "कामरागविवर्जितम्",
+          "transliteration": "kāma-rāga-vivarjitam",
+          "root": "kāma (desire) + rāga (passion) + vi + √vṛj (to exclude)",
+          "grammatical_form": "Tatpuruṣa compound, adjective, neuter, nominative singular",
+          "meaning": "devoid of longing and passionate clinging / free from selfish desire and attachment"
+        },
+        {
+          "word": "धर्माविरुद्धः",
+          "transliteration": "dharma-aviruddhaḥ",
+          "root": "dharma (righteousness) + a (not) + vi + √rudh (to obstruct)",
+          "grammatical_form": "Compound adjective, masculine, nominative singular",
+          "meaning": "not contrary to righteousness / that which does not oppose dharma"
+        },
+        {
+          "word": "भरतर्षभ",
+          "transliteration": "bharatarṣabha",
+          "root": "bharata (descendant of Bharata) + ṛṣabha (bull, best)",
+          "grammatical_form": "Compound noun, vocative singular",
+          "meaning": "O best among the Bharatas / O bull of the Bharata dynasty — epithet for Arjuna"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji used to say with a quiet smile: 'Beta, even your strength when you lift a heavy thing — that is He lifting through you.' This verse brings such peace. Krishna is not only the distant Absolute; He is the very vitality pulsing in your muscles, the firm resolve in your spine. Yet He clarifies — the strength He embodies is pure, cleansed of selfish craving and possessive attachment. And even desire — that restless force we are so often told to suppress — when it moves in alignment with dharma, with the cosmic order, it too is Krishna. The desire to learn, to serve, to give love — that is God moving through us. What a tender and embracing vision of the divine.",
+        "sarvapriyananda": "This verse does something philosophically precise: it does not say Krishna is all strength, but the strength of the strong — that irreducible, essential quality. Śaṅkara reads balam here as the pure power that enables function, stripped of its accidental qualities of ego-driven craving (kāma) and obsessive attachment (rāga). What remains when you subtract lust from strength? Pure śakti — and that is Brahman expressing through the finite. The second line is equally careful: kāma is not condemned wholesale. Desire that flows within the channels of dharma — especially the desire for liberation, jijñāsā — is itself a manifestation of the Divine. This is a non-dualistic ethics: nothing is evil in itself, only misaligned.",
+        "yogananda": "Yogananda understood this verse as a map of inner energetics. The 'strength of the strong' points to prāṇa, the cosmic life-force which animates all biological and mental activity. When a yogi concentrates the life-force in meditation, withdrawing it from the periphery, they touch this very prāṇa of Krishna. And the desire spoken of here corresponds to what Yogananda called 'divine aspiration' — the soul's innate magnetism toward its Source. Selfish desire scatters our energy outward; dharmic desire gathers it and turns it Godward. The spiritual path is not the destruction of desire but its transformation — redirecting the river of longing from perishable objects back to the eternal Ocean.",
+        "goyandka": "Goyandka emphasizes the theological precision of this verse. Krishna declares Himself the essence within phenomena, not the phenomena themselves. Strength as such — balam — belongs to Krishna; what belongs to the jīva is only the mistaken identification with that strength as 'mine.' Similarly, kāma is here carefully qualified: dharma-aviruddhaḥ — only desire that does not violate right conduct and scriptural injunction is divine. Forbidden desire, rooted in the three guṇas and directed at improper objects, is not Krishna but a distortion born of avidyā. This distinction is vital for ethical life: the Gītā does not sanction all desire, only that which supports the cosmic moral order."
+      }
+    },
+    {
+      "verse": 12,
+      "sanskrit": "ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।\nमत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ॥",
+      "transliteration": "ye caiva sāttvikā bhāvā rājasās tāmasāś ca ye\nmatta eveti tān viddhi na tv ahaṃ teṣu te mayi",
+      "translation": "And whatever states of being there are — of sattva, of rajas, and of tamas — know that they all proceed from Me alone. I am not in them; they are in Me.",
+      "audio": "/assets/audio/ch07/verse_07_12.mp3",
+      "word_breakdown": [
+        {
+          "word": "सात्त्विकाः",
+          "transliteration": "sāttvikāḥ",
+          "root": "sattva (purity, being) + ika (suffix denoting quality)",
+          "grammatical_form": "Adjective, masculine, nominative plural",
+          "meaning": "of the nature of sattva / pure / luminous states"
+        },
+        {
+          "word": "भावाः",
+          "transliteration": "bhāvāḥ",
+          "root": "√bhū (to be, to become)",
+          "grammatical_form": "Noun, masculine, nominative plural",
+          "meaning": "states of being / modes of existence / psychological conditions"
+        },
+        {
+          "word": "मत्तः",
+          "transliteration": "mattaḥ",
+          "root": "mat (from Me) + taḥ (ablative suffix)",
+          "grammatical_form": "Pronoun with ablative suffix, first person singular",
+          "meaning": "from Me alone / proceeding from Me"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "root": "√vid (to know)",
+          "grammatical_form": "Imperative, second person singular",
+          "meaning": "know! / understand! / recognise!"
+        },
+        {
+          "word": "ते मयि",
+          "transliteration": "te mayi",
+          "root": "tat (they) + mayi (in Me, locative of aham)",
+          "grammatical_form": "Pronoun, nominative plural + locative singular",
+          "meaning": "they are in Me / they rest within Me"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji called this verse the answer to the great question: 'Where does everything come from?' All three modes — the peaceful clarity of sattva, the restless push of rajas, the heaviness of tamas — all arise from Him. Not a single experience is outside His domain. What gave Dadaji such peace was the second part: 'I am not in them — they are in Me.' The world does not contain God; God contains the world, as the sky contains clouds without being touched by them. When we feel heavy with tamas or scattered with rajas, the Lord Himself is the space within which even that heaviness rests. This is not fatalism; it is the most radical freedom — nothing is outside God, therefore nothing can permanently bind the soul.",
+        "sarvapriyananda": "Vedānta makes a crucial distinction here that Krishna states with crystalline clarity: God is the ādhāra, the substratum, not the ādhāya, the content. The three guṇas and all their permutations arise from Brahman as modifications (vikāras) of prakṛti, which itself depends on Brahman. Yet Brahman is not modified — it remains nirguṇa, qualityless, the pure witness. This is the Advaita position of vivarta: the rope appears as a snake without the rope ever becoming a snake. The Divine appears as the three guṇas without ever becoming bound by them. 'Na tv ahaṃ teṣu' — 'I am not in them' — this is the statement of the unbound Self. 'Te mayi' — 'they are in Me' — this is the statement of non-dual ground.",
+        "yogananda": "Yogananda saw this verse as describing the structure of cosmic consciousness. The three guṇas are the vibratory frequencies of the creative Aum-vibration — tamas is the slow, contracting frequency; rajas the active, differentiating frequency; sattva the luminous, harmonising frequency. All arise from the Cosmic Dreamer's meditation, like waves from the ocean. But the Dreamer — the ocean — is not disturbed by any wave. The yogi's task is to identify with the Ocean, not with any particular wave. In deep samādhi, the meditator experiences this directly: all states of mind — whether dull, active, or peaceful — are seen to arise and dissolve in one's own infinite awareness.",
+        "goyandka": "Goyandka carefully notes the two-part structure of this verse. First: all threefold states of being originate in the Lord alone — He is the ultimate material and efficient cause. Second: He is not limited or contained by them. This preserves both divine immanence and divine transcendence simultaneously. The philosophical implication is vital for sādhanā: no state of mind — not even the deepest tamas or depression — is outside God's sovereignty. Yet God is not defined or confined by any of these states. This prevents two errors: the error of thinking God is absent during dark times, and the error of thinking that any pleasant sattvic experience is itself the final realisation of God."
+      }
+    },
+    {
+      "verse": 13,
+      "sanskrit": "त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् ।\nमोहितं नाभिजानाति मामेभ्यः परमव्ययम् ॥",
+      "transliteration": "tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṃ jagat\nmohitaṃ nābhijānāti mām ebhyaḥ param avyayam",
+      "translation": "Deluded by these three states of being composed of the gunas, the entire world does not know Me — who am beyond them and imperishable.",
+      "audio": "/assets/audio/ch07/verse_07_13.mp3",
+      "word_breakdown": [
+        {
+          "word": "त्रिभिः",
+          "transliteration": "tribhiḥ",
+          "root": "tri (three)",
+          "grammatical_form": "Numeral, instrumental plural",
+          "meaning": "by the three / through the agency of three"
+        },
+        {
+          "word": "गुणमयैः",
+          "transliteration": "guṇa-mayaiḥ",
+          "root": "guṇa (quality, strand) + maya (made of, full of)",
+          "grammatical_form": "Compound adjective, instrumental plural",
+          "meaning": "made of the guṇas / constituted by the three modes"
+        },
+        {
+          "word": "मोहितम्",
+          "transliteration": "mohitam",
+          "root": "√muh (to be deluded, to be confused)",
+          "grammatical_form": "Past passive participle, neuter, nominative singular",
+          "meaning": "deluded / bewildered / rendered unconscious of truth"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "root": "para (beyond, supreme)",
+          "grammatical_form": "Adjective, neuter, accusative singular",
+          "meaning": "the one beyond / transcendent / the supreme"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "root": "a (not) + √vī / vi + √i (to spend, to diminish)",
+          "grammatical_form": "Adjective, neuter, accusative singular",
+          "meaning": "imperishable / immutable / that which does not decay"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would gently ask: 'What is the real tragedy of human life?' And then answer: 'Not suffering — suffering can purify. The real tragedy is that God is right here, as our very Self, and we do not know it.' This verse names that tragedy. The whole world — sarvam idaṃ jagat — is asleep to God, hypnotised by the colourful play of sattva, rajas, and tamas. The three guṇas are like a magnificent theatrical production — so beautiful, so involving, so real-seeming — and the audience forgets it is watching a show. The Director, the one 'beyond and imperishable,' goes unrecognised. Dadaji said the only solution is grace — and grace comes through surrender, through love, through not mistaking the show for the whole of reality.",
+        "sarvapriyananda": "This verse is the classical statement of saṃsāra's cause: guṇa-maya moha — delusion born of the three modes. The entire jagat — the moving, changing universe — is permeated by the three guṇas, and beings embedded in this play lose sight of the avyaya, the changeless. Śaṅkara comments that 'ebhyaḥ param' (beyond these) establishes Krishna's nirguṇa nature — He is not merely a fourth, higher guṇa, but the dimensionless ground from which all guṇas arise. The ignorance here is not intellectual error alone but existential: the entire orientation of the embodied being is toward the guṇas rather than toward their source. Jñāna yoga is the systematic reversal of this orientation.",
+        "yogananda": "Yogananda described the guṇas as the three currents of cosmic electricity — tamas as the negative pole, rajas as the positive, sattva as the neutral or harmonising current. The soul, caught in the interplay of these currents, forgets its identity with the Source beyond all polarity. This is māyā at the causal level — not illusion in the sense of non-existence, but in the sense of misidentification. The yogi who progresses through meditation increasingly perceives the guṇas as modifications of one underlying consciousness — and eventually transcends even the sattvic modifications to rest in the guṇātīta state, where the avyaya Self alone shines. This is samādhi: knowing Krishna as param, the Beyond.",
+        "goyandka": "Goyandka draws attention to the universality asserted here: sarvam idaṃ jagat — not some people, not unwise people, but the entire world is deluded. This applies to those in sattva as much as those in tamas, because even sattvic beings remain within the guṇas and therefore within the realm of ignorance. The only exceptions are those who take refuge in Krishna (next verse). Goyandka also emphasises 'avyayam' — Krishna is not subject to decay or modification, unlike every guṇa-state which is inherently temporary. Recognising this impermanence of all guṇa-states is itself the beginning of discrimination (viveka) that leads out of moha."
+      }
+    },
+    {
+      "verse": 14,
+      "sanskrit": "दैवी ह्येषा गुणमयी मम माया दुरत्यया ।\nमामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥",
+      "transliteration": "daivī hy eṣā guṇa-mayī mama māyā duratyayā\nmām eva ye prapadyante māyām etāṃ taranti te",
+      "translation": "This divine māyā of Mine, made of the three gunas, is indeed hard to cross over. Those who take refuge in Me alone — they cross over this māyā.",
+      "audio": "/assets/audio/ch07/verse_07_14.mp3",
+      "word_breakdown": [
+        {
+          "word": "दैवी",
+          "transliteration": "daivī",
+          "root": "deva (divine, God) + ī (feminine suffix)",
+          "grammatical_form": "Adjective, feminine, nominative singular",
+          "meaning": "divine / belonging to the Lord / of God's own power"
+        },
+        {
+          "word": "माया",
+          "transliteration": "māyā",
+          "root": "√mā (to measure, to create) or ma + yā (that which is not fully real)",
+          "grammatical_form": "Noun, feminine, nominative singular",
+          "meaning": "the creative power of delusion / cosmic illusion / God's projective energy"
+        },
+        {
+          "word": "दुरत्यया",
+          "transliteration": "duratyayā",
+          "root": "dur (hard) + ati + √i (to go beyond, to cross)",
+          "grammatical_form": "Compound adjective, feminine, nominative singular",
+          "meaning": "hard to cross / nearly impassable / extremely difficult to transcend"
+        },
+        {
+          "word": "प्रपद्यन्ते",
+          "transliteration": "prapadyante",
+          "root": "pra + √pad (to step toward, to take refuge)",
+          "grammatical_form": "Present tense, third person plural, ātmanepada",
+          "meaning": "take refuge / surrender / fall at the feet of"
+        },
+        {
+          "word": "तरन्ति",
+          "transliteration": "taranti",
+          "root": "√tṛ (to cross, to overcome)",
+          "grammatical_form": "Present tense, third person plural, parasmaipada",
+          "meaning": "they cross over / they transcend / they get beyond"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would fold his hands and say: 'Beta, do not try to fight māyā — you will lose. The only way is to run to God.' This verse is the Gītā's great statement of the path of surrender. Māyā is called 'daivī' — divine — because it is not an enemy; it is God's own creative power. It is 'mine,' Krishna says — this is not something alien to the Lord. And yet it is duratyayā — nearly impossible to overcome by personal effort alone. The gate that opens is prapatti — complete self-surrender to Krishna. Not partial surrender, not surrender as a technique, but the heart's genuine giving over of itself. When that happens, māyā does not fight you — it simply steps aside, because the owner has come home.",
+        "sarvapriyananda": "The term 'daivī māyā' is philosophically rich. It distinguishes God's māyā from jīva's avidyā (ignorance). Māyā belongs to Īśvara — it is His śakti, His creative power that projects the universe. It is guṇa-mayī — made of the three qualities — meaning it is entirely within the realm of prakṛti, not of puruṣa. That it is duratyayā for the individual is evident from the world's condition (previous verse). The solution — mām eva prapadyante — is not a devotional concession but a precise metaphysical prescription: since māyā is the Lord's śakti, only alignment with the Lord Himself can neutralise it. You cannot overcome God's power by your own effort; you can only be carried beyond it by God's grace.",
+        "yogananda": "Yogananda explained māyā as the Cosmic Magician's show — a performance of infinite creativity and convincing illusion. The word 'daivī' tells us it originates in the divine will; it is purposive, not accidental. Māyā provides the stage for the soul's evolutionary journey back to God-consciousness. It is duratyayā — hard to escape — because the ego, itself a product of māyā, cannot lift itself out of māyā by its own strength. This is why the saints emphasise surrender: 'mām eva' — Me alone, not technique, not philosophy, not effort. The moment the soul truly surrenders its will to the Cosmic Will, it discovers it was never separate from the ocean — it was only a wave believing itself separate.",
+        "goyandka": "Goyandka offers a careful grammatical and theological analysis. 'Mama māyā' — My māyā — establishes that māyā is not an independent power but entirely subordinate to God. What is called 'hard to cross' is so only for the jīva operating through ego and personal effort; it presents no obstacle for the one who surrenders to the Lord. 'Mām eva' — the word eva (alone, only) is emphatic: partial surrender or surrender to lesser powers does not avail. Goyandka also notes that 'taranti te' — they cross over — is in the simple present, indicating this is a universal and reliable principle, not an occasional possibility. Surrender to God is the guaranteed and only means of liberation from māyā."
+      }
+    },
+    {
+      "verse": 15,
+      "sanskrit": "न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः ।\nमाययापहृतज्ञाना आसुरं भावमाश्रिताः ॥",
+      "transliteration": "na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ\nmāyayāpahṛta-jñānā āsuraṃ bhāvam āśritāḥ",
+      "translation": "The evil-doers, the deluded, the lowest of men — those whose wisdom has been swept away by māyā and who follow the nature of the asuras — they do not take refuge in Me.",
+      "audio": "/assets/audio/ch07/verse_07_15.mp3",
+      "word_breakdown": [
+        {
+          "word": "दुष्कृतिनः",
+          "transliteration": "duṣkṛtinaḥ",
+          "root": "duṣ (bad, evil) + √kṛ (to do) + in (agent suffix)",
+          "grammatical_form": "Noun/adjective, masculine, nominative plural",
+          "meaning": "evil-doers / those who perform wicked actions habitually"
+        },
+        {
+          "word": "नराधमाः",
+          "transliteration": "narādhamāḥ",
+          "root": "nara (human being) + adhama (lowest)",
+          "grammatical_form": "Tatpuruṣa compound, masculine, nominative plural",
+          "meaning": "the lowest of human beings / those who have squandered human life"
+        },
+        {
+          "word": "मायया",
+          "transliteration": "māyayā",
+          "root": "māyā (cosmic illusion, divine creative power)",
+          "grammatical_form": "Noun, feminine, instrumental singular",
+          "meaning": "by māyā / through the agency of cosmic delusion"
+        },
+        {
+          "word": "अपहृतज्ञानाः",
+          "transliteration": "apahṛta-jñānāḥ",
+          "root": "apa + √hṛ (to carry away, to steal) + jñāna (wisdom)",
+          "grammatical_form": "Bahuvrīhi compound, masculine, nominative plural",
+          "meaning": "those whose wisdom has been carried away / robbed of discernment"
+        },
+        {
+          "word": "आसुरम् भावम्",
+          "transliteration": "āsuraṃ bhāvam",
+          "root": "asura (demon, one who rejects the divine) + bhāva (nature, state)",
+          "grammatical_form": "Adjective + noun, accusative singular",
+          "meaning": "the demonic nature / the disposition that opposes the divine"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji never read this verse with harshness — always with compassion. He would say: 'These people are not condemned — they are simply asleep in a very deep way, and māyā has stolen even their capacity to seek.' The four types named here are not separate categories but a single pattern of spiritual unavailability: actions aligned against dharma create a hardened ego, which becomes mūḍha (dull), which sinks to the lowest human potential, until even wisdom is swept away by the tide of illusion. The āsura-bhāva is not about demons — it describes a human being who has forgotten that anything greater than the ego exists. Dadaji's prayer was always for such souls: 'May God's grace reach even them, for they cannot reach toward it themselves.'",
+        "sarvapriyananda": "This verse is a diagnostic, not a condemnation. Krishna describes the mechanisms by which the soul becomes unavailable for surrender. Notice the sequence: duṣkṛtina (wrong action) leads to mūḍha (delusion), which produces narādhama (the wasting of human potential), which results in māyayāpahṛta-jñāna (wisdom stolen by māyā), which ends in āsura-bhāva (orientation away from the divine). Each stage progressively closes off the possibility of prapatti. Āsura-bhāva does not mean practising black magic — it means living as if matter is all there is, as if the ego is the final reality. This is the deepest delusion: the denial of one's own divine nature.",
+        "yogananda": "Yogananda described these four types as souls at different stages of spiritual darkness. The 'evil-doers' have oriented their life-energy entirely outward and downward. The 'deluded' have lost the capacity for self-reflection. The 'lowest of humans' have wasted the precious gift of human birth — the only incarnation in which God-realisation is accessible. And those with stolen wisdom represent the saddest condition: they may be intellectually brilliant, yet their brilliance serves only the ego. The āsura-nature is materialism in its subtlest form — the conviction that no reality exists beyond what the senses and ego can grasp. Yogananda taught that even these souls will eventually turn toward God, but after many more cycles of learning through suffering.",
+        "goyandka": "Goyandka presents this verse as the necessary complement to verse 14. Having stated the path of prapatti, Krishna now explains why not everyone takes it. Four distinct obstacles are named. Duṣkṛtina: the accumulation of sinful acts creates saṃskāras (mental impressions) that pull the mind away from God. Mūḍha: tamasic delusion prevents discrimination. Narādhama: the deliberate degradation of human potential by choosing animalistic life-goals. Māyayāpahṛta-jñāna: even learning and knowledge, when divorced from ethical living and surrender to God, become tools of ego-reinforcement. Āsura-bhāva ties them together: a fundamental orientation against the divine will. Goyandka notes this is why karma, jñāna, and bhakti must be integrated — no one alone suffices."
+      }
+    },
+    {
+      "verse": 16,
+      "sanskrit": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन ।\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ॥",
+      "transliteration": "catur-vidhā bhajante māṃ janāḥ sukṛtino 'rjuna\nārto jijñāsur arthārthī jñānī ca bharatarṣabha",
+      "translation": "Four kinds of virtuous people worship Me, O Arjuna — the distressed, the seeker of knowledge, the seeker of wealth, and the wise one, O best of the Bharatas.",
+      "audio": "/assets/audio/ch07/verse_07_16.mp3",
+      "word_breakdown": [
+        {
+          "word": "चतुर्विधाः",
+          "transliteration": "catur-vidhāḥ",
+          "root": "catur (four) + vidhā (kind, type)",
+          "grammatical_form": "Compound adjective, masculine, nominative plural",
+          "meaning": "of four kinds / fourfold in type"
+        },
+        {
+          "word": "सुकृतिनः",
+          "transliteration": "sukṛtinaḥ",
+          "root": "su (good, well) + √kṛ (to do) + in (agent suffix)",
+          "grammatical_form": "Noun/adjective, masculine, nominative plural",
+          "meaning": "virtuous / those who have accumulated good karma / meritorious souls"
+        },
+        {
+          "word": "आर्तः",
+          "transliteration": "ārtaḥ",
+          "root": "√ṛ / ā + √ṛ (to be afflicted, to be in pain)",
+          "grammatical_form": "Past passive participle used as noun, masculine, nominative singular",
+          "meaning": "the distressed one / the afflicted / one who suffers and cries out to God"
+        },
+        {
+          "word": "जिज्ञासुः",
+          "transliteration": "jijñāsuḥ",
+          "root": "√jñā (to know) — desiderative form: one desirous of knowing",
+          "grammatical_form": "Desiderative noun, masculine, nominative singular",
+          "meaning": "the seeker of knowledge / the spiritually curious / one who yearns to understand Truth"
+        },
+        {
+          "word": "अर्थार्थी",
+          "transliteration": "arthārthī",
+          "root": "artha (purpose, wealth, object of desire) + arthin (one who seeks)",
+          "grammatical_form": "Tatpuruṣa compound, masculine, nominative singular",
+          "meaning": "the seeker of material benefit / one who approaches God for worldly purposes"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji loved this verse because it shows how open-armed God is. No one is turned away. The ārtī — the person in anguish — cries out, and that cry reaches God. The jijñāsu may begin with just curiosity, wondering if there is something more to life. The arthārthī may come asking for a job, for health, for a child — and even that prayer is honoured. And then there is the jñānī, who comes knowing who He is and who they themselves are. All four are called sukṛtinaḥ — people of good merit. Dadaji said: 'God does not demand that you come perfectly. He accepts whatever level you come at — because the very act of turning toward God is itself the beginning of awakening.' The door is always open.",
+        "sarvapriyananda": "This verse provides the psychology of devotion. The ārtī approaches God in crisis — pain cracks the ego's self-sufficiency open. The jijñāsu comes with philosophical hunger — the best of minds, approaching the divine with genuine inquiry. The arthārthī comes with desire — which Krishna does not condemn; even desire-driven worship creates a relationship with God that can deepen. The jñānī alone comes in knowledge of identity — not worshipping a separate God but recognising the non-difference between the worshipper and the worshipped. All four are sukṛtina — meritorious — which places bhakti above mere performance: the quality of the act is determined by the orientation of the heart toward the Divine, not by its perfection.",
+        "yogananda": "Yogananda taught that these four types represent the four stages of every soul's journey. In youth or crisis we are ārtī — suffering drives us to God. Through life's questions we become jijñāsu — curiosity about life's meaning deepens into spiritual inquiry. The arthārthī stage represents the soul that still believes happiness lies in outer fulfillment, yet turns to God to get it — and God, compassionate, both gives and uses that relationship to draw the soul further inward. Finally comes the jñānī, the soul that has realised: what I was seeking outside is the very Source within me. Yogananda said most devotees pass through all four stages in a single lifetime, or even in a single meditation.",
+        "goyandka": "Goyandka carefully notes 'sukṛtinaḥ' — all four are virtuous, not just the jñānī. This means that approaching God even for worldly purposes, if done with sincerity and with God as the object of approach, is itself meritorious. It is a far higher act than not approaching God at all, which is the condition described in the previous verse. Goyandka identifies these four as a hierarchy of readiness rather than a hierarchy of worth: the ārtī and arthārthī worship God for relief and gain; the jijñāsu seeks to understand God; only the jñānī has transcended the devotee-God duality. Yet all four are honoured. The Gītā's inclusivity on this point is theologically significant: saguṇa devotion for any sincere purpose leads ultimately toward nirguṇa realisation."
+      }
+    },
+    {
+      "verse": 17,
+      "sanskrit": "तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते ।\nप्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ॥",
+      "transliteration": "teṣāṃ jñānī nitya-yukta eka-bhaktir viśiṣyate\npriyo hi jñānino 'tyartham ahaṃ sa ca mama priyaḥ",
+      "translation": "Of these, the wise one — ever united with Me, devoted to Me alone — is the most excellent. For I am supremely dear to the wise, and the wise is supremely dear to Me.",
+      "audio": "/assets/audio/ch07/verse_07_17.mp3",
+      "word_breakdown": [
+        {
+          "word": "ज्ञानी",
+          "transliteration": "jñānī",
+          "root": "√jñā (to know) + in (possessive suffix)",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "the wise one / the one who has knowledge of the Self / the jñānī-devotee"
+        },
+        {
+          "word": "नित्ययुक्तः",
+          "transliteration": "nitya-yuktaḥ",
+          "root": "nitya (eternal, constant) + √yuj (to unite, to yoke)",
+          "grammatical_form": "Tatpuruṣa compound, masculine, nominative singular",
+          "meaning": "ever united / perpetually in yoga / always connected to the Divine"
+        },
+        {
+          "word": "एकभक्तिः",
+          "transliteration": "eka-bhaktiḥ",
+          "root": "eka (one, single) + bhakti (devotion, love)",
+          "grammatical_form": "Tatpuruṣa compound, masculine, nominative singular",
+          "meaning": "of single-pointed devotion / exclusively devoted / undivided in love"
+        },
+        {
+          "word": "विशिष्यते",
+          "transliteration": "viśiṣyate",
+          "root": "vi + √śiṣ (to distinguish, to excel)",
+          "grammatical_form": "Present passive/middle, third person singular",
+          "meaning": "excels / is pre-eminent / stands apart as the highest"
+        },
+        {
+          "word": "अत्यर्थम्",
+          "transliteration": "atyartham",
+          "root": "ati (beyond, exceedingly) + artha (meaning, purpose, value)",
+          "grammatical_form": "Adverb (compound used adverbially)",
+          "meaning": "exceedingly / supremely / beyond all measure"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse moved Dadaji to tears sometimes. He would say: 'Can you imagine — God Himself says the wise devotee is dear to Me. God — who needs nothing, who lacks nothing — says this person is My beloved.' The jñānī is not someone with bookish knowledge; this is the person who has realised God, who lives in constant union (nitya-yukta), whose entire devotion is undivided (eka-bhakti). And the relationship is mutual: I am dear to the jñānī, and the jñānī is dear to Me. Dadaji said this is the secret of the saints — they don't merely love God; they know themselves to be loved by God completely. That reciprocal love is the highest state of existence. This is the goal.",
+        "sarvapriyananda": "The jñānī described here is not merely an intellectual who has studied Vedānta. Nitya-yukta — perpetually unified — means this person lives in continuous non-dual awareness. Eka-bhakti — single-pointed devotion — means the mind never wavers from its recognition of the Absolute. From Śaṅkara's perspective, this is the jīvanmukta, the one liberated while living, who sees Brahman everywhere and in all things. The mutual priyatā (dearness) Krishna declares is Vedānta's bold statement: Brahman's love is not metaphorical. The relationship between the realised jñānī and Brahman is the only truly non-transactional relationship — two who are ultimately One, expressing the joy of that Oneness through the form of devotion.",
+        "yogananda": "Yogananda saw in this verse the description of the God-united master — the fully Self-realised soul who has achieved the state of nirbīja samādhi, where even the seed of separation from God is gone. Nitya-yukta: always in union — not just during meditation but in every moment of waking, dreaming, and deep sleep. Eka-bhakti: the heart is no longer divided between God and world because the jñānī has seen the world as God. Yogananda wrote that such a one becomes a 'divine magnet' — God is drawn to them because in them God sees Himself most clearly reflected. 'I am dear to the jñānī' — God knows Himself through the jñānī's realisation, and this is the most intimate form of divine joy.",
+        "goyandka": "Goyandka analyses the superlative 'viśiṣyate' — the jñānī is not merely good but the best of the four types. The reason is structural: the other three worship God for something — relief, knowledge, wealth. The jñānī worships God as God, having no other need or seeking. This is utterly pure devotion, ananya-bhakti. Goyandka notes that nitya-yukta and eka-bhakti together constitute the highest definition of bhakti-yoga: continuous union and undivided attention. The statement that the jñānī is 'supremely dear' to God is not anthropomorphism; it reflects the metaphysical principle that the closest affinity exists between like natures — the jñānī, having realised their divine nature, is closest to the Divine."
+      }
+    },
+    {
+      "verse": 18,
+      "sanskrit": "उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् ।\nआस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम् ॥",
+      "transliteration": "udārāḥ sarva evaite jñānī tv ātmaiva me matam\nāsthitaḥ sa hi yuktātmā mām evānuttamāṃ gatim",
+      "translation": "Noble indeed are all of these; but the wise one I regard as My very Self — for with his self absorbed in Me, he is established in Me alone as the supreme goal.",
+      "audio": "/assets/audio/ch07/verse_07_18.mp3",
+      "word_breakdown": [
+        {
+          "word": "उदाराः",
+          "transliteration": "udārāḥ",
+          "root": "ud (up, elevated) + √dṛ / ā (to lift, to esteem)",
+          "grammatical_form": "Adjective, masculine, nominative plural",
+          "meaning": "noble / magnanimous / generous in spirit / elevated souls"
+        },
+        {
+          "word": "ज्ञानी",
+          "transliteration": "jñānī",
+          "root": "√jñā (to know) + in (possessive suffix)",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "the wise one / the one with Self-knowledge"
+        },
+        {
+          "word": "आत्मैव",
+          "transliteration": "ātmaiva",
+          "root": "ātman (Self, soul) + eva (indeed, alone — emphatic particle)",
+          "grammatical_form": "Noun + emphatic particle, nominative singular",
+          "meaning": "My very Self / none other than Myself — the jñānī is identical with Me"
+        },
+        {
+          "word": "युक्तात्मा",
+          "transliteration": "yuktātmā",
+          "root": "yukta (yoked, united) + ātman (self, mind)",
+          "grammatical_form": "Bahuvrīhi compound, masculine, nominative singular",
+          "meaning": "one whose self is unified / whose mind is absorbed in God / with a disciplined spirit"
+        },
+        {
+          "word": "अनुत्तमाम्",
+          "transliteration": "anuttamām",
+          "root": "an (not) + uttama (highest, topmost)",
+          "grammatical_form": "Adjective, feminine, accusative singular (qualifying gatim)",
+          "meaning": "the unsurpassed / the supreme / that which has no higher — qualifying 'goal'"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji used to pause long after reading this verse. Then he would say quietly: 'Do you understand what God is saying? He is saying the jñānī is His own Self.' This is the most intimate statement in the entire Bhagavad Gītā. God does not say 'the jñānī is My best devotee' or 'the jñānī is very close to Me.' He says: ātmaiva — My very Self. This is the Upaniṣadic truth made personal and warm: tat tvam asi — Thou art That. And before saying this, Krishna does something beautiful — He affirms all four devotees: 'Udārāḥ sarva' — all are noble. No one is turned away. But the jñānī has gone all the way home, and home is God Himself.",
+        "sarvapriyananda": "This verse contains one of the most theologically daring declarations in all of sacred literature: jñānī tu ātmaiva me matam — 'the jñānī is indeed My very Self.' Śaṅkara takes this literally: the jñānī is Brahman, and this is not a hyperbolic compliment but a statement of ontological fact. The appearance of duality between devotee and God dissolves in the jñānī's realisation, just as the dream-figure dissolves upon waking — not annihilated but revealed as never having been separate from the dreamer. 'Yuktātmā mām eva anuttamāṃ gatim' — 'with Self unified, established in Me as the supreme goal' — this is mokṣa: not going somewhere, but recognising what has always been the case.",
+        "yogananda": "Yogananda saw this verse as the climax of the jñānī's journey: the wave realises it was always the ocean. The phrase 'mām evānuttamāṃ gatim' — 'established in Me as the supreme destination' — points to what he called the breathless state of cosmic consciousness, where the yogi's individual awareness merges into the Infinite without losing consciousness. This is not annihilation; it is the fullest possible existence. The other three types of devotees — the ārtī, jijñāsu, and arthārthī — are still on the journey. The jñānī has arrived. And upon arrival, they discover that the journey was always within the Destination, that the seeker was always the sought, that the separate 'I' was always 'He.'",
+        "goyandka": "Goyandka emphasises the word 'tu' (but/however) in 'jñānī tu' — it marks a contrast and elevation. While all four devotees are honoured as udāra (noble), the jñānī occupies a categorically different position. 'Ātmaiva me matam' — I consider him My own Self — is not merely devotional warmth but an exact description of the jñānī's state: they have realised ātman = Brahman, and therefore from God's perspective, there is no difference. Goyandka notes that 'anuttamāṃ gatim' — the unsurpassed goal — means no higher attainment exists. This is not one stage on the path; it is the completion of all paths. The jñānī's establishment in God is final and unshakeable."
+      }
+    },
+    {
+      "verse": 19,
+      "sanskrit": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते ।\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः ॥",
+      "transliteration": "bahūnāṃ janmanām ante jñānavān māṃ prapadyate\nvāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ",
+      "translation": "At the end of many births, the one who has wisdom takes refuge in Me, knowing 'Vāsudeva is all.' Such a great soul is very rare indeed.",
+      "audio": "/assets/audio/ch07/verse_07_19.mp3",
+      "word_breakdown": [
+        {
+          "word": "बहूनाम्",
+          "transliteration": "bahūnām",
+          "root": "bahu (many, much)",
+          "grammatical_form": "Adjective, genitive plural",
+          "meaning": "of many / after countless"
+        },
+        {
+          "word": "जन्मनाम्",
+          "transliteration": "janmanām",
+          "root": "√jan (to be born) → janman (birth, life)",
+          "grammatical_form": "Noun, neuter, genitive plural",
+          "meaning": "of births / of lifetimes"
+        },
+        {
+          "word": "ज्ञानवान्",
+          "transliteration": "jñānavān",
+          "root": "jñāna (knowledge) + vat (possessing)",
+          "grammatical_form": "Adjective used as noun, masculine, nominative singular",
+          "meaning": "the one possessed of wisdom / the fully matured knower"
+        },
+        {
+          "word": "वासुदेवः सर्वम्",
+          "transliteration": "vāsudevaḥ sarvam",
+          "root": "Vāsudeva (son of Vasudeva — Krishna) + sarva (all, everything)",
+          "grammatical_form": "Proper noun, nominative + adjective/pronoun, nominative",
+          "meaning": "Vāsudeva is everything / Krishna is all / the Absolute is the totality of existence"
+        },
+        {
+          "word": "सुदुर्लभः",
+          "transliteration": "su-durlabhaḥ",
+          "root": "su (very, intensifier) + dur (hard) + √labh (to obtain, to find)",
+          "grammatical_form": "Compound adjective, masculine, nominative singular",
+          "meaning": "very rarely found / exceedingly rare / extremely hard to come by"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would sometimes say this verse with a long exhale — as if the weight of those 'many births' was felt in his body. The evolution of the soul across countless lives, slowly, slowly, birth by birth, experience by experience, purification by purification — until finally something inside completely opens, and the jñānī falls at God's feet, knowing: 'Vāsudeva is all — there is nothing that is not God.' The epithet Vāsudeva is so rich — the one who dwells (vāsa) everywhere, in whom everything dwells, son of Vasudeva. And the great soul who reaches this recognition is su-durlabha — so rare as to be almost beyond imagining. Dadaji said: 'We are lucky just to have heard these words.'",
+        "sarvapriyananda": "The Mahāvākya of this verse is 'vāsudevaḥ sarvam iti' — Vāsudeva is everything. This is the experiential realisation of the Upaniṣadic declaration 'sarvam khalv idaṃ brahma' — all this is indeed Brahman. The qualification 'bahūnāṃ janmanām ante' — after many births — tells us this realisation is the fruit of long spiritual evolution. Karma accumulates, burns, purifies; birth by birth the veil thins; and at last the moment of complete seeing arrives. The mahātmā here is literally the 'great Self' — one whose self has expanded to encompass everything, for whom the boundary between self and world has dissolved. 'Su-durlabhaḥ' — Krishna's own honest acknowledgment that such completeness is extraordinarily rare.",
+        "yogananda": "Yogananda called this the verse of cosmic remembrance. The soul travels through many incarnations, each one adding another layer of purification, another degree of expansion of awareness. What accumulates across lives is not merely good karma but jñāna — actual insight into the nature of Reality. At the culmination of this long journey comes the flash of total recognition: Vāsudeva — the all-pervading One — is all. Not 'God is everywhere' as a theological belief, but as direct perception, as immediate as seeing one's own hand. Yogananda said the greatest saints have this vision constantly: every atom of creation is seen as a wave in the ocean of Cosmic Consciousness. To see this clearly and always — that is the rarest of human attainments.",
+        "goyandka": "Goyandka draws three teachings from this verse. First: spiritual realisation requires the long ripening of many lifetimes — there are no true shortcuts, though grace can accelerate the journey. Second: the content of the jñānī's realisation is precisely stated — 'Vāsudeva is all' — this is sarvatmabhāva, the realisation of God as the Self of all. This is not theism but the highest non-dualism: there is nothing that is not God. Third: su-durlabha — this rarity is Krishna's honest statement about the nature of full realisation. Goyandka uses this to counsel humility: those still on the path should not imagine they have already arrived, and should intensify their sādhanā with renewed dedication."
+      }
+    },
+    {
+      "verse": 20,
+      "sanskrit": "कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः ।\nतं तं नियममास्थाय प्रकृत्या नियताः स्वया ॥",
+      "transliteration": "kāmais tais tair hṛta-jñānāḥ prapadyante 'nya-devatāḥ\ntaṃ taṃ niyamam āsthāya prakṛtyā niyatāḥ svayā",
+      "translation": "Those whose wisdom has been carried away by various desires take refuge in other deities — following this or that rule of worship — driven by their own nature.",
+      "audio": "/assets/audio/ch07/verse_07_20.mp3",
+      "word_breakdown": [
+        {
+          "word": "कामैः",
+          "transliteration": "kāmaiḥ",
+          "root": "√kam (to desire, to long for) → kāma (desire, wish)",
+          "grammatical_form": "Noun, masculine, instrumental plural",
+          "meaning": "by desires / through the force of various longings"
+        },
+        {
+          "word": "हृतज्ञानाः",
+          "transliteration": "hṛta-jñānāḥ",
+          "root": "√hṛ (to take, to carry away) + jñāna (wisdom, discernment)",
+          "grammatical_form": "Bahuvrīhi compound, masculine, nominative plural",
+          "meaning": "those whose wisdom has been stolen / whose discrimination has been carried away by desires"
+        },
+        {
+          "word": "अन्यदेवताः",
+          "transliteration": "anya-devatāḥ",
+          "root": "anya (other, different) + devatā (deity, divine being)",
+          "grammatical_form": "Tatpuruṣa compound, feminine accusative plural",
+          "meaning": "other deities / devas other than the Supreme / limited divine beings"
+        },
+        {
+          "word": "नियमम्",
+          "transliteration": "niyamam",
+          "root": "ni + √yam (to restrain, to regulate) → niyama (rule, observance, vow)",
+          "grammatical_form": "Noun, masculine, accusative singular",
+          "meaning": "a rule / a vow / a particular form of ritual observance"
+        },
+        {
+          "word": "प्रकृत्या",
+          "transliteration": "prakṛtyā",
+          "root": "pra + √kṛ (to make, to do) → prakṛti (nature, one's own constitution)",
+          "grammatical_form": "Noun, feminine, instrumental singular",
+          "meaning": "by nature / through one's own inherent constitution / impelled by one's own tendencies"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji read this verse with great tenderness, not judgment. He would say: 'These people are not wrong to worship — worship is always good. But their vision is limited by what their desires can see.' When desire dominates, the heart seeks a God-of-results — a deity who grants this wish or that boon. And so they follow this practice or that ritual, choosing their deity based on what they need. Dadaji said this is natural, even beautiful at its own level — it is still worship, still turning toward the divine, even if partially. The limitation is not in their sincerity but in their vision. As desires are gradually fulfilled and eventually seen through, these same souls will find their way to the deeper surrender described in verse 19.",
+        "sarvapriyananda": "The verse makes a careful metaphysical distinction: not all worship is worship of the same reality. Anya-devatāḥ — other deities — are finite divine beings, devas, who exist within the cosmic order and can grant specific boons. They are real; their worship is valid at its level. But they are not the Supreme. The person driven by desire (kāmais hṛta-jñānāḥ — wisdom stolen by desires) cannot see past the finite object of desire to the Infinite behind it. 'Prakṛtyā niyatāḥ svayā' — constrained by their own nature — indicates this is not mere stubbornness but a genuine developmental stage. The guṇas of their own constitution determine what level of reality they can apprehend. This verse is descriptive, not condemnatory.",
+        "yogananda": "Yogananda saw in this verse the spiritual-psychological mechanism of misdirected seeking. Every desire, he taught, is ultimately a misidentified desire for God — for bliss, for completeness, for that which never ends. When desire is strong, the seeker looks for its satisfaction in the outer world or in limited divine beings who can fulfil specific requests. The various niyamas — rules of worship for different deities — represent the many doorways of the cosmic temple. They are not false doors, but they lead to finite rooms, not the Infinite Hall of Brahman. The role of the satguru and of scriptural study is to gently expand the devotee's vision: 'What you truly want is not this — it is That.' As the soul matures, the outer doors become recognisable as openings in the same boundless sanctuary.",
+        "goyandka": "Goyandka presents this verse as the explanation for the diversity of religious practice in the world. People follow different deities and different observances because their desires are different and their natures (prakṛti) are different. The phrase 'taṃ taṃ niyamam āsthāya' — following this or that rule — indicates the variety of sādhanā traditions, each adapted to a particular deity and a particular type of devotee. Goyandka insists this is not condemned in the Gītā; it is simply described as limited. The implication of the surrounding verses is clear: when desires are exhausted or transcended, and when the worship of limited deities reveals its limitations, the seeker is ready for the highest teaching — prapatti to the Supreme Brahman alone."
+      }
+    },
+    {
+      "verse": 21,
+      "sanskrit": "यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति ।\nतस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् ॥",
+      "transliteration": "yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitum icchati\ntasya tasyācalāṃ śraddhāṃ tām eva vidadhāmy aham",
+      "translation": "Whatever form a devotee wishes to worship with faith — I make that very faith of his steady and unwavering.",
+      "audio": "/assets/audio/ch07/verse_07_21.mp3",
+      "word_breakdown": [
+        {
+          "word": "यो यः",
+          "transliteration": "yo yaḥ",
+          "root": "ya (relative pronoun)",
+          "grammatical_form": "Relative pronoun, masculine, nominative singular (repeated for emphasis)",
+          "meaning": "whoever / whichever person"
+        },
+        {
+          "word": "तनुम्",
+          "transliteration": "tanum",
+          "root": "tanu (body, form)",
+          "grammatical_form": "Noun, feminine, accusative singular",
+          "meaning": "form / manifestation / divine body"
+        },
+        {
+          "word": "श्रद्धया",
+          "transliteration": "śraddhayā",
+          "root": "√śrad-dhā (to have faith, to trust)",
+          "grammatical_form": "Noun, feminine, instrumental singular",
+          "meaning": "with faith / with heartfelt belief"
+        },
+        {
+          "word": "अचलाम्",
+          "transliteration": "acalām",
+          "root": "a (not) + √cal (to move)",
+          "grammatical_form": "Adjective, feminine, accusative singular",
+          "meaning": "unshaking / steady / unwavering"
+        },
+        {
+          "word": "विदधामि",
+          "transliteration": "vidadhāmi",
+          "root": "vi + √dhā (to place, to bestow)",
+          "grammatical_form": "Verb, present tense, first person singular",
+          "meaning": "I establish / I grant / I make firm"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Baba used to say, 'Look how kind the Lord is — He does not demand you come to Him in any fixed way. Whatever form you love, He loves through that form.' This verse shows that Krishna is not a jealous God but an all-embracing ocean. If a child calls the ocean from the east shore or the west, the ocean is there. The devotee chooses the form, but it is Krishna Himself who steadies the hand of the heart. The faith is yours in its choosing, but it is His gift in its strengthening. That is why sincere worship of any deity is never wasted — God Himself is secretly making that love firm, drawing the devotee ever closer. How beautiful that the highest theology ends here: in the tenderness of a grandfather who says, 'Go on, pray as you know how — I will hold your faith steady.'",
+        "sarvapriyananda": "This verse reveals a profound theological insight — Krishna, as the ultimate ground of all being, supports every sincere act of worship regardless of the form chosen. Vedanta teaches that all names and forms are superimpositions upon Brahman, and here Krishna confirms this from the divine side. Whatever form the devotee approaches — Śiva, Devī, Gaṇeśa — it is Īśvara Himself who secretly infuses that worship with acalā śraddhā, unwavering faith. This is not polytheism; it is the recognition that the One appears as many to serve the devotee's level of understanding. The Lord does not abandon the worshipper of any form. He steadies their faith precisely where they stand, as a compassionate teacher meets the student exactly where that student is.",
+        "yogananda": "Every soul reaches toward God through the particular aperture of its own consciousness. The divine Beloved, knowing the unique inner landscape of each devotee, strengthens faith through whichever form resonates with that soul's vibration. Paramahansaji taught that behind Kali, behind Christ, behind the formless Brahman, it is the same Infinite Consciousness receiving all prayer. This verse is the cosmic assurance that no sincere longing goes unanswered. When the devotee concentrates with love on any divine form, the inward Christ — the universal Kutastha — stabilizes that concentration like a lighthouse steadying a ship. The form is the door; Krishna is both the door and the house. He strengthens your faith so that, through persistence, you may eventually walk all the way home to the formless Source.",
+        "goyandka": "Bhagavān here establishes that He is the inner controller of all devotional acts. The phrase 'tām eva vidadhāmy aham' ('I alone make it firm') makes clear that worldly or sectarian worship finds its ultimate sanction and support in Paramātmā. The Gita Press commentary notes that this verse is not an endorsement of all forms as equally efficacious for liberation — verse 23 will clarify that — but it is a statement of divine compassion: no sincere faith is left without support. Even the devotee of lesser understanding receives God's grace in strengthening their practice. This is the grace of Bhagavān as the antaryāmin, the inner dweller, who enters every act of worship and sustains it from within, gradually purifying the worshipper and drawing them upward."
+      }
+    },
+    {
+      "verse": 22,
+      "sanskrit": "स तया श्रद्धया युक्तस्तस्याराधनमीहते ।\nलभते च ततः कामान्मयैव विहितान्हि तान् ॥",
+      "transliteration": "sa tayā śraddhayā yuktas tasyārādhanam īhate\nlabhate ca tataḥ kāmān mayaiva vihitān hi tān",
+      "translation": "Endowed with that faith, he engages in worshipping that form, and from it he obtains his desires — which are in truth granted by Me alone.",
+      "audio": "/assets/audio/ch07/verse_07_22.mp3",
+      "word_breakdown": [
+        {
+          "word": "श्रद्धया युक्तः",
+          "transliteration": "śraddhayā yuktaḥ",
+          "root": "śraddhā (faith) + √yuj (to yoke, to unite)",
+          "grammatical_form": "Noun (instrumental) + past passive participle, masculine, nominative singular",
+          "meaning": "endowed with faith / united with belief"
+        },
+        {
+          "word": "आराधनम्",
+          "transliteration": "ārādhanam",
+          "root": "ā + √rādh (to propitiate, to worship)",
+          "grammatical_form": "Verbal noun, neuter, accusative singular",
+          "meaning": "worship / propitiation / adoration"
+        },
+        {
+          "word": "कामान्",
+          "transliteration": "kāmān",
+          "root": "√kām (to desire)",
+          "grammatical_form": "Noun, masculine, accusative plural",
+          "meaning": "desires / wishes / sought-for objects"
+        },
+        {
+          "word": "मयैव",
+          "transliteration": "mayaiva",
+          "root": "mad (I, me) + eva (alone, certainly)",
+          "grammatical_form": "Personal pronoun (instrumental) + emphatic particle",
+          "meaning": "by Me alone / certainly by Me"
+        },
+        {
+          "word": "विहितान्",
+          "transliteration": "vihitān",
+          "root": "vi + √dhā (to appoint, to ordain)",
+          "grammatical_form": "Past passive participle, masculine, accusative plural",
+          "meaning": "ordained / granted / appointed"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here the Lord gently pulls back the curtain on all of cosmic grace. The devotee worships a deity and receives what he prays for — and thinks the deity gave it. Krishna smiles and says: 'It was Me, all along.' This is not to diminish the worship or the deity, but to reveal the deeper unity behind all giving. Baba would say, 'Every gift in life comes from one hand — learn to see whose hand it is.' When we realize that even our answered prayers from lesser forms come from Krishna, our gratitude naturally turns toward the Source. This verse is an invitation: if you keep receiving from Me through intermediaries, why not one day come directly? The Lord is not withholding — He is drawing us, love by love, blessing by blessing, closer to Himself.",
+        "sarvapriyananda": "The critical phrase is 'mayaiva vihitān' — ordained by Me alone. This affirms the Vedantic understanding of Īśvara as the sole dispenser of karma-phala, the fruit of action. No secondary deity, no deva, has independent power to grant boons — all power flows from and is sustained by the One. The worshipper of any form is thus, without knowing it, worshipping Brahman with attributes. Śaṅkarācārya notes here that while the fruit is real and the faith is real, the understanding of the giver remains limited. The step from 'my deity gave me this' to 'Brahman alone is the giver' is the step from upāsanā to jñāna. Krishna is lovingly tracing this path: begin where you are, but know where the gift truly comes from.",
+        "yogananda": "The cosmic law of answered prayer is revealed here in its fullness. When a devotee prays earnestly to any divine form and receives their desire, it is the one cosmic Power — what Paramahansaji called the Cosmic Magnet — that fulfills it. The form of the deity is like the lens through which the concentrated devotion of the devotee focuses divine energy. The lens does not generate the light; the sun does. Krishna is that sun. This understanding has a liberating effect: when we know that all blessings flow from one divine Source, our faith becomes less dependent on specific forms or outcomes. We begin to seek the Giver rather than the gifts, and in that seeking, as later verses reveal, we find our way to the Infinite.",
+        "goyandka": "Bhagavān here makes the theology of divine dispensation absolutely clear: He alone is the ordainer of all results (vihitān hi tān). The Gita Press tradition explains this through the concept of Īśvara as the adhiṣṭhātā — the supreme overseer — of all devatā worship. The devas are His agents; they cannot independently grant any boon except as His instruments. This teaching prevents the error of treating secondary deities as independent powers. At the same time, Bhagavān does not deny the sincerity or temporary efficacy of such worship. He compassionately fulfills the desires of those who approach Him through other forms. But as verse 23 will show, the fruits of such worship are necessarily finite, unlike the infinite fruit of direct devotion to Bhagavān."
+      }
+    },
+    {
+      "verse": 23,
+      "sanskrit": "अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।\nदेवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ॥",
+      "transliteration": "antavat tu phalaṃ teṣāṃ tad bhavaty alpa-medhasām\ndevān deva-yajo yānti mad-bhaktā yānti mām api",
+      "translation": "But the fruit obtained by those of limited understanding is finite and perishable. Worshippers of the gods go to the gods — My devotees come to Me.",
+      "audio": "/assets/audio/ch07/verse_07_23.mp3",
+      "word_breakdown": [
+        {
+          "word": "अन्तवत्",
+          "transliteration": "antavat",
+          "root": "anta (end) + vat (having, possessing)",
+          "grammatical_form": "Adjective, neuter, nominative singular",
+          "meaning": "having an end / finite / perishable"
+        },
+        {
+          "word": "अल्पमेधसाम्",
+          "transliteration": "alpa-medhasām",
+          "root": "alpa (little, small) + medhas (intelligence, wisdom)",
+          "grammatical_form": "Bahuvrīhi compound, genitive plural",
+          "meaning": "of those of little intelligence / of limited understanding"
+        },
+        {
+          "word": "देवयजः",
+          "transliteration": "deva-yajaḥ",
+          "root": "deva (god) + √yaj (to worship, to sacrifice)",
+          "grammatical_form": "Compound noun, masculine, nominative plural",
+          "meaning": "worshippers of the gods / sacrificers to deities"
+        },
+        {
+          "word": "मद्भक्ताः",
+          "transliteration": "mad-bhaktāḥ",
+          "root": "mad (Me) + √bhaj (to worship, to serve)",
+          "grammatical_form": "Compound noun, masculine, nominative plural",
+          "meaning": "My devotees / those devoted to Me"
+        },
+        {
+          "word": "मामपि",
+          "transliteration": "mām api",
+          "root": "mad (I) + api (also, even)",
+          "grammatical_form": "Personal pronoun (accusative) + particle",
+          "meaning": "to Me also / indeed to Me"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is not a condemnation — it is a map. Baba would say, 'All roads lead toward God, but some roads are longer.' The worshipper of the rain god gets rain; the worshipper of the wealth deity gets wealth — and these are real gifts, real blessings. But they are finite. When the merit is exhausted, one returns. The devotee of Krishna, however, reaches Krishna — and that is not a temporary address. The word 'api' at the end — 'My devotees come to Me also' — has a quiet warmth: even they, the simple ones who just love Me without elaborate ritual, they too come. Alpa-medhasām is not cruel — it is honest. To seek the finite from the Infinite is a beautiful limitation. The invitation in this verse is simply: why not seek the Infinite Itself?",
+        "sarvapriyananda": "This verse draws the crucial soteriological distinction in the Gita. The fruit of deva-worship is 'antavat' — bounded, impermanent, subject to exhaustion of merit. This corresponds to the Vedantic teaching that all saguna upāsanā below Brahman-realization leads to gradual liberation (krama-mukti) at best, or rebirth after enjoyment of higher worlds. Direct devotion to Krishna — who represents Brahman with attributes, Saguna Brahman at its highest — leads to the devotee arriving at the very nature of the Divine. The contrast is between going to a floor of a building and going to the very foundation. Both are real destinations, but only one is final. This verse should be heard not as exclusivist theology but as a compassionate clarification of ultimate spiritual economy.",
+        "yogananda": "Paramahansaji explained that the gods and goddesses of the Hindu pantheon represent cosmic forces — divine rays of the one Light, differentiated in function. To align with a specific cosmic force through worship brings benefits corresponding to that force, but the benefits are tied to the vibratory realm of that force and are therefore finite. To seek Krishna — the omnipresent, undifferentiated Bliss-consciousness — is to seek the source of all these rays, and the merger with that Source is eternal. This is the choice between tuning into a particular frequency and merging into the generator of all frequencies. Both are spiritual acts, but one leads to liberation and one leads to a beautiful temporary station. The aspiration must ultimately transcend all stations.",
+        "goyandka": "The Gita Press commentary emphasizes the distinction between sākāma upāsanā (worship with desire) and niṣkāma bhakti (desireless devotion). Worshippers of devas approach God through forms associated with specific cosmic functions and receive corresponding finite results — just as a civil servant may meet a department head but not the prime minister. The devotee of Bhagavān, approaching the supreme authority directly through pure love, attains the supreme result: liberation. The phrase 'mad-bhaktā yānti mām api' — 'My devotees come to Me' — carries the promise of sayujya-mukti, final union. The teaching here is not to abandon all other worship abruptly but to understand the hierarchy of spiritual aspiration and ultimately direct the heart toward the Highest."
+      }
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः ।\nपरं भावमजानन्तो ममाव्ययमनुत्तमम् ॥",
+      "transliteration": "avyaktaṃ vyaktim āpannaṃ manyante mām abuddhayaḥ\nparaṃ bhāvam ajānanto mamāvyayam anuttamam",
+      "translation": "The unintelligent think that I, the unmanifest, have come into manifestation — not knowing My supreme, immutable, and transcendent nature.",
+      "audio": "/assets/audio/ch07/verse_07_24.mp3",
+      "word_breakdown": [
+        {
+          "word": "अव्यक्तम्",
+          "transliteration": "avyaktam",
+          "root": "a (not) + vi + √añj (to manifest)",
+          "grammatical_form": "Past passive participle used as adjective, neuter, accusative singular",
+          "meaning": "the unmanifest / the formless / beyond sense-perception"
+        },
+        {
+          "word": "व्यक्तिम् आपन्नम्",
+          "transliteration": "vyaktim āpannam",
+          "root": "vi + √añj (manifest) + ā + √pad (to come into)",
+          "grammatical_form": "Noun (accusative) + past passive participle (accusative)",
+          "meaning": "having come into manifestation / having assumed a form"
+        },
+        {
+          "word": "अबुद्धयः",
+          "transliteration": "abuddhayaḥ",
+          "root": "a (not) + √budh (to know, to awaken)",
+          "grammatical_form": "Noun, masculine, nominative plural",
+          "meaning": "the unintelligent / those without discernment / the unawakened"
+        },
+        {
+          "word": "परम् भावम्",
+          "transliteration": "paraṃ bhāvam",
+          "root": "para (supreme) + √bhū (to be, to exist)",
+          "grammatical_form": "Adjective + noun, masculine, accusative singular",
+          "meaning": "supreme nature / transcendent existence / highest being"
+        },
+        {
+          "word": "अनुत्तमम्",
+          "transliteration": "anuttamam",
+          "root": "an (not) + uttama (highest, best)",
+          "grammatical_form": "Adjective, neuter, accusative singular",
+          "meaning": "unsurpassed / beyond which there is nothing higher / supreme"
+        }
+      ],
+      "commentary": {
+        "dadaji": "People look at Krishna — a beautiful young man playing a flute — and think, 'He was born, He grew up, He had battles and romances, and then He was gone.' They see only the vyakti, the visible form, and miss the avyakta, the boundless Presence that temporarily wore that form like a garment. Baba used to say, 'Do not make the mistake of locking the ocean into the cup it poured itself into.' Krishna's birth was not a limitation — it was a gesture of divine grace. The mistake of the abuddhayaḥ is not worship of the form — that is beautiful — but thinking the form is all there is. When we hold the form in our hearts and simultaneously sense the Infinite behind it, we have begun to understand what Krishna means by param bhāvam — the supreme nature that no birth, no life, no death can contain.",
+        "sarvapriyananda": "This verse addresses a fundamental error in theological understanding — the confusion of the Avatāra with an ordinary soul in a body. Śaṅkarācārya clarifies that the divine manifestation is not the Avyakta Brahman 'becoming' limited by descending into form — rather, the form is an apparent superimposition that conceals nothing of the infinite nature. Just as the sky appears contained in a pot but is never actually limited by it, Krishna's form conceals nothing of His param bhāva. Those who see only the vyakti — the human form — and conclude He is a great soul who became divine, have made the avidyā-rooted error of mistaking the apparent for the real. The Gita consistently insists: know the formless behind the formed, the eternal behind the temporal.",
+        "yogananda": "Paramahansaji often explained that when Christ said, 'Before Abraham was, I am,' he was pointing to exactly this param bhāva — the eternal, unconditioned Christ-consciousness that was never born into any particular body. The mistake described here is the same error made by those who think Jesus was 'just a man who became divine.' The divine Consciousness descended into manifestation; it was never created by it. Krishna's physical body was the visible tip of an infinite iceberg. Those who worship only the tip miss the depths. This is why Yogananda insisted on meditation — to go beneath the surface appearance of the Avatar's form into direct contact with the Kutastha, the infinite Christ/Krishna consciousness available within every devotee's own being.",
+        "goyandka": "The Gita Press commentary notes that this verse addresses those who fall into the error of treating Bhagavān's avatāra as they would treat the birth of a jīva — as a helpless entry into māyā. This is the mistake of seeing only the upādhi (limiting adjunct) and not the adhiṣṭhāna (the substratum). Bhagavān's param bhāva is avyaya — imperishable — and anuttama — unsurpassed. His manifestation in form is a deliberate divine act (sambhavāmy ātma-māyayā, as stated in 4.6), not a bondage. The Gita Press tradition emphasizes: Bhagavān's janma and karma are divya, divine — transcendent from the moment of appearance, not limited by it. Those who miss this mistake the divine līlā for ordinary jīva-karma."
+      }
+    },
+    {
+      "verse": 25,
+      "sanskrit": "नाहं प्रकाशः सर्वस्य योगमायासमावृतः ।\nमूढोऽयं नाभिजानाति लोको मामजमव्ययम् ॥",
+      "transliteration": "nāhaṃ prakāśaḥ sarvasya yoga-māyā-samāvṛtaḥ\nmūḍho 'yaṃ nābhijānāti loko mām ajam avyayam",
+      "translation": "I am not revealed to all, veiled as I am by My divine yoga-māyā. This deluded world does not know Me — the unborn, the imperishable.",
+      "audio": "/assets/audio/ch07/verse_07_25.mp3",
+      "word_breakdown": [
+        {
+          "word": "योगमायासमावृतः",
+          "transliteration": "yoga-māyā-samāvṛtaḥ",
+          "root": "yoga (divine power) + māyā (creative illusion) + sam + ā + √vṛ (to cover)",
+          "grammatical_form": "Tatpuruṣa compound, past passive participle, masculine, nominative singular",
+          "meaning": "veiled by yoga-māyā / covered by divine creative power"
+        },
+        {
+          "word": "मूढः",
+          "transliteration": "mūḍhaḥ",
+          "root": "√muh (to be deluded, to be bewildered)",
+          "grammatical_form": "Past passive participle used as adjective, masculine, nominative singular",
+          "meaning": "deluded / bewildered / confused"
+        },
+        {
+          "word": "नाभिजानाति",
+          "transliteration": "nābhijānāti",
+          "root": "na (not) + abhi + √jñā (to know, to recognize)",
+          "grammatical_form": "Verb, present tense, third person singular, with negative particle",
+          "meaning": "does not recognize / fails to know / cannot perceive"
+        },
+        {
+          "word": "अजम्",
+          "transliteration": "ajam",
+          "root": "a (not) + √jan (to be born)",
+          "grammatical_form": "Adjective, masculine, accusative singular",
+          "meaning": "the unborn / that which has no origin"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "root": "a (not) + vi + √i (to go, to perish)",
+          "grammatical_form": "Adjective, masculine, accusative singular",
+          "meaning": "the imperishable / the immutable / the undecaying"
+        }
+      ],
+      "commentary": {
+        "dadaji": "There is a beautiful and humbling mystery in this verse. The Lord says, 'I am right here — but I am veiled.' Not by accident, not by indifference, but by His own yoga-māyā. Baba used to say, 'God hides so that those who truly love Him will seek.' The veil is not a wall — it is an invitation. The loka, the world-at-large, looks at life and sees only objects, events, bodies — and misses the animating Presence in all of it. But the seeking heart gradually, through grace, gets a glimpse behind the veil. Yoga-māyā is not the same as ordinary māyā that binds — it is the Lord's own mysterious power of self-concealment, which He lifts for those who love Him purely. The great mercy is that even while veiled, He is drawing us. He hides, and He seeks us at the same time.",
+        "sarvapriyananda": "The term yoga-māyā here is theologically significant and distinct from the prakṛtic māyā that veils Brahman from the jīva. Yoga-māyā is Bhagavān's own śakti of divine self-concealment — it is the power by which the Infinite appears finite, the eternal appears temporal, without actually becoming so. This is the basis of the distinction between Māyā as avidyā-śakti (binding) and Yoga-māyā as Īśvara's free self-expression. The world (loka) that is mūḍha — stupefied by sense-experience and ordinary cognition — cannot penetrate this veil through intellectual effort alone. Only devotion, or jñāna born of devotion, pierces it. Śaṅkarācārya notes: the veil lifts not for the clever but for the surrendered.",
+        "yogananda": "Paramahansaji taught that the veil of yoga-māyā is the Cosmic Delusion — what he called māyā in its macrocosmic aspect — through which the Infinite Self appears as a world of finite objects and separate egos. It is not something alien to God but God's own creative power of self-differentiation. The reason not all perceive the divine reality behind the phenomenal world is that māyā's vibratory veil is sustained by the collective karmic momentum of all souls. Individual souls pierce the veil through deepening meditation and grace. Krishna says 'the world does not know Me' not with frustration but with compassion — as a teacher who sees how deeply his students are absorbed in a dream. The Guru's purpose is to stand at the edge of the dream and call the soul to wakefulness.",
+        "goyandka": "The Gita Press commentary distinguishes yoga-māyā from sādhāraṇa māyā carefully. Ordinary māyā creates the delusion of separateness in the jīva; yoga-māyā is Bhagavān's own sovereign śakti by which He conceals His supreme nature even while manifesting. The mūḍha loka — the deluded world — fails to pierce this veil because its instruments of knowledge (senses and ordinary intellect) are themselves products of prakṛti and cannot apprehend the transcendent Aja (unborn) and Avyaya (imperishable). Only Bhagavān's grace — stimulated by śaraṇāgati, complete surrender — removes this veil. This verse thus simultaneously explains why God is not universally recognized and points to the remedy: approach with surrender rather than with mere intellectual inquiry."
+      }
+    },
+    {
+      "verse": 26,
+      "sanskrit": "वेदाहं समतीतानि वर्तमानानि चार्जुन ।\nभविष्याणि च भूतानि मां तु वेद न कश्चन ॥",
+      "transliteration": "vedāhaṃ samatītāni vartamānāni cārjuna\nbhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana",
+      "translation": "I know all beings of the past, the present, and those yet to come, O Arjuna — but no one knows Me.",
+      "audio": "/assets/audio/ch07/verse_07_26.mp3",
+      "word_breakdown": [
+        {
+          "word": "वेद अहम्",
+          "transliteration": "veda aham",
+          "root": "√vid (to know, to perceive)",
+          "grammatical_form": "Verb, perfect tense used as present, first person singular + personal pronoun",
+          "meaning": "I know / I perceive / I am fully aware of"
+        },
+        {
+          "word": "समतीतानि",
+          "transliteration": "samatītāni",
+          "root": "sam + ati + √i (to go beyond, to pass)",
+          "grammatical_form": "Past passive participle, neuter, accusative plural",
+          "meaning": "those that have passed / all past beings and events"
+        },
+        {
+          "word": "वर्तमानानि",
+          "transliteration": "vartamānāni",
+          "root": "√vṛt (to exist, to abide)",
+          "grammatical_form": "Present active participle, neuter, accusative plural",
+          "meaning": "those presently existing / all current beings"
+        },
+        {
+          "word": "भविष्याणि",
+          "transliteration": "bhaviṣyāṇi",
+          "root": "√bhū (to become, to be) — future stem",
+          "grammatical_form": "Future active participle, neuter, accusative plural",
+          "meaning": "those yet to come / all future beings"
+        },
+        {
+          "word": "न कश्चन",
+          "transliteration": "na kaścana",
+          "root": "na (not) + kaścid/kaścana (anyone whatsoever)",
+          "grammatical_form": "Negative particle + indefinite pronoun, nominative singular",
+          "meaning": "no one at all / not a single one / none whatsoever"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse stops the breath with its quiet enormity. Krishna says, 'I know every being — every thought, every prayer, every secret, every lifetime — past, present, and future. And yet... no one truly knows Me.' It is the most intimate aloneness: to know all and be known by none. And yet it is not sad — it is the nature of the Infinite. Baba used to say, 'You cannot cup the ocean in your palm, but you can float in it.' We cannot know Krishna the way He knows us — with perfect, comprehensive, eternal knowing. But we can surrender to being known. When you realize that He knows every corner of your heart — every failure, every prayer — and still loves you, still sustains you, that is the beginning of trust. That trust is itself the beginning of knowing Him.",
+        "sarvapriyananda": "This verse establishes the asymmetry at the heart of the divine-human relationship: Brahman knows all, but is not known by all — or more precisely, is not known as Brahman by all. The three-kāla knowledge — atīta, vartamāna, bhaviṣya — belongs to the eternal Witness, the Sākṣī, who is never inside time even while beholding all time. From the Advaita standpoint, the reason no jīva 'knows' God is that avidyā obscures the very Consciousness by which alone knowing happens. One cannot know Brahman with Brahman-clouded intellect; one can only become Brahman — and then there is no knower and no known, only knowing. The ultimate answer to 'no one knows Me' is: the one who realizes their identity with Me has transcended the knower-known duality.",
+        "yogananda": "Paramahansaji often reflected on what he called the 'omniscient loneliness of God' — an idea beautifully contained in this verse. God knows every sparrow that falls, every thought in every mind, every event in every timeline — yet remains unreached by most. This is not God's failure but the depth of the cosmic dream in which most souls are immersed. The great masters — Jesus, Krishna, Buddha — are those who have fully awakened from the dream and stand in the eternal knowing. For the sincere devotee, this verse is not discouraging but galvanizing: to be truly known by the Divine, and to choose to know the Divine in return, is the highest calling. Each step of meditation is a step from being the dreamer to becoming the Dreamer's own awareness.",
+        "goyandka": "The Gita Press commentary notes the profound epistemological point in this verse: the omniscience of Bhagavān (sarva-jñatva) is categorically different from the knowledge of any jīva, which is always conditioned, partial, and time-bound. Bhagavān's veda — knowing — of all three times simultaneously reflects His transcendence of kāla (time) altogether. The declaration 'māṃ tu veda na kaścana' — 'no one knows Me' — refers to true tattva-jñāna of the divine nature, which is veiled by the yoga-māyā described in verse 25. This is why the Gita advocates taking śaraṇa (refuge) in Bhagavān rather than attempting to comprehend Him through independent inquiry: true knowledge of the Supreme is His gift of grace, not the product of unaided intellect."
+      }
+    },
+    {
+      "verse": 27,
+      "sanskrit": "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।\nसर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप ॥",
+      "transliteration": "icchā-dveṣa-samutthena dvandva-mohena bhārata\nsarva-bhūtāni sammohaṃ sarge yānti paran-tapa",
+      "translation": "O Bharata, O scorcher of foes — all beings fall into complete delusion at birth, swept away by the delusion of the pairs of opposites arising from desire and aversion.",
+      "audio": "/assets/audio/ch07/verse_07_27.mp3",
+      "word_breakdown": [
+        {
+          "word": "इच्छाद्वेषसमुत्थेन",
+          "transliteration": "icchā-dveṣa-samutthena",
+          "root": "icchā (desire) + dveṣa (aversion) + sam + ud + √sthā (to arise)",
+          "grammatical_form": "Tatpuruṣa compound, instrumental singular (agrees with dvandva-mohena)",
+          "meaning": "arising from desire and aversion / born of attraction and repulsion"
+        },
+        {
+          "word": "द्वन्द्वमोहेन",
+          "transliteration": "dvandva-mohena",
+          "root": "dvandva (pair, duality) + √muh (to delude)",
+          "grammatical_form": "Tatpuruṣa compound, neuter, instrumental singular",
+          "meaning": "by the delusion of the pairs of opposites / by duality-confusion"
+        },
+        {
+          "word": "सम्मोहम्",
+          "transliteration": "sammoham",
+          "root": "sam + √muh (to be completely deluded)",
+          "grammatical_form": "Verbal noun, masculine, accusative singular",
+          "meaning": "complete bewilderment / total confusion / utter delusion"
+        },
+        {
+          "word": "सर्गे",
+          "transliteration": "sarge",
+          "root": "√sṛj (to create, to release) — sarga (creation, birth)",
+          "grammatical_form": "Noun, masculine, locative singular",
+          "meaning": "at birth / at the time of creation / upon entering existence"
+        },
+        {
+          "word": "परन्तप",
+          "transliteration": "paran-tapa",
+          "root": "para (other, enemy) + √tap (to heat, to afflict)",
+          "grammatical_form": "Compound epithet, masculine, vocative singular",
+          "meaning": "O scorcher of foes / O vanquisher of enemies"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The moment a soul is born, it wakes into a world that immediately starts presenting it with pairs: hot and cold, pleasure and pain, praise and blame, love and loss. And before it has any wisdom to navigate these pairs, the icchā and dveṣa — the pulling toward and the pushing away — take hold. Baba used to say, 'Every child is born innocent and immediately begins learning to want and to fear.' That is the dvandva-moha — not evil, not punishment, but the natural condition of having a body in a world of change. The teaching of the Gita is not to escape the world but to stop being swept by its pairs. To stand like a tree in the wind — bending, feeling, experiencing — but rooted in something that cannot be blown away. That rootedness is Krishna's gift to the sincere seeker.",
+        "sarvapriyananda": "This verse gives the Vedantic explanation for why the self-evident truth of one's divine nature is not immediately apparent at birth. The conditioning of icchā (desire) and dveṣa (aversion) — the two primal modifications of ego-bound consciousness — creates the dvandva-moha: the systematic confusion generated by experiencing reality exclusively through the lens of like and dislike. When every experience is filtered through 'this pleases me/this displeases me,' Brahman cannot be seen because the seeing apparatus is distorted by personal preference. Vedanta's sadhana of viveka-vairāgya — discernment and dispassion — is precisely the antidote: learning to observe experience without immediately categorizing it as desired or rejected, until the observer itself is recognized as the infinite Witness.",
+        "yogananda": "Paramahansaji taught that dvandva — duality — is the first law of manifestation. Creation requires polarity: light and dark, expansion and contraction, matter and energy. The problem is not duality itself but moha — the delusion that one pole is ultimately real and the other is the enemy. The soul born into a body is immediately immersed in the play of opposites and, without wisdom, identifies with one pole and fights the other. This is the cosmic dream at its most compelling. Meditation, especially deep pranayama and concentration, begins to still the oscillation between the poles, revealing the Awareness that witnesses both equally — the Kutastha, the still center between all pairs. That center is the soul's true nature, and finding it is the meaning of spiritual practice.",
+        "goyandka": "The Gita Press commentary carefully notes the phrase 'sarge yānti' — at the very moment of birth (or creation) into the world. This emphasizes that dvandva-moha is not individually cultivated through particular life-experiences but is the structural condition of embodied existence in the phenomenal world. Every jīva entering saṃsāra comes under this influence automatically. The word 'sarva-bhūtāni' — all beings — makes no exception. This is not pessimism but realism: it explains why even well-intentioned souls remain in the cycle of saṃsāra. The remedy, as verse 28 will reveal, is the purification of karma (puṇya-karmaṇām), which gradually wears away the force of dvandva-moha and opens the door to bhakti and liberation."
+      }
+    },
+    {
+      "verse": 28,
+      "sanskrit": "येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् ।\nते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ॥",
+      "transliteration": "yeṣāṃ tv anta-gataṃ pāpaṃ janānāṃ puṇya-karmaṇām\nte dvandva-moha-nirmuktā bhajante māṃ dṛḍha-vratāḥ",
+      "translation": "But those persons of righteous deeds whose sin has come to an end — freed from the delusion of the pairs of opposites — worship Me with unwavering resolve.",
+      "audio": "/assets/audio/ch07/verse_07_28.mp3",
+      "word_breakdown": [
+        {
+          "word": "अन्तगतम् पापम्",
+          "transliteration": "anta-gataṃ pāpam",
+          "root": "anta (end) + √gam (to go) + pāpa (sin, demerit)",
+          "grammatical_form": "Compound adjective + noun, neuter, nominative singular",
+          "meaning": "sin that has come to an end / demerits exhausted completely"
+        },
+        {
+          "word": "पुण्यकर्मणाम्",
+          "transliteration": "puṇya-karmaṇām",
+          "root": "puṇya (merit, virtue) + karma (action)",
+          "grammatical_form": "Tatpuruṣa compound, neuter, genitive plural",
+          "meaning": "of those of righteous actions / of persons whose deeds are meritorious"
+        },
+        {
+          "word": "द्वन्द्वमोहनिर्मुक्ताः",
+          "transliteration": "dvandva-moha-nirmuktāḥ",
+          "root": "dvandva (duality) + moha (delusion) + nis + √muc (to free, to release)",
+          "grammatical_form": "Tatpuruṣa compound, past passive participle, masculine, nominative plural",
+          "meaning": "freed from the delusion of dualities / liberated from the confusion of opposites"
+        },
+        {
+          "word": "भजन्ते",
+          "transliteration": "bhajante",
+          "root": "√bhaj (to worship, to serve, to adore)",
+          "grammatical_form": "Verb, present tense, third person plural, ātmanepada",
+          "meaning": "they worship / they serve with devotion / they adore"
+        },
+        {
+          "word": "दृढव्रताः",
+          "transliteration": "dṛḍha-vratāḥ",
+          "root": "dṛḍha (firm, steady) + vrata (vow, resolve, observance)",
+          "grammatical_form": "Bahuvrīhi compound, masculine, nominative plural",
+          "meaning": "of firm resolve / with steadfast vows / unwavering in commitment"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here is the hopeful counterpart to the previous verse. Yes, all beings are born into dvandva-moha — but that is not the final word. Through lives of sincere effort, honest action, and growing purity, the pāpa — the residue of selfish, ego-driven karma — gradually comes to its end (anta-gatam). And when it does, something wonderful happens: the fog of dvandva lifts, and the heart turns naturally toward Krishna. Baba used to describe this as 'the moment the sun comes out after many cloudy days — it was always there, but now you can see it.' The dṛḍha-vrata, the firm resolve, is not willpower alone — it is what happens when the obstacles are cleared. The devotion becomes steady on its own. This verse is an encouragement: every right action you do now is clearing the way.",
+        "sarvapriyananda": "The grace of this verse lies in its recognition that liberation from dvandva-moha is not a sudden miraculous event but the fruit of accumulated puṇya-karma across many lives. The Gita is realistic about the spiritual path: it requires the exhaustion of pāpa — the counter-currents of selfish, ego-driven desire — before the steady worship of the Supreme becomes natural. This is the Vedantic understanding of the necessity of citta-śuddhi (purification of the mind) before jñāna can dawn. Dṛḍha-vratāḥ — firm resolve — is the quality of the purified mind: it no longer oscillates between attraction and repulsion, because the root of that oscillation (ego-identification) has been progressively loosened. Such a mind naturally rests in devotion to the Infinite.",
+        "yogananda": "Paramahansaji taught that the burning away of past karma through righteous action, meditation, and divine grace is the great spiritual work. When accumulated negative karmic seeds — the pāpa that keeps drawing consciousness into patterns of desire and aversion — are finally exhausted or neutralized through intense spiritual practice, the soul experiences a profound lightening. The dvandva-moha falls away not as a result of intellectual argument but as a direct experiential shift: the meditator begins to perceive the same steady Bliss beneath pleasure and pain, gain and loss. At that point, bhajana — the loving worship of the Divine — becomes effortless and continuous, like water flowing downhill. The soul has finally found its gradient toward God.",
+        "goyandka": "The Gita Press commentary highlights the phrase 'puṇya-karmaṇām' — not merely those who have done a few good deeds, but those for whom righteous action has become the consistent pattern of their lives across many births. Anta-gataṃ pāpam — sin having reached its end — refers to the state in which prārabdha and saṃcita pāpa are sufficiently exhausted that they no longer drive the consciousness into dvandva. These souls, freed from the oscillation of opposites, become dṛḍha-vratāḥ — steadfast votaries — whose bhajana of Bhagavān is uninterrupted by the storms of dvandva. This is the portrait of the adhikārī (qualified seeker) for the highest bhakti: purified by sustained righteousness, freed from duality, turning to God with a rock-steady heart."
+      }
+    },
+    {
+      "verse": 29,
+      "sanskrit": "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये ।\nते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ॥",
+      "transliteration": "jarā-maraṇa-mokṣāya mām āśritya yatanti ye\nte brahma tad viduḥ kṛtsnam adhyātmaṃ karma cākhilam",
+      "translation": "Those who strive for liberation from old age and death, taking refuge in Me — they know Brahman fully, the entire Self (adhyātma), and all of karma.",
+      "audio": "/assets/audio/ch07/verse_07_29.mp3",
+      "word_breakdown": [
+        {
+          "word": "जरामरणमोक्षाय",
+          "transliteration": "jarā-maraṇa-mokṣāya",
+          "root": "jarā (old age) + maraṇa (death) + mokṣa (liberation, release)",
+          "grammatical_form": "Tatpuruṣa compound, masculine, dative singular",
+          "meaning": "for liberation from old age and death / for moksha from the cycle of aging and dying"
+        },
+        {
+          "word": "आश्रित्य",
+          "transliteration": "āśritya",
+          "root": "ā + √śri (to take refuge in, to resort to)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having taken refuge / taking shelter / depending completely upon"
+        },
+        {
+          "word": "कृत्स्नम्",
+          "transliteration": "kṛtsnam",
+          "root": "kṛtsna (whole, entire, complete)",
+          "grammatical_form": "Adjective, neuter, accusative singular",
+          "meaning": "completely / in entirety / without remainder"
+        },
+        {
+          "word": "अध्यात्मम्",
+          "transliteration": "adhyātmam",
+          "root": "adhi (over, above) + ātman (self)",
+          "grammatical_form": "Compound noun, neuter, accusative singular",
+          "meaning": "the Self (in its entirety) / the highest Self / matters pertaining to the Ātman"
+        },
+        {
+          "word": "अखिलम्",
+          "transliteration": "ākhilam",
+          "root": "a (not) + khila (gap, deficiency) — akhila (without gap, complete)",
+          "grammatical_form": "Adjective, neuter, accusative singular",
+          "meaning": "without omission / completely / in its entirety"
+        }
+      ],
+      "commentary": {
+        "dadaji": "To seek liberation from old age and death — jarā-maraṇa-mokṣa — is the deepest longing of the soul, even when it doesn't know it. Many seek escape from poverty or illness or loneliness, but the root of all seeking is the soul's intuition that it is being cycled through something it was not made for. Krishna says: those who feel this longing and turn to Me with it — they receive the complete gift. Not just moksha, but Brahman-knowledge, Self-knowledge, karma-knowledge — the whole picture. Baba used to say, 'Go to the Source with your real question and you will receive the real answer.' The greatest question a soul can ask is: 'How do I finally come home?' And taking refuge in Krishna is both the asking and the beginning of the answer.",
+        "sarvapriyananda": "This verse is remarkable for what it promises to the sincere mumukṣu — the liberation-seeker who takes refuge in Brahman through devotion. Such a person, through that very act of refuge-taking and striving, comes to know: (1) Brahman — the ultimate reality; (2) adhyātma — the complete nature of the individual self in relation to Brahman; and (3) karma — the full mechanics of how action binds and liberates. This is not three separate courses of study but a single integrated revelation that comes when the seeker has turned from the finite to the Infinite. Śaṅkarācārya notes: these three — Brahman, adhyātma, karma — are the foundation of the Gita's entire teaching, and they are given as a package to those who genuinely seek liberation through śaraṇāgati.",
+        "yogananda": "Old age and death — jarā and maraṇa — are the great reminders that the body is not the self. Every gray hair, every ache, every funeral is the universe whispering: 'This is not your home; look deeper.' Paramahansaji taught that the soul which takes these reminders seriously and turns inward — taking refuge in the Infinite within — begins to taste a dimension of being that is untouched by age and immune to death. This is not wishful thinking but the direct experience available in deep samādhi, where the meditator touches the deathless core. Such a soul, as Krishna promises, comes to know Brahman, the Ātman, and karma as a unified whole — seeing how all of it serves the soul's eventual homecoming to its own infinite nature.",
+        "goyandka": "The Gita Press commentary places this verse as the opening of the answer to the three great questions that Arjuna will ask at the beginning of Chapter 8: What is Brahman? What is adhyātma? What is karma? (8.1) Krishna here anticipates those questions by declaring that those who take His refuge while striving for mukti receive answers to all three organically — not as doctrine but as direct knowledge. Mām āśritya — taking refuge in Me — is the key. The technical knowledge of Brahman, adhyātma, and karma is secondary; the living relationship of refuge is primary. From that relationship, true knowledge unfolds. This is the Gita's consistent teaching: jñāna is not the prerequisite for bhakti — bhakti is the soil in which authentic jñāna grows."
+      }
+    },
+    {
+      "verse": 30,
+      "sanskrit": "साधिभूताधिदैवं मां साधियज्ञं च ये विदुः ।\nप्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः ॥",
+      "transliteration": "sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ\nprayāṇa-kāle 'pi ca māṃ te vidur yukta-cetasaḥ",
+      "translation": "Those who know Me together with adhibhūta, adhidaiva, and adhiyajña — those of integrated consciousness know Me even at the moment of death.",
+      "audio": "/assets/audio/ch07/verse_07_30.mp3",
+      "word_breakdown": [
+        {
+          "word": "साधिभूताधिदैवम्",
+          "transliteration": "sādhibhūtādhidaivam",
+          "root": "sa (with) + adhi-bhūta (the physical/elemental) + adhi-daiva (the divine/celestial)",
+          "grammatical_form": "Compound, masculine, accusative singular",
+          "meaning": "together with adhibhūta and adhidaiva / Me as encompassing the physical and divine planes"
+        },
+        {
+          "word": "साधियज्ञम्",
+          "transliteration": "sādhiyajñam",
+          "root": "sa (with) + adhi-yajña (the supreme of all sacrifice)",
+          "grammatical_form": "Compound, masculine, accusative singular",
+          "meaning": "together with adhiyajña / Me as the presiding spirit of all sacrifice"
+        },
+        {
+          "word": "प्रयाणकाले",
+          "transliteration": "prayāṇa-kāle",
+          "root": "pra + √yā (to go, to depart) + kāla (time)",
+          "grammatical_form": "Tatpuruṣa compound, masculine, locative singular",
+          "meaning": "at the time of departure / at the moment of death"
+        },
+        {
+          "word": "युक्तचेतसः",
+          "transliteration": "yukta-cetasaḥ",
+          "root": "√yuj (to yoke, to integrate) + cetas (mind, consciousness)",
+          "grammatical_form": "Bahuvrīhi compound, masculine, nominative plural",
+          "meaning": "those of integrated minds / those with disciplined consciousness / those whose minds are united with the Divine"
+        },
+        {
+          "word": "विदुः",
+          "transliteration": "viduḥ",
+          "root": "√vid (to know, to understand)",
+          "grammatical_form": "Verb, perfect tense used as present, third person plural",
+          "meaning": "they know / they fully understand / they realize"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The chapter ends on the threshold of the greatest mystery: the moment of death. Krishna says: those who know Me in all three dimensions — as adhibhūta (the world of things), as adhidaiva (the world of divine forces), and as adhiyajña (the spirit of all sacred offering) — those integrated souls know Me even then. Baba used to say, 'The death-moment is the final exam, and the only preparation is to make God your constant companion now.' If the mind is yukta — integrated, devoted, habituated to the Divine — then at the moment it releases the body, it will not be scattered. It will know what it has practiced knowing throughout life. This verse is the final comfort of Chapter 7: seek Me comprehensively now, and I will be with you completely then.",
+        "sarvapriyananda": "This closing verse of Chapter 7 is a bridge to Chapter 8's exploration of what happens at death. The three terms — adhibhūta, adhidaiva, adhiyajña — represent the three domains of reality: the physical/elemental, the divine/celestial, and the sacrificial/integrative. To know Krishna as encompassing all three is to have a comprehensive understanding of reality as non-dual — to see that matter, divinity, and the act of sacred offering are all expressions of the one Brahman. The yukta-cetasaḥ — those with integrated consciousness — have this knowledge not as a philosophy but as a lived reality. At death, such a soul does not lose itself in confusion or grief but abides in the known. This is the Gita's promise: know the Whole now, and the partial dissolution of the body at death cannot disorient you.",
+        "yogananda": "The moment of death is the moment of supreme importance, Paramahansaji taught, because consciousness at that moment determines the next birth or the transcendence of birth altogether. The yogi who has spent a lifetime practicing ekāgratā — one-pointed concentration on the Divine — has built the neural and astral pathways of God-consciousness so thoroughly that even the violent disruption of physical death cannot break that current. Adhibhūta, adhidaiva, adhiyajña — the physical, the divine, the sacrificial — are the three dimensions that the yogi has unified in their understanding and experience. At death, while ordinary consciousness dissolves in fear or confusion, the yukta-cetas remains awake in the Divine. This is the fruit of decades of meditation, and it is the promise that makes all spiritual effort meaningful.",
+        "goyandka": "The Gita Press commentary notes that Chapter 7 closes precisely where Chapter 8 will open — with the questions about adhibhūta, adhidaiva, and adhiyajña, which Arjuna will ask in verse 8.1-2. This deliberate bridge is the literary and philosophical architecture of the Gita: each chapter closes by opening a door to the next. The term yukta-cetasaḥ — those with disciplined, integrated minds — is the key qualifier. Only such minds can retain God-awareness at the prayāṇa-kāla, the moment of departure. Ordinary minds, distracted by attachment and fear, lose all meditative concentration at death. The teaching of the entire Gita may be summarized in this final verse of Chapter 7: know Bhagavān comprehensively in life, through all His dimensions, and that knowledge will sustain you through the last and greatest threshold."
+      }
+    }
+  ]
+}

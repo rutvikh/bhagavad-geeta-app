@@ -1,0 +1,405 @@
+{
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 12,
+      "sanskrit": "श्रीभगवानुवाच ।\nन त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।\nन चैव न भविष्यामः सर्वे वयमतः परम् ॥",
+      "transliteration": "śrī-bhagavān uvāca\nna tv evāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ\nna caiva na bhaviṣyāmaḥ sarve vayam ataḥ param",
+      "translation": "The Blessed Lord said: Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.",
+      "audio": "/assets/audio/ch02/verse_02_12.mp3",
+      "word_breakdown": [
+        {
+          "word": "जातु",
+          "transliteration": "jātu",
+          "root": "jātu (ever/at any time)",
+          "grammatical_form": "Indeclinable adverb",
+          "meaning": "ever / at any time — indicating timelessness"
+        },
+        {
+          "word": "नासम्",
+          "transliteration": "nāsam",
+          "root": "na + √as (to be)",
+          "grammatical_form": "Negative imperfect, 1st person singular",
+          "meaning": "I did not exist / I was not"
+        },
+        {
+          "word": "जनाधिपाः",
+          "transliteration": "janādhipāḥ",
+          "root": "jana (people) + adhipa (lord/ruler)",
+          "grammatical_form": "Noun compound, masculine, nominative plural",
+          "meaning": "lords of men / kings / rulers of people"
+        },
+        {
+          "word": "भविष्यामः",
+          "transliteration": "bhaviṣyāmaḥ",
+          "root": "√bhū (to be/become)",
+          "grammatical_form": "Future tense, 1st person plural",
+          "meaning": "we shall exist / we will be"
+        },
+        {
+          "word": "अतः परम्",
+          "transliteration": "ataḥ param",
+          "root": "atas (from this) + para (beyond)",
+          "grammatical_form": "Adverbial phrase",
+          "meaning": "hereafter / beyond this / in the future"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji loved this verse deeply. He would say: 'Before Krishna teaches what the Self is, He first demolishes the illusion of non-existence.' I, you, these kings — not one of us has ever not been, and not one of us shall ever cease. This is not philosophy for the classroom; this is the lived truth that Dadaji carried in his heart every day. When we fear death — our own or our loved ones' — we forget this. Krishna is speaking not as a man but as the eternal, reminding Arjuna of what he already is. This verse is the foundation of all fearlessness.",
+        "sarvapriyananda": "This verse begins the Sankhya section with a statement that is simultaneously cosmic and intimate: 'I, you, these kings — none of us has ever been absent from existence.' Krishna is not referring to the body, which clearly begins and ends, but to the Ātman, which is existence itself. The grammatical construction is deliberate: past, present, and future tense all point to the same reality. In Advaita Vedanta, this is the recognition of sat — pure being — as the ground of all consciousness. The plural 'all of us' is not a contradiction of non-duality; it points to the fact that no apparent individual ever steps outside of Being.",
+        "yogananda": "Yogananda interprets this verse as a direct revelation of the soul's eternal continuity. Krishna speaks from the state of cosmic consciousness, where past, present, and future are not separate corridors but a single room of light. 'Never was there a time I did not exist' — this is the yogi's experience in deep samādhi: the vivid recognition that the soul has always been awake. Arjuna, trapped in the dream of mortality and loss, is being gently shown the door out of time. The reference to 'all these kings' affirms that no soul, however seemingly small or great, is ever extinguished.",
+        "goyandka": "The Gita Press commentary emphasizes that this verse establishes the eternality of the Ātman as the basis for all dharmic teaching that follows. The word 'jātu' (ever/at any time) spans all three periods of time, indicating that the Self's existence admits no interruption. This is not mere metaphysical assertion but a direct rebuttal of Arjuna's grief: you grieve for those who cannot be killed. Goyandka notes that Krishna includes Himself ('I') and Arjuna ('you') alongside the kings to universalize the teaching — this is not a special truth for warriors alone, but the fundamental fact of all conscious existence."
+      }
+    },
+    {
+      "verse": 13,
+      "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥",
+      "transliteration": "dehino 'smin yathā dehe kaumāraṃ yauvanaṃ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati",
+      "translation": "Just as the embodied Self passes in this body through childhood, youth, and old age — so too does it pass into another body. The wise man is not confused by this.",
+      "audio": "/assets/audio/ch02/verse_02_13.mp3",
+      "word_breakdown": [
+        {
+          "word": "देहिनः",
+          "transliteration": "dehinaḥ",
+          "root": "deha (body) + -in (possessor)",
+          "grammatical_form": "Noun, masculine, genitive singular",
+          "meaning": "of the embodied one / of the soul possessing a body"
+        },
+        {
+          "word": "कौमारम्",
+          "transliteration": "kaumāram",
+          "root": "kumāra (child/prince)",
+          "grammatical_form": "Noun, neuter, nominative singular",
+          "meaning": "childhood / the state of being a child"
+        },
+        {
+          "word": "देहान्तरप्राप्तिः",
+          "transliteration": "dehāntara-prāptiḥ",
+          "root": "deha (body) + antara (other/different) + prāpti (obtaining)",
+          "grammatical_form": "Compound noun, feminine, nominative singular",
+          "meaning": "attainment of another body / transmigration to a different body"
+        },
+        {
+          "word": "धीरः",
+          "transliteration": "dhīraḥ",
+          "root": "dhī (intelligence/wisdom)",
+          "grammatical_form": "Adjective used as noun, masculine, nominative singular",
+          "meaning": "the wise one / the steadfast intelligent person"
+        },
+        {
+          "word": "मुह्यति",
+          "transliteration": "muhyati",
+          "root": "√muh (to be confused/deluded)",
+          "grammatical_form": "Present tense, 3rd person singular",
+          "meaning": "is confused / is deluded / is bewildered"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji used to say: 'We never grieve when a child becomes a young man. We celebrate it! Then why grieve when the old man lays down one coat and picks up another?' This verse gave him tremendous peace when he lost people he loved. The soul simply continues — childhood, youth, old age, and then a new beginning. The word dhīra — the steady, wise one — is his favorite here. It is not that the wise man does not feel; it is that he sees clearly. Grief clouds the vision. Wisdom sees the soul moving forward, always forward.",
+        "sarvapriyananda": "Krishna employs an elegant analogy: the same Ātman that passes through the stages of a single life — kaumāra (childhood), yauvana (youth), jarā (old age) — passes at death into a new embodiment. The analogy is precise because we do not consider the transition from childhood to youth a tragedy; we understand it as natural change while the experiencer remains constant. Death is simply a more dramatic version of the same process. The dhīra — one whose intelligence (dhī) is firm — does not lose this perspective. This verse is a training in metaphysical steadiness, not emotional suppression.",
+        "yogananda": "Yogananda writes that this verse reveals the soul's magnificent journey through forms. Each body is a school, each lifetime a grade. The soul graduates, not disappears. He often used the image of a dreamer who changes scenes within the dream — the dreamer is never lost, only the scenery shifts. The wise man (dhīra) is one who has, through meditation and discrimination, learned to identify with the dreamer rather than the dream. Such a one is not confused by death any more than a seasoned traveler is confused by changing trains.",
+        "goyandka": "Goyandka draws a precise logical structure here: if we accept that the soul is unchanged as the body moves from childhood to old age within one life, then we must also accept that the soul is unchanged as it moves from one life to the next. The analogy removes the apparent mystery of rebirth and makes it rationally coherent. The term dhīra (steady, courageous, wise) is used here rather than jñānī (one of knowledge) because the quality being tested at this moment is steadiness of mind, not merely intellectual knowledge. Arjuna's challenge is not lack of information but lack of equanimity."
+      }
+    },
+    {
+      "verse": 14,
+      "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥",
+      "transliteration": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ\nāgamāpāyino 'nityās tāṃs titikṣasva bhārata",
+      "translation": "O son of Kunti, the contact of the senses with their objects brings cold and heat, pleasure and pain — these come and go, they are impermanent. Endure them, O Bharata.",
+      "audio": "/assets/audio/ch02/verse_02_14.mp3",
+      "word_breakdown": [
+        {
+          "word": "मात्रास्पर्शाः",
+          "transliteration": "mātrā-sparśāḥ",
+          "root": "mātrā (sense-object/measure) + sparśa (contact/touch)",
+          "grammatical_form": "Compound noun, masculine, nominative plural",
+          "meaning": "contacts of sense-objects / touching of material elements with the senses"
+        },
+        {
+          "word": "शीतोष्णसुखदुःखदाः",
+          "transliteration": "śītoṣṇa-sukha-duḥkha-dāḥ",
+          "root": "śīta (cold) + uṣṇa (heat) + sukha (pleasure) + duḥkha (pain) + da (giving)",
+          "grammatical_form": "Compound adjective, masculine, nominative plural",
+          "meaning": "givers of cold and heat, pleasure and pain"
+        },
+        {
+          "word": "आगमापायिनः",
+          "transliteration": "āgamāpāyinaḥ",
+          "root": "āgama (coming) + apāya (going/passing away) + -in (having the nature of)",
+          "grammatical_form": "Compound adjective, masculine, nominative plural",
+          "meaning": "that which comes and goes / transient / having the nature of appearing and disappearing"
+        },
+        {
+          "word": "अनित्याः",
+          "transliteration": "anityāḥ",
+          "root": "a (not) + nitya (eternal/permanent)",
+          "grammatical_form": "Adjective, masculine, nominative plural",
+          "meaning": "impermanent / not eternal / transient"
+        },
+        {
+          "word": "तितिक्षस्व",
+          "transliteration": "titikṣasva",
+          "root": "√tij (to endure) — desiderative form",
+          "grammatical_form": "Desiderative verb, imperative, 2nd person singular, middle voice",
+          "meaning": "endure / bear patiently / forbear — implying willing, active tolerance"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would smile when quoting this verse: 'Cold comes, heat comes, pleasure visits, pain visits — none of them stay forever. They are all just guests.' The word titikṣasva — endure — is not about gritting your teeth. It is the patient witness who watches the weather change without confusing himself with the weather. This verse was Dadaji's practical teaching on dealing with difficulty: do not dramatize, do not suppress, simply know it will pass. The soul is the sky; sensory experiences are the clouds. You are the sky. Remember that.",
+        "sarvapriyananda": "This verse introduces the concept of titikṣā — patient endurance — which is listed in Vedanta as one of the six inner virtues (ṣaṭ-sampat) required for spiritual progress. Krishna is not advising indifference to experience but a trained non-reactivity to it. The mātrā-sparśāḥ (contacts of sense-objects) produce pairs of opposites: cold-heat and pleasure-pain. The Vedantic student is trained to recognize that the pairs arise and dissolve in the field of body-mind, while the Ātman remains untouched. This discernment — not the suppression of experience — is what Krishna points toward.",
+        "yogananda": "Yogananda saw this verse as a direct prescription for spiritual practice. The mātrā-sparśāḥ — the contacts between senses and their objects — are the very mechanism that binds the soul to the wheel of karma. Every reaction, every craving and aversion, deepens the groove of bondage. Titikṣā — endurance — is not passive resignation but the practice of non-reactivity that the yogi cultivates through meditation. When the practitioner can sit in meditation and observe cold, heat, pleasure, and pain as passing phenomena without grabbing or fleeing, liberation draws near.",
+        "goyandka": "Goyandka identifies two key qualities of sense-contacts: āgamāpāyinaḥ (they come and go) and anityāḥ (impermanent). These two descriptors together form the classical Vedantic teaching on the transient nature of the phenomenal world. The instruction titikṣasva is practical: knowing that experiences are transient, one should not be thrown into elation or despair by them. Goyandka notes that the two epithets used for Arjuna — Kaunteya (son of Kunti) and Bhārata (descendant of Bharata) — remind him of his noble lineage. Spiritual endurance is the mark of a noble soul."
+      }
+    },
+    {
+      "verse": 15,
+      "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ।\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥",
+      "transliteration": "yaṃ hi na vyathayanty ete puruṣaṃ puruṣarṣabha\nsama-duḥkha-sukhaṃ dhīraṃ so 'mṛtatvāya kalpate",
+      "translation": "That steadfast person who is not afflicted by these, to whom pleasure and pain are the same — he is fit for immortality.",
+      "audio": "/assets/audio/ch02/verse_02_15.mp3",
+      "word_breakdown": [
+        {
+          "word": "व्यथयन्ति",
+          "transliteration": "vyathayanty",
+          "root": "√vyath (to pain/disturb/agitate)",
+          "grammatical_form": "Causative present tense, 3rd person plural",
+          "meaning": "they afflict / they disturb / they cause pain or agitation"
+        },
+        {
+          "word": "पुरुषर्षभ",
+          "transliteration": "puruṣarṣabha",
+          "root": "puruṣa (person/man) + ṛṣabha (bull — symbol of excellence)",
+          "grammatical_form": "Compound noun, vocative singular",
+          "meaning": "O bull among men / O best of persons — a term of highest honor"
+        },
+        {
+          "word": "समदुःखसुखम्",
+          "transliteration": "sama-duḥkha-sukham",
+          "root": "sama (equal/same) + duḥkha (sorrow) + sukha (pleasure)",
+          "grammatical_form": "Compound adjective, accusative singular",
+          "meaning": "one to whom sorrow and pleasure are equal / equanimous in both"
+        },
+        {
+          "word": "धीरम्",
+          "transliteration": "dhīram",
+          "root": "dhī (steady intelligence)",
+          "grammatical_form": "Adjective, accusative singular",
+          "meaning": "the steady-minded / the wise and resolute one"
+        },
+        {
+          "word": "अमृतत्वाय",
+          "transliteration": "amṛtatvāya",
+          "root": "a (not) + mṛtyu (death) + tva (state of being) — amṛtatva",
+          "grammatical_form": "Noun, neuter, dative singular",
+          "meaning": "for immortality / for the state of deathlessness — the purpose/goal"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji used to say: 'Immortality is not a gift given to the special few — it is the nature of the one who stops being tossed about.' Amṛtatvāya kalpate — he becomes fit for immortality. Not that immortality is new; the Ātman is always immortal. But the mind must become steady enough to realize what is already true. Sama-duḥkha-sukham — equal in joy and sorrow — is not coldness. It is the warmth of a person so rooted in the eternal that nothing can uproot them. Dadaji aspired to this all his life and saw it as the fruit of years of devotion and surrender.",
+        "sarvapriyananda": "This verse presents the fruit of titikṣā from the previous verse: the one who is not afflicted (na vyathayanti) by sensory contacts and maintains equanimity (sama-duḥkha-sukham) becomes fit (kalpate) for amṛtatva — immortality. In Advaita Vedanta, this is significant: immortality is not something gained from outside but the natural recognition of one's own eternal nature when the obscuring agitations of the mind are stilled. The dhīra — the intellectually steady person — is not suppressing emotion but has fundamentally seen through the illusion that gives those emotions their binding power.",
+        "yogananda": "Yogananda calls this verse a portrait of the jivanmukta — the one liberated while living. Equanimity in the face of pleasure and pain is not stoic resignation; it is the yogi's achieved state of inner freedom. He notes that sama-duḥkha-sukha mirrors the balanced state of the spine in meditation — neither pulling toward the world nor fleeing from it, but resting in the center. Amṛtatvāya kalpate — he becomes worthy of immortality — is the yogic promise: steady practice leads to a transformation in consciousness where death itself loses its sting.",
+        "goyandka": "Goyandka emphasizes that amṛtatvāya kalpate does not mean the person gains immortality (which is already the Ātman's nature) but that they become qualified (kalpate) to realize it. The qualification is equanimity — sama-duḥkha-sukham. As long as the mind swings violently between pleasure and pain, it cannot rest long enough in the Self to recognize its own immortal nature. The epithet puruṣarṣabha (bull among men) is used to remind Arjuna that this ideal of steadiness is the mark of the truly excellent human being — not a state for hermits alone, but the highest human aspiration."
+      }
+    },
+    {
+      "verse": 16,
+      "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः ।\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥",
+      "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ\nubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ",
+      "translation": "The unreal has no existence; the real never ceases to be. The conclusion about both these has been clearly perceived by the seers of truth.",
+      "audio": "/assets/audio/ch02/verse_02_16.mp3",
+      "word_breakdown": [
+        {
+          "word": "असतः",
+          "transliteration": "asataḥ",
+          "root": "a (not) + sat (being/real)",
+          "grammatical_form": "Adjective used as noun, genitive singular",
+          "meaning": "of the unreal / of that which has no ultimate existence"
+        },
+        {
+          "word": "भावः",
+          "transliteration": "bhāvaḥ",
+          "root": "√bhū (to be/exist)",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "existence / being / coming into being"
+        },
+        {
+          "word": "सतः",
+          "transliteration": "sataḥ",
+          "root": "√as (to be) — present participle sat",
+          "grammatical_form": "Adjective used as noun, genitive singular",
+          "meaning": "of the real / of that which truly exists / of Being"
+        },
+        {
+          "word": "अन्तः",
+          "transliteration": "antaḥ",
+          "root": "anta (end/conclusion/final truth)",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "the conclusion / the final ascertainment / the ultimate truth"
+        },
+        {
+          "word": "तत्त्वदर्शिभिः",
+          "transliteration": "tattva-darśibhiḥ",
+          "root": "tattva (truth/that-ness) + darśin (seer/one who sees)",
+          "grammatical_form": "Compound noun, masculine, instrumental plural",
+          "meaning": "by the seers of truth / by those who have directly perceived reality"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji called this verse the 'axis of the Gita.' Sat and asat — the real and the unreal. The body changes, ages, dies — this proves it belongs to asat. The Self never changes, never ceases — this proves it is sat. Dadaji used a simple image: ice melts, becomes water, becomes vapor — but H₂O never disappears. What seems to end is only a form; what truly is cannot not-be. The tattva-darśibhiḥ — the seers of truth — are not philosophers alone but those who have turned inward long enough to actually see this. Dadaji's life was devoted to becoming such a seer.",
+        "sarvapriyananda": "This is arguably the most philosophically dense verse in the Gita and the cornerstone of Advaita Vedanta. The sat-asat distinction maps precisely onto Shankara's vivartavāda: the world of appearances (asat) has no independent existence — it appears in and through Brahman (sat) but has no reality apart from it. The 'conclusion perceived by the seers of truth' (tattva-darśibhiḥ) points to the fact that this is not mere theory but a matter of direct perception — aparokṣānubhūti, immediate experience. The teaching of non-dual consciousness begins here.",
+        "yogananda": "Yogananda saw in this verse the metaphysical structure of all spiritual seeking. That which changes — the body, the mind, circumstances — belongs to asat; it has no ultimate existence. That which never changes — consciousness itself, the witnessing awareness — is sat, Being. In meditation, the yogi directly experiences this: thoughts come and go (asat), but the awareness that witnesses them does not come and go (sat). This is not a concept to be believed but a reality to be experienced. The tattva-darśins are those who have made this inner discovery through sustained, concentrated practice.",
+        "goyandka": "Goyandka carefully notes the logical structure: 'There is no existence of the unreal; there is no non-existence of the real.' These are not merely opposite claims — they are mutually confirming. The asat (unreal, which here means the body and all changing phenomena) cannot truly be because it is subject to beginning, middle, and end. The sat (real, the Ātman) cannot cease to be because it is self-existent. The tattva-darśibhiḥ — seers of truth — have directly verified this through their own realization. The Gita here bases its ethical teaching (fight, do your duty) on a metaphysical foundation: you cannot kill what is real."
+      }
+    },
+    {
+      "verse": 17,
+      "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥",
+      "transliteration": "avināśi tu tad viddhi yena sarvam idaṃ tatam\nvināśam avyayasyāsya na kaścit kartum arhati",
+      "translation": "Know that by which all this is pervaded to be indestructible. No one is able to bring about the destruction of that which is imperishable.",
+      "audio": "/assets/audio/ch02/verse_02_17.mp3",
+      "word_breakdown": [
+        {
+          "word": "अविनाशि",
+          "transliteration": "avināśi",
+          "root": "a (not) + vi + √naś (to perish/be destroyed)",
+          "grammatical_form": "Adjective, neuter, nominative singular",
+          "meaning": "indestructible / that which cannot be destroyed or lost"
+        },
+        {
+          "word": "ततम्",
+          "transliteration": "tatam",
+          "root": "√tan (to spread/pervade)",
+          "grammatical_form": "Past passive participle, nominative singular",
+          "meaning": "pervaded / spread throughout / extended across everything"
+        },
+        {
+          "word": "विनाशम्",
+          "transliteration": "vināśam",
+          "root": "vi + √naś (to destroy/annihilate)",
+          "grammatical_form": "Noun, masculine, accusative singular",
+          "meaning": "destruction / annihilation / bringing to an end"
+        },
+        {
+          "word": "अव्ययस्य",
+          "transliteration": "avyayasya",
+          "root": "a (not) + vi + √i (to go/spend) — avyaya: inexhaustible",
+          "grammatical_form": "Adjective used as noun, genitive singular",
+          "meaning": "of the inexhaustible / of the immutable / of that which does not diminish"
+        },
+        {
+          "word": "कर्तुमर्हति",
+          "transliteration": "kartum arhati",
+          "root": "√kṛ (to do/make) + √arh (to be worthy/able)",
+          "grammatical_form": "Infinitive + present tense, 3rd singular",
+          "meaning": "is able to bring about / is capable of doing / is worthy of effecting"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would raise both hands when he spoke of this verse: 'Yena sarvam idaṃ tatam — that by which all this is pervaded. Everything you see, touch, and know exists within it. And it cannot be destroyed. Not by weapons, not by time, not by death.' This verse gave him a sense of boundlessness — he was not a small man trapped in a body but an expression of something that fills the universe. He said that when you truly feel this, the fear of losing anything — including life itself — simply dissolves. What you truly are cannot be threatened.",
+        "sarvapriyananda": "This verse is a direct pointer to Brahman — the all-pervading, indestructible ground of existence. Yena sarvam idaṃ tatam: 'that by which all this is pervaded' — the universe does not exist alongside the Ātman/Brahman; it exists within it, as expressions of it. Avyaya — inexhaustible, unchanging — is a key name for Brahman. No action (na kaścit kartum arhati) can produce its destruction because destruction implies something external to it, and there is nothing external to the all-pervading. This is the Upanishadic mahāvākya (great statement) in compressed form: the Self is the ground of all.",
+        "yogananda": "Yogananda draws here on the idea of omnipresence — the divine consciousness that fills and underlies every particle of creation. 'That by which all this is pervaded' — this is the cosmic AUM, the vibratory presence of Spirit in all matter. In meditation, as the mind grows quiet, the meditator begins to sense this presence — not as a concept but as a felt reality, a living field of bliss and awareness that includes all forms while being limited by none. The avyaya — the inexhaustible — is what the yogi encounters at the depth of samādhi. No weapon of doubt, no arrow of time can reach it.",
+        "goyandka": "Goyandka carefully explains that tat — 'that' — refers to the Ātman introduced in the preceding verse as sat (the real). The Ātman is avināśi (indestructible) because destruction requires a cause external to the thing destroyed. Since the Ātman pervades all (sarvam idaṃ tatam), there is no external agent to destroy it. The word avyaya (inexhaustible/immutable) further reinforces that the Ātman does not deplete, diminish, or transform — it is absolutely steady. The purpose of these logical proofs is practical: once Arjuna grasps that no soul can be destroyed, the moral paralysis of grief over killing in battle loses its ground."
+      }
+    },
+    {
+      "verse": 18,
+      "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः ।\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ॥",
+      "transliteration": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ\nanāśino 'prameyasya tasmād yudhyasva bhārata",
+      "translation": "These bodies of the eternal, indestructible, and immeasurable embodied Self are said to come to an end. Therefore, fight, O Bharata.",
+      "audio": "/assets/audio/ch02/verse_02_18.mp3",
+      "word_breakdown": [
+        {
+          "word": "अन्तवन्तः",
+          "transliteration": "antavantaḥ",
+          "root": "anta (end) + vat (having the quality of)",
+          "grammatical_form": "Adjective, masculine, nominative plural",
+          "meaning": "having an end / perishable / that which comes to a conclusion"
+        },
+        {
+          "word": "नित्यस्य",
+          "transliteration": "nityasya",
+          "root": "nitya (eternal/ever-present)",
+          "grammatical_form": "Adjective used as noun, genitive singular",
+          "meaning": "of the eternal / belonging to that which is always"
+        },
+        {
+          "word": "अनाशिनः",
+          "transliteration": "anāśinaḥ",
+          "root": "an (not) + āśin from √naś (to perish)",
+          "grammatical_form": "Adjective, masculine, genitive singular",
+          "meaning": "of the indestructible / of that which does not perish"
+        },
+        {
+          "word": "अप्रमेयस्य",
+          "transliteration": "aprameyasya",
+          "root": "a (not) + pra + √mā (to measure)",
+          "grammatical_form": "Adjective used as noun, genitive singular",
+          "meaning": "of the immeasurable / of that which cannot be quantified or comprehended by the senses"
+        },
+        {
+          "word": "युध्यस्व",
+          "transliteration": "yudhyasva",
+          "root": "√yudh (to fight/wage war)",
+          "grammatical_form": "Imperative, 2nd person singular, middle voice (ātmanepada)",
+          "meaning": "fight / engage in battle — the middle voice implies fighting for one's own duty/sake"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji saw this verse as Krishna's pivot from philosophy to life: 'Now you understand. The bodies end. The Self does not. So go — do what you must do.' This is not callousness about death; it is freedom from it. Nitya, anāśin, aprameya — eternal, indestructible, immeasurable — these three words describe what Arjuna truly is, and what every soul truly is. When you know yourself to be immeasurable, how can the death of bodies unsettle you? Tasmād yudhyasva — therefore fight — is not a command to violence. It is an invitation to live fully and fearlessly as who you truly are.",
+        "sarvapriyananda": "The verse brings the philosophical argument to its practical conclusion: the bodies (dehāḥ) are antavantaḥ — finite, destined to end. But the śarīriṇaḥ — the embodied one — is nitya (eternal), anāśin (indestructible), aprameya (immeasurable). Three qualifiers are given: nitya points to the Ātman's existence beyond time, anāśin to its immunity from destruction, and aprameya to its transcendence of all conceptual or sensory measurement. From this three-fold foundation, the instruction naturally follows: fight. Dharmic action becomes possible only when the fear of destroying the indestructible is removed.",
+        "yogananda": "Yogananda notes that aprameya — immeasurable — is one of the most significant names for the Self. The soul cannot be measured because it is the very consciousness that does all measuring. The eye cannot see itself; the ruler cannot measure itself. The Ātman is the ground of all measurement. Once a person truly knows this — not intellectually but in lived experience — all grief over death transforms into an expansive joy. Tasmād yudhyasva is spoken to all of us: 'You are immeasurable. Therefore, live your life fully. Do not shrink from its demands.'",
+        "goyandka": "Goyandka observes that this verse is the practical conclusion of the preceding chain of arguments (verses 12–17). The logical chain is complete: the Ātman is eternal (v.12), it persists through change (v.13), its contacts with matter are temporary (v.14–15), only the real exists (v.16), it pervades all and cannot be destroyed (v.17) — therefore, Arjuna, the bodies are perishable, the souls are not. Fight. Goyandka stresses that tasmāt (therefore) is a word of logical consequence: the Gita's ethics is always grounded in metaphysics. Right action flows from right understanding of reality."
+      }
+    },
+    {
+      "verse": 19,
+      "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् ।\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥",
+      "transliteration": "ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam\nubhau tau na vijānīto nāyaṃ hanti na hanyate",
+      "translation": "He who thinks this Self is a slayer, and he who thinks it is slain — both of them fail to perceive the truth. It neither slays nor is it slain.",
+      "audio": "/assets/audio/ch02/verse_02_19.mp3",
+      "word_breakdown": [
+        {
+          "word": "हन्तारम्",
+          "transliteration": "hantāram",
+          "root": "√han (to slay/strike)",
+          "grammatical_form": "Agent noun, accusative singular",
+          "meaning": "a slayer / one who kills — wrongly attributed to the Ātman"
+        },
+        {
+          "word": "मन्यते",
+          "transliteration": "manyate",
+          "root": "√man (to think/believe/consider)",
+          "grammatical_form": "Present tense, 3rd person singular, middle voice",
+          "meaning": "thinks / considers / believes — indicating subjective error"
+        },
+        {
+          "word": "हतम्",
+          "transliteration": "hatam",
+          "root": "√han (to slay/strike) — past passive participle",
+          "grammatical_form": "Past passive participle, accusative singular",
+          "meaning": "slain / killed / struck down"
+        },
+        {
+          "word": "उभौ",
+          "transliteration": "ubhau",
+          "root": "ubha (both)",
+          "grammatical_form": "Pronoun, masculine, nominative dual",
+          "meaning": "both / both of these two — indicating the error is shared by opposite views"
+        },
+        {
+          "word": "विजानीतः",
+          "transliteration": "vijānītaḥ",
+          "root": "vi + √jñā (to know/discern)",
+          "grammatical_form": "Present tense, 3rd person dual, with na (negative) = na vijānītaḥ",
+          "meaning": "do not know / fail to discern / do not perceive the truth"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would often recite this verse with a deep stillness. 'It does not slay, it is not slain.' He said this verse is the Gita's answer to our deepest fear — the fear of becoming a cause of harm. Arjuna fears he will kill his teachers and kinsmen. But who is really killed? Only the body changes hands. The Self — that shining light — has never been touched by any weapon, by any grief, by any death. Dadaji said: 'Do not confuse the lamp with the shade. The shade can be removed; the light cannot be extinguished.' This verse has comforted countless grieving hearts.",
+        "sarvapriyananda": "This verse, closely parallel to Katha Upanishad 1.2.19, presents the Self's absolute transcendence of all action, including the most extreme action imaginable — killing. The error of both parties is the same: they have superimposed qualities of the body (agent of killing, object of being killed) onto the Ātman, which is neither agent nor object. In Vedantic epistemology this is called adhyāsa — superimposition — the fundamental error that underlies all suffering. The correction is not moral instruction but a shift in understanding: perceive correctly what the Self is, and the error dissolves on its own.",
+        "yogananda": "Yogananda connects this verse to the Katha Upanishad's identical statement about the Self. He writes that the Ātman is the pure witness-consciousness that observes all action but is itself untouched by any of it. In meditation, when the mind becomes still enough, the meditator directly experiences this witnessing awareness — present behind all thoughts, all sensations, all actions, yet participating in none of them as a subject or object. The yogi who has touched this state even briefly no longer fears becoming an instrument of harm, because they have seen that the deepest layer of every being is beyond harm.",
+        "goyandka": "Goyandka cites the exact parallel in Katha Upanishad (1.2.19): 'hantā cen manyate hantuṃ hataś cen manyate hatam / ubhau tau na vijānīto nāyaṃ hanti na hanyate.' The Gita's verse echoes this directly, confirming that this is not a new teaching but the eternal wisdom of the Upanishads, now applied to the battlefield. The dual form ubhau tau (both of these two) is important: the error is not in one direction but symmetric — both the one who thinks the Ātman kills and the one who thinks it can be killed are equally mistaken. The Ātman is beyond both activity and passivity; it is pure, unmodified, eternal existence-consciousness."
+      }
+    }
+  ]
+}

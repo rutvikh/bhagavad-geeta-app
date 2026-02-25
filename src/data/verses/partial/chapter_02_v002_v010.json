@@ -1,0 +1,441 @@
+{
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 2,
+      "sanskrit": "श्रीभगवानुवाच ।\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ॥",
+      "transliteration": "śrī-bhagavān uvāca\nkutas tvā kaśmalam idaṃ viṣame samupasthitam\nanārya-juṣṭam asvargyam akīrti-karam arjuna",
+      "translation": "The Blessed Lord said: Whence has come upon you, in this crisis, this despondency, this unmanliness? Do not yield to impotence, O Arjuna. It does not befit you. Shake off your faint-heartedness and arise.",
+      "audio": "/assets/audio/ch02/verse_02_02.mp3",
+      "word_breakdown": [
+        {
+          "word": "कुतः",
+          "transliteration": "kutaḥ",
+          "root": "ku (interrogative base)",
+          "grammatical_form": "Interrogative adverb, ablative sense",
+          "meaning": "from where / whence"
+        },
+        {
+          "word": "कश्मलम्",
+          "transliteration": "kaśmalam",
+          "root": "kaśmala (impurity, despondency)",
+          "grammatical_form": "Noun, neuter, nominative/accusative singular",
+          "meaning": "faint-heartedness / moral impurity / despondency"
+        },
+        {
+          "word": "विषमे",
+          "transliteration": "viṣame",
+          "root": "vi + sama (equal) → viṣama (unequal, crisis)",
+          "grammatical_form": "Adjective used as noun, locative singular",
+          "meaning": "in this crisis / in this difficult juncture"
+        },
+        {
+          "word": "अनार्यजुष्टम्",
+          "transliteration": "anārya-juṣṭam",
+          "root": "an + ārya (noble) + juṣṭa (practised, dear)",
+          "grammatical_form": "Compound adjective, neuter, accusative singular",
+          "meaning": "not befitting a noble person / unworthy of the Aryan"
+        },
+        {
+          "word": "अकीर्तिकरम्",
+          "transliteration": "akīrti-karam",
+          "root": "a + kīrti (fame) + kara (making)",
+          "grammatical_form": "Compound adjective, neuter, accusative singular",
+          "meaning": "causing infamy / dishonouring"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji used to say that the very first word Krishna speaks — 'Kutaḥ?' (From where?) — is the most important question in the Geeta. From where has this darkness come? Not 'How are you feeling?' but 'Where did this impurity enter?' This is how a true teacher responds to a disciple's crisis: not with sympathy that confirms the confusion, but with a penetrating question that begins to cut it at its root. Krishna calls Arjuna's state 'anārya-juṣṭam' — unbefitting a noble soul. He does not coddle Arjuna's grief; he names it precisely as what it is: a lapse from one's higher nature. And then the command: arise. This single word — uttiṣṭha — rings through the entire Geeta.",
+        "sarvapriyananda": "This verse is Krishna's first direct utterance in the dialogue, and it is notable that he does not begin with philosophy — he begins with a diagnosis. The word 'kaśmalam' means not just sadness but a kind of moral and spiritual pollution — a sullying of one's nature. The phrase 'viṣame samupasthitam' — arisen at this crisis point — suggests that the delusion was always latent; the extreme situation has merely brought it to the surface. From the Vedantic standpoint, the crisis on the battlefield is a mirror held up to Arjuna's inner state. Krishna will not let him avoid this mirror. The call to 'arise' is not merely physical — it is the call to rise from tamas and rajas into sattva, from delusion into clarity.",
+        "yogananda": "Yogananda saw in Krishna's opening words the divine response to every soul's moment of inner collapse. The battlefield — both the outer Kurukshetra and the inner one — always presents us with this same 'viṣama' moment, this crisis point where our habitual identities fail us. Krishna does not comfort Arjuna's ego; he challenges it. The word 'kaśmalam' points to a darkness that is not natural to Arjuna — it is an intrusion, a foreign pollution. The divine guru never accepts the disciple's despair as a final reality; he sees the light within and demands that the disciple rise to meet it. This verse is the eternal call of the Higher Self to the lower self: 'This darkness is not you — arise.'",
+        "goyandka": "Goyandka draws attention to the precise Sanskrit term 'klaibya' implied in Krishna's rebuke — a word denoting unmanliness and incapacity. This is not a gentle or diplomatic opening. Krishna is pointing out that Arjuna has, in this moment, ceased to function as a kṣatriya — a warrior whose very dharma is to face conflict without flinching. The rebuke 'anārya-juṣṭam' is particularly strong: an ārya is one who strives for noble ideals. To yield to this despondency is to fall below one's own stature as a seeker. 'Asvargyam' (not leading to heaven) and 'akīrti-karam' (causing infamy) are the two consequences — both spiritual and social — of Arjuna's intended abandonment of duty."
+      }
+    },
+    {
+      "verse": 3,
+      "sanskrit": "श्रीभगवानुवाच ।\nक्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते ।\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥",
+      "transliteration": "śrī-bhagavān uvāca\nklaibyaṃ mā sma gamaḥ pārtha naitat tvayy upapadyate\nkṣudraṃ hṛdaya-daurbalyaṃ tyaktvottiṣṭha paran-tapa",
+      "translation": "Yield not to impotence, O Arjuna — it does not befit you. Shake off this faint-heartedness of heart and arise, O Scorcher of Enemies.",
+      "audio": "/assets/audio/ch02/verse_02_03.mp3",
+      "word_breakdown": [
+        {
+          "word": "क्लैब्यम्",
+          "transliteration": "klaibyam",
+          "root": "klība (impotent, unmanly)",
+          "grammatical_form": "Abstract noun, neuter, accusative singular",
+          "meaning": "unmanliness / impotence / faint-heartedness"
+        },
+        {
+          "word": "मा स्म गमः",
+          "transliteration": "mā sma gamaḥ",
+          "root": "mā (prohibitive) + sma + √gam (to go)",
+          "grammatical_form": "Prohibitive construction, 2nd person singular aorist",
+          "meaning": "do not go / do not yield to / never resort to"
+        },
+        {
+          "word": "क्षुद्रम्",
+          "transliteration": "kṣudram",
+          "root": "kṣudra (small, petty, mean)",
+          "grammatical_form": "Adjective, neuter, accusative singular",
+          "meaning": "petty / mean / unworthy / small-minded"
+        },
+        {
+          "word": "हृदयदौर्बल्यम्",
+          "transliteration": "hṛdaya-daurbalyam",
+          "root": "hṛdaya (heart) + daurbalya (weakness)",
+          "grammatical_form": "Compound noun, neuter, accusative singular",
+          "meaning": "weakness of heart / faint-heartedness"
+        },
+        {
+          "word": "परन्तप",
+          "transliteration": "paran-tapa",
+          "root": "para (enemies) + tapa (scorcher, from √tap)",
+          "grammatical_form": "Compound epithet, masculine, vocative singular",
+          "meaning": "O Scorcher of Enemies — epithet honouring Arjuna's warrior power"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji said this verse is like the second beat of a drum — it repeats the command from verse 2 with even greater force. 'Klaibyam mā sma gamaḥ' — do not go in the direction of unmanliness. And then a beautiful word appears: 'kṣudram' — petty, small, mean. Dadaji used to say with great warmth that Krishna is not insulting Arjuna but reminding him of how vast he really is. Your grief is real, but it is kṣudra — it is too small for who you are. The epithet 'Paran-tapa' — Scorcher of Enemies — placed at the very end of the verse is not ironic; it is aspirational. Krishna is invoking the Arjuna who is capable of burning up all enemies, including this inner one. Arise.",
+        "sarvapriyananda": "The combination of 'mā sma gamaḥ' is one of the strongest prohibitive forms in Sanskrit — it is not a gentle 'please don't' but an emphatic 'never go there.' The use of the epithet 'Pārtha' (son of Pṛthā, i.e., Kuntī) at the beginning and 'Paran-tapa' at the end frames the verse with two aspects of Arjuna's identity: his noble lineage and his warrior power. Between these two identities lies the 'kṣudra hṛdaya-daurbalya' — petty weakness of heart — which is the false identity Arjuna has momentarily adopted. Vedānta teaches that our suffering often comes from identifying with a diminished version of ourselves. This verse is a call to return to one's true stature.",
+        "yogananda": "Yogananda taught that 'hṛdaya-daurbalya' — weakness of the heart — is not the same as genuine compassion. True compassion is strong and clear; it sees the highest good and acts from that vision. What Arjuna is experiencing is a collapse of the discriminating faculty — his buddhi has been overwhelmed by emotion, and he has confused sentimental attachment with wisdom. The command 'tyaktvā uttiṣṭha' — having abandoned it, arise — is the yoga of this verse. First there must be an act of inner renunciation: letting go of the false refuge of grief. Then there can be the rising: uttiṣṭha. This sequence — renounce and rise — is the template for all spiritual practice.",
+        "goyandka": "The classical commentators note that Krishna uses two different terms in verses 2 and 3 — 'kaśmala' (impurity, pollution) and 'klaibyam' (unmanliness) — to attack Arjuna's despondency from two angles: its spiritual dimension and its social/dharmic dimension. One who is polluted by kaśmala cannot perceive truth clearly; one who has fallen into klaibyam cannot perform his duty. The modifier 'kṣudra' (petty/mean) applied to 'hṛdaya-daurbalya' is precise: it means that this weakness is not a great cosmic sorrow but a small, common, conquerable failing. The epithet 'Paran-tapa' at the close is, for Goyandka, a reminder of Arjuna's capacity — he who can scorch enemies externally must now scorch this internal enemy."
+      }
+    },
+    {
+      "verse": 4,
+      "sanskrit": "अर्जुन उवाच ।\nकथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन ।\nइषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ॥",
+      "transliteration": "arjuna uvāca\nkathaṃ bhīṣmam ahaṃ saṃkhye droṇaṃ ca madhusūdana\niṣubhiḥ pratiyotsyāmi pūjārhāv ari-sūdana",
+      "translation": "Arjuna said: How, O Madhusudana, can I fight in battle with arrows against Bhishma and Drona, who are worthy of worship, O destroyer of enemies?",
+      "audio": "/assets/audio/ch02/verse_02_04.mp3",
+      "word_breakdown": [
+        {
+          "word": "कथम्",
+          "transliteration": "katham",
+          "root": "ka (interrogative base)",
+          "grammatical_form": "Interrogative adverb",
+          "meaning": "how / in what way"
+        },
+        {
+          "word": "सङ्ख्ये",
+          "transliteration": "saṃkhye",
+          "root": "saṃkhyā (enumeration, battle)",
+          "grammatical_form": "Noun, neuter, locative singular",
+          "meaning": "in battle / in the conflict"
+        },
+        {
+          "word": "इषुभिः",
+          "transliteration": "iṣubhiḥ",
+          "root": "iṣu (arrow)",
+          "grammatical_form": "Noun, masculine, instrumental plural",
+          "meaning": "with arrows"
+        },
+        {
+          "word": "प्रतियोत्स्यामि",
+          "transliteration": "pratiyotsyāmi",
+          "root": "prati + √yudh (to fight)",
+          "grammatical_form": "Future, 1st person singular",
+          "meaning": "I will fight against / I will counter in battle"
+        },
+        {
+          "word": "पूजार्हौ",
+          "transliteration": "pūjārhau",
+          "root": "pūjā (worship) + arha (worthy)",
+          "grammatical_form": "Compound adjective, dual, nominative/accusative",
+          "meaning": "worthy of worship / deserving reverence"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Arjuna's question here is deeply human and, Dadaji would say, deeply honest. 'How can I shoot arrows at those who deserve my prostration?' The word 'pūjārhau' — worthy of worship — is the key. Arjuna is not a coward; he is a man whose sense of reverence is in conflict with his duty. This is a genuine moral problem, not mere weakness. Dadaji often said that the Geeta does not dismiss Arjuna's question; it takes it with full seriousness and then provides a teaching vast enough to answer it. The names Arjuna uses for Krishna here — 'Madhusudana' and 'Ari-sūdana' — are both names of the slayer: as if Arjuna is unconsciously reminding himself that the one before him does know how to deal with enemies.",
+        "sarvapriyananda": "This verse represents a shift in Arjuna's engagement with Krishna. He is no longer simply lamenting — he is now posing a philosophical and ethical question: How is it possible to fight one's gurus and elders? This is a question about the relationship between dharma and personal obligation, between social/familial duty and the warrior's code. The Vedantic tradition notes that Arjuna's question contains its own answer in seed form: the word 'pūjārhau' assumes that Bhishma and Drona's bodies are the men themselves. The teaching of the Atman, which Krishna is about to give, will reframe this entirely — the real Bhishma and Drona cannot be touched by any arrow.",
+        "yogananda": "Yogananda saw in Arjuna's question the eternal cry of the devotional soul when asked to 'fight' against its own cherished attachments. The gurus Bhishma and Drona represent, esoterically, the deep-rooted habits and venerated thought-patterns that the spiritual aspirant must eventually confront and transcend. How can we raise the sword of discrimination against that which we have worshipped? This is the disciple's dilemma. The answer Krishna will provide is not 'stop revering them' but rather 'understand what is real — the Atman in them is untouched.' The reverence remains; the attachment to form must be released.",
+        "goyandka": "Goyandka carefully notes the distinction between 'saṃkhye' (in battle, on the battlefield) and the broader spiritual context. Arjuna's dilemma is grounded in the specific dharmic reality of the kṣatriya: he is honour-bound to fight, yet his teachers Bhishma and Drona stand on the opposing side. The classical tradition recognizes this as a genuine conflict between two legitimate dharmas — the teacher-student relationship (guru-śiṣya dharma) and the warrior's duty (kṣatriya-dharma). The Geeta's resolution lies not in choosing one over the other but in transcending the attachment to outcomes that makes the conflict seem irresolvable."
+      }
+    },
+    {
+      "verse": 5,
+      "sanskrit": "अर्जुन उवाच ।\nगुरूनहत्वा हि महानुभावान्\nश्रेयो भोक्तुं भैक्ष्यमपीह लोके ।\nहत्वार्थकामांस्तु गुरूनिहैव\nभुञ्जीय भोगान् रुधिरप्रदिग्धान् ॥",
+      "transliteration": "arjuna uvāca\ngurūn ahatvā hi mahānubhāvān\nśreyo bhoktum bhaikṣyam apīha loke\nhatvārtha-kāmāṃs tu gurūn ihaiva\nbhuñjīya bhogān rudhira-pradigdhān",
+      "translation": "It would be better to live even on alms in this world than to slay these noble-souled teachers. Having slain the teachers who desire worldly goods, I would enjoy here wealth smeared with blood.",
+      "audio": "/assets/audio/ch02/verse_02_05.mp3",
+      "word_breakdown": [
+        {
+          "word": "महानुभावान्",
+          "transliteration": "mahānubhāvān",
+          "root": "mahā (great) + anubhāva (dignity, experience)",
+          "grammatical_form": "Compound adjective, masculine, accusative plural",
+          "meaning": "noble-souled / great-spirited / of great dignity"
+        },
+        {
+          "word": "भैक्ष्यम्",
+          "transliteration": "bhaikṣyam",
+          "root": "√bhikṣ (to beg)",
+          "grammatical_form": "Abstract noun, neuter, accusative singular",
+          "meaning": "begging / living on alms / mendicancy"
+        },
+        {
+          "word": "अर्थकामान्",
+          "transliteration": "artha-kāmān",
+          "root": "artha (wealth) + kāma (desire)",
+          "grammatical_form": "Compound adjective, masculine, accusative plural",
+          "meaning": "those motivated by desire for wealth / worldly-minded"
+        },
+        {
+          "word": "रुधिरप्रदिग्धान्",
+          "transliteration": "rudhira-pradigdhān",
+          "root": "rudhira (blood) + pradigdha (smeared, from pra + √dih)",
+          "grammatical_form": "Compound adjective, masculine, accusative plural",
+          "meaning": "smeared with blood / stained with bloodguilt"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji found great beauty in this verse even as he pointed out its error. Arjuna says: 'Even begging is better than this.' There is something noble in preferring poverty to bloodshed, in choosing deprivation over dishonour. But then notice what he says next — 'I would enjoy pleasures smeared with blood.' This is extraordinary self-awareness. Arjuna already knows that if he fights, every pleasure afterward will be tainted. Dadaji said this shows Arjuna's deep conscience — and also his incomplete vision. He sees the blood but does not yet see the Atman. When the Atman is seen, a different kind of clarity emerges: one fights not for enjoyment but as a matter of dharma, without attachment to the fruits.",
+        "sarvapriyananda": "The verse presents a classic philosophical dilemma in the form of a forced choice: a life of begging or a life of blood-stained pleasure. Arjuna chooses the former — but the Geeta will show that this is a false dichotomy. The real question is not 'which pleasure to choose' but rather 'who is the one who acts and enjoys?' When Arjuna says 'bhuñjīya bhogān' (I would enjoy pleasures), he reveals his attachment to enjoyment as the metric of a good life. The Vedāntic teaching of nishkāma karma — action without attachment to results — will dissolve both horns of this dilemma. Act from duty; do not calculate enjoyment.",
+        "yogananda": "Yogananda saw in the image of 'rudhira-pradigdhān bhogān' — pleasures smeared with blood — a profound metaphysical truth. Every pleasure obtained through violence to one's higher nature is indeed bloodstained. The inner aspirant who suppresses spiritual conscience for the sake of worldly gain lives always on such stained pleasures. Arjuna's intuition is correct on the surface level. What is incomplete is his assumption that the only alternative is literal begging. Krishna will show a third way: acting in the world with full energy and engagement, yet inwardly free from the stain of attachment and desire.",
+        "goyandka": "Goyandka notes the qualifier 'artha-kāmāṃs tu gurūn' — teachers who are themselves motivated by worldly desires. Arjuna is not presenting Bhishma and Drona as fully enlightened gurus; he acknowledges their imperfection. Even so, they are his teachers and elders, and the śāstras are clear that such persons deserve reverence regardless of their personal attachments. The classical tradition holds that the guru-relationship creates an absolute obligation that supersedes even ethical calculations about who is right or wrong in a given situation. Yet the Geeta's higher teaching will show that this obligation, like all obligations, must be fulfilled with a spirit of detachment from the personal outcomes of one's action."
+      }
+    },
+    {
+      "verse": 6,
+      "sanskrit": "अर्जुन उवाच ।\nन चैतद्विद्मः कतरन्नो गरीयो\nयद्वा जयेम यदि वा नो जयेयुः ।\nयानेव हत्वा न जिजीविषामस्\nते 'वस्थिताः प्रमुखे धार्तराष्ट्राः ॥",
+      "transliteration": "arjuna uvāca\nna caitad vidmaḥ kataran no garīyo\nyad vā jayema yadi vā no jayeyuḥ\nyān eva hatvā na jijīviṣāmas\nte 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ",
+      "translation": "Nor do we know which is better for us — whether we conquer them or they conquer us. Even those whom, having slain, we would not wish to live — they stand before us, Dhritarashtra's sons.",
+      "audio": "/assets/audio/ch02/verse_02_06.mp3",
+      "word_breakdown": [
+        {
+          "word": "गरीयः",
+          "transliteration": "garīyaḥ",
+          "root": "guru (heavy, important) — comparative form",
+          "grammatical_form": "Comparative adjective, neuter, nominative singular",
+          "meaning": "better / weightier / more important"
+        },
+        {
+          "word": "जयेम",
+          "transliteration": "jayema",
+          "root": "√ji (to conquer)",
+          "grammatical_form": "Optative, 1st person plural",
+          "meaning": "we might conquer / were we to win"
+        },
+        {
+          "word": "जिजीविषामः",
+          "transliteration": "jijīviṣāmaḥ",
+          "root": "√jīv (to live) — desiderative stem jijīviṣā",
+          "grammatical_form": "Desiderative verb, 1st person plural",
+          "meaning": "we desire to live / we would wish to go on living"
+        },
+        {
+          "word": "प्रमुखे",
+          "transliteration": "pramukhe",
+          "root": "pra (before) + mukha (face)",
+          "grammatical_form": "Noun, neuter, locative singular",
+          "meaning": "right before us / facing us / in front"
+        },
+        {
+          "word": "धार्तराष्ट्राः",
+          "transliteration": "dhārtarāṣṭrāḥ",
+          "root": "Dhṛtarāṣṭra (proper noun) + possessive suffix",
+          "grammatical_form": "Proper noun, masculine, nominative plural",
+          "meaning": "the sons of Dhritarashtra / the Kauravas"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji used to say this verse shows that Arjuna's confusion has deepened from an emotional one into a philosophical one. He no longer simply does not want to fight — he genuinely does not know what the better outcome would be. 'Na caitad vidmaḥ' — we do not know this. This admission of not-knowing is, paradoxically, a step forward. The Geeta tradition always begins in earnest when the disciple admits he does not know. And then the most poignant line: 'Those by killing whom I would not wish to live — they stand right in front of me.' This is Arjuna's full honesty: killing them would be a kind of self-death. This is when a teacher becomes indispensable.",
+        "sarvapriyananda": "The verse reveals Arjuna's genuine epistemic crisis — not just an emotional one. He uses the optative mood 'jayema... jayeyuḥ' — 'we might conquer... they might conquer us' — showing that even the outcomes are uncertain to him. He cannot reason his way through this. The phrase 'na jijīviṣāmaḥ' — we do not wish to live — after having slain the Kauravas is psychologically profound: he cannot imagine a life worth living after such an act. This existential crisis — 'I cannot see the value of continued existence beyond this point' — is precisely the moment the Geeta's teaching is designed to address. Life's meaning and the immortality of the Self are the only answers.",
+        "yogananda": "Yogananda read this verse as the soul's honest confession of the limits of ego-based reasoning. The ego can calculate many things, but it cannot calculate ultimate meaning. 'Which is better for us?' — the word 'naḥ' (for us) reveals the ego's framework: what is advantageous to this limited self? But the Self cannot be advantaged or disadvantaged by external outcomes. Krishna's teaching will shift the frame entirely: from 'what is better for us' to 'what is required by dharma and offered to the Divine.' Once this shift is made, the question of who wins or loses becomes secondary.",
+        "goyandka": "Goyandka draws attention to the desiderative construction 'jijīviṣāmaḥ' — 'we would not desire to live.' This is a grammatically precise expression of a deep ethical intuition: that some victories are worse than defeat, that some survivals are not worth having. The classical tradition recognizes this as a valid moral feeling but points out that it is based on a false premise — the identification of the self with the body and with relationships formed around the body. The Geeta will demonstrate that the soul's jijīviṣā — desire to live — is eternal and cannot be extinguished by any earthly slaying. This provides the platform from which Arjuna's dilemma can be genuinely resolved."
+      }
+    },
+    {
+      "verse": 7,
+      "sanskrit": "अर्जुन उवाच ।\nकार्पण्यदोषोपहतस्वभावः\nपृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे\nशिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥",
+      "transliteration": "arjuna uvāca\nkārpaṇya-doṣopahata-svabhāvaḥ\npṛcchāmi tvāṃ dharma-sammūḍha-cetāḥ\nyac chreyaḥ syān niścitaṃ brūhi tan me\nśiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam",
+      "translation": "My nature is overpowered by the taint of grief; my mind is confused about duty. I ask You — tell me decisively what is truly better. I am Your disciple; teach me, who have taken refuge in You.",
+      "audio": "/assets/audio/ch02/verse_02_07.mp3",
+      "word_breakdown": [
+        {
+          "word": "कार्पण्यदोषोपहतस्वभावः",
+          "transliteration": "kārpaṇya-doṣopahata-svabhāvaḥ",
+          "root": "kārpaṇya (miserliness, wretchedness) + doṣa (taint) + upahata (afflicted) + svabhāva (own nature)",
+          "grammatical_form": "Compound adjective, masculine, nominative singular",
+          "meaning": "one whose nature is afflicted by the taint of grief-wretchedness"
+        },
+        {
+          "word": "धर्मसम्मूढचेताः",
+          "transliteration": "dharma-sammūḍha-cetāḥ",
+          "root": "dharma + sam + √muh (to be bewildered) + cetas (mind)",
+          "grammatical_form": "Compound adjective, masculine, nominative singular",
+          "meaning": "whose mind is thoroughly confused about dharma / duty"
+        },
+        {
+          "word": "शिष्यः",
+          "transliteration": "śiṣyaḥ",
+          "root": "√śās (to instruct) — one to be instructed",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "disciple / student / one who seeks instruction"
+        },
+        {
+          "word": "प्रपन्नम्",
+          "transliteration": "prapannam",
+          "root": "pra + √pad (to go, to surrender)",
+          "grammatical_form": "Past participle, masculine, accusative singular",
+          "meaning": "one who has taken refuge / surrendered / gone completely to"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji said this is the single most important verse in the first half of the Geeta. Why? Because here Arjuna becomes a disciple. 'Śiṣyas te 'ham' — I am your disciple. 'Tvāṃ prapannam' — I have taken refuge in You.' This is the moment of formal surrender, and the Geeta really begins here. Until this moment, Arjuna was making arguments. From here, he asks for teaching. The compound 'kārpaṇya-doṣopahata-svabhāvaḥ' is extraordinary — 'kārpaṇya' means miserliness or wretchedness, the smallness of soul that arises when we cling to what is not ours to keep. Dadaji said this word describes perfectly what happens when we mistake the transient for the eternal: we become small, clutching, confused.",
+        "sarvapriyananda": "This verse is the pivotal point of the entire Geeta. The technical term in Vedānta for this moment is 'śiṣyatva' — the state of being a genuine disciple. Three things are required for śiṣyatva: admission of ignorance, sincere desire to know, and complete surrender to the teacher. All three are present here. Arjuna says: 'I am confused' (dharma-sammūḍha-cetāḥ), 'tell me what is truly better' (niścitaṃ brūhi), and 'I have taken refuge in you' (tvāṃ prapannam). The word 'śādhi' — teach me, command me — is a Sanskrit word of great beauty, implying that the teacher's instruction carries the authority of the śāstra itself. The Geeta's teaching is now authorized by the disciple's own surrender.",
+        "yogananda": "Yogananda called verse 7 the 'moment of prapatti' — complete self-offering. He noted that the word 'kārpaṇya' comes from the root meaning 'miser' — one who hoards. The soul becomes miserly when it clings to the ego, to relationships, to outcomes. This hoarding contracts the consciousness and produces the 'doṣa' — the inner impurity — that overwhelms Arjuna's better nature. The remedy is exactly what Arjuna does here: release the grip of the ego entirely and say to the Divine, 'I am yours. Teach me.' This is not weakness — it is the highest form of strength, the warrior's ultimate courage: to surrender completely to the Infinite.",
+        "goyandka": "Goyandka's classical analysis highlights the phrase 'niścitaṃ brūhi' — tell me with certainty. This is the disciple's proper request: not speculation or philosophy for its own sake but a decisive, actionable answer. Arjuna has tried reasoning, he has tried emotion, he has tried argument — all have led to confusion. Now he asks for śāstra-based authoritative teaching. Goyandka notes that 'prapanna' is a technical term indicating the highest form of surrender — it is not merely taking shelter temporarily but a complete, irrevocable reorientation of the self toward the divine. When a disciple becomes prapanna, the guru becomes obligated by dharma to give the highest teaching."
+      }
+    },
+    {
+      "verse": 8,
+      "sanskrit": "अर्जुन उवाच ।\nन हि प्रपश्यामि ममापनुद्याद्\nयच्छोकमुच्छोषणमिन्द्रियाणाम् ।\nअवाप्य भूमावसपत्नमृद्धं\nराज्यं सुराणामपि चाधिपत्यम् ॥",
+      "transliteration": "arjuna uvāca\nna hi prapaśyāmi mamāpanudyād\nyac chokam ucchoṣaṇam indriyāṇām\navāpya bhūmāv asapatnam ṛddhaṃ\nrājyaṃ surāṇām api cādhipatyam",
+      "translation": "I do not see what can remove this grief that dries up my senses — even if I were to attain an unrivalled, flourishing kingdom on earth, or even lordship over the gods.",
+      "audio": "/assets/audio/ch02/verse_02_08.mp3",
+      "word_breakdown": [
+        {
+          "word": "अपनुद्यात्",
+          "transliteration": "apanudyāt",
+          "root": "apa + √nud (to push away, remove)",
+          "grammatical_form": "Optative, 3rd person singular",
+          "meaning": "might remove / could drive away / would dispel"
+        },
+        {
+          "word": "उच्छोषणम्",
+          "transliteration": "ucchoṣaṇam",
+          "root": "ut + √śuṣ (to dry up, parch)",
+          "grammatical_form": "Present participle / verbal adjective, accusative",
+          "meaning": "that which dries up / withering / parching"
+        },
+        {
+          "word": "असपत्नम्",
+          "transliteration": "asapatnam",
+          "root": "a + sapatna (rival, co-wife, enemy)",
+          "grammatical_form": "Compound adjective, neuter, accusative singular",
+          "meaning": "without rivals / uncontested / supreme"
+        },
+        {
+          "word": "ऋद्धम्",
+          "transliteration": "ṛddham",
+          "root": "√ṛdh (to prosper, thrive)",
+          "grammatical_form": "Past participle, neuter, accusative singular",
+          "meaning": "prosperous / flourishing / abundant"
+        },
+        {
+          "word": "आधिपत्यम्",
+          "transliteration": "ādhipatyam",
+          "root": "adhipati (overlord) + abstract suffix",
+          "grammatical_form": "Abstract noun, neuter, accusative singular",
+          "meaning": "lordship / sovereignty / supreme dominion"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji used to say that this verse proves Arjuna is not a worldly man. A worldly man, if offered the kingdom of the gods, would stop grieving immediately. But Arjuna says even that would not help. This tells us that his grief is not of the ordinary kind — it is not grief over a lost pleasure but grief that arises from the collision between love and duty, between attachment and conscience. The word 'ucchoṣaṇam' — that which dries up the senses — is vivid and accurate. Grief of this depth does literally dry a person out: it makes food tasteless, sleep impossible, the world grey. Only the Atman-teaching, which Krishna is about to give, can reach into this depth and restore life.",
+        "sarvapriyananda": "The verse reveals something important about the nature of Arjuna's śoka (grief): it is not a grief that can be remedied by any worldly acquisition. The escalating scale — from earthly kingdom to lordship over the gods — underscores that the problem is not circumstantial but existential. Arjuna's grief is rooted in avidyā — fundamental ignorance of the Self's nature. No external gain can resolve a problem rooted in inner ignorance. This is why the Geeta's answer is not 'here is what you will gain' but 'here is what you truly are.' The famous teaching of Ātma-vidyā — Self-knowledge — alone addresses grief at this level.",
+        "yogananda": "Yogananda emphasized the phrase 'ucchoṣaṇam indriyāṇām' — the drying-up of the senses. In his metaphysical reading, the senses are channels through which the soul experiences the world. When grief of this kind takes hold, these channels dry up — the soul loses its connection to life energy. This is not a metaphor; it is a description of what yogis call prāṇa-kṣaya, the diminishment of vital force. The only remedy is not the injection of more sense-pleasure (more kingdom, more power) but the reversal of the flow — turning the senses inward toward the Self, which is the inexhaustible source of ānanda (bliss). This inner reversal is the essence of yoga.",
+        "goyandka": "Goyandka points out the rhetorical structure of the verse: Arjuna presents the most extreme positive scenario imaginable — unrivalled kingdom plus sovereignty over the gods — and declares it insufficient. This is not hyperbole; it is a sincere statement of the depth of his śoka. The classical tradition uses this verse as evidence that the Geeta is not simply a manual for warriors facing difficult decisions; it is a response to the deepest human crisis — the crisis of meaning. When no worldly achievement, however grand, can resolve the inner grief, only the knowledge of Brahman can serve as the ultimate remedy."
+      }
+    },
+    {
+      "verse": 9,
+      "sanskrit": "सञ्जय उवाच ।\nएवमुक्त्वा हृषीकेशं गुडाकेशः परन्तपः ।\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ॥",
+      "transliteration": "sañjaya uvāca\nevam uktvā hṛṣīkeśaṃ guḍākeśaḥ paran-tapaḥ\nna yotsya iti govindam uktvā tūṣṇīṃ babhūva ha",
+      "translation": "Sanjaya said: Having spoken thus to Hrishikesha, Gudakesha — the conqueror of sleep — said to Govinda: 'I will not fight,' and then fell silent.",
+      "audio": "/assets/audio/ch02/verse_02_09.mp3",
+      "word_breakdown": [
+        {
+          "word": "गुडाकेशः",
+          "transliteration": "guḍākeśaḥ",
+          "root": "guḍāka (sleep) + keśa (hair, controller) — one who has conquered sleep",
+          "grammatical_form": "Compound proper noun, masculine, nominative singular",
+          "meaning": "Gudakesha — epithet of Arjuna as conqueror of sleep"
+        },
+        {
+          "word": "न योत्स्ये",
+          "transliteration": "na yotsye",
+          "root": "na (not) + √yudh (to fight) — future tense",
+          "grammatical_form": "Future, 1st person singular + negation",
+          "meaning": "I will not fight"
+        },
+        {
+          "word": "गोविन्दम्",
+          "transliteration": "govindam",
+          "root": "go (cows, senses, earth) + √vind (to find, protect)",
+          "grammatical_form": "Proper noun, masculine, accusative singular",
+          "meaning": "Govinda — one who protects cows / the senses / the earth; epithet of Krishna"
+        },
+        {
+          "word": "तूष्णीम्",
+          "transliteration": "tūṣṇīm",
+          "root": "tūṣṇī (silence)",
+          "grammatical_form": "Indeclinable / adverb",
+          "meaning": "silently / in silence / without speech"
+        },
+        {
+          "word": "बभूव",
+          "transliteration": "babhūva",
+          "root": "√bhū (to be, become) — perfect tense",
+          "grammatical_form": "Perfect, 3rd person singular",
+          "meaning": "became / fell into (silence)"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji called this the most dramatic silence in all of literature. After everything — the lamenting, the philosophising, the arguments, the surrender — Arjuna says three words: 'Na yotsye iti' — I will not fight. And then: silence. Dadaji would pause here in his discourse and let the silence fill the room. He said that in this silence, the Geeta is born. When a human being has exhausted all his arguments and said his final word and fallen silent, God can speak. This is the silence of total surrender — not sullen refusal but complete inner emptiness, readiness. The epithet 'Gudakesha' — conqueror of sleep — in this moment of collapse is almost tender in its irony. He who conquers sleep cannot conquer this grief.",
+        "sarvapriyananda": "Sanjaya's narrative resumes here after Arjuna's long speech. The three-word declaration 'na yotsye iti' — I will not fight — is, in Sanskrit literature, one of the most famous examples of laghutā (economy of expression). Everything Arjuna has felt and argued collapses into this single refusal. Vedānta's analysis: this is the moment of complete ego-exhaustion that precedes genuine spiritual opening. The ego has made its final stand. It has argued, wept, reasoned, surrendered — and now it declares its final position and goes silent. Into this silence, the divine wisdom of the Geeta will pour. Tūṣṇīṃ babhūva ha — 'he became silent.' This stillness is the womb of the teaching.",
+        "yogananda": "Yogananda saw in Arjuna's final silence the paradox of the spiritual journey: the moment of greatest outer passivity is often the moment of the greatest inner readiness. 'Tūṣṇīṃ babhūva' — he fell silent. This is not depression but the stillness that precedes reception. The meditative tradition knows this state: when the chattering mind finally exhausts itself, when all the arguments have been made and refuted, a deep silence descends. In that silence, the guru's voice can be heard truly for the first time. Govinda — the protector of the senses and the earth — is addressed in the accusative: Arjuna has directed himself entirely toward Krishna. The pose is complete. The teaching can begin.",
+        "goyandka": "Goyandka notes the careful use of the perfect tense 'babhūva ha' — 'he became (silent).' The particle 'ha' is an emphatic that in Sanskrit prose often marks a surprising or significant turn. Arjuna's silence is significant precisely because of what has preceded it: a long, reasoned, passionate speech. The classical tradition teaches that a disciple must fully empty himself of his own views before he can receive the guru's teaching. The 'na yotsye iti' is Arjuna's final assertion of his own will. After this, until Chapter 18, Arjuna will be primarily the receiver of teaching rather than the maker of arguments. The silence of verse 9 is the turning point of the entire Bhagavad Geeta."
+      }
+    },
+    {
+      "verse": 10,
+      "sanskrit": "सञ्जय उवाच ।\nतमुवाच हृषीकेशः प्रहसन्निव भारत ।\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः ॥",
+      "transliteration": "sañjaya uvāca\ntam uvāca hṛṣīkeśaḥ prahasann iva bhārata\nsenayor ubhayor madhye viṣīdantam idaṃ vacaḥ",
+      "translation": "Sanjaya said: O Dhritarashtra, to him who was despondent between the two armies, Hrishikesha, as if smiling, spoke these words.",
+      "audio": "/assets/audio/ch02/verse_02_10.mp3",
+      "word_breakdown": [
+        {
+          "word": "हृषीकेशः",
+          "transliteration": "hṛṣīkeśaḥ",
+          "root": "hṛṣīka (senses) + īśa (lord, from √īś)",
+          "grammatical_form": "Compound proper noun, masculine, nominative singular",
+          "meaning": "Hrishikesha — Lord of the senses; epithet of Krishna"
+        },
+        {
+          "word": "प्रहसन्निव",
+          "transliteration": "prahasann iva",
+          "root": "pra + √has (to laugh, smile) + iva (as if, like)",
+          "grammatical_form": "Present participle + particle of comparison",
+          "meaning": "as if smiling / seeming to smile slightly"
+        },
+        {
+          "word": "सेनयोरुभयोर्मध्ये",
+          "transliteration": "senayor ubhayor madhye",
+          "root": "senā (army) + ubhaya (both) + madhya (middle)",
+          "grammatical_form": "Genitive dual + locative compound",
+          "meaning": "in the middle of both armies"
+        },
+        {
+          "word": "विषीदन्तम्",
+          "transliteration": "viṣīdantam",
+          "root": "vi + √sad (to sink, despair)",
+          "grammatical_form": "Present participle, masculine, accusative singular",
+          "meaning": "the despondent one / him who was grieving"
+        },
+        {
+          "word": "भारत",
+          "transliteration": "bhārata",
+          "root": "Bharata (ancestor of the Kuru dynasty)",
+          "grammatical_form": "Proper noun epithet, masculine, vocative singular",
+          "meaning": "O Dhritarashtra / O descendant of Bharata — Sanjaya's address"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Two words carry this entire verse: 'prahasann iva' — as if smiling. Dadaji would dwell on these words for a long time. What kind of smile is this? Not mockery — Krishna does not mock Arjuna's grief. Not indifference — Krishna is not detached from the situation. Dadaji said it is the smile of one who sees clearly: who sees through the play of māyā to the eternal light beneath, and finds in that vision a deep, quiet joy that cannot be disturbed even by the sight of the greatest human suffering. It is the smile of the Infinite looking at the Finite and saying: 'I know what you are. Let me remind you.' This smile is the beginning of the entire Bhagavad Geeta.",
+        "sarvapriyananda": "The word 'prahasann iva' — as if smiling — is one of the most philosophically loaded phrases in the Geeta. Sanjaya says 'as if' — he is not certain. From the outside, from the perspective of the senses and the intellect, one cannot be certain what is happening in the consciousness of the liberated being. The smile suggests complete equanimity: Krishna is unmoved by the drama before him, not because he doesn't care, but because he sees its ultimate nature. The name 'Hṛṣīkeśa' — Lord of the Senses — is profoundly placed here. He who is master of all the senses addresses the one whose senses are drying up from grief. The contrast is the teaching itself.",
+        "yogananda": "Yogananda found in Krishna's smile a revelation of the divine nature. The Divine is never anxious, never overwhelmed, never confused about what to do next. In the midst of the greatest human drama — two armies on the verge of mutual annihilation, a great warrior in total inner collapse — the Divine smiles. This smile is the expression of the satchitānanda nature of Brahman: absolute being, pure consciousness, unalloyed bliss. It is this bliss that Arjuna will be guided to discover in himself. The smile of Hrishikesha says: 'Beneath all this tragedy, bliss is your nature. Come, let me show you.'",
+        "goyandka": "Goyandka's commentary highlights the setting: 'senayor ubhayor madhye' — in the middle of both armies. This spatial detail is spiritually significant. Krishna does not withdraw from the field to give his teaching in a peaceful hermitage; he speaks in the middle of the conflict, in the charged space between opposing forces. This is the Geeta's enduring message: the teaching is for life in the world, not for retreat from it. The phrase 'viṣīdantam idaṃ vacaḥ' — these words to the despondent one — emphasizes that the entire teaching is a response to human suffering. The Geeta was not given to the already-enlightened; it was given to a despondent warrior on the field of life."
+      }
+    }
+  ]
+}

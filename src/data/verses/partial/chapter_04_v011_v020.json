@@ -1,0 +1,505 @@
+{
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 11,
+      "sanskrit": "श्रीभगवानुवाच ।\nये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nye yathā māṃ prapadyante tāṃs tathaiva bhajāmy aham\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ",
+      "translation": "The Blessed Lord said: In whatever way people approach Me, in that very same way do I respond to them. All human beings, O Partha, follow My path in every way.",
+      "audio": "/assets/audio/ch04/verse_04_11.mp3",
+      "word_breakdown": [
+        {
+          "word": "प्रपद्यन्ते",
+          "transliteration": "prapadyante",
+          "root": "pra + √pad (to go, to take refuge)",
+          "grammatical_form": "Verb, present indicative, ātmanepada, 3rd person plural",
+          "meaning": "they approach / they take refuge / they surrender"
+        },
+        {
+          "word": "भजामि",
+          "transliteration": "bhajāmi",
+          "root": "√bhaj (to worship, to share, to bestow)",
+          "grammatical_form": "Verb, present indicative, parasmaipada, 1st person singular",
+          "meaning": "I respond / I reward / I grace"
+        },
+        {
+          "word": "वर्त्म",
+          "transliteration": "vartma",
+          "root": "√vṛt (to exist, to move, to abide)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "path / way / road"
+        },
+        {
+          "word": "सर्वशः",
+          "transliteration": "sarvaśaḥ",
+          "root": "sarva (all) + śas (suffix of manner)",
+          "grammatical_form": "Adverb (indeclinable)",
+          "meaning": "in every way / wholly / entirely"
+        },
+        {
+          "word": "अनुवर्तन्ते",
+          "transliteration": "anuvartante",
+          "root": "anu + √vṛt (to follow, to conform to)",
+          "grammatical_form": "Verb, present indicative, ātmanepada, 3rd person plural",
+          "meaning": "they follow / they conform to / they tread"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Bhagwan is telling us something so beautiful and so personal here. However you call to Him — through devotion, through reason, through ritual, through love — He meets you exactly there. He does not demand a single path. He is the ocean into which every river, however it winds, eventually flows. This verse is the Lord's own assurance that no sincere seeker is ever turned away empty-handed. All of humanity, whether they know it or not, is walking toward Him. Some walk with eyes open, some in the dark — but the destination is the same. So do not worry if your path looks different from your neighbor's. Bhagwan sees your heart, not your method.",
+        "sarvapriyananda": "This verse is the philosophical foundation of the Gita's inclusivism. The Lord declares that He responds in kind — ye yathā, 'in whatever way.' The Absolute, being the ground of all existence, is not exclusive to any single mode of approach. From the Advaita standpoint, the worshippers of forms, the Saguna upāsakas, receive the Lord as form; the Nirguna meditators receive Him as the formless Self. Yet all these paths are ultimately His own paths — mama vartmānuvartante — because there is nothing outside of Him. The universe of seekers is His own manifestation, following His own movement. The Lord does not show favoritism; He mirrors perfectly the sincerity and orientation of each soul.",
+        "yogananda": "In the inner science of yoga, this verse reveals that God responds to the soul's exact frequency of aspiration. Whatever quality of consciousness — devotion, inquiry, will, or love — with which the devotee approaches the Infinite, that same quality is amplified and returned. It is the divine law of resonance. Those who approach God through the heart receive divine love; those who approach through the intellect receive illuminating wisdom; those who approach through will receive strength. All paths are His paths because the entire cosmos is His body. The devotee is encouraged: approach with sincerity in any way, and you will find the Lord meeting you at your own door.",
+        "goyandka": "This verse establishes the universal sovereignty of the Lord over all modes of worship and approach. The phrase ye yathā māṃ prapadyante — 'in whatever way they take refuge in Me' — makes clear that the Lord is accessible through any sincere path. The consequent phrase tāṃs tathaiva bhajāmy aham — 'I respond to them in exactly that way' — reveals the perfect justice and grace of the Lord. He is not partial. The concluding declaration, mama vartmānuvartante manuṣyāḥ sarvaśaḥ, affirms that all human effort, even when directed toward worldly ends, ultimately follows the cosmic order established by Him. This should inspire universal humility and tolerance."
+      }
+    },
+    {
+      "verse": 12,
+      "sanskrit": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः ।\nक्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥",
+      "transliteration": "kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ\nkṣipraṃ hi mānuṣe loke siddhir bhavati karma-jā",
+      "translation": "Those who desire success born of action worship the gods here in this world; for quickly in the human world comes success that is born of action.",
+      "audio": "/assets/audio/ch04/verse_04_12.mp3",
+      "word_breakdown": [
+        {
+          "word": "काङ्क्षन्तः",
+          "transliteration": "kāṅkṣantaḥ",
+          "root": "√kāṅkṣ (to desire, to long for)",
+          "grammatical_form": "Present participle, masculine, nominative, plural",
+          "meaning": "those who desire / those who crave / longing for"
+        },
+        {
+          "word": "सिद्धिम्",
+          "transliteration": "siddhim",
+          "root": "√sidh (to succeed, to be accomplished)",
+          "grammatical_form": "Noun, feminine, accusative, singular",
+          "meaning": "success / accomplishment / fruition"
+        },
+        {
+          "word": "यजन्ते",
+          "transliteration": "yajante",
+          "root": "√yaj (to worship, to offer sacrifice)",
+          "grammatical_form": "Verb, present indicative, ātmanepada, 3rd person plural",
+          "meaning": "they worship / they perform sacrifice"
+        },
+        {
+          "word": "क्षिप्रम्",
+          "transliteration": "kṣipram",
+          "root": "√kṣip (to throw, to be swift)",
+          "grammatical_form": "Adverb (indeclinable)",
+          "meaning": "quickly / swiftly / speedily"
+        },
+        {
+          "word": "कर्मजा",
+          "transliteration": "karma-jā",
+          "root": "karma + √jan (to be born)",
+          "grammatical_form": "Compound adjective (tatpuruṣa), feminine, nominative, singular",
+          "meaning": "born of action / produced by deeds"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The Lord here gently points to a universal human tendency — we run to the deities that can give us quick results. We pray for rain, for wealth, for children, for victory. And those deities, being aspects of Bhagwan's own power, do grant these things, and quickly too. The human world is the realm of action and reaction; karma bears its fruit here and now. But Bhagwan is not condemning this. He is observing it with compassion. He is saying: yes, the world of desire leads to the gods, and the gods deliver. But I am inviting you to something higher — to Me, the source of all gods. That invitation is always open.",
+        "sarvapriyananda": "This verse presents a crucial philosophical distinction. The worshippers of the devas — cosmic powers governing natural forces — obtain results quickly because the devas operate within the phenomenal realm of karma-phala, the fruit of action. This is entirely consistent with the Vedic worldview where different deities govern different domains. The Lord is not disparaging such worship; He is contextualizing it. Rapid, tangible, worldly results are the province of deva worship and karma-jā siddhi. But the Lord of verse 11 is pointing beyond this to a liberation that transcends the law of result altogether. The contrast with mokṣa is implicit: one must choose between quick fruit and ultimate freedom.",
+        "yogananda": "In the metaphysical reading, the 'gods' are the divine forces or cosmic principles — light, energy, intelligence — that govern natural and psychic laws. Those who approach life with desire for specific outcomes, attuned to these powers, do receive rapid results. The human body-mind, with its focused will and directed energy, is uniquely suited for quick karma-jā siddhi. Yet Yogananda taught that this remains within the wheel of cause and effect, binding the soul further. The higher path is to offer all action to the Supreme — then even action becomes liberation. The verse is not a prohibition but a pointing: see the difference between the swift fruit of desire and the timeless fruit of Self-realization.",
+        "goyandka": "The Lord here describes the fruit of sakāma karma — action motivated by desire — contrasted with niṣkāma karma expounded throughout the Gita. Worship of the devatās, the presiding cosmic forces, yields fruit that is rapid in the human sphere because the material plane is their domain. The word iha, 'here in this world,' is significant — it localizes the reward to the mortal realm. Karma-jā siddhi is real and legitimate within its domain, but it is confined to the transient. The sincere student should observe that the Lord presents this not with condemnation but as a description of lower aspiration, inviting elevation toward the eternal. One who understands this chooses worship of the Supreme over worship of the partial."
+      }
+    },
+    {
+      "verse": 13,
+      "sanskrit": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥",
+      "transliteration": "cātur-varṇyaṃ mayā sṛṣṭaṃ guṇa-karma-vibhāgaśaḥ\ntasya kartāram api māṃ viddhy akartāram avyayam",
+      "translation": "The four orders of society were created by Me according to the divisions of quality (guna) and action (karma). Though I am their creator, know Me as the non-doer, the immutable.",
+      "audio": "/assets/audio/ch04/verse_04_13.mp3",
+      "word_breakdown": [
+        {
+          "word": "चातुर्वर्ण्यम्",
+          "transliteration": "cātur-varṇyam",
+          "root": "catur (four) + varṇa (class/color/quality) + ya (suffix)",
+          "grammatical_form": "Compound noun, neuter, nominative, singular",
+          "meaning": "the fourfold order of society / the four varnas"
+        },
+        {
+          "word": "गुणकर्मविभागशः",
+          "transliteration": "guṇa-karma-vibhāgaśaḥ",
+          "root": "guṇa + karma + vi + √bhaj (to divide)",
+          "grammatical_form": "Compound adverb (indeclinable, with śas suffix)",
+          "meaning": "according to the division of qualities and actions"
+        },
+        {
+          "word": "कर्तारम्",
+          "transliteration": "kartāram",
+          "root": "√kṛ (to do, to make) + tṛ (agent suffix)",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "the doer / the creator / the agent"
+        },
+        {
+          "word": "अकर्तारम्",
+          "transliteration": "akartāram",
+          "root": "a (negation) + √kṛ + tṛ",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "the non-doer / the one who does not act"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "root": "a + √vi + i (negation of decay / expenditure)",
+          "grammatical_form": "Adjective, masculine, accusative, singular",
+          "meaning": "immutable / imperishable / unchanging"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse must be read with great care, Dada used to say. The Lord did not create a system of birth-based privilege. He created a natural order of guṇa and karma — the qualities a soul carries and the work it is drawn toward. A brāhmaṇa is one whose nature is contemplation and teaching; a kṣatriya is one whose nature is courage and protection — and this can be any person, regardless of birth. And then comes the profound mystery: even as creator of this order, He is akartā, the non-doer. Because His nature is beyond all doing, beyond all form. He creates through His very being, not through effort. We are invited to become like Him — act fully, but be untouched.",
+        "sarvapriyananda": "The profound paradox of this verse is the simultaneous assertion: kartāram — 'I am the creator' — and akartāram — 'I am the non-doer.' This is the Advaita position on divine causation. Brahman is the material and efficient cause of the universe, yet Brahman undergoes no modification, no doing. The fourfold varṇa system is described as guṇa-karma based — it is functional, not ontological. It arises from the distribution of the three guṇas — sattva, rajas, tamas — in combination with one's natural action. The immutable (avyayam) nature of the Lord means that creation does not add to or subtract from Him. This is why the jñānī, who identifies with the Self rather than the body-mind, also becomes akartā in the midst of action.",
+        "yogananda": "The four varṇas, Yogananda taught, are not social castes fixed by birth but spiritual classifications arising from the soul's current state of unfoldment. The brāhmaṇa-nature is dominantly sattvic; the kṣatriya-nature is rajasic tempered by sattva; the vaiśya-nature is rajasic; and the śūdra-nature is tamasic. Each person embodies a blend, and the spiritual life is the progressive movement from tamas toward sattva, from śūdra-consciousness to brāhmaṇa-consciousness. The deeper mystery is that the Lord, though the source of this cosmic drama, remains akartā — the witness-Self, the unchanging screen upon which all activity plays. This is the ideal the yogi aspires to: engaged in life, yet the eternal witness.",
+        "goyandka": "The Lord here establishes two vital truths. First, the varṇa system is guṇa-karma-vibhāgaśaḥ — rooted in the natural disposition (guṇa) and characteristic action (karma) of the individual, not in birth alone. This understanding corrects a widespread misreading of the Vedic social order. Second, and more philosophically profound, is the declaration: though I am the kartā — the efficient cause — know me as akartā, the non-doer. This is because the Lord acts through His māyā-śakti, through Prakṛti, while the Puruṣa — the Supreme Consciousness — remains eternally unchanged. The word avyayam, 'imperishable,' reinforces that no action, however vast, touches the essence of the Lord. This is the model for all karma-yoga: act, but know yourself as the witness."
+      }
+    },
+    {
+      "verse": 14,
+      "sanskrit": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा ।\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते ॥",
+      "transliteration": "na māṃ karmāṇi limpanti na me karma-phale spṛhā\niti māṃ yo 'bhijānāti karmabhir na sa badhyate",
+      "translation": "Actions do not taint Me, nor do I have any craving for the fruit of actions. He who knows Me thus is not bound by actions.",
+      "audio": "/assets/audio/ch04/verse_04_14.mp3",
+      "word_breakdown": [
+        {
+          "word": "लिम्पन्ति",
+          "transliteration": "limpanti",
+          "root": "√lip (to smear, to taint, to stain)",
+          "grammatical_form": "Verb, present indicative, parasmaipada, 3rd person plural",
+          "meaning": "they smear / they taint / they soil"
+        },
+        {
+          "word": "स्पृहा",
+          "transliteration": "spṛhā",
+          "root": "√spṛh (to desire, to crave)",
+          "grammatical_form": "Noun, feminine, nominative, singular",
+          "meaning": "craving / longing / desire for"
+        },
+        {
+          "word": "अभिजानाति",
+          "transliteration": "abhijānāti",
+          "root": "abhi + √jñā (to know thoroughly, to recognize)",
+          "grammatical_form": "Verb, present indicative, parasmaipada, 3rd person singular",
+          "meaning": "knows completely / recognizes / understands directly"
+        },
+        {
+          "word": "बध्यते",
+          "transliteration": "badhyate",
+          "root": "√bandh (to bind, to fetter)",
+          "grammatical_form": "Verb, present passive, 3rd person singular",
+          "meaning": "is bound / is fettered / is tied"
+        },
+        {
+          "word": "कर्मफले",
+          "transliteration": "karma-phale",
+          "root": "karma + phala (fruit of action)",
+          "grammatical_form": "Compound noun (tatpuruṣa), neuter, locative, singular",
+          "meaning": "in the fruit of action / toward the result of deeds"
+        }
+      ],
+      "commentary": {
+        "dadaji": "In Dada's satsangs, he would often return to this verse when devotees felt guilty about past actions. He would say: even the Lord — who creates, sustains, and dissolves everything — is not stained by any of it. There is no karma-phala-spṛhā in Him, no hunger for results. He acts from fullness, not from lack. And the one who truly knows this — who absorbs this understanding into the marrow of their being — walks free. Not free from action, but free in action. This knowledge is not intellectual information; it is a living recognition that transforms how you act, why you act, and whether action touches your deepest self.",
+        "sarvapriyananda": "This verse is the philosophical kernel of karma-yoga. The Lord states the two conditions of His freedom: absence of taint (na limpanti) and absence of desire (na spṛhā). Taint comes from identification with the ego-doer; desire comes from identifying the self with outcomes. The Lord, as pure Consciousness, neither identifies with the instrumentality of action nor with its results. The liberating corollary: yo māṃ abhijānāti — he who knows this about Me — knows the same about the Self, for the ātman is non-different from Brahman. Such a one acts through the body-mind but as the witness. Therefore karmabhir na sa badhyate — action cannot bind what has never identified with doing.",
+        "yogananda": "The Lord here reveals the secret of divine action. He acts — creating the cosmos, sustaining worlds, dissolving forms — yet na limpanti, nothing clings. It is like sunlight touching everything without becoming anything it touches. Yogananda described this as the consciousness of the jīvanmukta, the liberated soul. Such a one may be intensely active in the world — running ashrams, writing books, serving thousands — yet inwardly there is not a ripple of ego-involvement. No spṛhā, no craving for the outcome. This is not indifference; it is perfect love without possession. The seeker who understands this begins to practice exactly this: let every action be an offering, let every result return to God.",
+        "goyandka": "Two qualities are identified here as the basis of the Lord's freedom from karma-bondage. First, na māṃ karmāṇi limpanti — actions do not adhere to Him — because He has no ahaṅkāra, no ego-sense of 'I am the doer.' Second, na me karma-phale spṛhā — He has no craving for results — because He is pūrṇa, ever-complete, desiring nothing. These two — non-doership and desirelessness — are precisely what karma-yoga prescribes for the sādhaka. The verse closes with the liberating promise: iti māṃ yo 'bhijānāti karmabhir na sa badhyate. This jñāna — knowing the Lord's true nature — is itself liberating. It is not mere theological belief but a recognition that transforms one's entire relationship with action."
+      }
+    },
+    {
+      "verse": 15,
+      "sanskrit": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः ।\nकुरु कर्मैव तस्माद्वं पूर्वैः पूर्वतरं कृतम् ॥",
+      "transliteration": "evaṃ jñātvā kṛtaṃ karma pūrvair api mumukṣubhiḥ\nkuru karmaiva tasmāt tvaṃ pūrvaiḥ pūrvataram kṛtam",
+      "translation": "Having known this, the ancient seekers of liberation performed action. Therefore, do perform action as the ancients did in ancient times.",
+      "audio": "/assets/audio/ch04/verse_04_15.mp3",
+      "word_breakdown": [
+        {
+          "word": "मुमुक्षुभिः",
+          "transliteration": "mumukṣubhiḥ",
+          "root": "√muc (to release) — desiderative: mumukṣu (one who desires liberation)",
+          "grammatical_form": "Noun, masculine, instrumental, plural",
+          "meaning": "by the seekers of liberation / by those who desire mokṣa"
+        },
+        {
+          "word": "पूर्वैः",
+          "transliteration": "pūrvaiḥ",
+          "root": "pūrva (former, ancient, prior)",
+          "grammatical_form": "Adjective used as noun, masculine, instrumental, plural",
+          "meaning": "by the ancients / by the forebears / by those of former times"
+        },
+        {
+          "word": "पूर्वतरम्",
+          "transliteration": "pūrvataram",
+          "root": "pūrva + tara (comparative suffix)",
+          "grammatical_form": "Adverb (comparative form used adverbially)",
+          "meaning": "as the ancients before them / in the ancient manner / from time immemorial"
+        },
+        {
+          "word": "ज्ञात्वा",
+          "transliteration": "jñātvā",
+          "root": "√jñā (to know) — gerund / absolutive",
+          "grammatical_form": "Gerund (indeclinable)",
+          "meaning": "having known / after understanding / knowing thus"
+        },
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmāt",
+          "root": "tad (that) + ablative suffix",
+          "grammatical_form": "Demonstrative pronoun, neuter, ablative, singular (used as adverb)",
+          "meaning": "therefore / for this reason / hence"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Bhagwan is saying: you are not being asked to do something new or untested. The rishis, the great sages of the ancient world, knew this truth — that action done without ego, without craving for results, does not bind — and they acted. Janaka ruled a kingdom. Vishwamitra fought wars. They acted! And they were free. So what excuse do we have, sitting quietly in our homes, worrying about getting entangled? Bhagwan says: tasmāt — therefore — do your work. Not as an escape into inaction, not as an excuse to renounce everything, but as an affirmation of the ancient wisdom path. The tradition carries the energy. Step into it.",
+        "sarvapriyananda": "The Lord grounds karma-yoga in the testimony of the tradition — the pūrvaiḥ mumukṣubhiḥ, the ancient seekers of liberation. This is an appeal to śruti and smṛti in living form: not just the scriptures but the lives of those who enacted the scriptures. The phrase pūrvaiḥ pūrvataram kṛtam has a beautiful recursive quality — 'as those of old did, who followed those older still.' It points to an unbroken lineage of engaged wisdom. The Advaita student learns: the appearance of action and the reality of non-doing are perfectly compatible. The ṛṣis lived this. Arjuna is called to live this. This is not philosophical speculation — it is a proven path.",
+        "yogananda": "This verse gives Arjuna — and all seekers — the gift of lineage and confidence. The great ones who came before, the mumukṣus — those burning for liberation — did not retreat from action. They embraced it with the knowledge of the non-doer self. Yogananda often invoked this principle: look at the masters, look at how they lived — with absolute engagement in their missions and absolute inner freedom. Sri Yukteswar, Lahiri Mahasaya — they worked constantly, yet were untouched. This is not abstract; it is biographical. The Lord says: they did it. Therefore you can do it. Trust the lineage. Enter the stream of the ancient wisdom and act.",
+        "goyandka": "The Lord here provides both philosophical grounding and practical encouragement. Evaṃ jñātvā — 'having known thus' — refers back to the jñāna of verse 14: the understanding that the Lord is akartā, non-doer, and that one who knows this is not bound. This knowledge was the fuel by which pūrva mumukṣus — ancient liberation-seekers — performed their duties. The command kuru karma — 'perform action' — is the Gita's central prescription. The phrase pūrvaiḥ pūrvataram kṛtam, 'done by the ancients of ancient times,' establishes the eternal validity of this path. The student is not being asked to innovate but to inherit — to receive the wisdom and the practice together as one living tradition."
+      }
+    },
+    {
+      "verse": 16,
+      "sanskrit": "किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः ।\nतत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥",
+      "transliteration": "kiṃ karma kim akarmeti kavayo 'py atra mohitāḥ\ntat te karma pravakṣyāmi yaj jñātvā mokṣyase 'śubhāt",
+      "translation": "Even the wise are confused about what is action and what is inaction. I shall declare to you what action is; knowing which, you shall be liberated from evil.",
+      "audio": "/assets/audio/ch04/verse_04_16.mp3",
+      "word_breakdown": [
+        {
+          "word": "कवयः",
+          "transliteration": "kavayaḥ",
+          "root": "√kav (to perceive, to compose) — kavi (wise one, poet-seer)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "the wise / the learned / the poet-seers"
+        },
+        {
+          "word": "मोहिताः",
+          "transliteration": "mohitāḥ",
+          "root": "√muh (to be deluded, to be confused) — causative past passive",
+          "grammatical_form": "Past passive participle, masculine, nominative, plural",
+          "meaning": "bewildered / deluded / confused"
+        },
+        {
+          "word": "प्रवक्ष्यामि",
+          "transliteration": "pravakṣyāmi",
+          "root": "pra + √vac (to speak) — future tense",
+          "grammatical_form": "Verb, future indicative, parasmaipada, 1st person singular",
+          "meaning": "I shall declare / I shall explain fully / I will teach"
+        },
+        {
+          "word": "मोक्ष्यसे",
+          "transliteration": "mokṣyase",
+          "root": "√muc (to release) — future passive / middle",
+          "grammatical_form": "Verb, future indicative, ātmanepada, 2nd person singular",
+          "meaning": "you shall be liberated / you will be freed / you will be released"
+        },
+        {
+          "word": "अशुभात्",
+          "transliteration": "aśubhāt",
+          "root": "a + śubha (auspicious) — negative compound",
+          "grammatical_form": "Noun/adjective, masculine/neuter, ablative, singular",
+          "meaning": "from evil / from the inauspicious / from sin / from bondage"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Even the kavayaḥ — the wise, the learned ones — are baffled by this question of karma and akarma! If that is so, how much more so are we ordinary people. But this is not discouraging. It is actually deeply reassuring. Bhagwan Himself says: I will explain it to you. He is taking personal responsibility for our understanding. And then — what a promise — yaj jñātvā mokṣyase 'śubhāt: knowing this, you will be freed from evil. Not just confusion, not just sin — freed from all that is not auspicious in your life. This is the generosity of Bhagwan's teaching. He sets the bar — 'even the wise are confused' — and then says: but don't worry, I've got you.",
+        "sarvapriyananda": "The Lord's statement that even the kavayaḥ — the seers and the learned — are bewildered by the nature of action is not hyperbole. It is a precise philosophical statement. The question 'what is karma? what is akarma?' is not answerable by ordinary rational analysis. The confusion arises because karma operates on multiple levels simultaneously: the physical level of bodily movement, the subtle level of intention, and the transcendent level of Self-identification. The teaching to follow — beginning with verse 17 — will systematically address this. The promise is extraordinary: yaj jñātvā mokṣyase 'śubhāt — this jñāna is liberating jñāna, not merely informational but transformative, freeing from the entire mass of inauspiciousness.",
+        "yogananda": "The Lord here acknowledges the genuine profundity of the question. What is action? What is non-action? These seem simple, but at the deeper levels of consciousness they become bewildering. A saint may appear completely still in samādhi — is that action or inaction? A karma-yogi may be intensely active in service — is that binding or liberating? Yogananda taught that the answer lies in whether the ego is the agent. When the ego is absent, even the most intense activity is akarma — non-action. When the ego is present, even sitting still is karma — because the mind is spinning with desire and resistance. The Lord's promise to reveal this is an invitation into the deepest level of self-inquiry.",
+        "goyandka": "This verse serves as a pivotal transition in Chapter 4. The Lord acknowledges that the subject of karma, vikarma, and akarma is gahanā — deep and difficult (as the next verse states). Even men of learning — kavayaḥ — are mohitāḥ, led astray by their partial understanding. The Lord therefore steps forward as the supreme teacher: tat te karma pravakṣyāmi — 'that karma I shall declare to you.' The singular pronoun tat points to a specific, definitive teaching to come. The ultimate promise — mokṣyase 'śubhāt — liberation from inauspiciousness — encompasses all forms of bondage, from sinful action to subtle ego-entanglement. This is the highest guarantee a guru can give."
+      }
+    },
+    {
+      "verse": 17,
+      "sanskrit": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः ।\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ॥",
+      "transliteration": "karmaṇo hy api boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ\nakarmaṇaś ca boddhavyaṃ gahanā karmaṇo gatiḥ",
+      "translation": "For one must know the nature of action, and likewise the nature of forbidden action, and the nature of inaction — deep and difficult to fathom is the way of action.",
+      "audio": "/assets/audio/ch04/verse_04_17.mp3",
+      "word_breakdown": [
+        {
+          "word": "बोद्धव्यम्",
+          "transliteration": "boddhavyam",
+          "root": "√budh (to know, to understand) — gerundive (vidhi-liṅ equivalent)",
+          "grammatical_form": "Gerundive, neuter, nominative, singular",
+          "meaning": "must be known / ought to be understood / is to be discerned"
+        },
+        {
+          "word": "विकर्मणः",
+          "transliteration": "vikarmaṇaḥ",
+          "root": "vi (wrong, against) + karma (action)",
+          "grammatical_form": "Compound noun, neuter, genitive, singular",
+          "meaning": "of forbidden action / of wrong action / of action against dharma"
+        },
+        {
+          "word": "अकर्मणः",
+          "transliteration": "akarmaṇaḥ",
+          "root": "a (negation) + karma (action)",
+          "grammatical_form": "Compound noun, neuter, genitive, singular",
+          "meaning": "of inaction / of non-action / of the absence of karmic doing"
+        },
+        {
+          "word": "गहना",
+          "transliteration": "gahanā",
+          "root": "√gah (to plunge into, impenetrable, dense)",
+          "grammatical_form": "Adjective, feminine, nominative, singular",
+          "meaning": "deep / dense / impenetrable / unfathomable"
+        },
+        {
+          "word": "गतिः",
+          "transliteration": "gatiḥ",
+          "root": "√gam (to go) + ti (suffix)",
+          "grammatical_form": "Noun, feminine, nominative, singular",
+          "meaning": "the way / the course / the movement / the nature"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Three words. Three worlds of understanding. Karma: action that is prescribed, that sustains and supports. Vikarma: action that is forbidden, that violates dharma and deepens bondage. Akarma: the inaction of the knower — not laziness, but the non-doing that lies within even the most intense action. Dada would say: we think we understand action because our bodies move. But we barely scratch the surface. Gahanā karmaṇo gatiḥ — the way of karma is deep, dense, like a thick forest where even the experienced can lose their way. This humility — this admission of depth — is what makes the Gita teacher different from all others. He does not simplify. He goes deep.",
+        "sarvapriyananda": "The triple structure of this verse — karma, vikarma, akarma — must be understood systematically. Karma refers to nitya-naimittika-karma: daily and occasional duties that one is enjoined to perform. Vikarma refers to niṣiddha-karma: actions prohibited by śāstra, actions that bind and degrade. Akarma refers to the transcendent non-doing of the Self — neither the bodily stillness of sleep nor the inactivity of the lazy person, but the utterly action-less nature of the witness-Self even while the body-mind acts. The exclamation gahanā karmaṇo gatiḥ — 'deep is the way of action' — is the Lord's own humility before the unfathomable complexity of dharmic life and the corresponding need for a true teacher.",
+        "yogananda": "In yogic understanding, karma encompasses more than visible action. It includes the subtle actions of thought, intention, and will. Vikarma is not merely ethically wrong conduct but any action performed with ego-motive that generates binding saṃskāras. Akarma is the state of the established yogi whose every movement is a divine offering — the state Yogananda described as 'acting in God.' The path of karma is indeed gahanā — unfathomable — because the same external action can be karma-binding for one person and akarma-liberating for another, depending entirely on the inner state of identification. This is why the Lord says boddhavyam — it must be known, understood — before one can walk the path correctly.",
+        "goyandka": "This verse categorizes three distinct aspects of action that the aspirant must understand. Karma here denotes the prescribed and sanctioned actions — those aligned with one's svadharma and the Vedic injunctions. Vikarma refers to actions that transgress the moral and scriptural boundaries — actions that accumulate pāpa (demerit) and bind the soul. Akarma is the most subtle: it is not the absence of physical movement but the state of the knower who, like the Lord of verse 14, is akartā even while acting. Gahanā karmaṇo gatiḥ — 'profound is the course of karma' — is a significant statement: it cautions against superficial understanding and calls for deep, careful inquiry under the guidance of a qualified teacher."
+      }
+    },
+    {
+      "verse": 18,
+      "sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः ।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥",
+      "transliteration": "karmaṇy akarma yaḥ paśyed akarmaṇi ca karma yaḥ\nsa buddhimān manuṣyeṣu sa yuktaḥ kṛtsna-karma-kṛt",
+      "translation": "He who sees inaction in action, and action in inaction — he is truly wise among human beings; he is a yogi, having accomplished all action.",
+      "audio": "/assets/audio/ch04/verse_04_18.mp3",
+      "word_breakdown": [
+        {
+          "word": "पश्येत्",
+          "transliteration": "paśyet",
+          "root": "√dṛś (to see) — optative mood",
+          "grammatical_form": "Verb, optative (potential), parasmaipada, 3rd person singular",
+          "meaning": "who sees / who perceives / who discerns (potential/desired)"
+        },
+        {
+          "word": "बुद्धिमान्",
+          "transliteration": "buddhimān",
+          "root": "buddhi (intelligence, discernment) + mat (possessing)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "the truly wise / one endowed with discernment / the intelligent one"
+        },
+        {
+          "word": "युक्तः",
+          "transliteration": "yuktaḥ",
+          "root": "√yuj (to join, to yoke) — past passive participle",
+          "grammatical_form": "Past passive participle, masculine, nominative, singular",
+          "meaning": "the yogi / the one who is united / the disciplined one"
+        },
+        {
+          "word": "कृत्स्नकर्मकृत्",
+          "transliteration": "kṛtsna-karma-kṛt",
+          "root": "kṛtsna (entire, whole) + karma + √kṛ (to do)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "one who has accomplished all action / one who has fulfilled every duty"
+        },
+        {
+          "word": "अकर्मणि",
+          "transliteration": "akarmaṇi",
+          "root": "a + karma — locative form",
+          "grammatical_form": "Compound noun, neuter, locative, singular",
+          "meaning": "in inaction / in the state of non-doing / within stillness"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is one of Dada's most beloved verses. He would say: the true jñānī is the one who can see the stillness inside the storm and the movement inside the stillness. When you watch a saint like Ramana Maharshi — seemingly motionless, saying very little — you feel the immensity of what is happening. The whole world is being held by that stillness. And when you watch a busy person running from place to place with ego and desire — nothing is truly happening; it is all sound and fury. The wise one — buddhimān — sees through the outer appearance to the inner reality. Sa yuktaḥ — he is truly yoked to the Divine. Kṛtsna-karma-kṛt — he has done everything that ever needed doing.",
+        "sarvapriyananda": "This is the definitional verse of jñāna-karma-yoga synthesis in the Gita. The vision described — karmaṇy akarma, seeing non-doing within action — is the recognition of the witness-Self. While the body-mind apparatus moves, the Self remains utterly still. Conversely, akarmaṇi karma — seeing action within inaction — refers to the creative potency latent even in stillness; the unmoving Brahman from which all creation springs. The person who directly perceives this non-dual reality is called buddhimān — the one with real discernment — and yuktaḥ — the integrated one, the yogi. The phrase kṛtsna-karma-kṛt, 'performer of all action,' is paradoxical and deliberate: in doing nothing as the ego-doer, he has accomplished everything.",
+        "yogananda": "This verse describes the vision of the siddha — the perfected one — from the inside. In the highest states of samādhi, Yogananda taught, one perceives the cosmos as a vast movie of light and shadow, while the screen — the Self — remains absolutely still. In ordinary consciousness we see only the movie and think that is all there is. The yogi sees the screen. Karmaṇy akarma — in the midst of the film of action, he sees the unmoving screen. Akarmaṇi karma — in the seeming stillness of meditation, he perceives the cosmic creative pulsation of God's presence. This dual vision is not confusion; it is the simultaneous holding of relative and absolute truth. He is kṛtsna-karma-kṛt — all his karma is finished, for nothing clings to a mirror.",
+        "goyandka": "Ācārya Śaṅkara regards this verse as the highest teaching of Chapter 4. The paśyet — 'sees' — is in the optative mood, indicating the aspirational and meditative character of this vision. Karmaṇy akarma: while the body performs prescribed actions, the jñānī recognizes that the Self, which is pure Consciousness, never acts. Akarmaṇi karma: in the state of apparent bodily inaction, the cosmic creative power (māyā-śakti) continues to operate. This two-fold recognition destroys the root of karma-bondage, which is ahaṅkāra, the ego-sense 'I am the doer.' Such a one is buddhimān — truly wise — and kṛtsna-karma-kṛt — has in effect accomplished all karma, for when the doer-sense dissolves, no new karma accrues."
+      }
+    },
+    {
+      "verse": 19,
+      "sanskrit": "यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः ।\nज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ॥",
+      "transliteration": "yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ\njñānāgni-dagdha-karmāṇaṃ tam āhuḥ paṇḍitaṃ budhāḥ",
+      "translation": "He whose every undertaking is free from desire and selfish purpose, whose actions are burned away in the fire of knowledge — him the wise call a paṇḍita.",
+      "audio": "/assets/audio/ch04/verse_04_19.mp3",
+      "word_breakdown": [
+        {
+          "word": "समारम्भाः",
+          "transliteration": "samārambhāḥ",
+          "root": "sam + ā + √rambh (to undertake, to begin)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "undertakings / enterprises / beginnings of action"
+        },
+        {
+          "word": "कामसङ्कल्पवर्जिताः",
+          "transliteration": "kāma-saṅkalpa-varjitāḥ",
+          "root": "kāma (desire) + saṅkalpa (intention/will) + √vṛj (to abandon)",
+          "grammatical_form": "Compound adjective (bahuvrīhi), masculine, nominative, plural",
+          "meaning": "devoid of desire and selfish intention / free from craving and resolve toward personal goals"
+        },
+        {
+          "word": "ज्ञानाग्नि",
+          "transliteration": "jñānāgni",
+          "root": "jñāna (knowledge) + agni (fire)",
+          "grammatical_form": "Compound noun (tatpuruṣa), masculine",
+          "meaning": "the fire of knowledge / the flame of wisdom"
+        },
+        {
+          "word": "दग्धकर्माणम्",
+          "transliteration": "dagdha-karmāṇam",
+          "root": "√dah (to burn) + karma — past passive participle compound",
+          "grammatical_form": "Compound noun, masculine, accusative, singular",
+          "meaning": "one whose karmas have been burned / he whose actions are incinerated"
+        },
+        {
+          "word": "पण्डितम्",
+          "transliteration": "paṇḍitam",
+          "root": "paṇḍā (wisdom, learning) + ita (possessing)",
+          "grammatical_form": "Noun/adjective, masculine, accusative, singular",
+          "meaning": "the paṇḍita / the truly learned one / the wise man"
+        }
+      ],
+      "commentary": {
+        "dadaji": "A paṇḍita is not just a scholar. Dada was very clear on this. The world is full of scholars who can recite Sanskrit and expound śāstra. But a real paṇḍita — as Bhagwan defines him here — is one whose every undertaking is free of desire and personal agenda. Kāma-saṅkalpa-varjitāḥ: his actions don't arise from 'I want this' or 'I plan to get that.' And his past karma has been burned — jñānāgni-dagdha — by the fire of Self-knowledge. The fire of jñāna does not burn the person; it burns the karmas. It liberates. The wise — budhāḥ — recognize such a person. They call him paṇḍita. That recognition is not a social honor. It is a spiritual fact.",
+        "sarvapriyananda": "The verse offers two defining marks of the paṇḍita, the truly wise person. First: kāma-saṅkalpa-varjitāḥ samārambhāḥ — every undertaking is free from desire and resolution (saṅkalpa) toward personal ends. Saṅkalpa here is subtle — it is the background intention, the mental image of a desired result, that sets action in motion. The paṇḍita acts without this inner agenda. Second: jñānāgni-dagdha-karmāṇam — his accumulated karmas, the vāsanā-seeds of past actions, have been incinerated by the fire of Brahma-jñāna. The Self-knowledge burns not just current karma but the entire storehouse of prārabdha waiting to fructify. This is the Advaita understanding: jñāna is not merely insight but a conflagration that destroys the very root of bondage.",
+        "yogananda": "Yogananda loved the image of jñānāgni — the fire of wisdom — because it is so vivid and so precise. Ordinary fire burns matter into ash. The fire of spiritual wisdom burns the ego-self into dissolution. What remains is not nothing — it is the pure, luminous ātman. The paṇḍita, in Yogananda's teaching, is one who has meditated so deeply and served so completely that the self-serving layer of the mind has been consumed. Every action that arises from such a one is therefore spontaneously kāma-saṅkalpa-varjita — free of desire and ego-agenda — not because he suppresses desire but because there is no longer a separate self to desire. Budhāḥ — the truly wise — recognize this person by the quality of their very presence.",
+        "goyandka": "The two conditions for being called a true paṇḍita are stated with precision. Kāma-saṅkalpa-varjitāḥ samārambhāḥ: the fourfold meaning is that all his enterprises — whether speech, thought, bodily action, or mental resolve — are utterly free from kāma (selfish desire) and saṅkalpa (personal purposive will). This is niṣkāma karma in its fullest expression. Jñānāgni-dagdha-karmāṇam: the accumulated prārabdha, āgāmī, and saṃcita karmas — the three types recognized in the tradition — have been rendered powerless by the heat of discrimination and Self-knowledge. The fire of jñāna does not burn physically but burns the chains of identification. Budhāḥ — those who themselves possess wisdom — are the ones qualified to recognize and name such a soul as paṇḍita."
+      }
+    },
+    {
+      "verse": 20,
+      "sanskrit": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः ।\nकर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ॥",
+      "transliteration": "tyaktvā karma-phalāsaṅgaṃ nitya-tṛpto nirāśrayaḥ\nkarmaṇy abhipravṛtto 'pi naiva kiñcit karoti saḥ",
+      "translation": "Having abandoned attachment to the fruit of action, ever content and dependent on nothing — even while fully engaged in action, he does nothing whatsoever.",
+      "audio": "/assets/audio/ch04/verse_04_20.mp3",
+      "word_breakdown": [
+        {
+          "word": "कर्मफलासङ्गम्",
+          "transliteration": "karma-phalāsaṅgam",
+          "root": "karma + phala (fruit) + āsaṅga (attachment) — from ā + √sañj (to cling)",
+          "grammatical_form": "Compound noun (tatpuruṣa), masculine/neuter, accusative, singular",
+          "meaning": "attachment to the fruit of action / clinging to results of deeds"
+        },
+        {
+          "word": "नित्यतृप्तः",
+          "transliteration": "nitya-tṛptaḥ",
+          "root": "nitya (eternal, always) + √tṛp (to be satisfied)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "ever content / eternally satisfied / perpetually fulfilled"
+        },
+        {
+          "word": "निराश्रयः",
+          "transliteration": "nirāśrayaḥ",
+          "root": "nir (without) + ā + √śri (to resort to, to depend on)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "dependent on nothing / without support / self-reliant in the Self"
+        },
+        {
+          "word": "अभिप्रवृत्तः",
+          "transliteration": "abhipravṛttaḥ",
+          "root": "abhi + pra + √vṛt (to move, to engage fully)",
+          "grammatical_form": "Past passive participle, masculine, nominative, singular",
+          "meaning": "fully engaged in / completely immersed in / actively involved in"
+        },
+        {
+          "word": "किञ्चित्",
+          "transliteration": "kiñcit",
+          "root": "kim (what) + cit (enclitic particle)",
+          "grammatical_form": "Pronoun, neuter, accusative (used adverbially)",
+          "meaning": "anything at all / whatsoever / even the smallest thing"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here Bhagwan paints a portrait of the liberated soul in ordinary life. Three brushstrokes. Tyaktvā karma-phalāsaṅgam — he has let go of clinging to results. Not that he doesn't act; he acts fully, abhipravṛttaḥ — completely engaged. But the fruit? He holds it like water in an open palm. Nitya-tṛptaḥ — ever satisfied. Not after getting what he wanted; satisfied from within, from the source. Nirāśrayaḥ — needing nothing, depending on nothing for his wholeness. And yet — naiva kiñcit karoti saḥ — he does nothing whatsoever. This is the mystery and the gift. When there is no ego-doer, action flows like river water — it moves, it nourishes, it goes where it goes, and it does not cling to the banks.",
+        "sarvapriyananda": "This verse is the Gita's portrait of jīvanmukti — liberation while alive. Three qualities define this state. Karma-phalāsaṅga-tyāga: the abandonment of attachment to results, which severs the link between action and bondage at its root — for it is āsaṅga, clinging, that converts action into karma. Nitya-tṛpta: this is the fullness of Brahman — ānanda without object, satisfaction without cause, pūrṇatva. Nirāśraya: no external support needed because the support is the Self itself, which is self-luminous and self-sufficient. And the paradoxical conclusion: karmaṇy abhipravṛttaḥ api naiva kiñcit karoti — 'though fully engaged, he does nothing.' The body acts; the Self does not act. The rope burns; only the serpent-illusion is destroyed.",
+        "yogananda": "Yogananda described this verse as the practical definition of the yogi-in-the-world. Nitya-tṛpta — always satisfied — is the inner signature of God-union. One who has tasted the infinite bliss of samādhi is not perpetually chasing the fleeting satisfactions of sense-objects. The outer life continues — abhipravṛttaḥ api, even while fully active — but the center of gravity has permanently shifted to the Self. Nirāśraya — without external support — does not mean social isolation; it means one's peace is not dependent on circumstances. And naiva kiñcit karoti saḥ — the deepest affirmation: when the ego has dissolved, who is there to do anything? The body moves by divine will; the Self simply shines. This is the divine life.",
+        "goyandka": "This verse presents three characteristics of the karma-yogi who has arrived at the state of jñāna. Tyaktvā karma-phalāsaṅgam — having relinquished attachment to results — corresponds to the Gita's central injunction in 2.47: mā phaleṣu kadācana. Nitya-tṛptaḥ — eternally content — is a quality of one whose satisfaction comes from the ātman itself, not from external acquisition. Nirāśrayaḥ — having no dependence — indicates freedom from the three supports that ordinarily bind: material resources, social approval, and sensory pleasure. The verse culminates in the paradox of karma-yoga: karmaṇy abhipravṛttaḥ api naiva kiñcit karoti saḥ. Though visibly engaged in action, in reality he does nothing — for he has dissolved the doer. This is the fulfillment of the teaching of chapters 3 and 4 together."
+      }
+    }
+  ]
+}

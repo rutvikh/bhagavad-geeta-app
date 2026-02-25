@@ -1,0 +1,519 @@
+{
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "sanskrit": "अर्जुन उवाच ।\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥",
+      "transliteration": "arjuna uvāca\njyāyasī cet karmaṇas te matā buddhir janārdana\ntat kiṃ karmaṇi ghore māṃ niyojayasi keśava",
+      "translation": "Arjuna said: O Janardana, O Kesava, if You consider that knowledge is superior to action, then why do You urge me to engage in this terrible action?",
+      "audio": "/assets/audio/ch03/verse_03_01.mp3",
+      "word_breakdown": [
+        {
+          "word": "ज्यायसी",
+          "transliteration": "jyāyasī",
+          "root": "jya (great) — comparative of praśasya",
+          "grammatical_form": "Adjective, feminine, nominative, singular",
+          "meaning": "superior / better / more excellent"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhiḥ",
+          "root": "√budh (to know)",
+          "grammatical_form": "Noun, feminine, nominative, singular",
+          "meaning": "intellect / knowledge / discriminative understanding"
+        },
+        {
+          "word": "जनार्दन",
+          "transliteration": "janārdana",
+          "root": "jana (people) + √ard (to afflict / to move)",
+          "grammatical_form": "Proper noun, masculine, vocative",
+          "meaning": "O Janardana — one who stirs or moves the people; epithet of Krishna"
+        },
+        {
+          "word": "कर्मणि",
+          "transliteration": "karmaṇi",
+          "root": "√kṛ (to do)",
+          "grammatical_form": "Noun, neuter, locative, singular",
+          "meaning": "in action / in this deed / in this work"
+        },
+        {
+          "word": "घोरे",
+          "transliteration": "ghore",
+          "root": "ghora (terrible)",
+          "grammatical_form": "Adjective, neuter, locative, singular",
+          "meaning": "terrible / dreadful / horrific"
+        },
+        {
+          "word": "नियोजयसि",
+          "transliteration": "niyojayasi",
+          "root": "ni + √yuj (to yoke / to engage)",
+          "grammatical_form": "Causative present, 2nd person singular",
+          "meaning": "you engage / you urge / you appoint (me to)"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Arjuna's question here is beautifully sincere — and Dadaji always said that a sincere question is already half the answer. Arjuna has been listening to Krishna's praise of wisdom and the imperishable Self, and his simple heart draws a logical conclusion: if knowing is better than doing, why fight? This is the confusion of a good student who has heard only half the teaching. Dadaji would gently point out that Arjuna uses two of Krishna's most loving epithets here — Janardana and Kesava — as if invoking the divine friendship itself. He is not arguing; he is genuinely pleading for clarity. The word 'ghore' — terrible — reveals that Arjuna's reluctance is not laziness but a sincere moral anguish. This is the beginning of Karma Yoga's great unfolding.",
+        "sarvapriyananda": "Arjuna's question reflects a genuine philosophical confusion that still troubles seekers today. He has heard Krishna praise jñāna (knowledge) in Chapter 2 and now asks: if knowledge is superior, why prescribe karma (action)? This is actually a deep and important question. The confusion arises from treating jñāna yoga and karma yoga as mutually exclusive alternatives rather than as complementary paths suited to different temperaments. Arjuna is also confusing the *goal* (jñāna, realization) with the *means* appropriate for him at this stage. Chapter 3 will clarify that for most people, karma yoga — selfless, unattached action — is the necessary preparation for the arising of genuine jñāna.",
+        "yogananda": "Arjuna represents every sincere seeker who has ever stood at the crossroads of contemplation and engagement. The soul yearns for the still wisdom of pure knowing, and yet it stands embodied in a world that seems to demand action. Yogananda taught that this is not a contradiction but a divine design — the path of selfless action in the world is itself a purification that eventually opens the inner eye to direct realization. Krishna will not choose one path and abandon the other; He will reveal how action, when purified of ego and desire, becomes a form of worship, and worship itself becomes liberation. The name 'Kesava' used by Arjuna — one who has beautiful hair, or one who slew the demon Keshi — also hints at the divine power that slays inner demonic tendencies.",
+        "goyandka": "From the classical standpoint, Arjuna's question arises from a misunderstanding of the Sāṃkhya teaching Krishna gave in Chapter 2. Sāṃkhya describes the path of discriminative knowledge for renunciants; Yoga describes the path of disciplined action for those still engaged in the world. Arjuna mistakes Krishna's description of the jñānī's state for a prescription for his own conduct. Goyandka notes that the word 'matā' — considered by You, held as Your opinion — shows Arjuna is appealing to Krishna's own apparent teaching. The question is therefore not impertinent but pedagogically necessary: it creates the opening through which the doctrine of Karma Yoga will be delivered with precision and completeness."
+      }
+    },
+    {
+      "verse": 2,
+      "sanskrit": "अर्जुन उवाच ।\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥",
+      "transliteration": "arjuna uvāca\nvyāmiśreṇeva vākyena buddhiṃ mohayasīva me\ntad ekaṃ vada niścitya yena śreyo 'ham āpnuyām",
+      "translation": "My intelligence is confused by Your seemingly contradictory instructions. Therefore, please tell me decisively which one path will be most beneficial for me.",
+      "audio": "/assets/audio/ch03/verse_03_02.mp3",
+      "word_breakdown": [
+        {
+          "word": "व्यामिश्रेण",
+          "transliteration": "vyāmiśreṇa",
+          "root": "vi + ā + √miś (to mix)",
+          "grammatical_form": "Adjective, neuter, instrumental, singular",
+          "meaning": "mixed / seemingly contradictory / confusing / equivocal"
+        },
+        {
+          "word": "बुद्धिम्",
+          "transliteration": "buddhim",
+          "root": "√budh (to know)",
+          "grammatical_form": "Noun, feminine, accusative, singular",
+          "meaning": "intellect / understanding / discriminative faculty"
+        },
+        {
+          "word": "मोहयसि",
+          "transliteration": "mohayasi",
+          "root": "√muh (to be deluded) — causative",
+          "grammatical_form": "Causative present, 2nd person singular",
+          "meaning": "you are causing to be deluded / you confuse / you bewilder"
+        },
+        {
+          "word": "निश्चित्य",
+          "transliteration": "niścitya",
+          "root": "nis + √ci (to determine)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having determined / decidedly / conclusively"
+        },
+        {
+          "word": "श्रेयः",
+          "transliteration": "śreyaḥ",
+          "root": "śreyas (the highest good)",
+          "grammatical_form": "Noun-adjective, neuter, nominative, singular",
+          "meaning": "the highest good / ultimate welfare / that which is truly beneficial"
+        },
+        {
+          "word": "आप्नुयाम्",
+          "transliteration": "āpnuyām",
+          "root": "ā + √āp (to attain)",
+          "grammatical_form": "Optative / potential, 1st person singular",
+          "meaning": "I may attain / I might obtain / I could achieve"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse reveals Arjuna at his most honest — and Dadaji always treasured this honesty. 'Your mixed words are confusing my intellect,' he says to the Lord directly. How many of us are afraid to admit such a thing to God or to our guru? But Arjuna speaks plainly, and in that plainness there is a great surrender. The beautiful demand of the verse is in 'tad ekaṃ vada' — 'tell me that one thing.' Arjuna does not want a philosophical map; he wants a single path he can walk. Dadaji used to say: the student who asks for the one essential thing is ready to receive it. The word 'śreyas' — the highest good, true welfare — shows that Arjuna is not asking for worldly success but for genuine liberation.",
+        "sarvapriyananda": "Verse 2 is philosophically significant because it identifies the precise problem: vyāmiśreṇa vākyena — mixed, apparently contradictory teaching. Arjuna perceives a contradiction between the Sāṃkhya teaching (knowledge of the Self) and the Yoga teaching (disciplined action). The Vedantic resolution of this apparent contradiction is the subject of the entire Bhagavad Gītā. Arjuna's request for a single, decisive path — 'tad ekaṃ vada niścitya' — also reflects the Indian philosophical tradition's emphasis on ekāgratā, one-pointedness. The great teacher does not multiply paths unnecessarily; each student needs the one path appropriate to their temperament and stage. Krishna's answer will honor this request.",
+        "yogananda": "Yogananda saw Arjuna's confusion as a blessing in disguise. The mixed instructions have shaken his conventional understanding, created an inner uncertainty that makes him receptive to a deeper truth. In meditation, Yogananda taught, it is exactly this kind of cognitive dissonance — the moment when our ordinary mental frameworks prove inadequate — that opens the heart to higher guidance. Arjuna's appeal for the one path by which he may attain śreyas (the highest good) is the soul's authentic prayer. He is not asking for comfort or escape — he is asking for truth that works. And Krishna, the supreme guru, will answer with perfect precision.",
+        "goyandka": "Goyandka notes that the particle 'iva' (like, as it were) used twice in this verse — mohayasīva (as if confusing), vyāmiśreṇeva (as if mixed) — is actually a respectful qualification. Arjuna does not accuse Krishna of deliberately confusing him; he acknowledges his own limited understanding by saying 'it seems to me as if.' This grammatical subtlety reveals Arjuna's humility. The request 'tell me decisively that one thing by which I may attain the highest good' is the model of how a student should approach a teacher — with total honesty about one's confusion, combined with full trust in the teacher's ability to clarify. This is the ideal guru-śiṣya relationship in action."
+      }
+    },
+    {
+      "verse": 3,
+      "sanskrit": "श्रीभगवानुवाच ।\nलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।\nज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम् ॥",
+      "transliteration": "śrī-bhagavān uvāca\nloke 'smin dvi-vidhā niṣṭhā purā proktā mayānagha\njñāna-yogena sāṃkhyānāṃ karma-yogena yoginām",
+      "translation": "The Blessed Lord said: O sinless one, in this world a twofold path was declared by Me from the beginning — the path of knowledge (jñāna yoga) for the contemplatives (Sāṃkhyas), and the path of action (karma yoga) for the men of action (yogins).",
+      "audio": "/assets/audio/ch03/verse_03_03.mp3",
+      "word_breakdown": [
+        {
+          "word": "द्विविधा",
+          "transliteration": "dvi-vidhā",
+          "root": "dvi (two) + vidha (kind/way)",
+          "grammatical_form": "Adjective, feminine, nominative, singular",
+          "meaning": "twofold / of two kinds / dual"
+        },
+        {
+          "word": "निष्ठा",
+          "transliteration": "niṣṭhā",
+          "root": "ni + √sthā (to stand)",
+          "grammatical_form": "Noun, feminine, nominative, singular",
+          "meaning": "path / foundation / steady devotion / established way of practice"
+        },
+        {
+          "word": "अनघ",
+          "transliteration": "anagha",
+          "root": "an + agha (sin)",
+          "grammatical_form": "Adjective, masculine, vocative",
+          "meaning": "O sinless one / O blameless one — epithet of Arjuna"
+        },
+        {
+          "word": "सांख्यानाम्",
+          "transliteration": "sāṃkhyānām",
+          "root": "saṃkhyā (number / enumeration / discrimination)",
+          "grammatical_form": "Noun, masculine, genitive, plural",
+          "meaning": "of the Sāṃkhyas / of the contemplatives / of men of discriminative wisdom"
+        },
+        {
+          "word": "कर्मयोगेन",
+          "transliteration": "karma-yogena",
+          "root": "√kṛ (to do) + √yuj (to unite)",
+          "grammatical_form": "Compound noun, masculine, instrumental, singular",
+          "meaning": "by karma yoga / through the path of disciplined action"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here Krishna gives the direct and decisive answer that Arjuna asked for — and notice how lovingly He addresses him: 'anagha,' O sinless one. Even before the teaching begins, the Lord reminds Arjuna of his essential purity. Dadaji often said that a true teacher first sees the student's highest nature before pointing to their confusion. The teaching itself is elegantly simple: two paths, from the very beginning — jñāna yoga for those whose nature is contemplative, karma yoga for those whose nature is active. Neither is higher in absolute terms; both lead to the same summit. The art of the spiritual life is to know which path matches your nature and to walk it wholeheartedly.",
+        "sarvapriyananda": "This crucial verse reveals the structural architecture of the Gītā's soteriology. Krishna says 'purā proktā mayā' — declared by Me from the beginning. This indicates these are not new inventions but eternal principles. 'Sāṃkhyānām' here refers not merely to the classical Sāṃkhya philosophy of Kapila but to those of a contemplative temperament who can directly pursue knowledge of the Self. 'Yoginām' refers to those whose natural disposition inclines toward action in the world. The key word is 'niṣṭhā' — not merely a 'path' but a steadfast, established mode of being. Both are valid; both are necessary in the world; and as Krishna will show, at a deeper level they are not truly different.",
+        "yogananda": "Yogananda drew attention to the divine compassion in this response. Krishna does not rebuke Arjuna for his confusion — He answers precisely, decisively, and completely. The twofold path reflects the two fundamental human types: those drawn inward toward wisdom and contemplation, and those drawn outward toward service and engagement. But Yogananda insisted that in the ideal life both paths must eventually merge. The karma yogi who works without attachment gradually develops inner stillness — which is the fruit of jñāna. The jñāna yogi whose realization deepens begins to act spontaneously and selflessly in the world — which is the flower of karma. These two paths are like two wings of the same bird.",
+        "goyandka": "Goyandka's classical commentary emphasizes the phrase 'purā proktā mayā' — declared by Me from the beginning. This establishes the teaching as sanātana, eternal and beginningless. The Gītā is not a new teaching invented for Arjuna; it is the perennial wisdom being restated for a particular crisis at a particular moment in history. Goyandka also notes that 'niṣṭhā' implies not just a path but a complete orientation of life — a way in which one is established, grounded, steadfast. Jñāna niṣṭhā is establishment in the knowledge of the Self; karma niṣṭhā is establishment in selfless, God-dedicated action. Both are complete lifestyles, not mere techniques."
+      }
+    },
+    {
+      "verse": 4,
+      "sanskrit": "श्रीभगवानुवाच ।\nन कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।\nन च सन्न्यसनादेव सिद्धिं समधिगच्छति ॥",
+      "transliteration": "śrī-bhagavān uvāca\nna karmaṇām anārambhān naiṣkarmyaṃ puruṣo 'śnute\nna ca sannyasanād eva siddhiṃ samadhigacchati",
+      "translation": "Not by the non-performance of actions does a person attain freedom from action-bondage (naiṣkarmya); nor by mere renunciation alone does one reach perfection.",
+      "audio": "/assets/audio/ch03/verse_03_04.mp3",
+      "word_breakdown": [
+        {
+          "word": "नैष्कर्म्यम्",
+          "transliteration": "naiṣkarmyam",
+          "root": "niḥ + karma (action)",
+          "grammatical_form": "Abstract noun, neuter, accusative, singular",
+          "meaning": "freedom from action-bondage / actionlessness / the state of transcending karma"
+        },
+        {
+          "word": "अनारम्भात्",
+          "transliteration": "anārambhāt",
+          "root": "an + ā + √rabh (to begin)",
+          "grammatical_form": "Noun, masculine, ablative, singular",
+          "meaning": "from non-commencement / by not starting (actions) / by inactivity"
+        },
+        {
+          "word": "अश्नुते",
+          "transliteration": "aśnute",
+          "root": "√aś (to attain / to pervade)",
+          "grammatical_form": "Present, Ātmanepada, 3rd singular",
+          "meaning": "attains / obtains / reaches"
+        },
+        {
+          "word": "सन्न्यसनात्",
+          "transliteration": "sannyasanāt",
+          "root": "sam + ni + √as (to throw down)",
+          "grammatical_form": "Noun, neuter, ablative, singular",
+          "meaning": "from renunciation / by giving up (externally)"
+        },
+        {
+          "word": "सिद्धिम्",
+          "transliteration": "siddhim",
+          "root": "√sidh (to succeed / to be accomplished)",
+          "grammatical_form": "Noun, feminine, accusative, singular",
+          "meaning": "perfection / success / spiritual accomplishment / liberation"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse cuts through a very common spiritual misconception: that freedom from karma means simply stopping all activity. Dadaji used to say, 'You cannot run away from life — you can only run away from attachment.' A person who sits idle and calls it renunciation has not freed themselves from the law of action; they have merely become inactive while the mind continues to churn with desire. True naiṣkarmya — freedom from action-bondage — does not come from the absence of action but from the purification of the doer. When actions are performed without ego-ownership, without craving for results, the karma simply does not bind. This is the great secret that the next verses will unfold.",
+        "sarvapriyananda": "This verse demolishes what Śaṅkarācārya called 'karma-uparamaḥ' — the misconception that cessation of bodily activity is equivalent to transcendence. The term 'naiṣkarmya' is subtle: it does not mean physical inaction but the state of acting without the binding force of saṃskāra-generating desire. Similarly, 'sannyāsa' here refers to mere external renunciation — giving up the visible markers of worldly life without the inner transformation. True sannyāsa in the Vedantic sense is the renunciation of the sense of doership (kartṛtva) and enjoyership (bhoktṛtva), not merely the renunciation of possessions or roles. Outer form without inner reality achieves nothing.",
+        "yogananda": "Yogananda often cited this verse when advising seekers who wanted to leave the world for a monastery but whose hearts were not ready. Genuine spiritual advancement is not measured by external withdrawal but by internal detachment. The person who renounces outer life while the mind remains agitated, desirous, and ego-driven has gained nothing spiritually. Conversely, the person who remains engaged in the world — raising a family, working a profession — while maintaining inner non-attachment and God-awareness is walking the genuine path of karma yoga. The divine is not found by fleeing the world but by transforming one's relationship to it.",
+        "goyandka": "Goyandka notes the precision of this verse's double negation. 'Not by non-performance' and 'not by mere renunciation' together establish that neither extreme — compulsive action nor compulsive avoidance of action — leads to liberation. The Gītā's path is the middle way of engaged detachment. Naiṣkarmya, the state of transcending karma's binding power, is achieved only when action is performed in a spirit of complete non-attachment: without the sense of 'I am the doer' and without desire for any particular result. This requires not outer renunciation but inner transformation, which is the real subject of karma yoga. Mere idleness is tamasic, not spiritual."
+      }
+    },
+    {
+      "verse": 5,
+      "sanskrit": "श्रीभगवानुवाच ।\nन हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nna hi kaścit kṣaṇam api jātu tiṣṭhaty akarma-kṛt\nkāryate hy avaśaḥ karma sarvaḥ prakṛti-jair guṇaiḥ",
+      "translation": "Indeed, no one can remain even for a moment without performing action; everyone is driven to act helplessly by the impulses born of the guṇas of Nature (Prakṛti).",
+      "audio": "/assets/audio/ch03/verse_03_05.mp3",
+      "word_breakdown": [
+        {
+          "word": "क्षणम्",
+          "transliteration": "kṣaṇam",
+          "root": "kṣaṇa (moment)",
+          "grammatical_form": "Noun, masculine, accusative, singular (used as adverb)",
+          "meaning": "for a moment / even an instant"
+        },
+        {
+          "word": "अकर्मकृत्",
+          "transliteration": "akarma-kṛt",
+          "root": "a + karma + √kṛ (to do)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "one who does no action / completely actionless"
+        },
+        {
+          "word": "अवशः",
+          "transliteration": "avaśaḥ",
+          "root": "a + vaśa (will / control)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "helpless / without control / involuntarily / not by one's own will"
+        },
+        {
+          "word": "प्रकृतिजैः",
+          "transliteration": "prakṛti-jaiḥ",
+          "root": "pra + √kṛ + ja (born of)",
+          "grammatical_form": "Compound adjective, masculine, instrumental, plural",
+          "meaning": "born of Prakṛti / arising from Nature"
+        },
+        {
+          "word": "गुणैः",
+          "transliteration": "guṇaiḥ",
+          "root": "guṇa (quality / strand)",
+          "grammatical_form": "Noun, masculine, instrumental, plural",
+          "meaning": "by the guṇas / by the three qualities (sattva, rajas, tamas) of Nature"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is one of those verses where Krishna simply tells us the truth about our condition, without softening it. 'No one can remain even for a moment without acting.' Think of it — even in sleep the mind dreams, the breath continues, the heart beats. Inaction is simply not available to an embodied being. Dadaji would say: God is not asking you whether you will act — you will act regardless. He is only asking HOW you will act. Will you act driven by the unconscious force of your tendencies and desires, like a puppet of Prakṛti? Or will you act as a conscious, dedicated instrument of the divine will? That is the only real choice available to us.",
+        "sarvapriyananda": "This verse introduces one of the Gītā's most important metaphysical concepts: the unavoidability of action for an embodied being. The phrase 'prakṛti-jair guṇaiḥ' — by the guṇas born of Prakṛti — points to the Sāṃkhya framework underlying the teaching. Prakṛti, Nature, is composed of three guṇas: sattva (luminosity), rajas (activity), and tamas (inertia). Every being embedded in Prakṛti is necessarily under the influence of these forces and therefore necessarily in action at all times, even if only mentally. The word 'avaśaḥ' — helplessly — is stark: without the cultivation of higher awareness, we are not the authors of our actions but their vehicles.",
+        "yogananda": "Yogananda found this verse both sobering and liberating. Sobering, because it reveals how little genuine freedom most people exercise — driven by their own natures, habits, and desires, they believe they are choosing when they are actually being compelled. Liberating, because it shifts the spiritual question from 'Should I act?' (which has no answer — you will) to 'From what level of consciousness will I act?' The karma yogi's discipline is precisely this: to act from ever-higher levels of awareness, gradually moving from the mechanical, unconscious action of the ego-self toward the free, spontaneous, God-directed action of the awakened soul.",
+        "goyandka": "Goyandka emphasizes the word 'hi' (indeed) and 'jātu' (ever) in this verse as indicators of an absolute, universal truth. This is not a conditional statement but a metaphysical fact about embodied existence. No being with a body and a mind can be physically inactive — and even apparent inactivity is itself a form of action sustained by the guṇas. The traditional commentators therefore conclude that since one must act, the question is only whether action will be performed with discrimination and dedication (karma yoga) or with the mechanical, desire-driven quality of ordinary worldly action. The Gītā's teaching is thus urgently practical: it addresses the actual condition of the human being as it is."
+      }
+    },
+    {
+      "verse": 6,
+      "sanskrit": "श्रीभगवानुवाच ।\nकर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥",
+      "transliteration": "śrī-bhagavān uvāca\nkarmendriyāṇi saṃyamya ya āste manasā smaran\nindriyārthān vimūḍhātmā mithyācāraḥ sa ucyate",
+      "translation": "One who restrains the organs of action but continues to mentally dwell on the objects of the senses — that deluded person is called a hypocrite (mithyācāra).",
+      "audio": "/assets/audio/ch03/verse_03_06.mp3",
+      "word_breakdown": [
+        {
+          "word": "कर्मेन्द्रियाणि",
+          "transliteration": "karmendriyāṇi",
+          "root": "karma + indriya (sense organ)",
+          "grammatical_form": "Compound noun, neuter, accusative, plural",
+          "meaning": "the organs of action — hands, feet, speech, reproductive and eliminative organs"
+        },
+        {
+          "word": "संयम्य",
+          "transliteration": "saṃyamya",
+          "root": "sam + √yam (to restrain)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having restrained / after controlling / while holding back"
+        },
+        {
+          "word": "इन्द्रियार्थान्",
+          "transliteration": "indriyārthān",
+          "root": "indriya + artha (object / purpose)",
+          "grammatical_form": "Compound noun, masculine, accusative, plural",
+          "meaning": "the objects of the senses / sense pleasures / sense-objects"
+        },
+        {
+          "word": "विमूढात्मा",
+          "transliteration": "vimūḍhātmā",
+          "root": "vi + √muh (to be deluded) + ātman (self)",
+          "grammatical_form": "Compound, masculine, nominative, singular",
+          "meaning": "one whose self is thoroughly deluded / a confused soul"
+        },
+        {
+          "word": "मिथ्याचारः",
+          "transliteration": "mithyācāraḥ",
+          "root": "mithyā (false) + ācāra (conduct)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "one of false conduct / hypocrite / one whose practice is a pretense"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is a gentle but very direct warning against the spiritual performance that the heart knows is hollow. Dadaji called this the 'Pharisee verse' of the Gītā — the person who performs all the right external observances while the mind wanders through every desire it has been denied. We have all encountered this in ourselves: sitting for meditation while mentally planning, restraining the hand from reaching for something while the desire burns bright in the heart. Krishna calls this 'mithyācāra' — false conduct, hypocrisy. True spiritual practice is not the control of the outer instruments but the transformation of the inner one. The mind's dwelling on sense-objects is itself a subtle form of action that perpetuates bondage.",
+        "sarvapriyananda": "This verse makes a sharp philosophical distinction that is central to Advaita Vedānta's understanding of karma yoga. The organs of action (karmendriyāṇi) are the external instruments — hands, feet, and so on. But these are not the source of action's binding power. The binding power comes from the mind's engagement — specifically from 'smaran indriyārthān,' mentally remembering, dwelling upon, dwelling in desire for sense-objects. True renunciation, in the Vedantic sense, is therefore primarily a mental act. One can be in the midst of vigorous outer activity and be less bound than one who sits in apparent stillness while the mind races. Śaṅkara comments that this verse directly refutes the notion that physical sannyāsa automatically confers liberation.",
+        "yogananda": "Yogananda used this verse in his teachings on authentic spiritual practice. He pointed out that the body can be trained to external stillness far more easily than the mind can be brought to genuine quiet. A practitioner who mistakes the performance of spiritual forms — the crossed legs, the regulated breath, the folded hands — for actual spiritual practice has fallen into what Krishna calls 'vimūḍhātmā' — self-delusion. The true measure of spiritual progress, Yogananda taught, is not how long one can sit or how many rituals one can perform, but how genuinely the mind is drawn away from sense-craving and toward the inner light of the Self. Only that genuine inner turning constitutes real practice.",
+        "goyandka": "Goyandka's commentary notes that this verse is a direct refutation of a specific school of thought — sometimes called Kriyā-Sannyāsa — that holds that the mere outward abandonment of action (sitting idle, giving up household life) constitutes sufficient spiritual practice. The Gītā emphatically disagrees. The binding force of karma operates through the mind's desire, not through the body's movement. Therefore, one who controls the body while mentally dwelling in sense-desire has accomplished nothing of spiritual value. In fact, such a person is 'vimūḍhātmā' — self-deluded — and 'mithyācāra' — a practitioner of falsehood. This is a strong condemnation, meant to push the seeker toward genuine inner purification."
+      }
+    },
+    {
+      "verse": 7,
+      "sanskrit": "श्रीभगवानुवाच ।\nयस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।\nकर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ॥",
+      "transliteration": "śrī-bhagavān uvāca\nyas tv indriyāṇi manasā niyamyārabhate 'rjuna\nkarmendriyaiḥ karma-yogam asaktaḥ sa viśiṣyate",
+      "translation": "But one who, having controlled the senses with the mind, O Arjuna, begins to engage in karma yoga through the organs of action, without attachment — that one excels.",
+      "audio": "/assets/audio/ch03/verse_03_07.mp3",
+      "word_breakdown": [
+        {
+          "word": "मनसा",
+          "transliteration": "manasā",
+          "root": "√man (to think)",
+          "grammatical_form": "Noun, neuter, instrumental, singular",
+          "meaning": "with the mind / through the mind / by means of the mind"
+        },
+        {
+          "word": "नियम्य",
+          "transliteration": "niyamya",
+          "root": "ni + √yam (to restrain / to control)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having controlled / after restraining / controlling first"
+        },
+        {
+          "word": "आरभते",
+          "transliteration": "ārabhate",
+          "root": "ā + √rabh (to begin / to undertake)",
+          "grammatical_form": "Present, Ātmanepada, 3rd singular",
+          "meaning": "begins / undertakes / engages in"
+        },
+        {
+          "word": "असक्तः",
+          "transliteration": "asaktaḥ",
+          "root": "a + √sañj (to cling / to attach)",
+          "grammatical_form": "Past participle used as adjective, masculine, nominative",
+          "meaning": "without attachment / unattached / free from clinging"
+        },
+        {
+          "word": "विशिष्यते",
+          "transliteration": "viśiṣyate",
+          "root": "vi + √śiṣ (to distinguish / to excel)",
+          "grammatical_form": "Present passive, 3rd singular",
+          "meaning": "excels / is distinguished / surpasses / is superior"
+        }
+      ],
+      "commentary": {
+        "dadaji": "After the sharp warning of verse 6, Krishna now holds up the ideal of verse 7 — and the contrast is luminous. The person who excels (viśiṣyate) does two things simultaneously: controls the senses with the mind (inner mastery), and then engages in karma yoga through the organs of action without attachment (outer engagement). Dadaji used to say this is the portrait of the truly free person — free not from the world but free within it. The key word is 'manasā' — with the mind. It is the mind that must first be directed, purified, and steadied. Only from that foundation of inner control can truly unattached action flow. This is the hero Krishna is calling Arjuna to become.",
+        "sarvapriyananda": "This key verse — one of the most cited in Chapter 3 — defines karma yoga in its essence. Three elements constitute the karma yogi's action: first, 'manasā niyamya' — the senses are controlled at the level of the mind, which is the right level; second, 'karmendriyaiḥ... ārabhate' — action is then actively undertaken through the organs of action; third, 'asaktaḥ' — all this is done without attachment. This is the integration of inner control and outer engagement that distinguishes karma yoga from both withdrawal and compulsive worldly action. The word 'viśiṣyate' — he excels, he is distinguished — indicates a superlative quality. This person surpasses both the idle non-actor and the ego-driven actor.",
+        "yogananda": "Yogananda called this the verse of the liberated worker. The karma yogi does not flee the world; the karma yogi transforms the world by transforming the quality of engagement. 'Manasā niyamya' — controlling with the mind — points to the practice of interiorization that Yogananda taught through Kriyā Yoga: withdrawing the life-force inward to the spine and brain, then redirecting it outward through the instruments of the body in service. The result is action that is fully engaged yet completely free. Such a person moves through the world like a lotus leaf on water — fully present, yet never wet. This verse is the definition of 'yoga in action.'",
+        "goyandka": "Goyandka's commentary emphasizes the sequence implied in this verse: first the inner, then the outer. 'Niyamya' is a gerund — it denotes an action completed before the main verb. The mind-level control of the senses must precede the engagement in karma yoga. This sequence is spiritually significant: one cannot perform genuine karma yoga — truly unattached action — without first having cultivated some degree of mental equanimity. This is why the Gītā's teaching on karma yoga is preceded by and woven together with the teaching on sthitaprajña (steady wisdom) in Chapter 2. The outer practice of yoga rests on an inner foundation of equanimity and discrimination."
+      }
+    },
+    {
+      "verse": 8,
+      "sanskrit": "श्रीभगवानुवाच ।\nniyataṃ kuru karma tvaṃ karma jyāyo hy akarmaṇaḥ ।\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥",
+      "transliteration": "śrī-bhagavān uvāca\nniyataṃ kuru karma tvaṃ karma jyāyo hy akarmaṇaḥ\nśarīra-yātrāpi ca te na prasiddhyed akarmaṇaḥ",
+      "translation": "Perform your prescribed duty, for action is better than inaction. Even the mere maintenance of your body cannot be accomplished without action.",
+      "audio": "/assets/audio/ch03/verse_03_08.mp3",
+      "word_breakdown": [
+        {
+          "word": "नियतम्",
+          "transliteration": "niyatam",
+          "root": "ni + √yam (to restrain / to regulate)",
+          "grammatical_form": "Past participle used as adjective / adverb, neuter",
+          "meaning": "prescribed / regulated / ordained / one's own duty according to nature and station"
+        },
+        {
+          "word": "ज्यायः",
+          "transliteration": "jyāyaḥ",
+          "root": "jya — comparative of praśasya",
+          "grammatical_form": "Comparative adjective, neuter, nominative",
+          "meaning": "better / superior / more excellent"
+        },
+        {
+          "word": "अकर्मणः",
+          "transliteration": "akarmaṇaḥ",
+          "root": "a + karma",
+          "grammatical_form": "Noun, neuter, ablative, singular",
+          "meaning": "than inaction / compared to non-action / from not acting"
+        },
+        {
+          "word": "शरीरयात्रा",
+          "transliteration": "śarīra-yātrā",
+          "root": "śarīra (body) + yātrā (journey / maintenance / sustenance)",
+          "grammatical_form": "Compound noun, feminine",
+          "meaning": "the journey of the body / maintenance of the body / bodily subsistence"
+        },
+        {
+          "word": "प्रसिद्ध्येत्",
+          "transliteration": "prasiddhyet",
+          "root": "pra + √sidh (to succeed / to be accomplished)",
+          "grammatical_form": "Optative / potential, 3rd person singular",
+          "meaning": "would be accomplished / could succeed / might be fulfilled"
+        }
+      ],
+      "commentary": {
+        "dadaji": "After the philosophy, the practical command: 'Niyataṃ kuru karma' — perform your prescribed duty. These three words are the heartbeat of Chapter 3. Dadaji loved this directness. Krishna is not lost in abstraction — He comes straight to the point. Do your duty. Action is better than inaction — not because action is intrinsically noble, but because for an embodied being, purposeful, dutiful action is the field in which liberation is cultivated. And then the most grounded of arguments: you cannot even maintain this body without action. You must eat, breathe, care for yourself. Life itself demands engagement. The spiritual question is not 'Shall I act?' but 'Shall I act consciously and selflessly, or unconsciously and selfishly?'",
+        "sarvapriyananda": "The phrase 'niyataṃ karma' — prescribed duty — is important. This is not any action but svadharma, one's own duty according to one's nature, capacity, and station in life. The Gītā has consistently distinguished between action in alignment with one's dharma and action driven by desire or social pressure. The argument 'karma jyāyo hy akarmaṇaḥ' — action is indeed superior to inaction — is a pragmatic one: given that verse 5 has established that no one can remain inactive, the choice is between conscious, dharmic action and unconscious, mechanical, desire-driven non-action that is actually subtle action in disguise. The body-maintenance argument ('śarīra-yātrāpi') grounds the teaching in biological reality.",
+        "yogananda": "Yogananda often cited this verse to address the spiritual seeker's temptation toward quietism — the belief that doing nothing is somehow more holy than doing something. Krishna firmly and lovingly corrects this. Even at the most basic level, life requires action: you must breathe, eat, move, care for the body that houses the soul. These are not distractions from spiritual life — they are its very ground. The karma yogi sanctifies every act of maintenance, every necessary duty, by performing it with awareness, without ego, and in dedication to God. The cooking, the cleaning, the earning of bread — all become yoga when the inner orientation is right.",
+        "goyandka": "Goyandka notes that 'niyatam karma' specifically refers to the duties prescribed by the Vedic scriptures according to one's āśrama (stage of life) and varṇa (nature and function). For Arjuna as a kṣatriya, this prescribed duty is the protection of dharma through righteous battle. The verse thus has an immediate application to Arjuna's situation: not fighting is not actually inaction — it is a wrong action, a failure of dharma. The body-maintenance argument (śarīra-yātrā) is used here not to glorify bodily life but to demonstrate the inescapability of action. If even the minimum of bodily maintenance requires action, how much more does the full flourishing of one's human and spiritual potential require engaged, dharmic activity."
+      }
+    },
+    {
+      "verse": 9,
+      "sanskrit": "श्रीभगवानुवाच ।\nयज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥",
+      "transliteration": "śrī-bhagavān uvāca\nyajñārthāt karmaṇo 'nyatra loko 'yaṃ karma-bandhanaḥ\ntad-arthaṃ karma kaunteya mukta-saṅgaḥ samācara",
+      "translation": "The world is bound by action other than action performed for the sake of sacrifice (yajña). Therefore, O son of Kunti, perform your actions for that purpose alone, free from all attachment.",
+      "audio": "/assets/audio/ch03/verse_03_09.mp3",
+      "word_breakdown": [
+        {
+          "word": "यज्ञार्थात्",
+          "transliteration": "yajñārthāt",
+          "root": "yajña (sacrifice / worship) + artha (purpose)",
+          "grammatical_form": "Compound noun, masculine, ablative, singular",
+          "meaning": "for the sake of sacrifice / for the purpose of yajña / as an offering"
+        },
+        {
+          "word": "कर्मबन्धनः",
+          "transliteration": "karma-bandhanaḥ",
+          "root": "karma + √bandh (to bind)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "bound by action / shackled by karma / in bondage to one's deeds"
+        },
+        {
+          "word": "मुक्तसङ्गः",
+          "transliteration": "mukta-saṅgaḥ",
+          "root": "√muc (to release) + √sañj (to cling)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "free from attachment / liberated from clinging / unattached"
+        },
+        {
+          "word": "समाचर",
+          "transliteration": "samācara",
+          "root": "sam + ā + √car (to move / to practice)",
+          "grammatical_form": "Imperative, 2nd person singular",
+          "meaning": "perform / practice / do (completely, thoroughly)"
+        },
+        {
+          "word": "तदर्थम्",
+          "transliteration": "tad-artham",
+          "root": "tad (that) + artha (purpose)",
+          "grammatical_form": "Compound, accusative, used as adverb",
+          "meaning": "for that purpose / for the sake of that / with that as the aim"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse introduces the concept of yajña — sacrifice — as the liberating principle of all karma yoga. Dadaji used to explain yajña not as a ritual fire ceremony but as any action performed as an offering, without personal agenda. When you cook, if you cook as an offering to God and to those who will eat — that is yajña. When you work, if you work as service to the divine in all beings — that is yajña. The moment the ego steps in and claims the result — 'this is mine, this is for me' — the action becomes binding karma. The moment the same action is offered up, surrendered, performed as service — it becomes liberating yajna. 'Mukta-saṅgaḥ samācara' — perform, free from all attachment — is the complete formula of karma yoga.",
+        "sarvapriyananda": "The word 'yajña' in this verse carries its broadest Vedantic meaning: any action performed as an offering to the cosmic order, to dharma, to the divine. Śaṅkarācārya interprets 'yajñārthāt karma' as action performed for the sake of Brahman — the ultimate reality — or for Īśvara, the personal God. The binding principle of karma is not action itself but the ego's claim on action and its results. When that claim is dissolved through the spirit of offering, the action generates no binding saṃskāra. It is performed, it is completed, and it is released. This is the deepest meaning of 'mukta-saṅgaḥ' — one whose attachment has been liberated — not merely a person who is indifferent but one who has genuinely relinquished ego-ownership of actions.",
+        "yogananda": "Yogananda saw yajña as the cosmic principle of selfless giving that sustains all life. Every breath, every heartbeat, every act of creation is a form of sacrifice — life giving to life. When a human being consciously aligns with this principle — performing every action as an offering, receiving every result as a gift — the individual self begins to expand into the universal Self. This is the mystical dimension of karma yoga: the practitioner who truly acts as yajña gradually realizes that the separate doer never really existed. There is only the cosmic dance of giving and receiving, and the 'I' that thought it was performing the yajña was always itself a part of the divine offering.",
+        "goyandka": "Goyandka's classical commentary explains that 'yajñārthāt karma' originally referred to the Vedic injunction to perform all actions — including one's daily duties and livelihood — as part of the cosmic yajña that sustains dharma and the social and natural order. The universe itself operates as a yajña: rain feeds the earth, the earth feeds living beings, living beings breathe and act and eventually return their elements to the earth. When human beings consciously participate in this cosmic circulation of giving — performing their duties as offerings rather than as ego-enterprises — they align with the deepest current of existence and are carried by it toward liberation. The alternative is 'karma-bandhana' — bondage to the results of self-motivated action."
+      }
+    },
+    {
+      "verse": 10,
+      "sanskrit": "श्रीभगवानुवाच ।\nसहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥",
+      "transliteration": "śrī-bhagavān uvāca\nsaha-yajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ\nanena prasaviṣyadhvam eṣa vo 'stv iṣṭa-kāmadhuk",
+      "translation": "Having created beings along with yajña (sacrifice) at the beginning of creation, Prajāpati (the Creator) declared: 'By this shall you multiply and prosper; may this yajña be the cow of plenty (kāmadhuk) that fulfills all your desires.'",
+      "audio": "/assets/audio/ch03/verse_03_10.mp3",
+      "word_breakdown": [
+        {
+          "word": "सहयज्ञाः",
+          "transliteration": "saha-yajñāḥ",
+          "root": "saha (together with) + yajña (sacrifice)",
+          "grammatical_form": "Compound adjective, feminine, accusative, plural",
+          "meaning": "together with yajña / accompanied by sacrifice / along with the principle of offering"
+        },
+        {
+          "word": "प्रजाः",
+          "transliteration": "prajāḥ",
+          "root": "pra + √jan (to be born)",
+          "grammatical_form": "Noun, feminine, accusative, plural",
+          "meaning": "beings / creatures / people / progeny — all of creation"
+        },
+        {
+          "word": "प्रजापतिः",
+          "transliteration": "prajāpatiḥ",
+          "root": "prajā + pati (lord)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "Lord of Creatures / the Creator — name of Brahmā or the creative principle"
+        },
+        {
+          "word": "प्रसविष्यध्वम्",
+          "transliteration": "prasaviṣyadhvam",
+          "root": "pra + √su (to generate / to prosper)",
+          "grammatical_form": "Future, 2nd person plural, middle voice",
+          "meaning": "you shall prosper / you shall multiply / you shall flourish"
+        },
+        {
+          "word": "कामधुक्",
+          "transliteration": "kāmadhuk",
+          "root": "kāma (desire) + √duh (to milk)",
+          "grammatical_form": "Compound noun, feminine, nominative",
+          "meaning": "the wish-fulfilling cow / kāmadhenu — the divine cow that yields all desires"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Verse 10 is one of the great mythological verses of the Gītā — and Dadaji always brought its teaching alive with warmth. Prajāpati, the Creator, creates beings not in isolation but together with yajña, the spirit of sacrifice and offering. This is not an incidental detail — it is a declaration about the deepest nature of creation. The universe itself is built on the principle of mutual giving. Prajāpati then promises: live by this principle of yajña and you will prosper; this spirit of offering will be your kāmadhuk, your wish-fulfilling cow, satisfying all your genuine needs. Dadaji used to say: the truly generous person is never poor. The person who gives freely finds that life itself pours back in abundance.",
+        "sarvapriyananda": "This verse grounds karma yoga in a cosmological framework. The creation itself — 'prajāḥ' — was created 'saha-yajñāḥ,' along with the principle of yajña. This means yajña is not an invention of human religious culture but is woven into the very fabric of existence. Prajāpati, the creative principle, ordained from the beginning that the flourishing of creation is tied to the practice of mutual offering and sustenance. Swami Sarvapriyananda would note that this verse transforms karma yoga from a personal spiritual technique into a participation in the cosmic order. When we act selflessly, we are not merely improving our own spiritual condition — we are contributing to the sustenance of the entire cosmic web of life.",
+        "yogananda": "Yogananda saw this verse as revealing the divine secret of abundance. The universe was created on the principle of giving — and the more consciously a human being participates in this giving, the more fully they are aligned with the creative force itself. The kāmadhuk — wish-fulfilling cow — is the principle that genuine selfless service to life generates its own abundance, its own fulfilment. This is not a commercial transaction ('give and get back'); it is an organic law of life. The tree that produces fruit does not become impoverished by giving — it fulfills its nature. The person who acts as yajña fulfills their own deepest nature and in doing so finds that all genuine needs are met.",
+        "goyandka": "Goyandka traces this verse to the Vedic tradition of the cosmic yajña that underlies all sacrificial teaching. The Puruṣa-sūkta of the Ṛg Veda describes creation itself as a cosmic sacrifice. Prajāpati, identified in various texts with Brahmā or with the Vedic concept of the cosmic Person, establishes yajña as the mechanism of creation, preservation, and flourishing. 'Anena prasaviṣyadhvam' — by this shall you multiply — refers not merely to biological reproduction but to prosperity, growth, and the fulfillment of human life in all its dimensions. The kāmadhuk image is powerful: just as the divine cow gives milk perpetually to those who tend her, so the cosmic principle of yajña rewards those who practice it with inexhaustible fulfilment."
+      }
+    }
+  ]
+}

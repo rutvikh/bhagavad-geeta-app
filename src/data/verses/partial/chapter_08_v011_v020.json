@@ -1,0 +1,491 @@
+{
+  "chapter": 8,
+  "verses": [
+    {
+      "verse": 11,
+      "sanskrit": "यदक्षरं वेदविदो वदन्ति\nविशन्ति यद्यतयो वीतरागाः ।\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदं संग्रहेण प्रवक्ष्ये ॥",
+      "transliteration": "yad akṣaraṃ veda-vido vadanti\nviśanti yad yatayaḥ vīta-rāgāḥ\nyad icchanto brahmacaryaṃ caranti\ntat te padaṃ saṃgraheṇa pravakṣye",
+      "translation": "That which the knowers of the Veda call the Imperishable — into which passion-free strivers enter — desiring which they practice brahmacharya — that Goal I shall declare to you briefly.",
+      "audio": "/assets/audio/ch08/verse_08_11.mp3",
+      "word_breakdown": [
+        {
+          "word": "अक्षरम्",
+          "transliteration": "akṣaram",
+          "root": "a (not) + √kṣar (to flow, to perish)",
+          "grammatical_form": "Noun/adjective, neuter, nominative, singular",
+          "meaning": "the Imperishable; that which does not flow away or decay; a name for the highest Brahman"
+        },
+        {
+          "word": "वीतरागाः",
+          "transliteration": "vīta-rāgāḥ",
+          "root": "vīta (departed, free from) + rāga (passion, attachment)",
+          "grammatical_form": "Compound adjective, masculine, nominative, plural",
+          "meaning": "those who are free from passion and attachment; the dispassionate strivers"
+        },
+        {
+          "word": "ब्रह्मचर्यम्",
+          "transliteration": "brahmacaryam",
+          "root": "brahma (the Absolute) + √car (to move, to practice)",
+          "grammatical_form": "Compound noun, neuter, accusative, singular",
+          "meaning": "the practice of moving toward Brahman; celibacy; disciplined life of self-control in pursuit of the Divine"
+        },
+        {
+          "word": "पदम्",
+          "transliteration": "padam",
+          "root": "√pad (to go, to attain)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "the Goal; the abode; the supreme state to be attained"
+        },
+        {
+          "word": "संग्रहेण",
+          "transliteration": "saṃgraheṇa",
+          "root": "sam (together) + √grah (to grasp)",
+          "grammatical_form": "Noun, masculine, instrumental, singular",
+          "meaning": "briefly; in a compressed or collected manner; in summary"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is like a tender promise from Baba Krishna — 'I will tell you, my child.' The Imperishable that the great knowers of the Veda sing about, the goal that yogis who have quietly set aside all their cravings walk toward, the reason why so many have chosen a life of brahmacharya and inner renunciation — all of that, He says, I will now reveal to you. Brahmacharya is not merely about physical discipline; it is about keeping the mind and heart turned toward the Divine. The monks who left everything, the grandmothers who rose before dawn to chant — they were all reaching for this same akṣaram. And now, out of love for Arjuna — and for us — the Lord promises a brief but complete teaching. This 'briefly' is an act of grace: the infinite Being condensing the highest truth into a few sacred words.",
+        "sarvapriyananda": "Verse 11 introduces the central concept of akṣaram — that which is indestructible, which neither flows away nor perishes. The Vedas repeatedly point to this Reality as the ultimate goal of all spiritual striving. Notice whom Krishna qualifies as seekers of this goal: yatayaḥ vīta-rāgāḥ — strivers who have become free from rāga, from passionate clinging to the objects of experience. This dispassion is not cold indifference but a loving redirection of attention from the perishable to the Imperishable. Brahmacharya, classically understood, is the entire way of life oriented toward Brahman — the daily practices, the restraint of senses, the one-pointed inquiry. Krishna's use of saṃgraheṇa, 'briefly,' suggests that what follows is not an exhaustive philosophical treatise but a practical guide — the essence that can be practiced and realized.",
+        "yogananda": "In the yogic tradition, akṣaram points directly to the Kutastha — the Infinite Consciousness that remains unmoving and unchanged while the entire creation of relativities swirls around it. The vīta-rāgāḥ, those free from rāga, have interiorized their life-force; they no longer lose their energy through the senses into the world. Brahmacharya, as Paramahansaji taught, is the conservation and upward channeling of the prāṇic current. When the prāṇa is turned inward and upward — as the following verses describe — the yogi 'enters' the Imperishable not metaphorically but experientially, dissolving finite ego-awareness in the boundless Ātman. The Lord promises to reveal this path 'briefly' — for the highest truth, when directly perceived in meditation, is simple, immediate, and beyond the need for elaborate description.",
+        "goyandka": "The Lord here introduces the theme of the akṣara-brahma — the indestructible Absolute — as the supreme goal declared by all Vedic scripture. He identifies three marks of those who seek it: they are called yatayaḥ (strivers or ascetics), they are vīta-rāgāḥ (freed from attachment), and they practice brahmacaryam (continence and Brahma-oriented discipline). The Muṇḍaka Upaniṣad and Kaṭha Upaniṣad both extensively describe this akṣaram as the highest destination of all beings. The Lord's use of 'saṃgraheṇa' (briefly) signals that He will give the essence, not an exhaustive account, and that the teaching which follows in verses 12–13 constitutes a complete practical method for realizing this goal."
+      }
+    },
+    {
+      "verse": 12,
+      "sanskrit": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।\nमूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम् ॥",
+      "transliteration": "sarva-dvārāṇi saṃyamya mano hṛdi nirudhya ca\nmūrdhny ādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām",
+      "translation": "Having restrained all the gates of the body, having confined the mind in the heart, having placed one's prāṇa in the head — established in yogic concentration.",
+      "audio": "/assets/audio/ch08/verse_08_12.mp3",
+      "word_breakdown": [
+        {
+          "word": "सर्वद्वाराणि",
+          "transliteration": "sarva-dvārāṇi",
+          "root": "sarva (all) + dvāra (gate, door)",
+          "grammatical_form": "Compound noun, neuter, accusative, plural",
+          "meaning": "all the gates of the body; the sense-openings — eyes, ears, nostrils, mouth, and the two lower gates"
+        },
+        {
+          "word": "संयम्य",
+          "transliteration": "saṃyamya",
+          "root": "sam (completely) + √yam (to restrain, to hold)",
+          "grammatical_form": "Indeclinable participle (gerund)",
+          "meaning": "having restrained; having controlled completely; closing off all outward-flowing sensation"
+        },
+        {
+          "word": "हृदि",
+          "transliteration": "hṛdi",
+          "root": "hṛd (heart)",
+          "grammatical_form": "Noun, neuter, locative, singular",
+          "meaning": "in the heart; in the spiritual heart-center; the seat of the individual consciousness"
+        },
+        {
+          "word": "मूर्ध्नि",
+          "transliteration": "mūrdhni",
+          "root": "mūrdhan (head, crown)",
+          "grammatical_form": "Noun, masculine, locative, singular",
+          "meaning": "in the crown of the head; the brahmarandhra or sahasrāra; the topmost energy center"
+        },
+        {
+          "word": "योगधारणाम्",
+          "transliteration": "yoga-dhāraṇām",
+          "root": "yoga (union, discipline) + √dhṛ (to hold, to sustain)",
+          "grammatical_form": "Compound noun, feminine, accusative, singular",
+          "meaning": "yogic concentration; the meditative holding of consciousness steady; the state of dhāraṇā within yoga practice"
+        }
+      ],
+      "commentary": {
+        "dadaji": "How beautifully practical the Lord becomes in this verse! He does not speak only in philosophy — He gives us a method. Close the doors of the senses, He says. Pull the restless mind inward and let it rest in the heart. Then with love and will, draw the prāṇa — the very life-breath — upward to the crown. This is the technique of conscious interiorization that the saints have practiced across millennia. When Dadaji would sit in deep prayer, he would say, 'Bring everything home, inside.' The heart is home. The crown is the gateway to the infinite. A person who does this at the moment of death — or even in daily meditation — is not dying randomly; they are going Home deliberately. This verse is the instruction for the supreme homecoming.",
+        "sarvapriyananda": "This verse and the next together describe a complete yogic technique for the conscious departure of the soul. The 'gates' — the nine or ten openings of the body through which consciousness normally flows outward toward sense-objects — are to be entirely withdrawn, or saṃyamya. The mind, ordinarily scattered, is gathered into its source, the hṛd, the spiritual heart. Then the prāṇa — life-force — is directed upward to the mūrdhā, the crown, via the suṣumnā channel. This is the science of prāṇāyāma applied in its highest, most concentrated form. The yogic term yoga-dhāraṇā here means that the entire being — mind, breath, and consciousness — is held steady in a single pointed upward movement toward liberation.",
+        "yogananda": "Paramahansaji illuminated this verse as a direct description of the Kriyā Yoga technique in its highest application. The 'gates of the body' — the senses — are closed by the withdrawal of prāṇa from the sensory nerves, which is the essence of pratyāhāra. The mind is then centered at the spiritual eye — which has its inner seat in the heart's feeling — and the prāṇa is consciously lifted through the spinal channel to the brahmarandhra at the crown. This is not metaphor. The Kriyā yogi literally feels the prāṇa moving upward, feels the cessation of body-awareness, and experiences the luminous expansion of consciousness that dissolves the false sense of being confined to a body. Verse 12 is the practice; verse 13 is the fruit.",
+        "goyandka": "This verse describes the physical and psychic preparation for the great departure described in verse 13. Sarva-dvārāṇi saṃyamya refers to the withdrawal of prāṇa-śakti from all the nine bodily apertures by which it ordinarily flows outward. Manas hṛdi nirudhya — the mind is restrained and held at the heart, the seat of the jīvātman. Mūrdhni ādhāya prāṇam — the life-breath is then drawn upward to the top of the head, to the brahmarandhra. This is the method by which the disciplined yogi, at the time of death, deliberately exits through the brahmarandhra and reaches the supreme Goal. The Upaniṣads confirm that the soul that exits through this opening does not return."
+      }
+    },
+    {
+      "verse": 13,
+      "sanskrit": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् ।\nयः प्रयाति त्यजन्देहं स याति परमां गतिम् ॥",
+      "transliteration": "om ity ekākṣaraṃ brahma vyāharan mām anusmaran\nyaḥ prayāti tyajan dehaṃ sa yāti paramāṃ gatim",
+      "translation": "Uttering the single-syllable Om — which is Brahman — and remembering Me while departing, leaving the body — he attains the supreme Goal.",
+      "audio": "/assets/audio/ch08/verse_08_13.mp3",
+      "word_breakdown": [
+        {
+          "word": "एकाक्षरम्",
+          "transliteration": "ekākṣaram",
+          "root": "eka (one) + akṣara (syllable, imperishable)",
+          "grammatical_form": "Compound adjective, neuter, accusative, singular",
+          "meaning": "the single syllable; the monosyllabic; also 'the one Imperishable' — Om is both the syllable and the Reality it denotes"
+        },
+        {
+          "word": "व्याहरन्",
+          "transliteration": "vyāharan",
+          "root": "vi + ā + √hṛ (to carry, to speak)",
+          "grammatical_form": "Present participle, masculine, nominative, singular",
+          "meaning": "uttering; pronouncing with full awareness; giving voice to Om both externally and internally"
+        },
+        {
+          "word": "अनुस्मरन्",
+          "transliteration": "anusmaran",
+          "root": "anu (following, continuously) + √smṛ (to remember)",
+          "grammatical_form": "Present participle, masculine, nominative, singular",
+          "meaning": "continuously remembering; holding the remembrance flowing without break; meditating upon uninterruptedly"
+        },
+        {
+          "word": "प्रयाति",
+          "transliteration": "prayāti",
+          "root": "pra (forth) + √yā (to go)",
+          "grammatical_form": "Verb, present tense, third person, singular",
+          "meaning": "departs; goes forth; sets out on the final journey at the time of death"
+        },
+        {
+          "word": "परमाम् गतिम्",
+          "transliteration": "paramāṃ gatim",
+          "root": "parama (highest, supreme) + √gam (to go)",
+          "grammatical_form": "Adjective + noun, feminine, accusative, singular",
+          "meaning": "the supreme Goal; the highest destination; liberation — the state beyond all rebirth"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is the verse I return to again and again. Just this: Om. Just this: remember Krishna. And in that last moment, when the body is set aside like a worn-out garment, the soul goes to the Supreme. I have seen elderly saints who chanted Om their entire lives — they left so peacefully, so luminously. They were ready. Not because they had mastered great philosophy, but because they had kept their hearts full of the Divine Name. Om is not merely a sound; it is the Presence itself vibrating in sound-form. To remember the Lord in the moment of death — is that even possible without years of love-practice? This verse is the fruit of a lifetime of devotion. It is why we chant, why we pray, why we never let the Name leave the heart.",
+        "sarvapriyananda": "Verse 13 completes the two-verse instruction on the yogic departure. Having interiorized the prāṇa (v.12), the yogi now — while leaving the body — vibrates the sacred syllable Om and holds unbroken awareness of the Lord. The word vyāharan, 'uttering,' does not necessarily require vocal sound; at the subtlest level it is the inner vibration of pure consciousness resonating with the Primal Sound. Anusmaran, 'continuously remembering,' points to an unbroken stream of awareness, the anusandhāna that is the hallmark of mature meditation. Paramāṃ gatim — the supreme Goal — is Brahman itself, not a heaven-world subject to return, as distinguished in verse 16. This is the practical culmination of all yogic teaching in this chapter.",
+        "yogananda": "This verse is the crown jewel of yogic science. Om, Paramahansaji taught, is AUM — the three-fold cosmic vibration that underlies all creation: the creative, preservative, and dissolving energies of God. The yogi who has practiced Kriyā and learned to hear the inner Omkar — the primordial sound in the spine and brain — can consciously merge into it at the moment of death. Vyāharan here is not mere vocal repetition; it is the state in which the yogi's consciousness becomes one with the vibratory essence of Om. Mām anusmaran — remembering Me — means holding awareness in the Kutastha, the Christ-center, from which the prāṇa ultimately passes upward. The practitioner of this technique does not wander in astral regions after death but attains paramāṃ gatim — the direct entry into God.",
+        "goyandka": "This verse presents the three simultaneous acts at the moment of departure: (1) vyāharan — uttering Om, the name that is identical with Brahman; (2) mām anusmaran — keeping the mind fixed on the Lord; and (3) tyajan deham — consciously relinquishing the physical body. The Māṇḍūkya Upaniṣad declares that Om is all this — the entire past, present, and future. The Lord identifies Himself with Om and with Brahman, so uttering Om while remembering Krishna is a single undivided act. The result — paramāṃ gatim — is irreversible liberation. This verse must be read alongside verse 5 of this chapter and verse 30 of chapter 4, all of which confirm the supreme efficacy of departing with the mind fixed on the Divine."
+      }
+    },
+    {
+      "verse": 14,
+      "sanskrit": "अनन्यचेताः सततं यो मां स्मरति नित्यशः ।\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ॥",
+      "transliteration": "ananya-cetāḥ satataṃ yo māṃ smarati nityaśaḥ\ntasyāhaṃ su-labhaḥ pārtha nitya-yuktasya yoginaḥ",
+      "translation": "For that yogi who constantly and exclusively remembers Me — with no other thought — who is ever-united, O Pārtha, I am easy to attain.",
+      "audio": "/assets/audio/ch08/verse_08_14.mp3",
+      "word_breakdown": [
+        {
+          "word": "अनन्यचेताः",
+          "transliteration": "ananya-cetāḥ",
+          "root": "an (not) + anya (other) + cetas (mind, consciousness)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular (Bahuvrīhi compound)",
+          "meaning": "one whose mind is not directed toward anything else; of undivided, exclusive awareness; one-pointed on the Divine alone"
+        },
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "root": "sa (with) + tata (stretched, extended)",
+          "grammatical_form": "Adverb (indeclinable)",
+          "meaning": "constantly; always; without any break in time"
+        },
+        {
+          "word": "नित्यशः",
+          "transliteration": "nityaśaḥ",
+          "root": "nitya (eternal, perpetual)",
+          "grammatical_form": "Adverb formed from adjective",
+          "meaning": "perpetually; day after day without interruption; with eternal regularity"
+        },
+        {
+          "word": "सुलभः",
+          "transliteration": "su-labhaḥ",
+          "root": "su (easily, well) + √labh (to obtain, to attain)",
+          "grammatical_form": "Compound adjective, masculine, nominative, singular",
+          "meaning": "easily attained; readily available; one who is not hidden or difficult to reach"
+        },
+        {
+          "word": "नित्ययुक्तस्य",
+          "transliteration": "nitya-yuktasya",
+          "root": "nitya (eternal, perpetual) + yukta (united, yoked)",
+          "grammatical_form": "Compound adjective, masculine, genitive, singular",
+          "meaning": "of the ever-united one; belonging to one who is perpetually joined in yoga; the constantly disciplined soul"
+        }
+      ],
+      "commentary": {
+        "dadaji": "How tender this verse is! The Lord says — I am su-labhaḥ, easy to attain, for the one who keeps Me in their heart without interruption. Not easy for the one who performs great rituals but forgets Me between them. Easy for the simple devotee who goes about their day — cooking, walking, working — all the while holding the Lord's name inside. Nitya-yuktasya — ever-united. This is the whole secret of bhakti. Not ecstatic experiences that come and go, but the steady, quiet, faithful abiding with the Beloved. Many of us have known grandmothers or old devotees like this — they were not scholars, not philosophers, but they were full of Krishna. And the Lord, true to His word, was always near them.",
+        "sarvapriyananda": "This verse is among the most reassuring in the entire Gītā. The Lord declares Himself su-labhaḥ — 'easily attained' — for the ananya-cetāḥ, the one of non-dual awareness focused on Him alone. The three temporal words — satataṃ (constantly), nityaśaḥ (perpetually), nitya-yukta (ever-united) — pile upon each other to describe not an occasional state of meditation but a continuous orientation of the entire being toward the Divine. This is jñāna-yoga and bhakti-yoga in their highest integration: the bhakta who has realized that there is nothing other than the Lord cannot but remember Him without interruption. For such a one, there is no distance to bridge; the apparent distance was always only a contraction of attention.",
+        "yogananda": "The ananya-cetāḥ — the one whose chitta is non-dual, not directed elsewhere — is the yogi who has so thoroughly practiced meditation that the sense of a separate self is dissolving. For such a one, remembering the Lord is not an effort but the natural condition of a mind that has ceased to project outward. Yogananda taught that the highest form of this remembrance is not mental repetition of a name but the felt presence of God in the heart, spine, and brain simultaneously — the state of samādhi extending into daily life. Nitya-yukta: perpetually yoked. The Kriyā yogi who practices daily deepens this yoking until it becomes as natural as breathing. And the Lord's promise is absolute — su-labhaḥ: I become easily available. Not difficult. Easy. This is the grace at the heart of the teaching.",
+        "goyandka": "The Lord here states a cardinal principle: ease of attainment is proportional to exclusivity and continuity of remembrance. Ananya-cetāḥ — the qualifier 'non-other-minded' — is the key. It does not say the devotee must be learned, wealthy, or of high birth. It requires only that the mind be not captured by other objects. The three adverbs satataṃ, nityaśaḥ, and nitya-yuktasya together eliminate any temporal gap in the devotion. Such a yogi-devotee need not fear the terrible test described in verse 6 — that whatever one thinks at death determines the next birth — because for them every moment already is the moment of death-yoga. The Lord is their perpetual thought."
+      }
+    },
+    {
+      "verse": 15,
+      "sanskrit": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् ।\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ॥",
+      "transliteration": "mām upetya punar janma duḥkhālayam aśāśvatam\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ",
+      "translation": "Having come to Me, these great-souled ones are not born again in this impermanent abode of sorrow — they have reached the highest perfection.",
+      "audio": "/assets/audio/ch08/verse_08_15.mp3",
+      "word_breakdown": [
+        {
+          "word": "मामुपेत्य",
+          "transliteration": "mām upetya",
+          "root": "māṃ (Me, accusative) + upa + √i (to approach, to come to)",
+          "grammatical_form": "Pronoun + indeclinable participle (gerund)",
+          "meaning": "having come to Me; having attained the Lord directly; upon reaching the Divine"
+        },
+        {
+          "word": "दुःखालयम्",
+          "transliteration": "duḥkhālayam",
+          "root": "duḥkha (suffering, pain) + ālaya (abode, dwelling place)",
+          "grammatical_form": "Compound noun, neuter, accusative, singular",
+          "meaning": "the abode of suffering; the dwelling place of pain and grief; characterization of saṃsāra as fundamentally sorrowful"
+        },
+        {
+          "word": "अशाश्वतम्",
+          "transliteration": "aśāśvatam",
+          "root": "a (not) + śāśvata (permanent, eternal)",
+          "grammatical_form": "Adjective, neuter, accusative, singular",
+          "meaning": "impermanent; not lasting; temporary and unstable by nature"
+        },
+        {
+          "word": "महात्मानः",
+          "transliteration": "mahātmānaḥ",
+          "root": "mahā (great) + ātman (self, soul)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "great-souled ones; those whose selves have expanded beyond smallness; the noble, broad-hearted devotees"
+        },
+        {
+          "word": "संसिद्धिम्",
+          "transliteration": "saṃsiddhim",
+          "root": "sam (complete) + √sidh (to accomplish, to succeed)",
+          "grammatical_form": "Noun, feminine, accusative, singular",
+          "meaning": "highest perfection; complete accomplishment; the ultimate fulfillment of the soul's journey"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Duḥkhālayam aśāśvatam — the Lord calls this world 'an impermanent house of sorrow.' It is not that life has no joy, but that every joy here comes with an expiry date. We hold loved ones and they leave. We build things and they crumble. The honest spiritual practitioner eventually sees what the Lord sees: that this realm, beautiful as it is, cannot satisfy the soul's deepest longing. But the great-souled ones — the mahātmānaḥ — having come to the Lord, are freed from this cycle entirely. They attain paramāṃ saṃsiddhim — the highest perfection. Not a better version of this world, but something of an altogether different order. This verse is not pessimism; it is a loving invitation to come Home.",
+        "sarvapriyananda": "The Lord's characterization of this world as duḥkhālayam — the abode of suffering — is a direct echo of the Sāṃkhya principle that saṃsāra is fundamentally duḥkha. This is not nihilism but the liberating first insight of viveka-khyāti, discrimination. Aśāśvatam adds a second quality: impermanence. Whatever is characterized by impermanence cannot be the basis of final rest for the soul. Having clearly named the nature of this realm, the Lord places it against its opposite: attaining Him, which grants freedom from rebirth. The term mahātmānaḥ — great-souled ones — is significant. It is the opposite of alpa-ātman, the small-souled. The greatness lies not in worldly achievement but in the breadth of devotion that has room only for the Infinite.",
+        "yogananda": "This verse fulfills the promise of verse 14. The devotee who reaches the Lord — mām upetya — has transcended the cycle not by escaping the world but by knowing themselves to be beyond it. Yogananda often spoke of the soul that has awakened from the dream of mortality: once you know the dream for what it is, you do not re-enter it compulsively. Duḥkhālayam is the precise diagnosis: the core quality of this realm is duḥkha — not because every moment hurts, but because the structure of ego-bound, sensory existence contains within it the seeds of inevitable suffering. The mahātmānaḥ have realized their identity with the Mahā-Ātman, the great Self. Their saṃsiddhi is not a reward; it is the natural consequence of knowing who they truly are.",
+        "goyandka": "This verse is the direct statement of the highest result of Bhakti-Yoga culminating in Jñāna: freedom from rebirth in this duḥkhālaya. The Gītā's worldview is consistent here with the Upaniṣadic declaration that this cycle of birth and death is not the soul's true home. The word punar janma, rebirth, is explicitly negated — nāpnuvanti — for those who reach the Lord. The qualification mahātmānaḥ, used in 9.13 also, refers to those whose entire being is surrendered to the Divine. Saṃsiddhi-paramā-gatāḥ — having gone to the highest accomplishment — confirms that this is the Puruṣārtha of mokṣa, liberation, which surpasses all the other goals of life: dharma, artha, and kāma."
+      }
+    },
+    {
+      "verse": 16,
+      "sanskrit": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन ।\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ॥",
+      "transliteration": "ā-brahma-bhuvanāl lokāḥ punar āvartino 'rjuna\nmām upetya tu kaunteya punar janma na vidyate",
+      "translation": "All worlds, up to and including the realm of Brahma, are subject to return, O Arjuna. But having attained Me, O son of Kunti, there is no rebirth.",
+      "audio": "/assets/audio/ch08/verse_08_16.mp3",
+      "word_breakdown": [
+        {
+          "word": "आब्रह्मभुवनात्",
+          "transliteration": "ā-brahma-bhuvanāt",
+          "root": "ā (up to, from) + brahma (Creator Brahmā) + bhuvana (world, abode)",
+          "grammatical_form": "Compound noun, neuter, ablative, singular",
+          "meaning": "from the world of Brahmā; up to and including the realm of Brahmā, the highest of all created worlds"
+        },
+        {
+          "word": "पुनरावर्तिनः",
+          "transliteration": "punar-āvartinaḥ",
+          "root": "punar (again) + ā + √vṛt (to turn, to revolve)",
+          "grammatical_form": "Compound adjective, masculine, nominative, plural",
+          "meaning": "subject to return; involving rebirth; those who must come back to the cycle of creation after their merit is exhausted"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "root": "tu (but, however — a particle of contrast)",
+          "grammatical_form": "Indeclinable particle",
+          "meaning": "but; however; in contrast to the above — introducing the great exception of attaining the Lord"
+        },
+        {
+          "word": "न विद्यते",
+          "transliteration": "na vidyate",
+          "root": "na (not) + √vid (to know, to exist, to be found)",
+          "grammatical_form": "Negative particle + passive verb, present tense, third person, singular",
+          "meaning": "there is no; it does not exist; it is not found — expressing the absolute non-existence of rebirth for the God-realized"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Even Brahma-loka! The Lord makes a stunning declaration: even the highest heaven of the Creator-God Brahmā is not ultimate liberation. Souls who reach great heights through virtue, worship, and tapas may dwell in Brahma-loka for inconceivably long periods — but when their accumulated merit is exhausted, they return. This is not a discouraging teaching; it is a compassionate clarification. True rest is not in any created realm, however exalted. True rest is in the uncreated itself — in the Lord. The little word 'tu' — 'but' — carries the whole weight of grace. Everything else: subject to return. Attaining Me: no rebirth. This 'tu' is the turning point of the whole cosmic story.",
+        "sarvapriyananda": "This verse draws the critical distinction between saguṇa upāsanā — worship leading to exalted but finite realms — and nirguṇa realization — which transcends all realms including Brahma-loka. In Advaita Vedānta, this corresponds to the difference between krama-mukti (gradual liberation) and sadyo-mukti (immediate liberation). The devotees who worship the Lord with attributes may attain Brahma-loka and then, along with Brahmā at the end of a cosmic cycle, attain liberation. But the knower of Brahman realizes liberation here and now; for them the question of any loka does not arise. The verse is a precise theological statement: the created — regardless of its height or duration — is impermanent. Only the uncreated is truly free.",
+        "yogananda": "Paramahansaji used to say that astral and causal heavens are real and beautiful — far more beautiful than this physical plane — but they are still dream-worlds within the Cosmic Dream. Souls who go there rest and grow but must return to complete their evolution. Only the soul that realizes its identity with the Dreamer itself — with the Lord — is free from the dreaming. This is what mām upetya means: not going to a divine heaven-world but becoming one with the Divine Awareness that projects all worlds. The tu here — 'but' — is the pivot from relative to Absolute, from any experience within consciousness to Consciousness itself. Brahma-loka is an exalted experience. Attaining the Lord is the end of the experiencer-experienced duality.",
+        "goyandka": "This verse is of great doctrinal importance. It demonstrates that attainment of even the highest cosmic realm — Brahma-loka — does not constitute final liberation (mokṣa). The Bhāgavata Purāṇa and the Upaniṣads confirm that even Brahmā, the creator, is subject to cosmic dissolution at the end of his life of two parārdhas. Punar-āvartinaḥ — 'subject to return' — applies universally to all created realms. The Lord's words mām upetya here are equivalent to brahma-nirvāṇam — total absorption into the Infinite. Na vidyate — it simply does not exist — the rebirth that follows all other attainments. This verse motivates the seeker to aim not for any created heaven but for the unconditioned Supreme alone."
+      }
+    },
+    {
+      "verse": 17,
+      "sanskrit": "सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः ।\nरात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ॥",
+      "transliteration": "sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ\nrātriṃ yuga-sahasrāntāṃ te 'ho-rātra-vido janāḥ",
+      "translation": "Those who know that Brahmā's day extends to a thousand yugas, and that his night also lasts a thousand yugas — they are the true knowers of day and night.",
+      "audio": "/assets/audio/ch08/verse_08_17.mp3",
+      "word_breakdown": [
+        {
+          "word": "सहस्रयुगपर्यन्तम्",
+          "transliteration": "sahasra-yuga-paryantam",
+          "root": "sahasra (thousand) + yuga (age, cosmic cycle) + paryanta (up to the end of)",
+          "grammatical_form": "Compound adjective, neuter, accusative, singular",
+          "meaning": "extending to the end of a thousand yugas; measuring a thousand cosmic cycles in duration"
+        },
+        {
+          "word": "अहः",
+          "transliteration": "ahaḥ",
+          "root": "ahas (day)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "the day; Brahmā's cosmic day (kalpa) during which all creation is manifest and active"
+        },
+        {
+          "word": "ब्रह्मणः",
+          "transliteration": "brahmaṇaḥ",
+          "root": "brahmā (the Creator-God, the first being)",
+          "grammatical_form": "Noun, masculine, genitive, singular",
+          "meaning": "of Brahmā; belonging to Brahmā the Creator; measured by the time-scale of the creator deity"
+        },
+        {
+          "word": "युगसहस्रान्ताम्",
+          "transliteration": "yuga-sahasrāntām",
+          "root": "yuga (age) + sahasra (thousand) + anta (end)",
+          "grammatical_form": "Compound adjective, feminine, accusative, singular",
+          "meaning": "ending after a thousand yugas; having its limit at the completion of a thousand cosmic ages"
+        },
+        {
+          "word": "अहोरात्रविदः",
+          "transliteration": "aho-rātra-vidaḥ",
+          "root": "ahas (day) + rātri (night) + √vid (to know)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "the knowers of day and night; those who understand time at the cosmic scale; the truly wise regarding the nature of cosmic cycles"
+        }
+      ],
+      "commentary": {
+        "dadaji": "How vast is the Lord's creation! A single day of Brahmā — the cosmic creator — lasts a thousand mahā-yugas. And his night lasts equally long. One human lifetime is less than a breath in Brahmā's day. The Lord shares this cosmic timescale not to overwhelm us but to help us see the magnificent impermanence of everything created. Even Brahmā's world, stretching across these inconceivable eons, eventually ends in the great night. The person who truly understands time and cosmic scale — who is an aho-rātra-vid, a real knower of day and night — cannot cling to this world with the same desperate grip. The very vastness of creation loosens the hands of attachment. And it makes the uncreated — the Lord Himself — all the more luminously precious.",
+        "sarvapriyananda": "This verse introduces the Vedic cosmological framework that supports the teaching of verses 18–19. A day of Brahmā (kalpa) is 4,320,000,000 human years — a thousand mahā-yugas of 4,320,000 years each. His night is of equal duration. The purpose of introducing this staggering time scale is metaphysical: to demonstrate that even the longest conceivable period of manifest existence is finite. The emphasis falls on the last phrase: te aho-rātra-vido janāḥ — 'they are the knowers of day and night.' True temporal wisdom is not counting human years but understanding the rhythm of cosmic manifestation and dissolution. Such understanding produces vairāgya — detachment — with respect to all created realms, however vast.",
+        "yogananda": "Paramahansaji placed these verses in the context of cosmic consciousness — the awareness that transcends even the grandest cycles of creation. When the yogi enters the deepest states of samādhi, they can become directly aware that time itself is a structure within Consciousness, not the other way around. A thousand yugas of Brahmā's day — this is the Lord's way of pointing to the absolute relativity of time. What seems permanent from inside the cosmic dream is momentary from the standpoint of the Dreamer. The aho-rātra-vido janāḥ, those who truly know cosmic day and night, are those who have touched in meditation the timeless background against which even Brahmā's vast lifespan appears as a brief ripple.",
+        "goyandka": "This verse establishes the cosmological basis for the teaching of cosmic dissolution and re-creation in the following two verses. According to the Purāṇas, one day of Brahmā (kalpa) = 1,000 catur-yugas = 4.32 billion human years. His night equals the same. His full life (mahākalpa) = 311.04 trillion human years. The Bhāgavata Purāṇa and the Viṣṇu Purāṇa confirm these figures. The Lord's point is precise: even cosmic time measured by Brahmā's standards has a beginning and an end. The knower of this — the aho-rātra-vid — understands that even the greatest created worlds are bound within temporal limits. This leads naturally to the inquiry: what lies beyond all such cycles? The answer is verses 20–21."
+      }
+    },
+    {
+      "verse": 18,
+      "sanskrit": "अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे ।\nरात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके ॥",
+      "transliteration": "avyaktād vyaktayaḥ sarvāḥ prabhavanty ahar-āgame\nrātry-āgame pralīyante tatraivāvyakta-saṃjñake",
+      "translation": "At the arrival of Brahmā's day, all manifested beings arise from the unmanifest; at the arrival of his night, they dissolve back into that which is called the unmanifest.",
+      "audio": "/assets/audio/ch08/verse_08_18.mp3",
+      "word_breakdown": [
+        {
+          "word": "अव्यक्तात्",
+          "transliteration": "avyaktāt",
+          "root": "a (not) + vi + √añj (to manifest, to make clear)",
+          "grammatical_form": "Adjective used as noun, neuter, ablative, singular",
+          "meaning": "from the unmanifest; from the undifferentiated state of primordial matter (Prakṛti) before creation; the cosmic seed-state"
+        },
+        {
+          "word": "व्यक्तयः",
+          "transliteration": "vyaktayaḥ",
+          "root": "vi + √añj (to manifest)",
+          "grammatical_form": "Noun, feminine, nominative, plural",
+          "meaning": "manifest beings; all differentiated, individuated forms of existence that have emerged into visibility"
+        },
+        {
+          "word": "प्रभवन्ति",
+          "transliteration": "prabhavanti",
+          "root": "pra (forth) + √bhū (to become, to arise)",
+          "grammatical_form": "Verb, present tense, third person, plural",
+          "meaning": "arise; come forth; emerge into manifestation; are produced"
+        },
+        {
+          "word": "अहरागमे",
+          "transliteration": "ahar-āgame",
+          "root": "ahar (day) + āgama (arrival, approach)",
+          "grammatical_form": "Compound noun, masculine, locative, singular",
+          "meaning": "at the arrival of day; when Brahmā's day begins; at the onset of the cosmic creative phase"
+        },
+        {
+          "word": "प्रलीयन्ते",
+          "transliteration": "pralīyante",
+          "root": "pra (intensifier) + √lī (to dissolve, to melt, to merge)",
+          "grammatical_form": "Verb, present tense, passive, third person, plural",
+          "meaning": "they dissolve; they merge back; they are absorbed into the unmanifest at the end of the cosmic day"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Creation breathes. This is what the Lord is saying. At the dawn of Brahmā's day, the whole creation — every soul, every world, every atom — arises from the unmanifest, like a great exhalation of Divine breath. At the close of that enormous day, everything withdraws back into the unmanifest, like a deep inhalation. We are, all of us, part of this cosmic breath. Our individual lives are so brief that we do not feel the cosmic rhythm — but it is real. And here is the wonder: even through all these cycles of arising and dissolving, the Lord remains. The avyakta into which everything dissolves is not the Lord — there is something even beyond that, as verse 20 will reveal. And that beyond-beyond is eternal, unchanged, your true Home.",
+        "sarvapriyananda": "The cosmological teaching deepens here. The avyakta — literally 'the unmanifest' — referred to in this verse is the cosmic Prakṛti in its unmanifest or seed state, not the transcendent Brahman. At the beginning of Brahmā's day (kalpa), the seeds of all beings present in the avyakta unfold into the vyakta — the manifest realm. At the end of his day, they fold back, like a drawn breath. This rhythm of pralaya (dissolution) and sṛṣṭi (creation) is eternal in the relative sense. No being in the vyakta is permanent. This is the philosophical basis for the urgent teaching of liberation: as long as one is identified with the manifest order, one is subject to this endless cycling. Mokṣa alone transcends it.",
+        "yogananda": "This verse beautifully parallels the yogic experience of the inbreath and outbreath of cosmic consciousness. In deep meditation, the accomplished yogi can perceive directly that all of creation — the entire universe of forms — is a kind of thought within the Divine Mind, arising and dissolving in rhythmic cycles. The avyaktāt — the unmanifest — is in this context the causal realm, the storehouse of karmic seeds and archetypal patterns that give rise to the next cycle of manifestation. Yogananda described this as the Lord alternating between watching His dream and not-watching it. The vyaktayaḥ, the manifested forms, are the dream-contents. The true seeker, by following the path of verses 12–13, does not re-enter the dream at the next dawn.",
+        "goyandka": "This verse describes pralaya at the level of Brahma-loka — the dissolution that occurs at the end of each of Brahmā's days (called naimittika-pralaya). All the three worlds (bhūr, bhuvaḥ, svar) dissolve into Brahmā's unmanifest body, and at the start of his next day they re-emerge. This is distinct from mahāpralaya, the absolute dissolution at the end of Brahmā's entire life. The term avyakta-saṃjñake — 'called the unmanifest' — is precise: this is the avyakta of Prakṛti (cosmic matter in its primordial state), not the para avyakta of verse 20, which is of an entirely different order. The verse establishes the doctrinal distinction between two kinds of avyakta that verse 20 will make explicit."
+      }
+    },
+    {
+      "verse": 19,
+      "sanskrit": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते ।\nरात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ॥",
+      "transliteration": "bhūta-grāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate\nrātry-āgame 'vaśaḥ pārtha prabhavaty ahar-āgame",
+      "translation": "This very same multitude of beings, arising again and again, dissolves helplessly at the coming of night; and arises again at the coming of day, O Pārtha.",
+      "audio": "/assets/audio/ch08/verse_08_19.mp3",
+      "word_breakdown": [
+        {
+          "word": "भूतग्रामः",
+          "transliteration": "bhūta-grāmaḥ",
+          "root": "bhūta (being, creature) + grāma (multitude, village, collection)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "the multitude of beings; the totality of all created entities; the entire collection of living creatures"
+        },
+        {
+          "word": "भूत्वा भूत्वा",
+          "transliteration": "bhūtvā bhūtvā",
+          "root": "√bhū (to become, to exist)",
+          "grammatical_form": "Gerund (absolutive) repeated for emphasis",
+          "meaning": "having been born again and again; repeatedly coming into existence; the repetitive cycling of birth emphasized by the doubled form"
+        },
+        {
+          "word": "अवशः",
+          "transliteration": "avaśaḥ",
+          "root": "a (not) + vaśa (power, will, control)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "helplessly; without control; subject to forces beyond individual will; the ego has no power over this cosmic process"
+        },
+        {
+          "word": "प्रलीयते",
+          "transliteration": "pralīyate",
+          "root": "pra + √lī (to dissolve, to merge)",
+          "grammatical_form": "Verb, present tense, passive, third person, singular",
+          "meaning": "is dissolved; merges into the unmanifest; is absorbed helplessly into the primordial ground"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Avaśaḥ — helplessly. This one word carries a universe of meaning. The entire multitude of beings — all the countless lives across all the worlds — they arise without choosing to arise, and they dissolve without choosing to dissolve. The cosmic wheel turns and we are on it, bhūtvā bhūtvā, born again and again, dissolved again and again. This is not cruelty; it is the structure of the relative realm. But the Lord is holding out his hand saying: there is a way off this wheel. Not by force or cleverness, but by love, surrender, and the turning of consciousness toward That which does not ride the wheel. The teaching of avaśaḥ — of helplessness — is the beginning of true surrender, which is the beginning of true freedom.",
+        "sarvapriyananda": "The word avaśaḥ — 'powerless, without control' — is the pivot of this verse. The entire multitude of beings, bhūta-grāmaḥ, does not choose its cycle of birth and dissolution. The individual ego, with all its sense of agency and will, is itself a part of this grāma, this collective. From the Advaitic standpoint, the confusion is this: the ego identifies itself with the body-mind entity and believes it controls its destiny, whereas in reality both the entity and its 'control' are portions of the cosmic dance. Viveka-wisdom sees through this. The one who sees avaśaḥ clearly — that the individual wave has no power over the ocean — begins to turn toward the ocean itself. That turning is liberation.",
+        "yogananda": "The teaching of avaśaḥ is, in the yogic context, the cosmic confirmation of what every practitioner of pratyāhāra discovers in meditation: that the sense of being a separate, willful individual is itself a pattern within the greater field of Prāṇa. When we stop feeding the ego's story of independent will, the cosmic truth of avaśaḥ is not depressing — it is liberating. Bhūtvā bhūtvā pralīyate: born, born, dissolved. This rhythm continues as long as there is karma to be worked out, as long as the soul identifies with its body-vehicles. The Kriyā yogi accelerates the burning of these karmic seeds precisely so that the cycle may be completed and transcended within a few lives rather than many thousands. The goal is not to ride the wheel better — it is to step off.",
+        "goyandka": "This verse reinforces the previous one by emphasizing the mechanical, repetitive nature of the cycle. Sa eva — 'this very same' — bhūta-grāmaḥ appears again and again in the same fundamental condition. There is no evolutionary escape within the cycle itself; each cosmic day reprises the same multitude in essentially the same predicament. The emphasis on avaśaḥ — without any independent power — strips away the illusion that beings can liberate themselves through worldly means. Liberation is available only by transcending the cycle entirely through attainment of the Lord, as stated in verse 15. This verse, like a diagnosis of the disease, makes the medicine of verse 20 and the path of verses 12–14 all the more urgently desirable."
+      }
+    },
+    {
+      "verse": 20,
+      "sanskrit": "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः ।\nयः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ॥",
+      "transliteration": "paras tasmāt tu bhāvo 'nyo 'vyakto 'vyaktāt sanātanaḥ\nyaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati",
+      "translation": "But beyond that unmanifest, there is yet another unmanifest Being — the Eternal — who does not perish even when all beings perish.",
+      "audio": "/assets/audio/ch08/verse_08_20.mp3",
+      "word_breakdown": [
+        {
+          "word": "परः",
+          "transliteration": "paraḥ",
+          "root": "para (beyond, higher, other)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "beyond; higher; transcendent to; that which lies further than — pointing to a Reality that exceeds all realms of creation"
+        },
+        {
+          "word": "भावः अन्यः",
+          "transliteration": "bhāvaḥ anyaḥ",
+          "root": "√bhū (to exist, to be) + anya (other, different)",
+          "grammatical_form": "Noun + adjective, masculine, nominative, singular",
+          "meaning": "another Being; a different existence; an Entity of an entirely other order than all created or even unmanifest realities"
+        },
+        {
+          "word": "अव्यक्तात्",
+          "transliteration": "avyaktāt",
+          "root": "a (not) + vi + √añj (to manifest)",
+          "grammatical_form": "Adjective used as noun, neuter, ablative, singular",
+          "meaning": "beyond the unmanifest; transcending even the cosmic avyakta of Prakṛti — the para avyakta is in an entirely different category"
+        },
+        {
+          "word": "सनातनः",
+          "transliteration": "sanātanaḥ",
+          "root": "sanā (from of old) + tana (stretched, extended) — or from sanā + √tan (to extend eternally)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "the Eternal; the everlasting; that which has no beginning and no end; the Primordial and Perpetual Reality"
+        },
+        {
+          "word": "न विनश्यति",
+          "transliteration": "na vinaśyati",
+          "root": "na (not) + vi + √naś (to perish, to be destroyed)",
+          "grammatical_form": "Negative particle + verb, present tense, active, third person, singular",
+          "meaning": "does not perish; is not destroyed; remains eternally unchanged even when the entire universe of beings dissolves"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Now He reveals the secret beyond all secrets. There is an avyakta — an unmanifest — behind all creation, the great darkness into which all things dissolve. But beyond even that: another avyakta, the sanātana, the Eternal. This is the Lord Himself in His transcendent aspect — beyond creation and dissolution, beyond cosmic day and cosmic night, beyond the wheel of time entirely. Na vinaśyati — it does not perish. Even when every star, every world, every soul has dissolved into the great night of Brahmā, This remains. This is your true nature, says the teaching. This is what you are beneath the layers of mind and body and ego. The whole of Gita philosophy comes down to this: you are That which does not perish. Come home to it.",
+        "sarvapriyananda": "This verse is the metaphysical heart of Chapter 8. The Lord distinguishes between two kinds of avyakta: the lower avyakta, which is the unmanifest state of Prakṛti — the cosmic seed-state from which creation arises and into which it dissolves — and the higher avyakta, which is Brahman, the Eternal (sanātanaḥ). The lower avyakta is still within the realm of Māyā-Prakṛti and is therefore subject to the cycles of creation and dissolution. The higher avyakta is pure sat-chit-ānanda — Being-Consciousness-Bliss — which has no relationship to dissolution. Ya sa sarveṣu bhūteṣu naśyatsu na vinaśyati: when all beings perish in the great dissolution, That remains untouched. This is the Absolute Brahman of the Upaniṣads, and it is what Krishna here identifies as Himself.",
+        "yogananda": "This is one of the most luminous verses in the entire Gītā. Paramahansaji wrote that this para avyakta — the transcendent Unmanifest — is what he called the Cosmic Consciousness, the Absolute, the Father beyond creation. It is distinct from even the highest realms of the astral and causal universes. In meditation, the deepest samādhi dissolves even the finest sense of individual existence into this Reality — which is both avyakta (unmanifest — no objects, no forms) and yet fully present as pure Awareness. Sarveṣu bhūteṣu naśyatsu na vinaśyati: when all beings perish — when even the universe itself ends — That does not perish. This is the ultimate refuge. This is the paramāṃ gatim of verse 13. This is the mām — the Me — of the Lord who says 'remember Me.' He is not a form in a heaven. He is this eternal, inexhaustible Awareness that is your deepest Self.",
+        "goyandka": "This verse makes the crucial Vedāntic distinction explicit. The avyakta referenced in verse 18 is apara avyakta — the lower, cosmic unmanifest that is still within the domain of Māyā and Prakṛti. The avyakta of verse 20 is para avyakta — transcendent, beyond the entire creation-dissolution cycle. The term sanātanaḥ confirms this: it denotes that which is eternal without qualification, having no beginning and no end, unlike the avyakta-Prakṛti which has a beginning in each cosmic cycle. The final clause — naśyatsu na vinaśyati — is the most definitive statement of the Imperishable: even when every manifested being perishes (naśyatsu), That is not destroyed (na vinaśyati). This is the akṣara of verse 11 now fully identified. The Kaṭha Upaniṣad declares the same: na jāyate mriyate vā vipaścit — the wise Soul is not born and does not die."
+      }
+    }
+  ]
+}

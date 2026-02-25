@@ -1,0 +1,575 @@
+{
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 33,
+      "sanskrit": "अर्जुन उवाच ।\nयेषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ॥",
+      "transliteration": "arjuna uvāca\nyeṣām arthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca\nta ime 'vasthitā yuddhe prāṇāṃs tyaktvā dhanāni ca",
+      "translation": "Arjuna said: Those for whose sake we desire kingdom, enjoyments, and pleasures — teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives — stand here in battle, ready to give up their lives and riches.",
+      "audio": "/assets/audio/ch01/verse_01_33.mp3",
+      "word_breakdown": [
+        {
+          "word": "येषामर्थे",
+          "transliteration": "yeṣām arthe",
+          "root": "yad (who/which) + artha (purpose, sake)",
+          "grammatical_form": "Relative pronoun, genitive, plural + noun, locative",
+          "meaning": "for whose sake / for the purpose of whom"
+        },
+        {
+          "word": "काङ्क्षितम्",
+          "transliteration": "kāṅkṣitam",
+          "root": "√kāṅkṣ (to desire, to long for)",
+          "grammatical_form": "Past passive participle, neuter, nominative, singular",
+          "meaning": "is desired / is longed for / is wished"
+        },
+        {
+          "word": "राज्यम्",
+          "transliteration": "rājyam",
+          "root": "√rāj (to rule, to shine)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "kingdom / sovereignty / royal dominion"
+        },
+        {
+          "word": "भोगाः",
+          "transliteration": "bhogāḥ",
+          "root": "√bhuj (to enjoy, to experience)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "enjoyments / pleasures / objects of experience"
+        },
+        {
+          "word": "प्राणान्",
+          "transliteration": "prāṇān",
+          "root": "prāṇa (life, vital breath)",
+          "grammatical_form": "Noun, masculine, accusative, plural",
+          "meaning": "lives / vital breaths / one's very life"
+        },
+        {
+          "word": "त्यक्त्वा",
+          "transliteration": "tyaktvā",
+          "root": "√tyaj (to abandon, to relinquish)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having abandoned / giving up / relinquishing"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is the pivot upon which Arjuna's crisis turns. He suddenly recognizes the supreme irony at the heart of the battle: the very people for whose happiness the kingdom is desired now stand ready to die for it. Dadaji would pause here and ask: when the kingdom is won, for whom will it be enjoyed? The brothers are dead. The teachers are dead. The grandfathers are fallen. Kingdom without the beloved is an empty throne. What Arjuna articulates here is not mere sentiment; it is a profound insight into the futility of means divorced from ends. We pursue objects for happiness, but our happiness is inseparable from those who now must be destroyed in the pursuit. The logic of worldly desire, pursued to its limit, devours its own justification.",
+        "sarvapriyananda": "Arjuna's argument in this verse is philosophically sophisticated, not merely emotional. He points to an internal contradiction in the entire enterprise of war: the kingdom is desired as a means to enjoyment, but enjoyment requires the presence of those who make life worth living — and those people are precisely who must be killed to obtain the kingdom. This is what Vedanta calls the intrinsic contradiction of samsāra: desire is always self-defeating at its root. The desired object, when obtained, does not carry its promised fulfillment because the conditions for fulfillment have been destroyed in the pursuit. Arjuna sees this with uncommon clarity. The tragedy is that he sees the problem but does not yet know the solution — which is why Krishna must speak.",
+        "yogananda": "Yogananda saw in this verse the awakening conscience of the soul confronting the machinery of ego-desire. 'For whose sake do we desire kingdom?' — this question, when genuinely asked, has the power to shatter the entire edifice of worldly ambition. The ego pursues power, pleasure, and recognition supposedly 'for the family' — for the loved ones. But the loved ones are now on the battlefield, about to be sacrificed for that very power. This is the inexorable logic of attachment: in our efforts to secure happiness for those we love, we often destroy what we love. Yogananda taught that only the soul's inner kingdom — won not through destruction but through self-mastery — is a kingdom whose enjoyment harms no one and endures forever.",
+        "goyandka": "Goyandka draws attention to the comprehensive list implied in this verse: ācāryāḥ (teachers — Droṇa, Kṛpācārya), pitaraḥ (fathers — Dhṛtarāṣṭra's sons standing in for paternal figures), putras (sons — Arjuna's own son Abhimanyu is on his side, but sons of kinsfolk stand opposite), pitāmahāḥ (grandfathers — Bhīṣma, the most revered), mātulāḥ (maternal uncles), śvaśurāḥ (fathers-in-law — King Drupada), pautrāḥ (grandsons), śyālāḥ (brothers-in-law), and sambandhinas (other kinsmen). The verse's grammar is precise: 'yeṣām arthe' — for whose sake. It is a rhetorical question that answers itself. These people have come not to celebrate a victory but to become its price."
+      }
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अर्जुन उवाच ।\nआचार्याः पितरः पुत्रास्तथैव च पितामहाः ।\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ॥",
+      "transliteration": "arjuna uvāca\nācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinas tathā",
+      "translation": "Teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other kinsmen — even if they would slay me, I do not wish to slay them — not even for dominion over the three worlds; how then for this earth?",
+      "audio": "/assets/audio/ch01/verse_01_34.mp3",
+      "word_breakdown": [
+        {
+          "word": "आचार्याः",
+          "transliteration": "ācāryāḥ",
+          "root": "ā + √car (to conduct oneself rightly)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "teachers / preceptors / those who teach by conduct"
+        },
+        {
+          "word": "पितामहाः",
+          "transliteration": "pitāmahāḥ",
+          "root": "pitā (father) + maha (great)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "grandfathers / great paternal elders"
+        },
+        {
+          "word": "मातुलाः",
+          "transliteration": "mātulāḥ",
+          "root": "mātulaḥ (derived from mātā — mother)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "maternal uncles"
+        },
+        {
+          "word": "श्यालाः",
+          "transliteration": "śyālāḥ",
+          "root": "śyāla (wife's brother, brother-in-law)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "brothers-in-law / wife's brothers"
+        },
+        {
+          "word": "सम्बन्धिनः",
+          "transliteration": "sambandhinaḥ",
+          "root": "sam + √bandh (to bind) → sambandha (relation, connection)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "relatives / those connected by bonds of kinship"
+        },
+        {
+          "word": "त्रैलोक्यम्",
+          "transliteration": "trailokyam",
+          "root": "tri (three) + loka (world)",
+          "grammatical_form": "Compound noun, neuter, accusative, singular",
+          "meaning": "the three worlds / dominion over all realms of existence"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Verses 33 and 34 together form the emotional climax of Arjuna's argument — and this verse contains its most striking declaration: 'even if they were to kill me, I would not kill them.' Dadaji considered this statement profound in its renunciation, even if it arises from attachment rather than wisdom. Arjuna is saying: I value their lives more than my own. There is something beautiful and true in this — it is only the motive that is impure. He will not kill them for the earth. He would not kill them even for the three worlds. But the Geeta's deeper teaching is that it is not his to refuse or his to decide: dharma calls, and the Self cannot be killed at all. When Arjuna later understands this, his same love for his relatives will be transformed from bondage into compassion.",
+        "sarvapriyananda": "This verse completes the enumeration of Arjuna's relational world and then makes a declaration that has fascinated commentators for millennia: 'even if they kill me, I will not kill them — not for the three worlds, nor for this earth.' From one angle, this is ahiṃsā (non-violence) at its most radical. From another angle, it is the ego's deepest attachment dressed in the language of renunciation. Śaṅkara notes that Arjuna's grief arises from avidyā — ignorance of the true Self — and that this apparent non-violence is therefore not the pure ahiṃsā of a jñānī but the paralysis of the ajñānī. The resolution of this paradox — that the greatest non-violence is sometimes action in alignment with dharma — is the central teaching of the Geeta.",
+        "yogananda": "The hyperbole of 'not even for the three worlds' reveals the depth of Arjuna's inner conflict. In yogic terms, the three worlds — physical, astral, and causal — represent the full spectrum of experience available to the embodied soul. Arjuna is saying: there is no reward anywhere in the entire created universe that would justify this destruction. Yogananda taught that this renunciation, however misdirected in its immediate context, is the shadow of genuine vairāgya — dispassion. The soul that can say 'I want nothing in all three worlds at this price' is close to saying 'I want nothing in all three worlds at any price' — which is the beginning of true non-attachment. Krishna will redirect this impulse toward its highest expression.",
+        "goyandka": "Classical commentators observe that this verse (continuing into what follows) gives the most comprehensive list of relationships in the Geeta: ācāryāḥ, pitaraḥ, putrāḥ, pitāmahāḥ, mātulāḥ, śvaśurāḥ, pautrāḥ, śyālāḥ, sambandhinaḥ — nine distinct categories of kinship, covering every relational bond a warrior of royal lineage would have. The declaration 'api trailokya-rājyasya hetoḥ' — even for dominion over the three worlds — sets the ultimate standard: Arjuna's refusal is not situational or negotiable. Goyandka notes that this totality of refusal is precisely what necessitates Krishna's full teaching: a partial answer would not serve such absolute anguish."
+      }
+    },
+    {
+      "verse": 35,
+      "sanskrit": "अर्जुन उवाच ।\nएतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ॥",
+      "transliteration": "arjuna uvāca\netān na hantum icchāmi ghnato 'pi madhusūdana\napi trailokya-rājyasya hetoḥ kiṃ nu mahī-kṛte",
+      "translation": "O Madhusudana, having slain the sons of Dhritarashtra, what joy would be ours? Only sin would accrue to us by killing these aggressors.",
+      "audio": "/assets/audio/ch01/verse_01_35.mp3",
+      "word_breakdown": [
+        {
+          "word": "हन्तुम्",
+          "transliteration": "hantum",
+          "root": "√han (to strike, to slay)",
+          "grammatical_form": "Infinitive",
+          "meaning": "to kill / to slay / to strike down"
+        },
+        {
+          "word": "इच्छामि",
+          "transliteration": "icchāmi",
+          "root": "√iṣ (to wish, to desire)",
+          "grammatical_form": "Present, 1st person singular, active",
+          "meaning": "I wish / I desire / I want"
+        },
+        {
+          "word": "मधुसूदन",
+          "transliteration": "madhusūdana",
+          "root": "madhu (demon name) + √sūd (to slay)",
+          "grammatical_form": "Vocative, masculine, singular (epithet of Krishna)",
+          "meaning": "O slayer of Madhu — an epithet of Krishna"
+        },
+        {
+          "word": "पापम्",
+          "transliteration": "pāpam",
+          "root": "pāpa (evil, sin, demerit)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "sin / evil / spiritual demerit accumulated by wrongful action"
+        },
+        {
+          "word": "आदद्यात्",
+          "transliteration": "ādadyāt",
+          "root": "ā + √dā (to give, to take)",
+          "grammatical_form": "Optative, 3rd person singular, active",
+          "meaning": "would accrue / would seize / would come upon us"
+        },
+        {
+          "word": "महीकृते",
+          "transliteration": "mahī-kṛte",
+          "root": "mahī (earth) + kṛte (for the sake of)",
+          "grammatical_form": "Compound, locative (used as 'for the sake of')",
+          "meaning": "for the sake of this earth / for earthly dominion"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The address 'Madhusūdana' — slayer of the demon Madhu — carries a subtle irony that Dadaji loved to point out. Arjuna calls Krishna by the name that recalls his most famous act of destroying evil, and then asks: is this the time to destroy? The demon Madhu represented a specific cosmic threat; but are the sons of Dhritarashtra truly equivalent? Arjuna is not sure. He only knows that killing them would bring no joy — only pāpa, sin. Dadaji emphasized that Arjuna's instinct here is morally sound even if philosophically confused. He senses the difference between dharmic and adharmic action, between killing that purifies the world and killing that merely satisfies ambition. The Geeta will go on to draw that distinction with perfect clarity.",
+        "sarvapriyananda": "This verse introduces the language of pāpa — sin — into Arjuna's argument. Until now his grief was relational and emotional; now it becomes ethical. He says: 'pāpam evāśrayed asmān' — sin alone would come upon us. This is a significant shift. Arjuna is not only mourning his dead relatives; he is concerned about the karmic consequences of the action. From the Vedantic standpoint, this concern with pāpa and puṇya (sin and merit) still operates within the transactional understanding of dharma — within the realm of duality. Krishna will eventually lift Arjuna beyond this level to the recognition that right action performed without ego-attachment accrues neither sin nor merit, because the doer — the ego-self — has dissolved into the instrument of the Divine.",
+        "yogananda": "Yogananda drew attention to the precise wording: 'what pleasure would be ours in killing these?' The question assumes that pleasure is the measure of worthwhile action — a deeply materialistic framework. Yet even within that framework, Arjuna's answer is clear: no pleasure. The sons of Dhritarashtra are described as 'ātatāyinaḥ' — aggressors, those who have committed the first offense — which would technically justify retaliation under dharmaśāstra. But Arjuna's crisis goes deeper than the letter of the law. He intuitively senses that no legal justification can transform the destruction of one's own kin into a source of joy. Joy, he implies, must be the criterion. And Krishna will eventually reveal where that joy resides: not in victory or defeat, but in the equanimous Self.",
+        "goyandka": "Goyandka notes that Arjuna uses the word 'ātatāyinaḥ' — aggressors — to describe the Kauravas, which is legally significant. Under the dharmaśāstras, an ātatāyin (one who attacks with fire, poison, weapons, or who seizes land, wealth, or wife) may be slain without incurring sin. Arjuna knows this law; he has just invoked it. Yet he then says that killing even these acknowledged aggressors would still result in pāpa for them. This apparent contradiction reveals the depth of his confusion: his rational mind knows the legal framework but his emotional self overrides it. This is precisely the state — dharma-saṃmūḍha-cetasā, a mind bewildered regarding dharma — that requires the Geeta's intervention."
+      }
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अर्जुन उवाच ।\nनिहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ॥",
+      "transliteration": "arjuna uvāca\nnihatya dhārtarāṣṭrān naḥ kā prītiḥ syāj janārdana\npāpam evāśrayed asmān hatvaitān ātatāyinaḥ",
+      "translation": "Therefore it is not fitting that we slay the sons of Dhritarashtra, our own relatives. How could we be happy after killing our own kinsmen, O Madhava?",
+      "audio": "/assets/audio/ch01/verse_01_36.mp3",
+      "word_breakdown": [
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmāt",
+          "root": "tad (that) — ablative used as conjunction",
+          "grammatical_form": "Demonstrative pronoun, ablative, singular",
+          "meaning": "therefore / for this reason / hence"
+        },
+        {
+          "word": "न अर्हाः",
+          "transliteration": "na arhāḥ",
+          "root": "√arh (to deserve, to be worthy of)",
+          "grammatical_form": "Verb, present, 1st person plural (from arha — worthy)",
+          "meaning": "we are not fit / we do not deserve / it is not right for us"
+        },
+        {
+          "word": "धार्तराष्ट्रान्",
+          "transliteration": "dhārtarāṣṭrān",
+          "root": "Dhṛtarāṣṭra (proper name) + patronymic suffix",
+          "grammatical_form": "Patronymic noun, masculine, accusative, plural",
+          "meaning": "the sons of Dhritarashtra / the Kauravas"
+        },
+        {
+          "word": "माधव",
+          "transliteration": "mādhava",
+          "root": "Madhu (ancestor) or mādhavī (the spring season)",
+          "grammatical_form": "Vocative, masculine, singular (epithet of Krishna)",
+          "meaning": "O Madhava — Krishna as descendant of Madhu, or Lord of Lakshmi"
+        },
+        {
+          "word": "स्वजनम्",
+          "transliteration": "svajanam",
+          "root": "sva (own) + jana (person, people)",
+          "grammatical_form": "Compound noun, masculine, accusative, singular (collective)",
+          "meaning": "one's own kin / one's own people"
+        },
+        {
+          "word": "सुखिनः",
+          "transliteration": "sukhinaḥ",
+          "root": "sukha (happiness, ease, pleasure)",
+          "grammatical_form": "Adjective, masculine, nominative, plural",
+          "meaning": "happy / at ease / experiencing well-being"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The rhetorical question 'how shall we be happy having slain our kinsmen?' reaches to the root of all human motivation. Dadaji taught that every action, at its deepest level, is pursued in search of happiness — ānanda. We fight for the kingdom because we believe the kingdom will bring happiness. But Arjuna now sees clearly: there is no happiness in a kingdom built on the corpses of beloved ones. The means have contradicted the end so thoroughly that the end itself has collapsed. This is the great teaching hidden within Arjuna's grief: the worldly pursuit of happiness is always self-defeating, because it requires the destruction of the very conditions that make happiness possible. True happiness — the ānanda of the Self — is the only happiness that costs nothing and requires no destruction.",
+        "sarvapriyananda": "The name 'Mādhava' with which Arjuna addresses Krishna here carries layered meaning. It can mean 'descendant of Madhu (Yadu)' — emphasizing Krishna's royal lineage. It also connects to Lakshmi, the Goddess of prosperity, through mādhavī. Sarvapriyananda found it poignant that Arjuna invokes the Lord's connection to prosperity at the very moment he rejects the pursuit of prosperity through destruction. The logical conclusion of this verse — 'how can we be happy killing our own?' — is correct in its intuition but limited in its philosophical grounding. It assumes the self is the body-mind complex and that happiness is a product of relationships. Krishna will correct both assumptions, revealing that the Self is unkillable and that happiness is its intrinsic nature, not its product.",
+        "yogananda": "Yogananda often cited this verse in his talks on non-attachment, noting that Arjuna's question cuts through the justifications of all worldly ambition. 'Kathaṃ na jñeyam asmābhiḥ pāpād asmān nivartitum' — should we not know to turn back from this sin? He saw Arjuna's hesitation as the soul's instinct for righteousness asserting itself against the momentum of social and political forces. In the inner life, this corresponds to the moment when a meditator, having built an entire structure of spiritual self-improvement, suddenly asks: 'Is this path truly freeing me, or is it another form of ego-construction?' That honest questioning is the beginning of deeper surrender.",
+        "goyandka": "Verse 36, in Goyandka's analysis, completes the transition from emotional grief (verses 28–29) to rational argument. Arjuna is now making a case: 'tasmāt' — therefore — signals logical conclusion. His syllogism is: (1) We seek the kingdom for enjoyment and happiness. (2) Killing our kinsmen would not bring happiness but only sin. (3) Therefore, we should not kill them. The argument is internally coherent. Its flaw, which Krishna will expose, lies in the first premise: the assumption that earthly happiness is the proper end of human life, and that it depends on the survival of external relationships. The Geeta's answer will redirect the seeker from this conditional happiness to the unconditional ānanda of the liberated Self."
+      }
+    },
+    {
+      "verse": 37,
+      "sanskrit": "अर्जुन उवाच ।\nयद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥",
+      "transliteration": "arjuna uvāca\nyady apy ete na paśyanti lobhopahata-cetasaḥ\nkula-kṣaya-kṛtaṃ doṣaṃ mitra-drohe ca pātakam",
+      "translation": "Even if these men, their minds overpowered by greed, see no evil in destroying the family and no sin in treachery to friends —",
+      "audio": "/assets/audio/ch01/verse_01_37.mp3",
+      "word_breakdown": [
+        {
+          "word": "लोभोपहतचेतसः",
+          "transliteration": "lobhopahata-cetasaḥ",
+          "root": "lobha (greed) + upahata (afflicted) + cetas (mind, consciousness)",
+          "grammatical_form": "Bahuvrīhi compound, masculine, nominative, plural",
+          "meaning": "those whose minds are overpowered by greed / with greed-stricken intellects"
+        },
+        {
+          "word": "कुलक्षयकृतम्",
+          "transliteration": "kula-kṣaya-kṛtam",
+          "root": "kula (family) + kṣaya (destruction, decay) + kṛta (done, caused)",
+          "grammatical_form": "Compound adjective, neuter, accusative, singular",
+          "meaning": "caused by the destruction of the family / wrought by family ruin"
+        },
+        {
+          "word": "दोषम्",
+          "transliteration": "doṣam",
+          "root": "doṣa (fault, evil, defect, moral flaw)",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "evil / fault / moral flaw / the wrong inherent in an action"
+        },
+        {
+          "word": "मित्रद्रोहे",
+          "transliteration": "mitra-drohe",
+          "root": "mitra (friend) + droha (treachery, enmity)",
+          "grammatical_form": "Compound noun, masculine, locative, singular",
+          "meaning": "in treachery to friends / in betrayal of allies and kinsmen"
+        },
+        {
+          "word": "पातकम्",
+          "transliteration": "pātakam",
+          "root": "√pat (to fall) — pātaka: that which causes one to fall spiritually",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "sin / that which causes spiritual downfall / grievous moral transgression"
+        },
+        {
+          "word": "यद्यपि",
+          "transliteration": "yady api",
+          "root": "yadi (if) + api (even, also)",
+          "grammatical_form": "Conjunctive particle",
+          "meaning": "even if / although / even though"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse marks the moment when Arjuna's grief transforms into moral clarity — and even into a certain quiet moral superiority. He recognizes that the Kauravas are 'lobhopahata-cetasaḥ' — those whose minds are destroyed by greed — and that this blindness is what prevents them from seeing the sin in what they are about to do. Dadaji pointed out that Arjuna himself had been equally blinded by desire not long ago — eager to fight, eager to see who stood against him. What has changed is not the situation but his vision. He now sees what greed does to human perception: it narrows the mind to a single point — victory, possession, dominance — and obliterates awareness of everything else, including the suffering caused. This verse begins a two-verse argument (completed in verse 38) that culminates in Arjuna's most mature statement.",
+        "sarvapriyananda": "The compound 'lobhopahata-cetasaḥ' is a masterpiece of psychological description. Lobha is greed — not merely desire for more, but the complete subordination of the discriminative faculty to acquisitive impulse. 'Upahata' means 'struck down, destroyed.' The mind has been struck down by greed — not merely influenced but destroyed as a reliable instrument of perception. This is Arjuna seeing clearly for the first time the condition of his opponents: they are not evil men in the simple sense, but men whose faculty of ethical discrimination has been annihilated by attachment to power. In Vedanta, this corresponds to the state of vijñāna-nāśa — the destruction of discriminative intelligence — which is the deepest form of spiritual bondage. Arjuna, paradoxically, can see this blindness in others but cannot yet see his own corresponding confusion.",
+        "yogananda": "Yogananda saw in this verse a profound psychological portrait of how desire corrupts perception. The Kauravas genuinely cannot see the evil in what they are doing — their vision has been so thoroughly colonized by greed that moral reality has become invisible to them. This is what Yogananda called 'māyā's deepest trick': not the manufacture of suffering but the destruction of the capacity to perceive suffering as suffering. The meditator encounters this same phenomenon in the inner life: the rajasic and tamasic tendencies of the mind do not announce themselves as distortions; they simply generate a reality in which their demands appear natural and justified. The practice of meditation gradually restores the clarity — viveka — that greed and desire have suppressed.",
+        "goyandka": "Verses 37 and 38 form a single grammatical and logical unit. Verse 37 gives the 'even if' condition — even if the Kauravas, their minds overpowered by greed, see no sin in family-destruction and friend-betrayal — and verse 38 completes it with the conclusion: why should we, who clearly see the evil, not turn away? Goyandka notes that this argument represents Arjuna at his most intellectually precise. He is not arguing from feeling alone but from principle: we who can see must act according to what we see, regardless of what those who cannot see choose to do. The tragic irony that Krishna will reveal is that Arjuna too is seeing incompletely — he sees the evil of destruction but not the evil of adharma unopposed, and he mistakes moha (delusion) for dharma (duty)."
+      }
+    },
+    {
+      "verse": 38,
+      "sanskrit": "अर्जुन उवाच ।\nकथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥",
+      "transliteration": "arjuna uvāca\nkathaṃ na jñeyam asmābhiḥ pāpād asmān nivartitum\nkula-kṣaya-kṛtaṃ doṣaṃ prapaśyadbhir janārdana",
+      "translation": "Why should we not have the wisdom to turn away from this sin, O Janardana, we who clearly see the evil created by the destruction of the family?",
+      "audio": "/assets/audio/ch01/verse_01_38.mp3",
+      "word_breakdown": [
+        {
+          "word": "कथम्",
+          "transliteration": "katham",
+          "root": "ka (interrogative root)",
+          "grammatical_form": "Interrogative adverb",
+          "meaning": "how? / why? / in what way? (rhetorical: how can it be that we do not...)"
+        },
+        {
+          "word": "ज्ञेयम्",
+          "transliteration": "jñeyam",
+          "root": "√jñā (to know)",
+          "grammatical_form": "Gerundive (future passive participle), neuter, nominative",
+          "meaning": "should be known / ought to be understood / is to be discerned"
+        },
+        {
+          "word": "निवर्तितुम्",
+          "transliteration": "nivartitum",
+          "root": "ni + √vṛt (to turn, to return)",
+          "grammatical_form": "Infinitive",
+          "meaning": "to turn back / to withdraw / to refrain / to desist"
+        },
+        {
+          "word": "प्रपश्यद्भिः",
+          "transliteration": "prapaśyadbhiḥ",
+          "root": "pra + √dṛś (to see clearly, to perceive fully)",
+          "grammatical_form": "Present participle, masculine, instrumental, plural",
+          "meaning": "by those who clearly see / by those who perceive with clarity"
+        },
+        {
+          "word": "जनार्दन",
+          "transliteration": "janārdana",
+          "root": "jana (people) + √ard (to agitate, to appeal to)",
+          "grammatical_form": "Vocative, masculine, singular (epithet of Krishna)",
+          "meaning": "O Janardana — he who is invoked by all beings; stirrer of men"
+        },
+        {
+          "word": "पापात्",
+          "transliteration": "pāpāt",
+          "root": "pāpa (sin, evil)",
+          "grammatical_form": "Noun, neuter, ablative, singular",
+          "meaning": "from sin / away from evil / from wrongdoing"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse — completing the two-verse argument — is Arjuna's most lucid moment in Chapter One. He says: we who see the evil of family-destruction, should we not know how to turn back from sin? The logic is impeccable. If knowledge entails action, and we have knowledge of the evil, then we must act on it by withdrawing. Dadaji loved this argument because it enshrines a principle he taught throughout his life: 'seeing clearly is the beginning of freedom.' The tragedy is that Arjuna's seeing, while clear in one dimension, is still partial. He sees the evil of kinship-destruction; he does not yet see the evil of allowing adharma — the Kauravas' unrighteousness — to remain unchallenged. Krishna will expand his vision to include both dimensions, and from that expanded seeing, the path of dharmic action will become clear.",
+        "sarvapriyananda": "The gerundive 'jñeyam' — that which ought to be known — is the hinge of this verse. Arjuna is invoking the obligation of knowledge: if we know something to be true, we are obligated to act accordingly. This is the foundation of all ethical reasoning. But Vedanta adds a deeper dimension: the knowledge Arjuna has is knowledge of empirical consequences (family will be destroyed, women will be corrupted, etc.). Krishna will introduce a different order of knowledge — ātma-jñāna, self-knowledge — from which action flows not from calculation of consequences but from recognition of the truth of being. Both are forms of 'seeing clearly.' But the first is the vision of the intellect, and the second is the vision of the Self. The Geeta is the teaching that makes the second available.",
+        "yogananda": "Yogananda noted the beautiful tension in Arjuna's address 'Janārdana' here — 'he who is approached by all beings in need.' Having made his case for withdrawal, Arjuna turns to the very one he is appealing to as the authority who should validate his conclusion. But the name implies that Janārdana can be approached for any need — and the need Arjuna is unaware of is not the need to retreat from the battlefield but the need for self-knowledge. Krishna, as Janārdana, will respond not to the question Arjuna thinks he is asking but to the question he is actually asking at the deepest level: 'Who am I? And what should I do, knowing who I am?' That is the real question behind the crisis, and it is the question the Geeta answers.",
+        "goyandka": "This verse completes Arjuna's formal ethical argument. Its structure is clear: (1) premise: the Kauravas are blinded by greed and cannot see the sin (verse 37); (2) conclusion: we who can see the sin have the obligation to withdraw from it (verse 38). The word 'prapaśyadbhiḥ' — 'by those who see clearly' — is Arjuna's self-description: he counts himself among the clear-sighted. The irony, which Śaṅkara and Rāmānuja both note, is that this very claim to clear-sightedness is itself a manifestation of delusion — ahaṃkāra (ego) subtly appropriating the language of wisdom. True clear-sightedness would see the necessity of acting in accordance with one's dharma; Arjuna sees only the surface dimension of the consequences. Krishna's entire teaching in Chapters 2–18 is the correction of this partial vision."
+      }
+    },
+    {
+      "verse": 39,
+      "sanskrit": "अर्जुन उवाच ।\nकुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥",
+      "transliteration": "arjuna uvāca\nkula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ\ndharme naṣṭe kulaṃ kṛtsnam adharmo 'bhibhavaty uta",
+      "translation": "With the destruction of the family, the eternal family dharmas perish; and when dharma perishes, adharma overwhelms the entire family.",
+      "audio": "/assets/audio/ch01/verse_01_39.mp3",
+      "word_breakdown": [
+        {
+          "word": "कुलक्षये",
+          "transliteration": "kula-kṣaye",
+          "root": "kula (family, lineage) + kṣaya (destruction, decay, wasting away)",
+          "grammatical_form": "Compound noun, masculine, locative, singular",
+          "meaning": "upon the destruction of the family / when the lineage is ruined"
+        },
+        {
+          "word": "कुलधर्माः",
+          "transliteration": "kula-dharmāḥ",
+          "root": "kula (family) + dharma (duty, law, right order)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "family dharmas / hereditary duties / the laws that sustain a lineage"
+        },
+        {
+          "word": "सनातनाः",
+          "transliteration": "sanātanāḥ",
+          "root": "sanātana (eternal, primordial, without beginning or end)",
+          "grammatical_form": "Adjective, masculine, nominative, plural",
+          "meaning": "eternal / primordial / that which has always been and always will be"
+        },
+        {
+          "word": "अधर्मः",
+          "transliteration": "adharmaḥ",
+          "root": "a (negative prefix) + dharma (right order, duty)",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "adharma / unrighteousness / that which opposes the natural order"
+        },
+        {
+          "word": "अभिभवति",
+          "transliteration": "abhibhavati",
+          "root": "abhi + √bhū (to overcome, to overwhelm, to overpower)",
+          "grammatical_form": "Present, 3rd person singular, active",
+          "meaning": "overwhelms / overpowers / overcomes / submerges"
+        },
+        {
+          "word": "कृत्स्नम्",
+          "transliteration": "kṛtsnam",
+          "root": "kṛtsna (whole, entire, complete)",
+          "grammatical_form": "Adjective, neuter, accusative, singular",
+          "meaning": "the entire / the whole / completely / without remainder"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here Arjuna's argument moves from the personal to the cosmic. It is no longer about his grief or his happiness; it is about dharma — the right order that sustains all life. 'Kula-dharmāḥ sanātanāḥ' — the eternal family dharmas — are not mere conventions or customs. They are the living fabric of spiritual and social continuity, the accumulated practices of righteous generations that hold communities in alignment with cosmic order. When the family is destroyed, these practices have no one to carry them forward. And when these sustaining practices perish, Arjuna observes, adharma rushes in to fill the void. The observation is historically verified and spiritually profound. Dadaji saw in this verse Arjuna acting as a genuine dharma-protector — seeing not just his own loss, but the loss to the entire fabric of righteous life.",
+        "sarvapriyananda": "The word 'sanātanāḥ' — eternal — applied to kula-dharmāḥ is significant. Arjuna is not describing these family practices as mere tradition but as eternal principles of right order, as expressions of the cosmic dharma in the human social sphere. When he says these perish with the family, he is describing a genuine metaphysical catastrophe: the disconnection of a portion of human society from the eternal order. Adharma — the prefix 'a' indicating absence or negation — is not an independent force but the condition that arises when dharma is no longer actively sustained. In Vedantic terms, darkness is not a substance; it is the absence of light. Adharma is not a thing; it is what remains when dharmic practice collapses. Arjuna, here, is making a sophisticated argument about the social ecology of righteousness.",
+        "yogananda": "The cascade described in this verse — family destroyed → eternal dharmas perish → adharma overwhelms — corresponds to what Yogananda called the 'downward spiral of consciousness' that occurs when the inner life is abandoned. Just as the outer family has its dharmas — practices, rituals, customs of reverence — so the inner family (the hierarchy of faculties: intellect, will, feeling, action) has its dharmas. When the higher faculty (discriminative intelligence) is destroyed, the lower faculties — desire, ego, appetite — are no longer governed by right order. Adharma — the unregulated condition — then overwhelms the entire being. This verse, read inwardly, describes the spiritual consequences of abandoning meditative discipline and surrendering the inner life to impulse.",
+        "goyandka": "Goyandka identifies this verse as the beginning of Arjuna's most sophisticated argument — the argument from social dharma. Having argued from personal grief (verses 28–30), from moral ethics (verses 35–38), he now argues from sociological and cosmic principle. The structure is a cascade: kula-kṣaya (family destruction) leads to kula-dharma-nāśa (loss of family dharmas) leads to adharma-ādhipatya (the reign of adharma). This is not merely Arjuna's personal concern but a description of how civilizational collapse occurs. Classical commentators note that this argument would have had particular weight in the historical and cultural context of the Mahabharata, where varṇāśrama-dharma — the system of ordered social and spiritual duties — was considered the backbone of a righteous society."
+      }
+    },
+    {
+      "verse": 40,
+      "sanskrit": "अर्जुन उवाच ।\naधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥",
+      "transliteration": "arjuna uvāca\nadharmābhibhavāt kṛṣṇa praduṣyanti kula-striyaḥ\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṃkaraḥ",
+      "translation": "When adharma overwhelms, O Krishna, the women of the family become corrupt; when women become corrupt, O Varshneya, there arises the mixing of castes.",
+      "audio": "/assets/audio/ch01/verse_01_40.mp3",
+      "word_breakdown": [
+        {
+          "word": "अधर्माभिभवात्",
+          "transliteration": "adharmābhibhavāt",
+          "root": "adharma + abhibhava (overwhelming, overpowering)",
+          "grammatical_form": "Compound noun, masculine, ablative, singular",
+          "meaning": "due to the overpowering by adharma / because of adharma's dominance"
+        },
+        {
+          "word": "प्रदुष्यन्ति",
+          "transliteration": "praduṣyanti",
+          "root": "pra + √duṣ (to be corrupted, to become impure)",
+          "grammatical_form": "Present, 3rd person plural, active",
+          "meaning": "become corrupt / become impure / deteriorate morally"
+        },
+        {
+          "word": "कुलस्त्रियः",
+          "transliteration": "kula-striyaḥ",
+          "root": "kula (family) + strī (woman)",
+          "grammatical_form": "Compound noun, feminine, nominative, plural",
+          "meaning": "the women of the family / the women of good lineage"
+        },
+        {
+          "word": "वार्ष्णेय",
+          "transliteration": "vārṣṇeya",
+          "root": "Vṛṣṇi (clan name) + eya (patronymic suffix)",
+          "grammatical_form": "Patronymic, masculine, vocative (epithet of Krishna)",
+          "meaning": "O Varshneya — Krishna as descendant of the Vrishni clan"
+        },
+        {
+          "word": "वर्णसङ्करः",
+          "transliteration": "varṇa-saṃkaraḥ",
+          "root": "varṇa (caste, color, class) + saṃkara (mixing, confusion, disorder)",
+          "grammatical_form": "Compound noun, masculine, nominative, singular",
+          "meaning": "mixing of castes / confusion of social orders / inter-mixing of varṇas"
+        },
+        {
+          "word": "जायते",
+          "transliteration": "jāyate",
+          "root": "√jan (to be born, to arise, to come into being)",
+          "grammatical_form": "Present, 3rd person singular, passive/middle",
+          "meaning": "arises / is born / comes into being / emerges"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse must be understood in its historical and scriptural context. Dadaji was careful to explain that when Arjuna speaks of 'women becoming corrupt' and 'varṇa-saṃkara,' he is not expressing contempt for women but describing the social reality of a warrior-age civilization where family lineage determined spiritual inheritance and duty. The kula-strī was the guardian of the family's sacred fire, its rituals, its ancestral practices. If the male protectors of the family are killed, she is exposed to social chaos and violation — not through her own fault but through the breakdown of protective structures. The 'corruption' Arjuna fears is a social corruption, not a moral condemnation of women. The deeper point is always the same: war destroys the social fabric within which dharmic life is possible.",
+        "sarvapriyananda": "Modern readers often find this verse challenging, and Sarvapriyananda addressed this directly: the verse reflects the social sociology of ancient India, not a timeless prescription. The logic of the argument — adharma leads to social breakdown, which manifests first among the most vulnerable members of society — is universally valid, even if the specific social structures described are historical. Varṇa-saṃkara (caste-mixing) was, in the Vedic understanding, not merely a social inconvenience but a disruption of the dharmic order in which each varṇa had specific spiritual practices and obligations. When these are mixed without the corresponding wisdom, the practices lose their efficacy. The deeper principle is: social disorder destroys the conditions necessary for spiritual practice.",
+        "yogananda": "Yogananda approached this verse allegorically: the 'women of the family' represent the feeling nature — the devotional, receptive capacities of the inner life. When adharma — the unregulated condition — prevails in the psyche, these feeling capacities are 'corrupted' — that is, they become attached to sense-objects rather than oriented toward the Divine. Varṇa-saṃkara, the confusion of spiritual functions, represents the psychic disorder in which higher faculties serve lower impulses: the intellect rationalizing desire, the will enforcing the ego's agenda, devotion directed toward worldly objects. This inner confusion — the Geeta teaches — is the true 'mixing' that produces suffering. The outer social order that Arjuna describes is real, but it is also a mirror of the inner disorder that spiritual practice is meant to resolve.",
+        "goyandka": "Goyandka provides the classical exegesis: the cascade now enters its third stage. After family destruction (verse 39) causes the loss of kula-dharmas, the resulting adharma causes the corruption of the kula-strīs — the women who were the custodians of domestic religious practices (pūjā, vrata, ancestral rites). Without male guardians and in conditions of social chaos, these practices break down, and what follows is varṇa-saṃkara — the confusion of the social-spiritual order. For the classical world, this was not merely a sociological concern but a spiritual one: varṇa determined one's dharmic obligations and the path of practice suited to one's nature. Its confusion represented a loss of spiritual direction for entire communities across generations."
+      }
+    },
+    {
+      "verse": 41,
+      "sanskrit": "अर्जुन उवाच ।\nसङ्करो नरकायैव कुलघ्नानां कुलस्य च ।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ॥",
+      "transliteration": "arjuna uvāca\nsaṃkaro narakāyaiva kula-ghnānāṃ kulasya ca\npatanti pitaro hy eṣāṃ lupta-piṇḍodaka-kriyāḥ",
+      "translation": "This mixing of castes leads to hell both for the destroyers of the family and the family itself. The ancestors of these families fall, deprived of offerings of rice-balls and water.",
+      "audio": "/assets/audio/ch01/verse_01_41.mp3",
+      "word_breakdown": [
+        {
+          "word": "सङ्करः",
+          "transliteration": "saṃkaraḥ",
+          "root": "sam + √kṛ (to mix, to mingle) — saṃkara: mixing, confusion",
+          "grammatical_form": "Noun, masculine, nominative, singular",
+          "meaning": "mixing / confusion / the disorder arising from intermingling of classes"
+        },
+        {
+          "word": "नरकाय",
+          "transliteration": "narakāya",
+          "root": "naraka (hell, infernal region — from nara: man + ka: what diminishes)",
+          "grammatical_form": "Noun, masculine, dative, singular",
+          "meaning": "for hell / leading to hell / resulting in hellish states"
+        },
+        {
+          "word": "कुलघ्नानाम्",
+          "transliteration": "kula-ghnānām",
+          "root": "kula (family) + √han (to slay) — ghna: slayer, destroyer",
+          "grammatical_form": "Compound noun, masculine, genitive, plural",
+          "meaning": "of the family-destroyers / of those who ruin their lineage"
+        },
+        {
+          "word": "पितरः",
+          "transliteration": "pitaraḥ",
+          "root": "pitṛ (father, ancestor, forebear)",
+          "grammatical_form": "Noun, masculine, nominative, plural",
+          "meaning": "ancestors / forefathers / the departed souls of the lineage"
+        },
+        {
+          "word": "लुप्तपिण्डोदकक्रियाः",
+          "transliteration": "lupta-piṇḍodaka-kriyāḥ",
+          "root": "lupta (ceased) + piṇḍa (rice-ball offering) + udaka (water) + kriyā (rite, action)",
+          "grammatical_form": "Bahuvrīhi compound, masculine, nominative, plural",
+          "meaning": "those for whom the rites of rice-ball and water have ceased / deprived of ancestral offerings"
+        },
+        {
+          "word": "पतन्ति",
+          "transliteration": "patanti",
+          "root": "√pat (to fall, to descend, to suffer a fall)",
+          "grammatical_form": "Present, 3rd person plural, active",
+          "meaning": "fall / descend / suffer spiritual downfall"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The reference to piṇḍodaka-kriyā — the ancestral rites of rice-ball and water — brings Arjuna's argument into the domain of śrāddha, the ancient practice of honoring departed souls through ritual offerings. Dadaji explained that in the Vedic understanding, the departed ancestors (pitṛs) are sustained by these offerings performed by their living descendants. This is not superstition but a recognition of the continuity of consciousness across the threshold of death, and of the living family's responsibility to that continuity. When the family-destroyers kill all the men of the lineage, there is no one left to perform these rites. The ancestors — still existing in the subtler realms — are deprived of this sustenance and 'fall.' Arjuna sees the consequences of this war extending not merely to the living but to generations of departed souls whose peace depends on the continuity of the family line.",
+        "sarvapriyananda": "This verse reveals the metaphysical scope of Arjuna's concern. He is not only mourning present deaths but worrying about the postmortem welfare of his ancestors — the pitṛs — who depend on the śrāddha rituals performed by living descendants. From the Vedantic perspective, this reflects the understanding that consciousness does not end at death but continues in subtler states, and that the actions of the living have consequences for those who have passed on. The concept of 'naraka' — hell — here is not necessarily a permanent infernal abode but the painful state of a soul deprived of the nourishment it requires for its onward journey. When the family line is destroyed and the rituals cease, the ancestors who depended on them experience a kind of spiritual poverty. Arjuna's concern for the dead, even as the living surround him ready to die, shows the full depth of his familial consciousness.",
+        "yogananda": "Yogananda interpreted 'pitaraḥ patanti' — the ancestors fall — in terms of the subtle-body tradition of yoga. The departed souls of the lineage exist in the astral world, sustained in part by the love and remembrance expressed through ritual offerings. When the rites cease — when the family that performed them is destroyed — these subtle beings lose a source of sustaining spiritual energy. In the inner reading, the 'ancestors' are the higher states of consciousness previously attained — the samādhis, the moments of divine contact — which must be regularly renewed through practice. When spiritual practice ('the family') is destroyed by inner warfare between conflicting impulses, these higher states 'fall' — they are no longer accessible, and the spiritual aspirant experiences what feels like inner emptiness and loss of connection to the Divine.",
+        "goyandka": "Goyandka provides the classical ritual context: 'piṇḍodaka-kriyā' refers to the two primary forms of ancestral offering — piṇḍa (balls of cooked rice, sesame, and honey offered at śrāddha ceremonies) and udaka (water libations offered daily). These rites were, in traditional Hindu life, among the most solemn obligations of a householder. 'Lupta' — ceased, discontinued — describes the condition of these rites when there are no surviving male descendants to perform them. The ancestors, who exist in the pitṛ-loka (the realm of ancestors) and are sustained partly by these offerings, consequently 'fall' — descend to lower states or are denied the onward movement their condition requires. Arjuna is arguing that the destruction of the family has consequences that ripple through multiple planes of existence — it is a cosmic disruption, not merely a social one."
+      }
+    },
+    {
+      "verse": 42,
+      "sanskrit": "अर्जुन उवाच ।\ndoṣair etaiḥ kula-ghnānāṃ varṇa-saṃkara-kārakaiḥ ।\nutsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ ॥",
+      "transliteration": "arjuna uvāca\ndoṣair etaiḥ kula-ghnānāṃ varṇa-saṃkara-kārakaiḥ\nutsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ",
+      "translation": "By these sins of the family-destroyers, which bring about the mixing of castes, the eternal community duties and family duties are destroyed.",
+      "audio": "/assets/audio/ch01/verse_01_42.mp3",
+      "word_breakdown": [
+        {
+          "word": "दोषैः",
+          "transliteration": "doṣaiḥ",
+          "root": "doṣa (fault, sin, moral defect)",
+          "grammatical_form": "Noun, masculine, instrumental, plural",
+          "meaning": "by these sins / by means of these faults / through these moral defects"
+        },
+        {
+          "word": "वर्णसङ्करकारकैः",
+          "transliteration": "varṇa-saṃkara-kārakaiḥ",
+          "root": "varṇa + saṃkara + √kṛ (to make, to cause) — kāraka: that which causes",
+          "grammatical_form": "Compound adjective, masculine, instrumental, plural",
+          "meaning": "which cause the mixing of castes / that bring about social-spiritual disorder"
+        },
+        {
+          "word": "उत्साद्यन्ते",
+          "transliteration": "utsādyante",
+          "root": "ut + √sad (to perish, to sink) — utsādyate: to be utterly destroyed",
+          "grammatical_form": "Present passive, 3rd person plural",
+          "meaning": "are utterly destroyed / are obliterated / are swept away completely"
+        },
+        {
+          "word": "जातिधर्माः",
+          "transliteration": "jāti-dharmāḥ",
+          "root": "jāti (birth-community, caste by birth) + dharma (duty, law, right order)",
+          "grammatical_form": "Compound noun, masculine, nominative, plural",
+          "meaning": "community duties / the duties specific to one's birth-community"
+        },
+        {
+          "word": "शाश्वताः",
+          "transliteration": "śāśvatāḥ",
+          "root": "śāśvata (eternal, perpetual, everlasting)",
+          "grammatical_form": "Adjective, masculine, nominative, plural",
+          "meaning": "eternal / everlasting / that which endures across time"
+        },
+        {
+          "word": "कुलघ्नानाम्",
+          "transliteration": "kula-ghnānām",
+          "root": "kula (family) + √han (to strike, to destroy)",
+          "grammatical_form": "Compound noun, masculine, genitive, plural",
+          "meaning": "of the family-destroyers / belonging to those who ruin the lineage"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is the culmination of Arjuna's sociological argument. The word 'śāśvatāḥ' — eternal — applied to both jāti-dharmāḥ and kula-dharmāḥ echoes the 'sanātanāḥ' of verse 39. Arjuna is making a consistent point: these duties are not human inventions or temporary conventions. They are eternal expressions of cosmic dharma in the human sphere. Their destruction is therefore not merely a social loss but a spiritual one — it severs a lineage from its connection to the eternal order. Dadaji saw in this verse a genuine understanding of dharma's function in human society: it is the structure through which the infinite expresses itself in the finite, through which the eternal is transmitted across time through the medium of family, community, and sacred practice. To destroy the family is to destroy one of the principal channels through which the divine flows into human life.",
+        "sarvapriyananda": "The distinction between 'jāti-dharma' and 'kula-dharma' is worth noting. Jāti-dharma refers to the duties common to one's birth-community — the broader social group. Kula-dharma refers to the specific duties of one's particular family lineage — the specific forms of worship, the specific ancestral practices. Both are described as 'śāśvatāḥ' — eternal. What makes them eternal is not that they will last forever in their specific form, but that they are temporal expressions of eternal principles: the principle of honoring the sacred, of maintaining right relationship between generations, of transmitting wisdom through living practice. These principles are eternal; their specific cultural forms are the vessels through which the eternal pours into time. Verse 42 is Arjuna's statement that this battle will shatter the vessel.",
+        "yogananda": "Yogananda saw in this verse the culmination of Arjuna's intuitive perception of what the battle would truly cost — not merely lives, but the entire structure of dharmic continuity. The word 'utsādyante' — utterly destroyed, obliterated — is the strongest Sanskrit term for destruction: not merely damaged or weakened, but swept away completely. This totality of destruction is what Arjuna dreads. In the inner reading, Yogananda connected this to the experience of the spiritual seeker who, having built a life of practice, faces a crisis that threatens to destroy not just current achievements but the entire framework that makes future practice possible. Krishna's answer — beginning in Chapter 2 — will reveal that what is truly eternal cannot be destroyed by any battle, outer or inner, because the Self is beyond all forms of destruction.",
+        "goyandka": "Goyandka notes that this verse closes the formal argument of verses 39–42, which has traced the cascade: family destruction → loss of kula-dharmas → adharma's dominance → corruption of women → varṇa-saṃkara → naraka for family-destroyers → fall of ancestors → destruction of jāti-dharmas and kula-dharmās. Each step follows from the previous with the internal logic of a dharmaśāstra argument. Arjuna has demonstrated, to his own satisfaction, that the consequences of this battle will be catastrophic across every dimension of existence — social, spiritual, ancestral, and cosmic. What he cannot yet see — and what Krishna will reveal beginning in verse 2.11 — is that this entire argument rests on a fundamental misidentification: the assumption that the Self is the body, that death is real, and that these temporal social structures are the ultimate containers of the eternal."
+      }
+    }
+  ]
+}

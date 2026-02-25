@@ -1,0 +1,505 @@
+{
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 21,
+      "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम् ।\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम् ॥",
+      "transliteration": "vedāvināśinaṃ nityaṃ ya enam ajam avyayam\nkathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam",
+      "translation": "He who knows this Self to be indestructible, eternal, unborn, and undying — how can such a person slay anyone, O Partha? Whom does he cause to be slain?",
+      "audio": "/assets/audio/ch02/verse_02_21.mp3",
+      "word_breakdown": [
+        {
+          "word": "अविनाशिनम्",
+          "transliteration": "avināśinam",
+          "root": "a + vi + √naś (to perish)",
+          "grammatical_form": "Adjective, accusative, masculine singular",
+          "meaning": "indestructible / imperishable"
+        },
+        {
+          "word": "अजम्",
+          "transliteration": "ajam",
+          "root": "a + √jan (to be born)",
+          "grammatical_form": "Adjective, accusative, masculine singular",
+          "meaning": "unborn / without origin"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "root": "a + vi + √i (to go) → avyaya",
+          "grammatical_form": "Adjective, accusative, masculine singular",
+          "meaning": "undecaying / immutable / inexhaustible"
+        },
+        {
+          "word": "घातयति",
+          "transliteration": "ghātayati",
+          "root": "√han (to strike/slay), causative",
+          "grammatical_form": "Verb, causative, present, third person singular",
+          "meaning": "causes to be slain / has another kill"
+        },
+        {
+          "word": "हन्ति",
+          "transliteration": "hanti",
+          "root": "√han (to strike/slay)",
+          "grammatical_form": "Verb, present, third person singular",
+          "meaning": "slays / kills directly"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would pause here with a gentle smile and ask: 'If you truly knew who you are, could you ever fear killing or being killed?' This verse is not permission for violence — it is a radical dissolution of the very premise behind violence. The one who knows the Self as indestructible cannot be a real killer, because the Self in every being is unkillable. Krishna distinguishes between ghātayati — causing another to be the instrument of death — and hanti — the direct act of slaying. Both are questioned. The wise man who sees the deathless Atman everywhere is beyond this duality. Dadaji taught that this knowing is not intellectual but a lived realization — the fruit of years of sincere practice and surrender to God.",
+        "sarvapriyananda": "Swami Sarvapriyananda draws attention to the logical structure here. Krishna has established in the preceding verses what the Self is: nityaṃ (eternal), ajam (unborn), avyayam (immutable). Now he draws the ethical consequence: if this is the nature of the Self, the very concepts of slayer and slain become meaningless at the level of ultimate reality. This is not moral relativism — it is metaphysical precision. The person who has this knowledge (veda — he knows) operates from a plane where birth and death are merely appearances. The Vedantic teaching here is that the real subject — the witness-consciousness — is never an agent. Agency belongs to the body-mind complex, not to Atman.",
+        "yogananda": "Yogananda sees this verse as the crowning logical argument of the immortality teaching. Once you truly perceive the Atman as ajam (unborn) and avyayam (undecaying), the very grammar of violence collapses. Who is the killer? Who is the killed? These pronouns point to bodies, not to the Self. The question 'whom does he cause to be slain?' is not rhetorical sophistry — it is an invitation to look directly at what is real. In the inner life, this verse teaches that the meditator who contacts the deathless Self within can never again be fully enslaved by fear. Fear is always fear of death. To know the deathless is to dissolve fear at its very root.",
+        "goyandka": "Goyandka presents this verse as the practical culmination of the knowledge of the Atman's nature. The four qualities — avināśinam (indestructible), nityam (eternal), ajam (unborn), avyayam (immutable) — established in the preceding verses are now applied. The one with this knowledge (ya enam veda) is established in tattva-jñāna (knowledge of reality). From that standpoint, the body's apparent death is no more real than the changing of clothes. Krishna addresses Arjuna as Pārtha — son of Pṛthā — invoking his noble birth and thus his responsibility to act from the highest understanding rather than from bodily identification and sentimental attachment to form."
+      }
+    },
+    {
+      "verse": 22,
+      "sanskrit": "वासांसि जीर्णानि यथा विहाय\nनवानि गृह्णाति नरोऽपराणि ।\nतथा शरीराणि विहाय जीर्णा-\nन्यन्यानि संयाति नवानि देही ॥",
+      "transliteration": "vāsāṃsi jīrṇāni yathā vihāya\nnavāni gṛhṇāti naro 'parāṇi\ntathā śarīrāṇi vihāya jīrṇāny\nanyāni saṃyāti navāni dehī",
+      "translation": "Just as a person puts on new garments, giving up old and worn-out ones — so the embodied Self casts off worn-out bodies and takes on others that are new.",
+      "audio": "/assets/audio/ch02/verse_02_22.mp3",
+      "word_breakdown": [
+        {
+          "word": "वासांसि",
+          "transliteration": "vāsāṃsi",
+          "root": "vāsas (garment/cloth)",
+          "grammatical_form": "Noun, neuter, nominative/accusative plural",
+          "meaning": "garments / clothes"
+        },
+        {
+          "word": "जीर्णानि",
+          "transliteration": "jīrṇāni",
+          "root": "√jṝ (to become old, to decay)",
+          "grammatical_form": "Past participle, accusative, neuter plural",
+          "meaning": "worn-out / old and tattered / decayed"
+        },
+        {
+          "word": "विहाय",
+          "transliteration": "vihāya",
+          "root": "vi + √hā (to abandon, to leave)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having given up / having discarded"
+        },
+        {
+          "word": "देही",
+          "transliteration": "dehī",
+          "root": "deha (body) + suffix -in",
+          "grammatical_form": "Noun/adjective, masculine, nominative singular",
+          "meaning": "the embodied one / the Self that dwells in the body"
+        },
+        {
+          "word": "संयाति",
+          "transliteration": "saṃyāti",
+          "root": "sam + √yā (to go)",
+          "grammatical_form": "Verb, present, third person singular",
+          "meaning": "enters / goes into / takes on"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is the verse Dadaji returned to again and again when those he loved passed from the body. He would recite it slowly, letting each word fall like a quiet balm. The analogy is so natural, so utterly human — every one of us has worn out old clothes and put on new ones without a moment's grief. Why, then, do we grieve the changing of the body's 'garment'? He taught that the dehī — the one who wears the body — is eternal and untouched. The body is borrowed, like festival clothes worn for a season. To weep for the worn-out garment while the one wearing it lives on is a confusion that wisdom dissolves. This verse, Dadaji said, is the most merciful verse in all of scripture.",
+        "sarvapriyananda": "The garment analogy (vāsāṃsi) is one of the Gītā's most celebrated upamās (similes). Its elegance lies in its accessibility — even a child understands changing clothes. Krishna maps the analogy with precision: nara (the person) : dehī (the embodied Self); vāsāṃsi jīrṇāni (old garments) : śarīrāṇi jīrṇāni (worn-out bodies); navāni gṛhṇāti (takes new ones) : anyāni saṃyāti navāni (goes to new bodies). The parallel is exact. Vedanta teaches that the Self is the witness of all these changes. Just as the person who changes clothes is not the clothes, the Atman is not the body. Death is merely the cosmic wardrobe change.",
+        "yogananda": "Yogananda loved this verse for its power to dissolve the terror of death. He taught that the soul, like a traveler who has worn a cloak thin with use, simply lays it aside and puts on a new one fitted to its next journey. The analogy also carries a deeper teaching: the quality of the next garment — the next body — depends on the spiritual evolution attained. The soul that has purified itself through meditation and devotion takes on a subtler, more luminous garment. The soul still bound by karma takes on what its accumulated patterns require. Death need not be feared; it is the moment of changing costume before the next act of the divine drama.",
+        "goyandka": "Goyandka examines this verse as the most illustrative of Krishna's pedagogical method: moving from the known to the unknown. Every human being knows the act of discarding worn garments and wearing new ones. The śarīra (body) is presented as precisely analogous — a vesture, a covering, an instrument temporarily assumed by the dehī (the indwelling Self). The word jīrṇa applies to both: the garment wears out through use, the body wears out through age and disease. The Self, however, is not subject to jīrṇatva (decay). Goyandka emphasizes that reincarnation is not a punishment or a reward but a natural transition — as natural as changing one's clothes at the end of the day."
+      }
+    },
+    {
+      "verse": 23,
+      "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥",
+      "transliteration": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ\nna cainaṃ kledayanty āpo na śoṣayati mārutaḥ",
+      "translation": "Weapons cannot cut it, fire cannot burn it, water cannot wet it, and wind cannot dry it.",
+      "audio": "/assets/audio/ch02/verse_02_23.mp3",
+      "word_breakdown": [
+        {
+          "word": "शस्त्राणि",
+          "transliteration": "śastrāṇi",
+          "root": "śastra (weapon, instrument of slaying)",
+          "grammatical_form": "Noun, neuter, nominative plural",
+          "meaning": "weapons / bladed instruments"
+        },
+        {
+          "word": "पावकः",
+          "transliteration": "pāvakaḥ",
+          "root": "√pū (to purify) → pāvaka (the purifier)",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "fire / Agni, the purifying one"
+        },
+        {
+          "word": "क्लेदयन्ति",
+          "transliteration": "kledayanti",
+          "root": "√klid (to become wet), causative",
+          "grammatical_form": "Verb, causative, present, third person plural",
+          "meaning": "wet / moisten / make damp"
+        },
+        {
+          "word": "आपः",
+          "transliteration": "āpaḥ",
+          "root": "āp (water, the waters)",
+          "grammatical_form": "Noun, feminine, nominative plural",
+          "meaning": "waters / water as element"
+        },
+        {
+          "word": "मारुतः",
+          "transliteration": "mārutaḥ",
+          "root": "Marut (wind-deity)",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "wind / Vayu, the wind-god"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would recite this verse in his quiet voice and then sit in silence. The four great elements — earth's weapons, fire, water, wind — are the very fabric of the material universe. And yet none of them can touch the Atman. How extraordinary that the Self, which seems so fragile when clothed in flesh, is in truth invulnerable to everything the world contains. He taught that this is not mythology but lived experience: in the deepest states of meditation, one glimpses a presence that is untouched by heat or cold, by love or loss, by praise or blame. That presence is the Self. Once you have tasted it, even briefly, fear loses its grip forever.",
+        "sarvapriyananda": "This verse deploys the four classical elements recognized in Indian cosmology — earth (implied by śastra, the metal of weapons), fire (pāvaka), water (āpaḥ), and wind (mārutaḥ) — and declares the Atman beyond all of them. This is philosophically precise: the Atman is not composed of the pañcabhūtas (five elements), so the agents of these elements have no purchase on it. Śaṅkarācārya notes that the verse addresses both the gross body's instruments of destruction (weapons) and the subtle elements (fire, water, wind). The repetition of na (not) four times — nainaṃ... nainaṃ... na cainaṃ... na — creates an emphatic fourfold negation that is among the most powerful in all of Sanskrit literature.",
+        "yogananda": "Yogananda saw this verse as the cornerstone of fearlessness. He taught that the yogi who meditates deeply begins to experience the Atman as a field of pure awareness — witnessing but never touched by the body's sensations. Cold does not truly enter it; heat does not scorch it; grief does not saturate it. These are experiences of the body and the nervous system, not of the Self. The advanced meditator learns to remain in this inner center even while the body goes through its changes. This is the practical meaning of the verse: not a doctrine to be believed but a state to be realized through sustained inner practice and longing for the Divine.",
+        "goyandka": "Goyandka approaches this verse as a systematic refutation of materialism regarding the Self. Each element represents a mode of physical destruction: weapons represent mechanical force (bhedana — cleaving), fire represents thermal destruction (dahana — burning), water represents dissolution (kledana — wetting/dissolving), and wind represents desiccation (śoṣana — drying out). The Atman is immune to all four modes. This is because the Atman is nirguṇa — without the guṇas (qualities of prakṛti) that make material things susceptible to these forces. What has no material composition cannot be materially destroyed. This verse should fill the aspirant with awe and deep reassurance about the nature of the Self."
+      }
+    },
+    {
+      "verse": 24,
+      "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च ।\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ॥",
+      "transliteration": "acchedyo 'yam adāhyo 'yam akledyo 'śoṣya eva ca\nnityaḥ sarva-gataḥ sthāṇur acalo 'yaṃ sanātanaḥ",
+      "translation": "This Self is uncleavable, it cannot be burned, it cannot be wetted, it cannot be dried — it is eternal, all-pervading, stable, immovable, and primordially existing.",
+      "audio": "/assets/audio/ch02/verse_02_24.mp3",
+      "word_breakdown": [
+        {
+          "word": "अच्छेद्यः",
+          "transliteration": "acchedyaḥ",
+          "root": "a + √chid (to cut/cleave)",
+          "grammatical_form": "Gerundive with negative prefix, nominative, masculine",
+          "meaning": "that which cannot be cut / uncleavable"
+        },
+        {
+          "word": "सर्वगतः",
+          "transliteration": "sarva-gataḥ",
+          "root": "sarva (all) + √gam (to go) → gata (gone/pervading)",
+          "grammatical_form": "Compound adjective, nominative, masculine singular",
+          "meaning": "all-pervading / present everywhere"
+        },
+        {
+          "word": "स्थाणुः",
+          "transliteration": "sthāṇuḥ",
+          "root": "√sthā (to stand) → sthāṇu (a post, immovable)",
+          "grammatical_form": "Noun used as adjective, nominative, masculine singular",
+          "meaning": "stable / firm like a pillar / immovable post"
+        },
+        {
+          "word": "अचलः",
+          "transliteration": "acalaḥ",
+          "root": "a + √cal (to move)",
+          "grammatical_form": "Adjective, nominative, masculine singular",
+          "meaning": "unmoved / without motion / absolutely still"
+        },
+        {
+          "word": "सनातनः",
+          "transliteration": "sanātanaḥ",
+          "root": "sanā (from of old) + tana (extended) → sanātana",
+          "grammatical_form": "Adjective, nominative, masculine singular",
+          "meaning": "eternal / primordially existing / from the beginningless past"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Verse 23 told us what cannot harm the Self; verse 24 now tells us what the Self positively is — and the list is magnificent. Nityaḥ: it never started, so it can never stop. Sarva-gataḥ: it is everywhere, so it can never be lost. Sthāṇuḥ: firm as a pillar, unshaken by any storm. Acalaḥ: utterly still within, even as the world rushes past. Sanātanaḥ: older than time itself. Dadaji used to say that when a person truly absorbs these seven qualities into their heart — not as philosophy but as recognition of their own deepest nature — a great rest comes over them. The restlessness of the ego, the seeking and fearing, begins to quiet. This verse is a portrait of what you truly are, beneath all the noise.",
+        "sarvapriyananda": "This verse is the positive counterpart to verse 23's fourfold negation. There, Krishna says what cannot affect the Atman. Here, he says what the Atman is. Seven qualities are listed: acchedya, adāhya, akledya, aśoṣya (the four negatives from v.23 restated as compound adjectives), then nityaḥ, sarva-gataḥ, sthāṇuḥ, acalaḥ, and sanātanaḥ. Note the pair sthāṇuḥ (stable, like a fixed post) and acalaḥ (without movement) — these are not identical. Sthāṇu emphasizes structural stability; acala emphasizes dynamic stillness. The Atman is not merely stable because nothing pushes it — it is intrinsically, constitutively unmoving. Sanātana — primordially ancient — is the word from which 'Sanātana Dharma' (the eternal religion) takes its name.",
+        "yogananda": "Yogananda meditates on sarva-gataḥ — all-pervading — as the quality that makes the Atman simultaneously one's innermost Self and the Self of all beings. When the meditator breaks through the surface of individual consciousness in deep samādhi, what is discovered is not a separate personal soul but a boundless ocean of awareness that interpenetrates everything. This is sarva-gataḥ — gone into all, pervading all. The stillness described as sthāṇuḥ and acalaḥ is not the stillness of absence but the stillness of infinite fullness — like the ocean in its depths, unshaken beneath its own waves. Sanātanaḥ connects the individual Atman to the primordial Being — Brahman — that existed before the first vibration of creation.",
+        "goyandka": "Goyandka carefully analyzes the relationship between verses 23 and 24. Verse 23 establishes the Self's imperviousness through description of actions that fail: weapons cannot cut, fire cannot burn, and so on. Verse 24 reaffirms these as essential qualities — not contingent facts — using the gerundive form with the negative prefix: acchedyaḥ (that which is by nature uncuttable), adāhyaḥ (that which is by nature unburnable). The verse then adds five positive attributes: nityaḥ (eternal — transcending time), sarva-gataḥ (omnipresent — transcending space), sthāṇuḥ (stable — unchanging in relation to things), acalaḥ (immovable — unaffected by any force), sanātanaḥ (primordially existing — without beginning or cause). This sevenfold description is among the most complete ontological accounts of Brahman-Atman in the Upaniṣadic tradition."
+      }
+    },
+    {
+      "verse": 25,
+      "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते ।\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ॥",
+      "transliteration": "avyakto 'yam acintyo 'yam avikāryo 'yam ucyate\ntasmād evaṃ viditvainaṃ nānuśocitum arhasi",
+      "translation": "This Self is said to be unmanifest, unthinkable, and unchangeable. Therefore, knowing it thus, you ought not to grieve.",
+      "audio": "/assets/audio/ch02/verse_02_25.mp3",
+      "word_breakdown": [
+        {
+          "word": "अव्यक्तः",
+          "transliteration": "avyaktaḥ",
+          "root": "a + vi + √añj (to manifest) → avyakta",
+          "grammatical_form": "Adjective, nominative, masculine singular",
+          "meaning": "unmanifest / not perceivable by the senses"
+        },
+        {
+          "word": "अचिन्त्यः",
+          "transliteration": "acintyaḥ",
+          "root": "a + √cit (to think) → acintya",
+          "grammatical_form": "Gerundive with negative prefix, nominative, masculine",
+          "meaning": "unthinkable / beyond the reach of the mind"
+        },
+        {
+          "word": "अविकार्यः",
+          "transliteration": "avikāryaḥ",
+          "root": "a + vi + √kṛ (to make/change) → avikārya",
+          "grammatical_form": "Gerundive with negative prefix, nominative, masculine",
+          "meaning": "unchangeable / without modification / immutable"
+        },
+        {
+          "word": "विदित्वा",
+          "transliteration": "viditvā",
+          "root": "√vid (to know)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having known / after knowing / upon understanding"
+        },
+        {
+          "word": "अनुशोचितुम्",
+          "transliteration": "anuśocitum",
+          "root": "anu + √śuc (to grieve/mourn)",
+          "grammatical_form": "Infinitive",
+          "meaning": "to grieve / to mourn / to sorrow after"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Three final qualities — avyakta, acintya, avikārya — and then the conclusion arrives: 'therefore, you ought not to grieve.' Dadaji found great beauty in the word ucyate — 'it is said to be.' It is a reminder of the lineage: this wisdom did not originate with Krishna alone; it is the accumulated testimony of all the seers who glimpsed the Self and returned to say what they had seen. Avyakta: it cannot be seen with the eyes. Acintya: it cannot be captured by thought — the very organ we normally use to understand has no grip here. Avikārya: it never changes. And so, to grieve for it is to have confused it with something entirely other than what it is. Knowing this rightly — evaṃ viditvā — grief becomes simply impossible.",
+        "sarvapriyananda": "Swami Sarvapriyananda highlights the epistemological progression in this verse. Having established what the Atman is (eternal, all-pervading, stable) in v.24, Krishna now addresses how it is known — or rather, how it cannot ordinarily be known. Avyakta: it does not manifest to the sense organs (indriya). Acintya: it cannot be an object of thought (manas, buddhi). Avikārya: it admits no modification that would allow it to be traced through change. These three qualities map onto the three instruments of ordinary knowing: perception (for the visible), inference (for the thinkable), and analogy through change. The Atman transcends all three. It is known only through the Upaniṣadic testimony (śabda-pramāṇa) and the direct experiential realization it points toward.",
+        "yogananda": "Yogananda emphasizes acintya — beyond thought — as the most practically important of the three qualities in this verse. He taught that the mind, by its very nature, can only grasp objects. The Atman is the subject — the pure knower — and can never become an object of knowing in the ordinary sense. This is why meditation must ultimately move beyond thought: the meditator has to let go even of subtle concepts and rest in pure awareness. Avyakta means it cannot be seen; acintya means it cannot be thought; avikārya means it has no history, no story, no change to track. Yet it is the most real thing that exists. Yoga is the art of knowing the unknowable — not by grasping but by becoming.",
+        "goyandka": "Goyandka notes that this verse completes the cycle of teaching about the Atman's nature that began at verse 17. The Atman has now been described as avināśī (indestructible), nitya (eternal), aja (unborn), avyaya (immutable), acchedya, adāhya, akledya, aśoṣya (four imperviousness qualities), sarva-gata (omnipresent), sthāṇu (stable), acala (immovable), sanātana (primordial), and now avyakta (unmanifest), acintya (unthinkable), avikārya (unchangeable). The cumulative force of all these qualities — conveying what the Atman is not and what it positively is — leads to the inescapable practical conclusion: tasmāt nānuśocitum arhasi — 'therefore you ought not to grieve.' The teaching is complete. Grief is revealed as a cognitive error rooted in identification with the perishable."
+      }
+    },
+    {
+      "verse": 26,
+      "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।\nतथापि त्वं महाबाहो नैवं शोचितुमर्हसि ॥",
+      "transliteration": "atha cainaṃ nitya-jātaṃ nityaṃ vā manyase mṛtam\ntathāpi tvaṃ mahā-bāho naivaṃ śocitum arhasi",
+      "translation": "Even if you think that the Self is perpetually born and perpetually dies — even then, O mighty-armed, you should not grieve for it.",
+      "audio": "/assets/audio/ch02/verse_02_26.mp3",
+      "word_breakdown": [
+        {
+          "word": "नित्यजातम्",
+          "transliteration": "nitya-jātam",
+          "root": "nitya (always/eternal) + √jan (to be born)",
+          "grammatical_form": "Compound, accusative, neuter singular",
+          "meaning": "perpetually born / being born again and again"
+        },
+        {
+          "word": "मन्यसे",
+          "transliteration": "manyase",
+          "root": "√man (to think, to believe)",
+          "grammatical_form": "Verb, present, second person singular, middle voice",
+          "meaning": "you believe / you suppose / you think"
+        },
+        {
+          "word": "मृतम्",
+          "transliteration": "mṛtam",
+          "root": "√mṛ (to die)",
+          "grammatical_form": "Past participle, accusative, neuter singular",
+          "meaning": "dead / one who has died / dying"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "mahā-bāho",
+          "root": "mahā (great) + bāhu (arm)",
+          "grammatical_form": "Compound noun, vocative, masculine singular",
+          "meaning": "O mighty-armed one — epithet of Arjuna"
+        },
+        {
+          "word": "तथापि",
+          "transliteration": "tathāpi",
+          "root": "tathā (thus/even so) + api (even/also)",
+          "grammatical_form": "Conjunctive adverb",
+          "meaning": "even so / nevertheless / even then"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here Krishna does something remarkable — he concedes the opposing philosophical position and shows that grief is unreasonable even from that standpoint. 'Even if you insist on believing in perpetual birth and death,' he says, 'even then, grief does not make sense.' Dadaji admired this move deeply. A wise teacher does not demand that the student first accept the entire philosophy before the teaching becomes useful. The address mahā-bāho — O mighty-armed — is significant: it is a reminder of Arjuna's inherent strength and greatness, a call to live up to who he truly is. Even on purely conventional grounds — even accepting the cycle of perpetual birth and death — constant grief for what must always happen is not a worthy response for such a one.",
+        "sarvapriyananda": "This verse introduces a rhetorical strategy called tarka or hypothetical concession. Krishna says: 'Even if you don't accept my Vedantic position — even if you hold the Sāṃkhya view that the jīva is perpetually born and perpetually dies — the conclusion remains the same: grief is not warranted.' This is intellectually generous. The Gītā's teaching is strong enough that it does not depend on the listener first accepting its metaphysical premises. The word nitya-jātam (perpetually born) and nityaṃ mṛtam (perpetually dying) may also be a deliberate refutation of the Cārvāka materialist view that consciousness is produced anew each life and dies with the body. Even granting such a view, perpetual mourning for a perpetual process is irrational.",
+        "yogananda": "Yogananda sees this verse as Krishna's compassion for all spiritual levels. For the devotee who has not yet realized the Atman's immortality, Krishna offers a second line of reasoning: even if birth and death are a constant cycle, they are a cycle — not a tragedy. Grief implies that something has gone permanently wrong. But if dying is as natural and constant as breathing, why weep at any single breath? Yogananda taught that this verse is for those who are not yet ready to leap to the highest Vedantic view — it meets the student where they are and shows that peace is accessible from there too. The compassionate guru finds a path for every seeker.",
+        "goyandka": "Goyandka notes that Krishna here employs a logical device: he presents the adversary's position (the belief in perpetual birth and death, possibly the view of the Mīmāṃsakas or materialists) and demonstrates that even this view does not support grief. The argument is: if the jīva is born perpetually (nitya-jātam) and dies perpetually (nityaṃ mṛtam), then birth and death are simply the natural condition of existence — a law, not a loss. To grieve is to wish that a universal law were otherwise, which is futile. What is inevitable and universal cannot serve as a rational ground for personal sorrow. The practical conclusion — naivaṃ śocitum arhasi — is the same whether one accepts Vedānta or not."
+      }
+    },
+    {
+      "verse": 27,
+      "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥",
+      "transliteration": "jātasya hi dhruvo mṛtyur dhruvaṃ janma mṛtasya ca\ntasmād aparihārye 'rthe na tvaṃ śocitum arhasi",
+      "translation": "For whoever is born, death is certain; and for whoever has died, birth is certain. Therefore, what is inevitable should not be a cause of grief.",
+      "audio": "/assets/audio/ch02/verse_02_27.mp3",
+      "word_breakdown": [
+        {
+          "word": "ध्रुवः",
+          "transliteration": "dhruvaḥ",
+          "root": "√dhṛ (to hold) → dhruva (the fixed, certain)",
+          "grammatical_form": "Adjective, nominative, masculine singular",
+          "meaning": "certain / fixed / inevitable / the Pole Star (by extension)"
+        },
+        {
+          "word": "मृत्युः",
+          "transliteration": "mṛtyuḥ",
+          "root": "√mṛ (to die) → mṛtyu",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "death / the god of death / dissolution of the body"
+        },
+        {
+          "word": "जातस्य",
+          "transliteration": "jātasya",
+          "root": "√jan (to be born) → jāta",
+          "grammatical_form": "Past participle, genitive, masculine singular",
+          "meaning": "of the one who is born / for the born one"
+        },
+        {
+          "word": "अपरिहार्ये",
+          "transliteration": "aparihārye",
+          "root": "a + pari + √hṛ (to remove) → aparihārya",
+          "grammatical_form": "Adjective, locative, neuter singular",
+          "meaning": "in what is unavoidable / for the inevitable"
+        },
+        {
+          "word": "अर्थे",
+          "transliteration": "arthe",
+          "root": "artha (matter, purpose, meaning)",
+          "grammatical_form": "Noun, locative, neuter singular",
+          "meaning": "in this matter / concerning this thing / in this affair"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse states a truth so simple and universal that its very simplicity is startling. Death follows birth as night follows day. And birth follows death — because the Self, having vacated one form, will take another. This is the wheel, and the wheel turns without exception. Dadaji used to say: 'We grieve as if death were an injustice done to a specific person. But death is the most democratic of laws — it comes to all, makes no distinctions, and arrives exactly on time.' The word dhruvaḥ — certain, fixed — is the same root as Dhruva, the North Star, the most fixed point in the sky. Death is that fixed. And therefore, said Dadaji, our energy is far better spent on living rightly than on grieving for what cannot be otherwise.",
+        "sarvapriyananda": "Swami Sarvapriyananda calls this verse an example of anvaya-vyatireka logic: if born, then necessarily death (anvaya: positive correlation); if dead, then necessarily rebirth (vyatireka: the correlative). This is presented not as theology but as observable fact. The word aparihārye arthe — 'in the matter of the unavoidable' — is the philosophical key. The Nyāya school teaches that grief is a mental state (mānasika duḥkha) which is justified only when grief might alter the outcome or when it honors a genuine loss. But when the outcome is absolutely fixed — dhruva — grief is both ineffective and irrational. It adds suffering without serving any purpose. Krishna's compassion here is not to deny the reality of birth and death but to question whether grief in their face is a sane response.",
+        "yogananda": "Yogananda meditates on the word dhruva — the fixed, the certain — and notes that this certainty, far from being a cause of despair, can be a source of profound peace. The yogi who truly knows that death is certain lives differently: not in dread, but in an urgency of love. Every moment becomes precious, not because it is scarce, but because it is real. And knowing that birth follows death — that the soul's journey continues — removes the weight of finality. Yogananda taught that the properly prepared meditator can actually experience the transition of death consciously — moving from one garment to another with full awareness, without the darkness of unconscious forgetting that ordinary death brings.",
+        "goyandka": "Goyandka emphasizes the phrase aparihārye arthe — 'in a matter that is unavoidable.' He notes that śāstra (scriptural wisdom) consistently teaches that grief is appropriate only when it can serve a purpose: when it motivates a person to remove the cause of suffering. But where the cause is aparihārya — absolutely unavoidable, by the very law of manifest existence — grief is simply suffering added to suffering, pain compounded without benefit. The wheel of birth and death (janna-maraṇa cakra) turns by the law of karma and māyā. Only jñāna (knowledge of the Atman) and ultimately liberation (mokṣa) can take one beyond this wheel — but that is a matter of living rightly and seeking wisdom, not of mourning."
+      }
+    },
+    {
+      "verse": 28,
+      "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत ।\nअव्यक्तनिधनान्येव तत्र का परिदेवना ॥",
+      "transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata\navyakta-nidhanāny eva tatra kā paridevanā",
+      "translation": "Beings are unmanifest in their beginning, manifest in the middle state, and again unmanifest at the end — what is there to lament, O Bharata?",
+      "audio": "/assets/audio/ch02/verse_02_28.mp3",
+      "word_breakdown": [
+        {
+          "word": "अव्यक्तादीनि",
+          "transliteration": "avyaktādīni",
+          "root": "avyakta (unmanifest) + ādi (beginning)",
+          "grammatical_form": "Compound adjective, nominative, neuter plural",
+          "meaning": "having the unmanifest as their beginning / unmanifest at the start"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhūtāni",
+          "root": "√bhū (to be/become) → bhūta",
+          "grammatical_form": "Noun, neuter, nominative plural",
+          "meaning": "beings / creatures / those that have come into existence"
+        },
+        {
+          "word": "व्यक्तमध्यानि",
+          "transliteration": "vyakta-madhyāni",
+          "root": "vyakta (manifest) + madhya (middle)",
+          "grammatical_form": "Compound adjective, nominative, neuter plural",
+          "meaning": "having the manifest as their middle / perceivable in the middle period"
+        },
+        {
+          "word": "निधनानि",
+          "transliteration": "nidhanāni",
+          "root": "ni + √dhā (to place) → nidhana (end, dissolution)",
+          "grammatical_form": "Noun, neuter, nominative plural (here in compound)",
+          "meaning": "end / dissolution / death / cessation"
+        },
+        {
+          "word": "परिदेवना",
+          "transliteration": "paridevanā",
+          "root": "pari + √div (to lament) → paridevanā",
+          "grammatical_form": "Noun, feminine, nominative singular",
+          "meaning": "lamentation / wailing / mourning / grief"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse gave Dadaji immense peace during times of loss. Beings come from the unmanifest, live briefly in the visible world, and return to the unmanifest — like waves rising from the ocean, remaining briefly visible, and sinking back. The wave is not destroyed; the water has simply returned to the sea. Where then is there cause for paridevanā — that particular word for wailing grief, the most demonstrative and outward form of mourning? The manifest phase — this life — is the middle term, brief and precious. Before birth, the being was avyakta; after death, it returns to avyakta. Only the middle is visible to us, and because it is visible, we mistakenly think it is the whole story. Wisdom sees the full arc — and rests in peace.",
+        "sarvapriyananda": "Swami Sarvapriyananda points out that this verse introduces a temporal argument to complement the metaphysical ones of the preceding verses. Here the focus is not on the nature of the Atman but on the nature of bhūtāni — all beings as experienced in time. The structure is a perfect triptych: unmanifest (avyakta) → manifest (vyakta) → unmanifest (avyakta). The manifest phase is sandwiched between two unmanifest phases. From the standpoint of Advaita, this reflects the cosmological cycle of creation: Brahman manifests as the universe (sṛṣṭi), sustains it (sthiti), and dissolves it back into itself (laya). Individual life mirrors the cosmic cycle. The question tatra kā paridevanā — 'what lamentation is fitting there?' — is not rhetorical dismissal of grief; it is a genuine inquiry into what reality justifies mourning.",
+        "yogananda": "Yogananda connects this verse to the mystery of consciousness between lives. In the avyakta state before birth and after death, the soul does not cease to exist — it rests in a subtle realm, reviewing the previous life, preparing for the next. Yogananda wrote extensively about this interlife state, drawing on both scriptural testimony and the reported experiences of advanced meditators. The manifest middle — this earthly life — is the school, the period of active learning and karma-making. But it is bracketed by the vast, quiet, unmanifest realm that is the soul's true home. Understanding this, the yogi does not cling to the middle period with desperate attachment, nor dread its ending.",
+        "goyandka": "Goyandka notes that this verse presents what could be called the 'law of manifestation': all beings emerge from the avyakta (the unmanifest field of prakṛti or Brahman), take form in the manifest world for a time, and return to the avyakta. This is not a theological claim requiring faith — it is a description of the observable rhythm of all existence. Seeds lie hidden, sprout into plants, and return to earth. The question kā paridevanā — what is the occasion for lamentation? — invites the aspirant to examine whether grief, however natural it feels, is actually well-founded. When the return to the unmanifest is the natural completion of the cycle rather than a deviation from it, grief is revealed as arising from a limited perspective — the perspective of one who sees only the manifest middle."
+      }
+    },
+    {
+      "verse": 29,
+      "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेन-\nमाश्चर्यवद्वदति तथैव चान्यः ।\nआश्चर्यवच्चैनमन्यः शृणोति\nश्रुत्वाप्येनं वेद न चैव कश्चित् ॥",
+      "transliteration": "āścarya-vat paśyati kaścid enam\nāścarya-vad vadati tathaiva cānyaḥ\nāścarya-vac cainam anyaḥ śṛṇoti\nśrutvāpy enaṃ veda na caiva kaścit",
+      "translation": "One sees this Self as a wonder; another speaks of it as a wonder; another hears of it as a wonder — yet even having heard, no one truly knows it.",
+      "audio": "/assets/audio/ch02/verse_02_29.mp3",
+      "word_breakdown": [
+        {
+          "word": "आश्चर्यवत्",
+          "transliteration": "āścarya-vat",
+          "root": "āścarya (wonder, marvel) + vat (suffix: like, in the manner of)",
+          "grammatical_form": "Adverb (formed from noun with -vat suffix)",
+          "meaning": "like a wonder / as something marvelous / with astonishment"
+        },
+        {
+          "word": "पश्यति",
+          "transliteration": "paśyati",
+          "root": "√paś (to see / to perceive directly)",
+          "grammatical_form": "Verb, present, third person singular",
+          "meaning": "sees / directly perceives / beholds"
+        },
+        {
+          "word": "कश्चित्",
+          "transliteration": "kaścit",
+          "root": "ka (who) + cit (enclitic particle)",
+          "grammatical_form": "Indefinite pronoun, nominative, masculine singular",
+          "meaning": "someone / a rare one / some rare person"
+        },
+        {
+          "word": "शृणोति",
+          "transliteration": "śṛṇoti",
+          "root": "√śru (to hear / to listen)",
+          "grammatical_form": "Verb, present, third person singular",
+          "meaning": "hears / listens to / receives by hearing"
+        },
+        {
+          "word": "वेद",
+          "transliteration": "veda",
+          "root": "√vid (to know, perfect tense used as present)",
+          "grammatical_form": "Verb, perfect used as present, third person singular",
+          "meaning": "knows / truly understands / has direct knowledge of"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji called this verse 'the verse of humility.' The Self is available to all — all can hear about it — but how few truly know it. The word kaścit (someone, some rare one) is repeated: a rare one sees it; another speaks of it as wonderful; another hears of it as wonderful. And yet, having heard, still no one truly knows it. This is not a cause for despair but for wonder — āścarya. The Self is inexhaustible as an object of wonder. You can study it for a lifetime, have glimpses of it in meditation, hear the most luminous teachers describe it — and still it exceeds your grasp. Because to 'know' it in the ordinary sense is impossible: the knower and the known would have to be separate, but the Self is the very knower itself. This is its greatest wonder.",
+        "sarvapriyananda": "Swami Sarvapriyananda notes that this verse echoes almost verbatim the famous passage from the Kaṭha Upaniṣad (1.2.7): āścaryo 'sya vaktā kuśalo 'sya labdhā āścaryo 'sya jñātā kuśalānuśiṣṭaḥ — 'Wonderful is the one who teaches it; rare is the one who attains it; wonderful is the knower, taught by a capable teacher.' The Gītā here draws on Upaniṣadic authority explicitly. The three modes — seeing (paśyati), speaking (vadati), hearing (śṛṇoti) — correspond to the three paths of transmission: direct perception (darśana), verbal teaching (upadeśa), and listening (śravaṇa). Yet all three fall short of veda — direct, transformative knowing. This is because the Atman cannot be objectified: it is the eternal subject, the witness of all seeing, speaking, and hearing.",
+        "yogananda": "Yogananda sees āścarya (wonder) as the appropriate and permanent relationship of the mind to the Self. The mind that ceases to wonder at the Self has, in some sense, reduced it to a concept — which is always a lesser thing than the reality. The great yogis and saints retain this sense of wonder throughout their lives, even after decades of deep realization. To see it is wonderful; to speak of it is wonderful; to hear of it is wonderful. And yet — śrutvāpy enaṃ veda na caiva kaścit — having heard, no one truly knows it. This is not pessimism; it is an invitation to move beyond hearing into being. The wonder is not an obstacle — it is the door. Approach in wonder, enter in silence, and discover what no words can contain.",
+        "goyandka": "Goyandka cites this verse's close parallel in the Kaṭha Upaniṣad and emphasizes that the three modes of engagement — seeing, speaking, hearing — represent the three stages of traditional Vedantic study: darśana (intuitive vision), upadeśa (teaching), and śravaṇa (listening). All three are precious, all three are rare, and all three are insufficient by themselves to produce veda — the living knowledge. Goyandka stresses that veda here does not mean intellectual comprehension but aparokṣa anubhūti — direct, immediate, experiential realization. This is why the last phrase — na caiva kaścit — is not a counsel of despair but a pointer toward the means of knowledge that lies beyond the ordinary: nididhyāsana (sustained meditation on the teachings) that matures into direct realization."
+      }
+    },
+    {
+      "verse": 30,
+      "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत ।\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ॥",
+      "transliteration": "dehī nityam avadhyo 'yaṃ dehe sarvasya bhārata\ntasmāt sarvāṇi bhūtāni na tvaṃ śocitum arhasi",
+      "translation": "The embodied Self in the body of everyone is ever indestructible. Therefore you should not grieve for any being, O Bharata.",
+      "audio": "/assets/audio/ch02/verse_02_30.mp3",
+      "word_breakdown": [
+        {
+          "word": "देही",
+          "transliteration": "dehī",
+          "root": "deha (body) + suffix -in (possessor of)",
+          "grammatical_form": "Noun, masculine, nominative singular",
+          "meaning": "the embodied one / the Self that dwells in the body / the in-dweller"
+        },
+        {
+          "word": "अवध्यः",
+          "transliteration": "avadhyaḥ",
+          "root": "a + √vadh (to slay/kill) → avadhya",
+          "grammatical_form": "Gerundive with negative prefix, nominative, masculine singular",
+          "meaning": "that which cannot be killed / indestructible / beyond slaying"
+        },
+        {
+          "word": "नित्यम्",
+          "transliteration": "nityam",
+          "root": "ni + tya → nitya (always, constant)",
+          "grammatical_form": "Adverb / adjective used adverbially",
+          "meaning": "eternally / always / ever / without exception"
+        },
+        {
+          "word": "सर्वस्य",
+          "transliteration": "sarvasya",
+          "root": "sarva (all, every)",
+          "grammatical_form": "Pronoun, genitive, masculine singular",
+          "meaning": "of everyone / in every being / of all"
+        },
+        {
+          "word": "सर्वाणि भूतानि",
+          "transliteration": "sarvāṇi bhūtāni",
+          "root": "sarva (all) + bhūta (being, from √bhū)",
+          "grammatical_form": "Adjective + noun, accusative, neuter plural",
+          "meaning": "all beings / every creature without exception"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse is the great summation — the landing place of everything that has been taught from verse 11 onward. The teaching began with Arjuna weeping for specific people: Bhīṣma, Droṇa, his sons, his kinsmen. And now it ends with the most universal statement possible: the dehī — the Self — is avadhya (beyond all killing), nityam (always, without exception), in dehe sarvasya — in the body of every single being. Therefore — ta smāt — you should not grieve for any being. Not these warriors. Not any person. Not any creature. The circle of compassion has become so wide that it encompasses all of existence — and within this infinite compassion is the recognition that all are the same indestructible Self. Dadaji would fold his hands and bow after reciting this verse, as if to the whole of creation.",
+        "sarvapriyananda": "Swami Sarvapriyananda notes the beautiful structural completion of this section. Verse 11 began: 'The wise do not grieve for the living or the dead.' Now, having built the entire philosophical case through nineteen verses, the teaching closes with: 'Therefore you should not grieve for any being.' The progression is from declaration to demonstration to conclusion. The universalization in this verse is important: na tvaṃ śocitum arhasi is now extended from specific individuals (Bhīṣma, Droṇa) to sarvāṇi bhūtāni — all beings. The Self in every body, in every being — from the smallest creature to the greatest sage — is the same avadhya (indestructible) reality. Grief for any of them, at the level of ultimate truth, is grief based on mistaken identity.",
+        "yogananda": "For Yogananda, this verse is the foundation of universal love. The Self — the same Self — dwells in every body (dehe sarvasya). To know this is to love all beings not sentimentally but truly, because you recognize in every face the face of the Beloved. This knowledge, Yogananda taught, does not make one cold to suffering — quite the opposite. It makes one a servant of all, because the all is seen as the One wearing many costumes. And it makes grief — in the ordinary, ego-based sense of 'I have lost mine' — impossible, because there is no 'mine' separate from the All. The sage who has realized this moves through the world in a state of continuous wonder and love, unshaken by the comings and goings of forms.",
+        "goyandka": "Goyandka emphasizes that this verse concludes the 'Ātma-bodha' (Self-knowledge) section of the Gītā's second chapter with a practical injunction: na tvaṃ śocitum arhasi — 'you ought not to grieve.' The word arhasi (you ought, you deserve, it is fitting for you) carries a note of moral expectation: one who has received this teaching is now obligated, as a matter of spiritual integrity, to live in accordance with it. The universalization — sarvāṇi bhūtāni (all beings) — ensures that the teaching cannot be applied selectively. The Atman is avadhya everywhere, in every deha, at all times (nityam). Grief for any being is therefore a failure of comprehension — not a moral failure, but a cognitive one that knowledge alone can correct."
+      }
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 31,
+      "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि ।\nधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ॥",
+      "transliteration": "sva-dharmam api cāvekṣya na vikampitum arhasi\ndharmyād dhi yuddhāc chreyo 'nyat kṣatriyasya na vidyate",
+      "translation": "Looking even at your own dharma, you should not waver — for a kshatriya, there is nothing greater than a righteous war.",
+      "audio": "/assets/audio/ch02/verse_02_31.mp3",
+      "word_breakdown": [
+        {
+          "word": "स्वधर्मम्",
+          "transliteration": "sva-dharmam",
+          "root": "sva (own) + dharma (duty/law)",
+          "grammatical_form": "Compound noun, accusative, masculine singular",
+          "meaning": "one's own duty / one's inherent dharma"
+        },
+        {
+          "word": "अवेक्ष्य",
+          "transliteration": "avekṣya",
+          "root": "ava + √īkṣ (to see/consider)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having considered / looking at / upon reflection"
+        },
+        {
+          "word": "विकम्पितुम्",
+          "transliteration": "vikampitum",
+          "root": "vi + √kamp (to tremble/waver)",
+          "grammatical_form": "Infinitive",
+          "meaning": "to waver / to tremble / to falter"
+        },
+        {
+          "word": "धर्म्यात्",
+          "transliteration": "dharmyāt",
+          "root": "dharma + ya (adjectival suffix)",
+          "grammatical_form": "Adjective, ablative, masculine singular",
+          "meaning": "from a righteous (one) / from that which is lawful"
+        },
+        {
+          "word": "क्षत्रियस्य",
+          "transliteration": "kṣatriyasya",
+          "root": "kṣatra (rulership/protection)",
+          "grammatical_form": "Noun, genitive, masculine singular",
+          "meaning": "of the kshatriya / belonging to the warrior class"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would say that this verse is Krishna's gentle but firm hand on Arjuna's shoulder. 'Look at who you are, child — not who you are afraid to be.' The word sva-dharma carries immense weight. It is not merely social duty but one's soul-nature, the dharma written into the very texture of one's being. A warrior who flees righteousness betrays not just a social role but his own inner constitution. Dadaji would remind us that God never asks us to perform someone else's dharma — only our own, however difficult. The greatness of this verse is that it does not argue from scripture alone but from the evidence of Arjuna's own nature. Look within, Krishna says. You already know what you must do.",
+        "sarvapriyananda": "Swami Sarvapriyananda points out that Krishna here shifts strategy. Having argued from the eternal nature of the Atman in the Sankhya section, he now argues from the relative plane of dharma — the level at which Arjuna actually stands. This is the mark of a great teacher: meeting the student where he is. Sva-dharma is one's specific station in the cosmic order. For a kshatriya, whose very purpose is the protection of righteousness through force when necessary, a righteous war is the highest fulfillment of dharma. The word vikampitum (to waver) is carefully chosen — wavering here is not humility but a failure of discernment, an inability to see one's own true duty clearly.",
+        "yogananda": "Yogananda reads sva-dharma as the soul's unique assignment in this incarnation — the work it has come to do. He writes that when a soul refuses its God-given assignment out of personal sentiment, it delays its own evolution. The warrior nature in Arjuna is not an accident of birth but a divine endowment. To deny it is to deny the instrument God has fashioned. Yogananda also sees the inner parallel: within us, the forces of light (the kshatriya-will) must engage the forces of darkness (tamas, delusion, fear) in righteous inner battle. Shrinking from this inner war is what keeps the soul in bondage across many lifetimes.",
+        "goyandka": "Goyandka emphasizes that this verse introduces the crucial concept of sva-dharma, which will recur throughout the Gita (cf. 3.35, 18.47). The dharmyāt yuddhāt — the righteous battle — is not mere physical combat but an engagement that upholds the moral and social order of the world. Kṣatriyasya na vidyate — 'for the kshatriya, there is nothing superior' — is an unambiguous declaration of hierarchical dharma. Each varṇa has its svadharma, and the highest fulfillment of the kshatriya's dharma is precisely this: to fight for righteousness when righteousness is at stake. Abandoning this duty in the name of compassion is, as subsequent verses make clear, a path leading to shame and adharma."
+      }
+    },
+    {
+      "verse": 32,
+      "sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् ।\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ॥",
+      "transliteration": "yadṛcchayā copapannaṃ svarga-dvāram apāvṛtam\nsukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam",
+      "translation": "Happy indeed are those kshatriyas, O Partha, who obtain such a battle — coming of its own accord as an open gateway to heaven.",
+      "audio": "/assets/audio/ch02/verse_02_32.mp3",
+      "word_breakdown": [
+        {
+          "word": "यदृच्छया",
+          "transliteration": "yadṛcchayā",
+          "root": "yad (which) + icchā (desire/will) → yadṛcchā (spontaneous occurrence)",
+          "grammatical_form": "Noun, feminine, instrumental singular",
+          "meaning": "by chance / of its own accord / unsought"
+        },
+        {
+          "word": "स्वर्गद्वारम्",
+          "transliteration": "svarga-dvāram",
+          "root": "svarga (heaven) + dvāra (gate/door)",
+          "grammatical_form": "Compound noun, accusative, neuter singular",
+          "meaning": "the gateway to heaven"
+        },
+        {
+          "word": "अपावृतम्",
+          "transliteration": "apāvṛtam",
+          "root": "apa + ā + √vṛ (to cover) → apāvṛta (uncovered/opened)",
+          "grammatical_form": "Past participle, accusative, neuter singular",
+          "meaning": "opened / thrown open / unobstructed"
+        },
+        {
+          "word": "सुखिनः",
+          "transliteration": "sukhinaḥ",
+          "root": "sukha (pleasure/happiness)",
+          "grammatical_form": "Adjective, nominative, masculine plural",
+          "meaning": "fortunate ones / happy / blessed"
+        },
+        {
+          "word": "लभन्ते",
+          "transliteration": "labhante",
+          "root": "√labh (to obtain/receive)",
+          "grammatical_form": "Verb, present, third person plural, ātmanepada",
+          "meaning": "they obtain / they receive / they gain"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji loved this verse for its sheer joy. He would say: 'When God sends you exactly the difficulty your soul needs, should you weep or rejoice?' The righteous battle comes yadṛcchayā — unsought, unbidden, appearing as if by grace. This is not luck; this is the divine arrangement for one's growth. The gate of heaven stands open — not as a literal celestial reward, but as the doorway to a higher state of being that opens when we face our dharmic trials with courage and surrender. Arjuna is being told: this battle came to you because you are ready for it. The highest battles are always gifts, even when they appear as burdens.",
+        "sarvapriyananda": "Swami Sarvapriyananda notes the profound irony Krishna introduces here. The entire Gita began because Arjuna placed his weapons down, refusing the battle. Yet Krishna says: fortunate are those to whom such battles come unsought! The word yadṛcchayā — coming by itself, spontaneously — signals that this dharmic challenge has arrived through the working of karma and the divine will, not through Arjuna's contrivance. The image of svarga-dvāram apāvṛtam — the open gateway to heaven — captures the highest Vedic aspiration of the warrior class. But from the Advaita standpoint, 'heaven' ultimately points to the liberation that comes from perfectly fulfilled duty, which purifies the mind for knowledge of the Self.",
+        "yogananda": "Yogananda sees svarga-dvāram apāvṛtam as pointing to the opened states of higher consciousness that heroic spiritual effort makes accessible. When we engage our dharmic battle — inner or outer — with full courage and without shrinking, the doors of divine experience swing open. The word yadṛcchayā tells us that such opportunities are not manufactured by personal ambition but arrive by God's own timing. 'Happy are those kshatriyas' — happy are those souls — to whom God presents the supreme test, for it is the supreme invitation. The test is always perfectly calibrated to the soul's readiness.",
+        "goyandka": "Goyandka observes that this verse provides a powerful positive motivation to complement the preceding verse's appeal to duty. Not only is it Arjuna's dharma to fight — it is his extraordinary fortune. The battle at Kurukshetra has come yadṛcchayā, unsolicited, because it is the fruit of accumulated karma and divine dispensation. For a kshatriya to die in righteous battle was held, in the Vedic tradition, to guarantee a blessed afterlife — svarga. The verse thus addresses both the dharmic and the eschatological dimensions of Arjuna's hesitation. One who understands this dual truth — duty fulfilled and heaven secured — has no reason to waver."
+      }
+    },
+    {
+      "verse": 33,
+      "sanskrit": "अथ चेत्त्वमिमं धर्म्यं सङ्ग्रामं न करिष्यसि ।\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ॥",
+      "transliteration": "atha cet tvam imaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi\ntataḥ sva-dharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi",
+      "translation": "But if you do not engage in this righteous battle, forsaking your own duty and honor, you shall incur sin.",
+      "audio": "/assets/audio/ch02/verse_02_33.mp3",
+      "word_breakdown": [
+        {
+          "word": "धर्म्यम्",
+          "transliteration": "dharmyam",
+          "root": "dharma + ya (adjectival suffix)",
+          "grammatical_form": "Adjective, accusative, masculine singular",
+          "meaning": "righteous / lawful / in accordance with dharma"
+        },
+        {
+          "word": "सङ्ग्रामम्",
+          "transliteration": "saṃgrāmam",
+          "root": "sam + √gram / grāma (assembly for battle)",
+          "grammatical_form": "Noun, accusative, masculine singular",
+          "meaning": "battle / war / contest"
+        },
+        {
+          "word": "कीर्तिम्",
+          "transliteration": "kīrtim",
+          "root": "√kīrt (to praise/celebrate)",
+          "grammatical_form": "Noun, feminine, accusative singular",
+          "meaning": "honor / glory / good reputation"
+        },
+        {
+          "word": "हित्वा",
+          "transliteration": "hitvā",
+          "root": "√hā (to abandon/forsake)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having abandoned / forsaking / giving up"
+        },
+        {
+          "word": "पापम्",
+          "transliteration": "pāpam",
+          "root": "√pāp / pāpa (evil, sin)",
+          "grammatical_form": "Noun, accusative, neuter singular",
+          "meaning": "sin / evil / demerit"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would say that this verse is the shadow that gives shape to the preceding light. Krishna shows both doors: the path of duty leads to heaven; the path of abandonment leads to pāpa. But dadaji would gently note that this pāpa is not primarily a punishment from outside — it is the inner suffering that follows self-betrayal. When we abandon what we know to be right, something in the soul is wounded. Kīrti — honor — is also a kind of inner wholeness, a harmony between outer action and inner truth. To hitvā kīrtim, to abandon that harmony, is to lose something more precious than a reputation. It is to fracture the integrity of the self.",
+        "sarvapriyananda": "Swami Sarvapriyananda notes that Krishna now applies the logic from both directions. The previous verse held out the promise of righteous battle as heaven's gate; this verse shows what lies on the other side — pāpam, sin. The word hitvā — having forsaken — applies to both sva-dharmaṃ and kīrtim together. This is important: it is not merely that Arjuna will be dishonored by others; he will have internally abandoned his own dharma, which is the real source of the sin. In Vedanta, pāpa is not merely a social stigma but an impurity of the inner instrument (antaḥkaraṇa) that veils the Self. Adharma creates psychological and spiritual turbulence regardless of whether anyone else knows.",
+        "yogananda": "Yogananda interprets pāpa here as the karmic weight of refusing a God-given mission. When the soul is positioned by karma and divine will to perform a specific task for dharma's sake, to refuse it out of misguided sentiment is to create a karmic debt that must be discharged in future births. The abandonment of kīrti — inner spiritual glory, not mere reputation — is also significant. The warrior's soul carries the vibration of valor as its natural dignity. To betray that is to dim the soul's own light. Yogananda reminds us that God designs each soul's dharmic challenges precisely; refusing them is not humility — it is evasion.",
+        "goyandka": "Goyandka reads this verse as the negative complement to verse 31. The logical structure is: if you fulfill your sva-dharma, you gain the highest fruit (verse 32); if you abandon it, you lose both dharma and kīrti and gain only pāpa (verse 33). The pairing makes Krishna's argument dialectically complete. Goyandka notes that pāpam avāpsyasi — 'you will incur sin' — uses the future tense, indicating a certainty, not a mere possibility. The abandonment of righteous duty is not a neutral act; it sets in motion a chain of karmic consequences. Kīrti for a kshatriya is not mere vanity but the social dharma of being an upholder and exemplar of righteousness."
+      }
+    },
+    {
+      "verse": 34,
+      "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् ।\nसम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ॥",
+      "transliteration": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te 'vyayām\nsambhāvitasya cākīrtir maraṇād atiricyate",
+      "translation": "Beings will forever speak of your infamy — and for one who has been honored, infamy is worse than death.",
+      "audio": "/assets/audio/ch02/verse_02_34.mp3",
+      "word_breakdown": [
+        {
+          "word": "अकीर्तिम्",
+          "transliteration": "akīrtim",
+          "root": "a (negation) + kīrti (glory/honor)",
+          "grammatical_form": "Noun, feminine, accusative singular",
+          "meaning": "infamy / dishonor / ill-repute"
+        },
+        {
+          "word": "अव्ययाम्",
+          "transliteration": "avyayām",
+          "root": "a + vi + √i (to go) → avyaya (undecaying)",
+          "grammatical_form": "Adjective, accusative, feminine singular",
+          "meaning": "imperishable / everlasting / undying"
+        },
+        {
+          "word": "सम्भावितस्य",
+          "transliteration": "sambhāvitasya",
+          "root": "sam + √bhū (to become) → sambhāvita (honored/esteemed)",
+          "grammatical_form": "Past participle, genitive, masculine singular",
+          "meaning": "of the honored one / of the highly esteemed"
+        },
+        {
+          "word": "अकीर्तिः",
+          "transliteration": "akīrtiḥ",
+          "root": "a + kīrti",
+          "grammatical_form": "Noun, feminine, nominative singular",
+          "meaning": "infamy / disgrace / dishonor"
+        },
+        {
+          "word": "अतिरिच्यते",
+          "transliteration": "atiricyate",
+          "root": "ati + √ric (to exceed/surpass)",
+          "grammatical_form": "Verb, passive, present, third person singular",
+          "meaning": "exceeds / surpasses / is worse than"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji taught that Krishna is not appealing to ego here — he is speaking to the deepest nature of a noble soul. Sambhāvitasya — the one who has been held in high esteem — carries a sacred responsibility. When the world trusts your dharmic integrity, your inner life becomes entangled with that trust. To shatter it through cowardice is to create a wound in the social fabric of dharma itself. Akīrti avyayā — imperishable infamy — is a striking irony. Earlier Krishna said the Atman is avyaya, imperishable. Now infamy too will be avyaya if Arjuna flees. The deathless can manifest as either liberation or as shame — depending on which path we choose.",
+        "sarvapriyananda": "Swami Sarvapriyananda finds this verse brilliantly constructed. The word avyayām — eternal, imperishable — was used earlier to describe the immortal Atman. Here it describes infamy. The irony is pointed: Arjuna was concerned about causing the death of bodies, which are by nature perishable. But the akīrti that will arise from his cowardice will be avyayā — lasting far beyond those perishable bodies. Furthermore, sambhāvitasya — of one who is honored — is key. For a person whose life has established a high dharmic standard, a single failure of that standard reverberates immeasurably. Reputation is a form of social dharma; for great souls, the collapse of that dharmic standing is a spiritual catastrophe.",
+        "yogananda": "Yogananda sees this verse as speaking to the soul's own inner memory across lifetimes. The akīrti that will be spoken of is not only what others say — it is the soul's own inner record of having turned away from its highest calling. The truly honored soul — sambhāvita — is one whose spiritual development has reached a high station. The deeper meaning of 'infamy worse than death' is that the soul that betrays its dharma carries that wound forward, because the soul does not die. For the awakened being, the sting of spiritual failure is far more painful than any physical death. Yogananda encourages us to read this verse not as social pressure but as the inner voice of the soul's own integrity.",
+        "goyandka": "Goyandka carefully distinguishes the two dimensions of this verse: the social (bhūtāni kathayiṣyanti — people will speak) and the personal (sambhāvitasya akīrtiḥ). For a great warrior like Arjuna — whose glory has been established through years of valor and righteousness — the collapse of that reputation would be a lifelong wound. Goyandka cites the traditional kshatriya ethic: to die in battle is honorable; to flee is the deepest disgrace. This is not mere social convention but a reflection of the eternal law that each being is obligated to discharge its nature fully. The shame of a betrayed dharma endures; the pain of righteous death passes."
+      }
+    },
+    {
+      "verse": 35,
+      "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः ।\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ॥",
+      "transliteration": "bhayād raṇād uparataṃ maṃsyante tvāṃ mahā-rathāḥ\nyeṣāṃ ca tvaṃ bahu-mato bhūtvā yāsyasi lāghavam",
+      "translation": "The great chariot-warriors will think you have withdrawn from battle out of fear — and those who held you in high esteem will come to think little of you.",
+      "audio": "/assets/audio/ch02/verse_02_35.mp3",
+      "word_breakdown": [
+        {
+          "word": "भयात्",
+          "transliteration": "bhayāt",
+          "root": "√bhī (to fear)",
+          "grammatical_form": "Noun, neuter, ablative singular",
+          "meaning": "out of fear / from fear"
+        },
+        {
+          "word": "महारथाः",
+          "transliteration": "mahā-rathāḥ",
+          "root": "mahā (great) + ratha (chariot)",
+          "grammatical_form": "Compound noun, masculine, nominative plural",
+          "meaning": "great chariot-warriors / supreme commanders"
+        },
+        {
+          "word": "बहुमतः",
+          "transliteration": "bahu-mataḥ",
+          "root": "bahu (many/much) + mata (regarded/esteemed)",
+          "grammatical_form": "Compound adjective, nominative, masculine singular",
+          "meaning": "highly regarded / greatly esteemed / held in high honor"
+        },
+        {
+          "word": "लाघवम्",
+          "transliteration": "lāghavam",
+          "root": "laghu (light/trivial) → lāghava (lightness/insignificance)",
+          "grammatical_form": "Noun, accusative, neuter singular",
+          "meaning": "insignificance / disrespect / being thought little of"
+        },
+        {
+          "word": "उपरतम्",
+          "transliteration": "uparatam",
+          "root": "upa + √ram (to cease/stop)",
+          "grammatical_form": "Past participle, accusative, masculine singular",
+          "meaning": "withdrawn / having ceased / retired from"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji saw this verse as Krishna's compassionate use of a real human vulnerability — the fear of being misunderstood. Arjuna has spent his life building a reputation for absolute courage. Now the mahā-rathāḥ — the great warriors on both sides who have seen him in action — will conclude only one thing: he fled from fear. Dadaji would say: 'The irony is complete. Arjuna's inner war is about compassion. But the outer world can only see behavior — and behavior that looks like retreat will always be judged as cowardice.' The teaching is not to live for approval, but to live in such a way that one's dharmic integrity is unmistakable. Lāghavam — being thought light, trivial — is a painful fall from the heights of bahu-mataḥ, being greatly honored.",
+        "sarvapriyananda": "Swami Sarvapriyananda observes that this verse introduces the concept of social dharma and its consequences. The mahā-rathāḥ are not merely witnesses — they are the community of dharmic warriors who uphold the order of righteousness through mutual trust and standards. When one of their greatest members breaks ranks without explanation, the damage spreads. Lāghavam — lightness, triviality — is the opposite of the gravity and weight that a great warrior like Arjuna is supposed to carry. From the Vedantic perspective, this social consequence is also a reflection of the inner lāghavam — a spiritual lightness that arises when the soul fails to carry its full dharmic weight.",
+        "yogananda": "Yogananda notes that this verse speaks to the soul's relationship with its own community of fellow-travelers. The mahā-rathāḥ represent those who have walked the path of heroic effort; they recognize and honor each other's courage. To withdraw in apparent fear is to sever that bond of mutual recognition. In the inner life, when the will weakens before the forces of delusion, the higher faculties of the mind — which Yogananda sees as the inner mahā-rathāḥ — withdraw their trust. The soul that turns from its dharmic struggle loses the inner support of its own higher nature. Bahu-mataḥ becomes lāghavam — inner self-respect collapses into a subtle self-contempt.",
+        "goyandka": "Goyandka points out that this verse is carefully constructed: it addresses both the external judgment (mahā-rathāḥ will think you fled from fear) and the social consequence (those who honored you will come to disrespect you). Bhayād raṇād uparataṃ — withdrawn from battle through fear — is the most damning possible interpretation of Arjuna's action, and it is the interpretation that will naturally arise. Goyandka notes that in the kshatriya code, the only legitimate reason to withdraw from a righteous battle is the command of one's guru or king — neither of which applies here. Arjuna's withdrawal is therefore completely inexplicable within the dharmic framework of his station."
+      }
+    },
+    {
+      "verse": 36,
+      "sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ॥",
+      "transliteration": "avācya-vādāṃś ca bahūn vadiṣyanti tavāhitāḥ\nnindantas tava sāmarthyaṃ tato duḥkhataraṃ nu kim",
+      "translation": "Your enemies will speak many unspeakable words, deriding your strength — what could be more painful than this?",
+      "audio": "/assets/audio/ch02/verse_02_36.mp3",
+      "word_breakdown": [
+        {
+          "word": "अवाच्यवादान्",
+          "transliteration": "avācya-vādān",
+          "root": "a + √vac (to speak) → avācya (unspeakable) + vāda (speech/words)",
+          "grammatical_form": "Compound noun, accusative, masculine plural",
+          "meaning": "unspeakable words / words that should not be said / harsh abuse"
+        },
+        {
+          "word": "अहिताः",
+          "transliteration": "ahitāḥ",
+          "root": "a + hita (beneficial/friendly) → ahita (enemy/harmful)",
+          "grammatical_form": "Adjective used as noun, nominative, masculine plural",
+          "meaning": "enemies / those who wish ill / adversaries"
+        },
+        {
+          "word": "निन्दन्तः",
+          "transliteration": "nindantaḥ",
+          "root": "√nind (to censure/revile)",
+          "grammatical_form": "Present participle, nominative, masculine plural",
+          "meaning": "deriding / censuring / mocking / blaming"
+        },
+        {
+          "word": "सामर्थ्यम्",
+          "transliteration": "sāmarthyam",
+          "root": "sa + artha + ya → sāmarthya (capability/power)",
+          "grammatical_form": "Noun, accusative, neuter singular",
+          "meaning": "strength / capability / prowess / power"
+        },
+        {
+          "word": "दुःखतरम्",
+          "transliteration": "duḥkhataram",
+          "root": "duḥkha (pain/sorrow) + tara (comparative suffix)",
+          "grammatical_form": "Comparative adjective, accusative, neuter singular",
+          "meaning": "more painful / worse suffering / greater sorrow"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji appreciated how Krishna completes the picture of social consequence in this verse. It is not only the esteem of allies that will be lost — the enemies will actively compound the wound. Avācya-vādān — unspeakable words — is a powerful phrase. These are insults that a noble soul should never have to hear directed at them; words that dishonor both the speaker and the one spoken of. Nindantas tava sāmarthyam — mocking your very strength — is the most cutting kind of insult, for it attacks what Arjuna has devoted his life to cultivating. Dadaji would say: 'When we betray our dharma, we hand our enemies the very weapons with which to wound us. Nothing is more painful than a self-inflicted dishonor.'",
+        "sarvapriyananda": "Swami Sarvapriyananda sees in this verse a masterful psychological appeal to the kshatriya's code. The avācya-vādāḥ — words that ought not to be spoken — are especially degrading precisely because they are directed at sāmarthyam, the warrior's fundamental power and competence. This is not mere social embarrassment; it is an attack on the identity that has been painstakingly built through years of righteous effort. The rhetorical question at the end — tato duḥkhataraṃ nu kim, 'what could be more painful than this?' — is unanswerable. Krishna has systematically escalated the consequences of inaction: loss of dharma, loss of honor, military misjudgment, and now the active humiliation by enemies.",
+        "yogananda": "Yogananda frames this verse in terms of the inner enemies — the forces of ignorance, delusion, and ego — that mock the soul whenever it fails its dharmic test. The avācya-vādāḥ spoken by ahitāḥ (enemies) are paralleled inwardly by the relentless whispers of self-doubt and regret that torment a soul that has retreated from its calling. Sāmarthyam — one's God-given strength — when denied and mocked is indeed the deepest wound. Yogananda teaches that God endows each soul with specific gifts precisely so they may be used in His service; when those gifts are abandoned, the soul experiences a profound spiritual duḥkha that no outer comfort can heal.",
+        "goyandka": "Goyandka notes that this verse completes the social argument. The consequences of abandoning the righteous battle now span all relationships: allies will assume cowardice (v.35), and enemies will compound the wound with open mockery. The word bahūn — many words — suggests the flood of derision that will follow. Goyandka notes that avācya-vādāḥ — unspeakable words — refers specifically to insults that attack one's lineage, ancestry, and fundamental character, which in the Vedic tradition are the gravest possible social injuries. The rhetorical question concluding the verse — tato duḥkhataraṃ nu kim — serves as a climax to Krishna's argument from social and personal consequence."
+      }
+    },
+    {
+      "verse": 37,
+      "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् ।\nतस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ॥",
+      "transliteration": "hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm\ntasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ",
+      "translation": "Slain, you will attain heaven; victorious, you will enjoy the earth. Therefore arise, O son of Kunti, resolved to fight.",
+      "audio": "/assets/audio/ch02/verse_02_37.mp3",
+      "word_breakdown": [
+        {
+          "word": "हतः",
+          "transliteration": "hataḥ",
+          "root": "√han (to strike/slay)",
+          "grammatical_form": "Past participle, nominative, masculine singular",
+          "meaning": "slain / killed / fallen in battle"
+        },
+        {
+          "word": "स्वर्गम्",
+          "transliteration": "svargam",
+          "root": "su (well) + √gam (to go) → svarga",
+          "grammatical_form": "Noun, accusative, masculine singular",
+          "meaning": "heaven / the celestial realm"
+        },
+        {
+          "word": "महीम्",
+          "transliteration": "mahīm",
+          "root": "mahī (the great one → earth)",
+          "grammatical_form": "Noun, feminine, accusative singular",
+          "meaning": "the earth / the world / terrestrial kingdom"
+        },
+        {
+          "word": "उत्तिष्ठ",
+          "transliteration": "uttiṣṭha",
+          "root": "ud + √sthā (to stand)",
+          "grammatical_form": "Verb, imperative, second person singular",
+          "meaning": "arise! / stand up! / rise!"
+        },
+        {
+          "word": "कृतनिश्चयः",
+          "transliteration": "kṛta-niścayaḥ",
+          "root": "kṛta (done/made) + niścaya (resolve/determination)",
+          "grammatical_form": "Compound adjective, nominative, masculine singular",
+          "meaning": "with firm resolve / having made a determination / decided"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji called this verse 'the either-way verse' — because Krishna shows that both outcomes of righteous action are good. If you fall in battle, you gain svarga — the higher state of being that awaits those who gave their all in righteousness. If you win, you enjoy mahī — the earth and its fruits. There is no losing outcome when one acts in dharma. This is the logic of surrender to God's will: when we fully commit to our God-given duty, the result is always in God's hands, and God's hands hold only grace. Uttiṣṭha — arise! — is one of the great imperatives of the Gita. Dadaji would say it is spoken to every soul that sits paralyzed by doubt: Arise. Act. God will take care of the rest.",
+        "sarvapriyananda": "Swami Sarvapriyananda notes that this verse presents what Vedanta calls the two-horned dilemma (ubhaya-pakṣa) — whichever way it goes, Arjuna gains. From the higher Vedantic perspective, this verse belongs to the vyāvahārika (conventional) level of teaching: it uses the language of svarga and mahī — heaven and earth — as motivations within the relative framework. Later, in verse 38, Krishna will transcend this framework entirely with the teaching of sama (equanimity). But for now, even on the relative plane, righteousness is a complete win. Kṛta-niścayaḥ — with firm resolution — is the disposition of the yogi: once discernment (viveka) determines the right course, the will must follow without further hesitation.",
+        "yogananda": "Yogananda sees in uttiṣṭha — arise — one of the most spiritually charged commands of the Gita. He writes that this word is addressed not to a warrior on a battlefield but to the immortal soul in every human being. Svarga for Yogananda represents the higher states of consciousness that open to the soul when it acts from dharma and courage. Mahīm — enjoyment of the earth — represents the outer fulfillment that follows inner alignment. Kṛta-niścayaḥ — firm resolve — is the quality of the spiritually mature person who has moved through doubt into clarity. Yogananda teaches that this decisive quality is itself a spiritual attainment, born of meditation and self-knowledge.",
+        "goyandka": "Goyandka presents this as the concluding verse of the dharma-based argument. All the preceding reasoning — about svadharma, about kīrti and akīrti, about what the great warriors will think — culminates in this simple, luminous formulation: both outcomes of righteous action are auspicious. Hato vā — slain — prāpsyasi svargam: the warrior who falls in righteous battle attains the highest heavenly realm. Jitvā vā — victorious — bhokṣyase mahīm: the warrior who wins enjoys sovereign dominion over the earth. The command uttiṣṭha — arise — delivered to Arjuna as Kaunteya (son of Kuntī) invokes his noble maternal lineage, reinforcing the call to ancestral duty and dynastic honor."
+      }
+    },
+    {
+      "verse": 38,
+      "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥",
+      "transliteration": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau\ntato yuddhāya yujyasva naivaṃ pāpam avāpsyasi",
+      "translation": "Treating pleasure and pain alike, gain and loss alike, victory and defeat alike — engage in battle! Thus you shall incur no sin.",
+      "audio": "/assets/audio/ch02/verse_02_38.mp3",
+      "word_breakdown": [
+        {
+          "word": "सुखदुःखे",
+          "transliteration": "sukha-duḥkhe",
+          "root": "sukha (pleasure/ease) + duḥkha (pain/difficulty)",
+          "grammatical_form": "Dual compound noun, accusative",
+          "meaning": "pleasure and pain (as a pair) / happiness and sorrow"
+        },
+        {
+          "word": "समे",
+          "transliteration": "same",
+          "root": "√sam (to be equal)",
+          "grammatical_form": "Adjective, accusative, dual (agreeing with dual noun)",
+          "meaning": "equal / the same / treating as alike"
+        },
+        {
+          "word": "लाभालाभौ",
+          "transliteration": "lābhālābhau",
+          "root": "lābha (gain) + alābha (non-gain/loss)",
+          "grammatical_form": "Dual compound noun, accusative",
+          "meaning": "gain and loss (as a pair)"
+        },
+        {
+          "word": "जयाजयौ",
+          "transliteration": "jayājayau",
+          "root": "jaya (victory) + ajaya (non-victory/defeat)",
+          "grammatical_form": "Dual compound noun, accusative",
+          "meaning": "victory and defeat (as a pair)"
+        },
+        {
+          "word": "युज्यस्व",
+          "transliteration": "yujyasva",
+          "root": "√yuj (to join/yoke/engage)",
+          "grammatical_form": "Verb, passive imperative, second person singular",
+          "meaning": "engage! / yoke yourself! / join yourself to the fight!"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji would pause after reading this verse and simply say: 'This is the beginning of the real teaching.' Everything before this was argument — necessary, skillful argument. But this verse plants the seed of yoga. Sukha-duḥkhe same — treating pleasure and pain as equal — is not indifference. It is a vast inner spaciousness that refuses to be owned by either experience. Dadaji taught this through his own life: he had known great joy and great loss, and he met both with the same quiet smile. 'Naivaṃ pāpam avāpsyasi' — thus you will incur no sin — points to something profound: sin (pāpa) is rooted in craving and aversion. Eliminate those, and action becomes clean, pure, sin-free. This is the Gita's great gift.",
+        "sarvapriyananda": "Swami Sarvapriyananda identifies this as a pivotal verse marking the transition from the dharma argument to the early statement of Karma Yoga. The three pairs — sukha-duḥkha, lābhālābha, jayājaya — represent the complete spectrum of outcome that any action can produce. Same kṛtvā — having made them equal — is the inner stance of the karma yogi. This is not nihilistic indifference (tamas) but the active equanimity of a fully engaged, fully detached soul (sattva). Yuddha here is no longer merely the Kurukshetra battle — it becomes a symbol for all purposeful action in the world. Naivaṃ pāpam — no sin thus — because sin is attachment and reaction; equanimity dissolves the very ground from which sin grows.",
+        "yogananda": "Yogananda sees in this verse the Gita's first direct formulation of the law of even-mindedness (samatā), which he considers the master key of the spiritual life. The three pairs — pleasure/pain, gain/loss, victory/defeat — correspond to the three fundamental oscillations of the uncontrolled mind. The yogi who has stilled these oscillations through meditation and practice of non-attachment acts in the world without being bound by it. Yogananda teaches that this equanimity is not achieved through suppression but through the expansion of consciousness to a state where the pairs of opposites are held within a larger, untroubled awareness. Yuddha — battle — becomes a metaphor for engaged spiritual living.",
+        "goyandka": "Goyandka regards this verse as the hinge-point of the second chapter — the final verse of the kshatriya-dharma argument and the first seed of the Karma Yoga teaching. The three dvandvas (pairs of opposites) enumerated here — pleasure-pain, gain-loss, victory-defeat — are the standard Vedantic formulation of the relativities that bind the ordinary person to karmic reaction. Same kṛtvā — making them equal — is the definition of nishkāma karma, action without desire. Goyandka notes that naivaṃ pāpam avāpsyasi — 'you will not incur sin thus' — is a sweeping statement: the yogi of equanimity is completely free from karmic bondage. This is the first glimpse of mokṣa held out through the path of action."
+      }
+    },
+    {
+      "verse": 39,
+      "sanskrit": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु ।\nबुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ॥",
+      "transliteration": "eṣā te 'bhihitā sāṃkhye buddhir yoge tv imāṃ śṛṇu\nbuddhyā yukto yayā pārtha karma-bandhaṃ prahāsyasi",
+      "translation": "This intelligence has been declared to you in Sankhya. Now hear it as applied in Yoga — equipped with this intelligence, O Partha, you shall shed the bondage of karma.",
+      "audio": "/assets/audio/ch02/verse_02_39.mp3",
+      "word_breakdown": [
+        {
+          "word": "साङ्ख्ये",
+          "transliteration": "sāṃkhye",
+          "root": "saṃkhyā (number/enumeration/analysis)",
+          "grammatical_form": "Noun, locative, neuter singular",
+          "meaning": "in Sankhya / in the context of analytical wisdom"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhiḥ",
+          "root": "√budh (to know/awaken)",
+          "grammatical_form": "Noun, feminine, nominative singular",
+          "meaning": "intelligence / discriminative wisdom / understanding"
+        },
+        {
+          "word": "योगे",
+          "transliteration": "yoge",
+          "root": "√yuj (to join/yoke)",
+          "grammatical_form": "Noun, locative, masculine singular",
+          "meaning": "in Yoga / in the context of disciplined practice"
+        },
+        {
+          "word": "कर्मबन्धम्",
+          "transliteration": "karma-bandham",
+          "root": "karma (action) + bandha (bondage/binding)",
+          "grammatical_form": "Compound noun, accusative, masculine singular",
+          "meaning": "the bondage of karma / the binding force of action"
+        },
+        {
+          "word": "प्रहास्यसि",
+          "transliteration": "prahāsyasi",
+          "root": "pra + √hā (to abandon/shed)",
+          "grammatical_form": "Verb, future, second person singular",
+          "meaning": "you shall completely shed / you will cast off / abandon entirely"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse marks a sacred moment: the great turning. Dadaji would say that verse 39 is the door between two rooms of the same divine house — the room of Jñāna (Sankhya wisdom) and the room of Karma Yoga. Eṣā te abhihitā — 'this has been declared to you' — is a completion signal. The Atman-teaching is done. Now comes the application. The Buddha-like serenity of Sankhya must translate into the active discipline of Yoga. Karma-bandhaṃ prahāsyasi — 'you shall completely shed the bondage of karma' — is a promise, not merely a hope. Dadaji would remind his students: 'God never gives you knowledge without giving you the path to use it. First the understanding; then the practice; then the freedom.'",
+        "sarvapriyananda": "Swami Sarvapriyananda marks this as one of the most structurally important verses of the Gita. It is the explicit transition statement between Sāṃkhya Yoga (the path of knowledge, taught in the preceding verses) and Karma Yoga (the path of action, to be expounded from here). Buddhiḥ — the discriminative intelligence — is the thread that connects both. In Sankhya, this buddhi knows the nature of the eternal Self; in Yoga, this same buddhi guides action in the world without creating karmic bondage. Karma-bandham prahāsyasi — 'you shall completely shed the karma-bondage' — is a future tense promise contingent on yuktatā, being properly equipped with this wisdom-guided action.",
+        "yogananda": "Yogananda celebrates this verse as the announcement of the great practical path. The Sankhya teaching established who you truly are: the immortal, indestructible Self. Now the Yoga teaching will show how to live from that identity in the midst of active life. Buddhyā yukto — equipped with wisdom — is the defining characteristic of the karma yogi: one who acts with the full light of discriminative intelligence guiding every move. Karma-bandham prahāsyasi — shedding karma-bondage — is what Yogananda calls the liberation of action: when consciousness is centered in the Self, actions flow without creating new chains. This is the Gita's unique gift: freedom not from the world, but freedom within it.",
+        "goyandka": "Goyandka provides a precise commentary on the structural function of this verse. Sāṃkhye refers to the body of teaching from verse 11 through verse 38 — the nature of the Ātman, its immortality, the duties of the kshatriya, the doctrine of equanimity. Yoge refers to what begins from verse 40 onward — the detailed exposition of Karma Yoga. The bridge is buddhiḥ — the same intelligence that was instructed in Sankhya must now be applied as the governing principle of action. Prahāsyasi — 'you shall completely cast off' — uses the prefix pra (completely, thoroughly), indicating not partial but total liberation from karma-bondha. This is the Gita's central promise to the sincere seeker."
+      }
+    },
+    {
+      "verse": 40,
+      "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥",
+      "transliteration": "nehābhikrama-nāśo 'sti pratyavāyo na vidyate\nsv-alpam apy asya dharmasya trāyate mahato bhayāt",
+      "translation": "In this path, no effort is ever lost, nor is there any adverse result. Even a little of this dharma protects one from great fear.",
+      "audio": "/assets/audio/ch02/verse_02_40.mp3",
+      "word_breakdown": [
+        {
+          "word": "अभिक्रमनाशः",
+          "transliteration": "abhikrama-nāśaḥ",
+          "root": "abhi + √kram (to step/begin) + nāśa (destruction/loss)",
+          "grammatical_form": "Compound noun, nominative, masculine singular",
+          "meaning": "loss of effort begun / destruction of what is undertaken / wasted beginning"
+        },
+        {
+          "word": "प्रत्यवायः",
+          "transliteration": "pratyavāyaḥ",
+          "root": "prati + ava + √i (to go) → pratyavāya (adverse result/reverse effect)",
+          "grammatical_form": "Noun, nominative, masculine singular",
+          "meaning": "adverse consequence / reverse effect / spiritual detriment"
+        },
+        {
+          "word": "स्वल्पम्",
+          "transliteration": "sv-alpam",
+          "root": "su (intensifier/well) + alpa (little/small)",
+          "grammatical_form": "Adjective, accusative, neuter singular",
+          "meaning": "even a little / even a small amount / however slight"
+        },
+        {
+          "word": "त्रायते",
+          "transliteration": "trāyate",
+          "root": "√trā (to protect/save)",
+          "grammatical_form": "Verb, present, third person singular, ātmanepada",
+          "meaning": "protects / saves / rescues / delivers"
+        },
+        {
+          "word": "महतो भयात्",
+          "transliteration": "mahato bhayāt",
+          "root": "mahat (great) + bhaya (fear/danger)",
+          "grammatical_form": "Adjective + noun, ablative, neuter singular",
+          "meaning": "from great fear / from immense danger / from terrible terror"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Dadaji loved this verse with a special tenderness. He would repeat it slowly, then smile and say: 'Do you understand? Not one step on this path is wasted. Not one.' Nehābhikrama-nāśo 'sti — there is no destruction of what you begin here. In ordinary worldly effort, incompletion means loss. But in the yoga of inner growth, every sincere step forward is permanently inscribed in the soul. Even if you live for a year and practice yoga for only one month, those fruits remain — carried forward into the next life. Sv-alpam api — even a little — trāyate mahato bhayāt — protects from great fear. Great fear means the terror of repeated birth and death, the terror of not knowing who you are. Even a small taste of this wisdom dissolves it.",
+        "sarvapriyananda": "Swami Sarvapriyananda identifies this verse as one of the most encouraging in all of scripture. The two guarantees Krishna offers are: (1) no abhikrama-nāśa — no loss of spiritual effort already made — and (2) no pratyavāya — no adverse karmic consequence from this path (unlike rituals, which if incompletely performed can produce negative results). This is a powerful contrast with the ritualistic karma-kāṇḍa of the Vedas, where partial performance of sacrifices could be harmful. Karma Yoga, being free from desire, cannot produce harmful karma. And mahato bhayāt — great fear — refers ultimately to saṃsāra, the cycle of rebirth driven by ignorance. Even a tiny step toward the light of self-knowledge offers real protection against this.",
+        "yogananda": "Yogananda calls this verse 'the guarantee of the spiritual path' and returns to it often in his writings. Abhikrama-nāśo nāsti — no effort is lost — because the soul carries all its spiritual development from life to life. This is why some people awaken to spirituality quickly: they are drawing on the capital of many previous lifetimes of sincere practice. Sv-alpam api — even a little — trāyate: this is God's mercy. The path is not all-or-nothing. Any authentic encounter with this dharma, however brief, creates a seed of liberation in the soul. Mahato bhayāt — from great fear — is the existential dread of the soul trapped in the illusion of separation. Even one moment of genuine meditation begins to dissolve it.",
+        "goyandka": "Goyandka explains that this verse provides a crucial distinction between the path of Karma Yoga and the path of Vedic ritual action. In the ritualistic tradition (karma-kāṇḍa), if a sacrifice is left incomplete, it can yield no merit and may even cause detriment — this is pratyavāya. But in the yoga of desireless action, no such risk exists. Every sincere effort accumulates and carries forward across lives — abhikrama-nāśo nāsti. The phrase dharmasya — 'of this dharma' — refers specifically to the dharma of Karma Yoga, nishkāma action guided by buddhi. Mahato bhayāt refers to the ultimate fear: the cycle of saṃsāra, bondage to birth and death. The promise of this verse is therefore nothing less than the assurance that this path leads, however gradually, to complete liberation."
+      }
+    }
+  ]
+}

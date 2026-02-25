@@ -1,0 +1,463 @@
+{
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 21,
+      "sanskrit": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः ।\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥",
+      "transliteration": "nirāśīr yata-cittātmā tyakta-sarva-parigrahaḥ\nśārīraṃ kevalaṃ karma kurvan nāpnoti kilbiṣam",
+      "translation": "Without hope, with mind and self controlled, having abandoned all possessions — performing only bodily action, he incurs no sin.",
+      "audio": "/assets/audio/ch04/verse_04_21.mp3",
+      "word_breakdown": [
+        {
+          "word": "निराशीः",
+          "transliteration": "nirāśīḥ",
+          "root": "nir + āśā (hope, expectation)",
+          "grammatical_form": "Adjective, masculine, nominative, singular (bahuvrīhi compound)",
+          "meaning": "without hope / free from desire for results"
+        },
+        {
+          "word": "यतचित्तात्मा",
+          "transliteration": "yata-cittātmā",
+          "root": "√yam (to restrain) + citta (mind) + ātman (self)",
+          "grammatical_form": "Adjective, masculine, nominative, singular (compound)",
+          "meaning": "one whose mind and self are controlled / restrained in thought and being"
+        },
+        {
+          "word": "त्यक्तसर्वपरिग्रहः",
+          "transliteration": "tyakta-sarva-parigrahaḥ",
+          "root": "√tyaj (to abandon) + sarva (all) + pari + √grah (to grasp)",
+          "grammatical_form": "Adjective, masculine, nominative, singular (compound)",
+          "meaning": "one who has abandoned all possessions / free from all acquisitiveness"
+        },
+        {
+          "word": "किल्बिषम्",
+          "transliteration": "kilbiṣam",
+          "root": "kilbiṣa (sin, guilt, evil)",
+          "grammatical_form": "Noun, neuter, accusative, singular",
+          "meaning": "sin / guilt / moral blemish"
+        },
+        {
+          "word": "शारीरम्",
+          "transliteration": "śārīram",
+          "root": "śarīra (body) + suffix -a",
+          "grammatical_form": "Adjective, neuter, accusative, singular",
+          "meaning": "bodily / pertaining to the body alone"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This verse fills me with such quiet joy, dear one. Krishna is describing the inner state of a true karmayogi — someone who has let go of all grasping and anxiety about outcomes. Nirāśīḥ does not mean hopeless in the sad sense; it means free from the desperate clinging to results that poisons so much of our action. When we act only to maintain the body — to breathe, to serve, to fulfill our duty — without accumulating anything for ourselves, there is a tremendous lightness. I have seen this in the truly blessed — they move through the world like a breeze, touching everything but holding nothing. No sin can stick to such a one, because sin is the residue of selfish desire. Let us pray to be even a little like this.",
+        "sarvapriyananda": "Verse 21 gives us the portrait of the jīvanmukta — one liberated while still living. Three qualifications are named: nirāśīḥ (free from all hope or expectation of reward), yata-cittātmā (mind and intellect subdued through discriminative practice), and tyakta-sarva-parigrahaḥ (all possessiveness relinquished). For Advaita Vedanta, possessiveness is rooted in the false identification of the Self with body-mind. When ahaṃkāra — the ego-sense — weakens, the grip on 'mine' dissolves. Action then occurs only at the physical level, śārīraṃ kevalaṃ, as a spontaneous expression of existence rather than a strategy for gain. Such action generates no karma — no saṃskāric residue — because there is no 'someone' to accumulate it.",
+        "yogananda": "The master Yogi who has dissolved self-will performs only those actions necessary to sustain the instrument of the body for continued divine service. 'Without hope' means the consciousness rests in the soul's inherent bliss, not in future expectation. 'Self-controlled' describes the yogi who has interiorized the life-force through pranayama and meditation, so that the restless mind no longer scatters outward. 'Having abandoned all possessions' is the inner non-attachment; the yogi may live simply or even abundantly, but nothing owns him. In this state of inner freedom, action flows from the Infinite through the body without creating binding impressions — just as a clean mirror reflects light without absorbing or being changed by it.",
+        "goyandka": "Śrī Bhagavān here delineates the marks of one who acts without incurring karma. Nirāśīḥ: one who has given up longing for the fruits of action in this world or the next. Yata-cittātmā: one whose mind and intellect are governed by discrimination and dispassion. Tyakta-sarva-parigrahaḥ: one who has renounced even the internal sense of ownership, 'this is mine.' Such a person performs only what is absolutely necessary for bodily sustenance — nothing for pleasure, accumulation, or prestige. The Gītā is emphatic: karma binds not the act itself but the doer's self-identification with the act and its fruits. When that identification is absent, action leaves no karmic trace."
+      }
+    },
+    {
+      "verse": 22,
+      "sanskrit": "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः ।\nसमः सिद्धावसिद्धौ च कृत्वापि न निबध्यते ॥",
+      "transliteration": "yadṛcchā-lābha-santuṣṭo dvandvātīto vimatsaraḥ\namaḥ siddhāv asiddhau ca kṛtvāpi na nibadhyate",
+      "translation": "Satisfied with whatever comes by chance, beyond the pairs of opposites, free from envy, equal in success and failure — even while acting, he is not bound.",
+      "audio": "/assets/audio/ch04/verse_04_22.mp3",
+      "word_breakdown": [
+        {
+          "word": "यदृच्छालाभसन्तुष्टः",
+          "transliteration": "yadṛcchā-lābha-santuṣṭaḥ",
+          "root": "yadṛcchā (chance, spontaneous) + lābha (gain) + √tuṣ (to be satisfied)",
+          "grammatical_form": "Adjective, masculine, nominative, singular (compound)",
+          "meaning": "satisfied with whatever comes unsought / content with chance gains"
+        },
+        {
+          "word": "द्वन्द्वातीतः",
+          "transliteration": "dvandvātītaḥ",
+          "root": "dvandva (pair of opposites) + √i (to go) + atīta (transcended)",
+          "grammatical_form": "Adjective, masculine, nominative, singular (compound)",
+          "meaning": "one who has transcended the pairs of opposites (pleasure-pain, heat-cold, gain-loss)"
+        },
+        {
+          "word": "विमत्सरः",
+          "transliteration": "vimatsaraḥ",
+          "root": "vi (without) + matsara (envy, jealousy)",
+          "grammatical_form": "Adjective, masculine, nominative, singular",
+          "meaning": "free from envy / without jealousy"
+        },
+        {
+          "word": "निबध्यते",
+          "transliteration": "nibadhyate",
+          "root": "ni + √bandh (to bind)",
+          "grammatical_form": "Verb, present passive, 3rd person singular",
+          "meaning": "is bound / is fettered / is entangled"
+        }
+      ],
+      "commentary": {
+        "dadaji": "What a beautiful portrait of a free soul this verse paints! Yadṛcchā-lābha-santuṣṭaḥ — content with whatever God brings to our door. This is not laziness or resignation, my dear; it is the deepest trust. When we stop anxiously chasing what we think we need and simply receive what arrives with open hands and a grateful heart, life becomes a continuous gift. And dvandvātīta — beyond the seesaw of pleasure and pain, heat and cold, praise and blame. The wise one watches these pairs come and go like clouds across the sky, unshaken. Free from envy — how much suffering envy causes! When you see another's joy as your loss, you have forgotten your own divine wholeness. Such a one acts fully yet remains utterly free.",
+        "sarvapriyananda": "This verse describes four hallmarks of the liberated actor. First, yadṛcchā-lābha-santuṣṭaḥ: contentment with unsought gains — meaning the wise person does not scheme or manipulate circumstances, but accepts gracefully what Providence offers. Second, dvandvātītaḥ: transcendence of dvandvas, the binary fluctuations of phenomenal experience — the Vedantic teaching is that dvandvas belong to the body-mind, not to the ātman. Third, vimatsaraḥ: free from matsara, the painful contraction of envy. Fourth, samaḥ: equanimity in siddhi (success) and asiddhi (failure). These four together constitute the state of sthita-prajña, the one of steady wisdom. Such a person acts completely — kṛtvāpi — yet is not bound, because there is no inner claimant.",
+        "yogananda": "This verse describes the soul established in cosmic consciousness, who participates in the dance of duality without being caught by it. 'Whatever comes by chance' reflects the understanding that all events flow from the one Cosmic Will — the master does not prefer one outcome over another, for he sees the Beloved's hand in all. 'Beyond the pairs of opposites' is the state achieved through deep meditation when the devotee rises above the oscillations of sensory experience to rest in the ever-calm Self. 'Free from envy' follows naturally — one who lives in the ocean of infinite bliss cannot envy the few drops another person seems to possess. In success and failure alike he reads the same divine handwriting, and so is never bound.",
+        "goyandka": "Having described the marks of the karmayogi in the previous verse, the Lord here adds four more: contentment with unsought gain (which precludes prohibited or anxious striving), transcendence of pleasure and pain (which frees action from emotional compulsion), absence of envy (which ensures no agitation at another's prosperity), and equanimity in success and failure (which prevents elation and despair from disturbing the mind). It must be noted that kṛtvāpi — 'even while acting' — is the key phrase. The Lord is not prescribing inaction but rather action performed with this inner constellation. Such action, though vigorous outwardly, leaves no binding impression on the soul."
+      }
+    },
+    {
+      "verse": 23,
+      "sanskrit": "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः ।\nयज्ञायाचरतः कर्म समग्रं प्रविलीयते ॥",
+      "transliteration": "gata-saṅgasya muktasya jñānāvasthita-cetasaḥ\nyajñāyācarataḥ karma samagraṃ pravilīyate",
+      "translation": "Of one free from attachment, liberated, with mind established in knowledge — all his karma is dissolved, for he acts only as sacrifice.",
+      "audio": "/assets/audio/ch04/verse_04_23.mp3",
+      "word_breakdown": [
+        {
+          "word": "गतसङ्गस्य",
+          "transliteration": "gata-saṅgasya",
+          "root": "√gam (to go) + saṅga (attachment, clinging)",
+          "grammatical_form": "Adjective, masculine, genitive, singular (compound)",
+          "meaning": "of one whose attachment has gone / free from clinging"
+        },
+        {
+          "word": "मुक्तस्य",
+          "transliteration": "muktasya",
+          "root": "√muc (to release, to liberate)",
+          "grammatical_form": "Adjective, masculine, genitive, singular",
+          "meaning": "of the liberated one / of one who is free"
+        },
+        {
+          "word": "ज्ञानावस्थितचेतसः",
+          "transliteration": "jñānāvasthita-cetasaḥ",
+          "root": "jñāna (knowledge) + ava + √sthā (to stand) + cetas (mind, consciousness)",
+          "grammatical_form": "Adjective, masculine, genitive, singular (compound)",
+          "meaning": "of one whose mind is established in knowledge / consciousness grounded in wisdom"
+        },
+        {
+          "word": "प्रविलीयते",
+          "transliteration": "pravilīyate",
+          "root": "pra + vi + √lī (to dissolve, to melt)",
+          "grammatical_form": "Verb, present passive, 3rd person singular",
+          "meaning": "is entirely dissolved / completely melts away"
+        },
+        {
+          "word": "समग्रम्",
+          "transliteration": "samagram",
+          "root": "sam (completely) + agra (front, totality)",
+          "grammatical_form": "Adjective, neuter, nominative, singular",
+          "meaning": "entirely / wholly / completely / in its entirety"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Samagraṃ pravilīyate — completely dissolved! Not reduced, not managed, but entirely melted away. This is the miracle Krishna is describing. When a person has truly let go of clinging — gata-saṅga, the attachment is gone, not suppressed — when they are mukta, truly free in their heart, when their mind rests like still water in the clarity of divine knowledge — then all their action becomes yajña, an offering to the Lord. And what happens to offering placed in the sacred fire? It is transformed, purified, released. No karma accumulates for such a one. This is why the Gītā is so revolutionary: it does not demand you stop acting. It asks you to change the inner orientation — from grasping to offering. Then all of life becomes worship.",
+        "sarvapriyananda": "Verse 23 is the logical culmination of the preceding two verses. The three conditions for complete dissolution of karma are: gata-saṅga (freedom from saṅga — the sticky quality of ego-attachment to objects, persons, and outcomes), mukta (liberation — here referring to the ongoing inner state of freedom from false identification with body-mind), and jñānāvasthita-cetas (a mind continuously abiding in the knowledge 'I am Brahman, not the doer'). The fourth element is the mode of action: yajñāya ācarataḥ — acting purely as sacrifice, as offering. When all four conditions obtain simultaneously, samagraṃ karma pravilīyate — karma dissolves completely. There is no partial dissolution; it is total, because the karmic mechanism itself — the ego-identification — has been dismantled.",
+        "yogananda": "When the devotee has dissolved the separating membrane of ego-attachment through sustained meditation, when the liberating light of Self-knowledge illumines every corner of the mind, then all activity becomes an expression of the Infinite acting through a transparent instrument. Yajñāya ācarataḥ: acting as sacrifice — this is the yogi who has offered his very will into the divine fire and now moves only as God wills. In that state the notion of personal karma becomes meaningless: there is no personal entity to accumulate impressions. Sri Ramakrishna demonstrated this perfectly — he acted constantly, loved intensely, yet remained ever established in samādhi. His actions left no personal karmic trace because the 'person' had been wholly offered at the altar of the Divine Mother.",
+        "goyandka": "The Gītāchārya here states the principle with mathematical precision: three attributes of the actor plus one attribute of the act equal complete karmic dissolution. Gata-saṅga: when saṅga (attachment) itself has departed, not merely been suppressed. Mukta: when the individual considers himself free from bondage, not identifying as a bound jīva. Jñānāvasthita-cetas: when the intellect is stabilized in the knowledge of the real (ātma-jñāna), not oscillating between knowledge and ignorance. And the act itself must be yajñāya: performed for the sake of sacrifice alone, not for any personal purpose. The verb pravilīyate (dissolves completely) is significant — it indicates that not even subtle karmic residue (sūkṣma-karma) remains."
+      }
+    },
+    {
+      "verse": 24,
+      "sanskrit": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥",
+      "transliteration": "brahmārpaṇaṃ brahma havir brahmāgnau brahmaṇā hutam\nbrahmaiva tena gantavyaṃ brahma-karma-samādhinā",
+      "translation": "Brahman is the offering-ladle, Brahman is the oblation, poured by Brahman into the fire of Brahman — Brahman alone is to be reached by one who sees Brahman in all action.",
+      "audio": "/assets/audio/ch04/verse_04_24.mp3",
+      "word_breakdown": [
+        {
+          "word": "ब्रह्मार्पणम्",
+          "transliteration": "brahmārpaṇam",
+          "root": "brahman + arpaṇa (offering, instrument of offering)",
+          "grammatical_form": "Noun, neuter, nominative, singular (compound)",
+          "meaning": "the act/instrument of offering is Brahman / the ladle of offering is Brahman"
+        },
+        {
+          "word": "हविः",
+          "transliteration": "haviḥ",
+          "root": "√hu (to offer, to pour oblation)",
+          "grammatical_form": "Noun, neuter, nominative, singular",
+          "meaning": "the oblation / the ghee or substance offered into fire"
+        },
+        {
+          "word": "ब्रह्माग्नौ",
+          "transliteration": "brahmāgnau",
+          "root": "brahman + agni (fire)",
+          "grammatical_form": "Noun, masculine, locative, singular (compound)",
+          "meaning": "in the fire of Brahman / into the sacred fire that is Brahman"
+        },
+        {
+          "word": "ब्रह्मकर्मसमाधिना",
+          "transliteration": "brahma-karma-samādhinā",
+          "root": "brahman + karma (action) + samādhi (absorption, concentration)",
+          "grammatical_form": "Noun, masculine, instrumental, singular (compound)",
+          "meaning": "by one absorbed in Brahman in all action / through the contemplation of Brahman in every deed"
+        },
+        {
+          "word": "गन्तव्यम्",
+          "transliteration": "gantavyam",
+          "root": "√gam (to go, to reach, to attain)",
+          "grammatical_form": "Gerundive (future passive participle), neuter, nominative",
+          "meaning": "to be reached / to be attained / the goal to be reached"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is the verse I return to again and again, dear one. Five times the word Brahman appears in a single verse — the Lord is hammering it into our hearts. The instrument of offering: Brahman. The substance offered: Brahman. The sacred fire: Brahman. The one who offers: Brahman. And the goal attained: Brahman. When you see like this, where is the separate 'I' who is doing something? Where is the division between worshipper and worshipped? There is only the one infinite Presence playing all these roles simultaneously. This is not philosophy to be debated; it is an experience to be entered. Begin with the morning puja — let the flower be Brahman, the lamp be Brahman, your own hands offering: Brahman. Keep doing this and one day the vision will open.",
+        "sarvapriyananda": "This is one of the most celebrated verses in the entire Gītā and is considered the locus classicus of the Advaita understanding of karma yoga. The verse employs the structure of the Vedic fire sacrifice (yajña) as a complete metaphysical map. In external ritual: priest, ladle, oblation, fire, and act of pouring are all distinct entities. In brahma-karma-samādhi — absorption of Brahman in action — all five collapse into one: Brahman. Śaṃkarācārya comments that this verse describes the vision of the jñānī performing action: he sees only Brahman everywhere — as the instrument (arpaṇam), the material (haviḥ), the recipient (agni), the doer (brahmaṇā), and the result (brahmaiva gantavyam). This is not imagination; it is the direct perception of non-dual reality through which all karma is transformed into liberation itself.",
+        "yogananda": "In this supreme verse, the Divine Beloved reveals the ultimate mystery of sacrifice to His devotee Arjuna. The outer fire sacrifice of the priests becomes an inner cosmic vision: every element of the universe — the act, the instrument, the substance, the fire, the offerer — is recognized as none other than the one Infinite Consciousness, the Eternal Brahman. The great Paramahansa taught that in the highest state of samādhi the devotee dissolves into God so completely that even the distinction between devotee and God disappears. Brahma-karma-samādhi is precisely this: complete absorption of the sense of personal agency into the Cosmic Actor. The yogi in kriyā or in the deepest meditation practices this vision: every prāṇa offered into apāna, every breath, every sensation — all is the play of the Infinite in the Infinite.",
+        "goyandka": "This majestic verse requires careful analysis. Arpaṇam: the sruk (large ladle) used in sacrifice — here signifying the entire instrument or means of action — is Brahman. Haviḥ: the ghee or material offered — signifying the object of action — is Brahman. Brahmāgnau: the fire into which it is poured — signifying the field of action — is Brahman. Brahmaṇā hutam: the pouring is done by Brahman — the actor is Brahman. And therefore brahmaiva gantavyam: the result too is Brahman — the attainment is Brahman. This is the vision of the brahmavid (knower of Brahman). Every element of karmic structure — kāraka, karma, and kriyā — is Brahman. For such a one, action is not different from liberation."
+      }
+    },
+    {
+      "verse": 25,
+      "sanskrit": "दैवमेवापरे यज्ञं योगिनः पर्युपासते ।\nब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ॥",
+      "transliteration": "daivam evāpare yajñaṃ yoginaḥ paryupāsate\nbrahmāgnāv apare yajñaṃ yajñenaivopajuhvati",
+      "translation": "Some yogis offer sacrifice to the gods alone; others offer the sacrifice itself as oblation into the fire of Brahman.",
+      "audio": "/assets/audio/ch04/verse_04_25.mp3",
+      "word_breakdown": [
+        {
+          "word": "दैवम्",
+          "transliteration": "daivam",
+          "root": "deva (god, deity) + suffix -a",
+          "grammatical_form": "Adjective used as noun, neuter, accusative, singular",
+          "meaning": "pertaining to the gods / divine sacrifice / worship of deities"
+        },
+        {
+          "word": "पर्युपासते",
+          "transliteration": "paryupāsate",
+          "root": "pari + upa + √ās (to sit near, to worship, to attend upon)",
+          "grammatical_form": "Verb, present indicative, ātmanepada, 3rd person plural",
+          "meaning": "they worship / they perform / they devoutly attend to"
+        },
+        {
+          "word": "ब्रह्माग्नौ",
+          "transliteration": "brahmāgnau",
+          "root": "brahman + agni (fire)",
+          "grammatical_form": "Noun, masculine, locative, singular (compound)",
+          "meaning": "in the fire of Brahman / into Brahman conceived as the supreme fire"
+        },
+        {
+          "word": "उपजुह्वति",
+          "transliteration": "upajuhvati",
+          "root": "upa + √hu (to pour oblation, to offer into fire)",
+          "grammatical_form": "Verb, present indicative, parasmaipada, 3rd person plural",
+          "meaning": "they pour as oblation / they offer up / they sacrifice"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here Krishna begins to open our eyes to the astonishing variety of paths to God — all of them valid, all of them forms of yajña, of sacred offering. Some sincere seekers perform traditional rituals, offering with great devotion to Indra, to Agni, to Varuna — the great cosmic powers. This is beautiful, and it yields purification and merit. Others, with a deeper vision — perhaps those who have encountered a realized teacher — see the entire cosmos as Brahman and offer the very act of sacrifice into that infinite fire. The fire of Brahman consumes everything, including the ego of the one who sacrifices. Both are paths of the heart. The Lord honors both. What matters is the sincerity of offering, not the sophistication of the theology behind it.",
+        "sarvapriyananda": "Beginning with verse 25, Śrī Kṛṣṇa catalogs a magnificent array of yajña-forms, expanding the concept of sacrifice from Vedic ritual to encompass every possible mode of spiritual practice. The first two categories: daiva-yajña (worship of gods) and brahma-yajña (offering sacrifice into Brahman itself). The distinction is important from the Advaita standpoint. Daiva-yajña operates within the framework of duality — there are gods who are separate recipients of worship. Brahma-yajña dissolves this framework — the sacrifice, the fire, and the act of offering are all recognized as Brahman, as verse 24 established. Both are valid stages of the spiritual ascent. The Gītā never dismisses ritual; it sublates it into a higher understanding.",
+        "yogananda": "The Divine Teacher here begins His glorious enumeration of the many forms of sacrifice — all of them paths to liberation, each suited to a different temperament and level of development. The devotional seeker who worships the cosmic gods — Indra (the intelligence-principle), Agni (the energy-principle) — is purifying his consciousness through the recognition of divine power in nature. The advancing yogi who pours sacrifice itself into the fire of Brahman has understood that the worshipper, the worshipped, and the act of worship are one undivided Consciousness. This second form corresponds to the highest stages of meditation, where the meditator, the meditation, and the object of meditation merge into samādhi — the fire of Brahman consuming all distinctions.",
+        "goyandka": "The Lord now begins a systematic classification of yajñas to show that the term encompasses far more than external fire sacrifice. Two types are presented here. First: daiva-yajña — sacrifice directed to the devatās, performed in accordance with scriptural injunction, with proper materials, mantras, and procedures. This fulfils dharmic obligations and gradually purifies the mind. Second: brahma-yajña — the higher sacrifice in which the ritualist recognizes Brahman as the fire, the oblation, and the act itself, as detailed in verse 24. The difference between these two is not one of external form but of internal understanding: the first works with duality, the second dissolves it. Both are honored by the Lord as valid modes of yoga."
+      }
+    },
+    {
+      "verse": 26,
+      "sanskrit": "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति ।\nशब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ॥",
+      "transliteration": "śrotrādīnīndriyāṇy anye saṃyamāgniṣu juhvati\nśabdādīn viṣayān anya indriyāgniṣu juhvati",
+      "translation": "Others offer the senses — hearing and the rest — into the fires of restraint; others offer sound and the other sense-objects into the fires of the senses.",
+      "audio": "/assets/audio/ch04/verse_04_26.mp3",
+      "word_breakdown": [
+        {
+          "word": "श्रोत्रादीनि",
+          "transliteration": "śrotrādīni",
+          "root": "√śru (to hear) + ādi (beginning, et cetera)",
+          "grammatical_form": "Noun, neuter, accusative, plural (compound)",
+          "meaning": "hearing and the rest / the senses beginning with hearing (ear, skin, eye, tongue, nose)"
+        },
+        {
+          "word": "संयमाग्निषु",
+          "transliteration": "saṃyamāgniṣu",
+          "root": "sam + √yam (to restrain) + agni (fire)",
+          "grammatical_form": "Noun, masculine, locative, plural (compound)",
+          "meaning": "in the fires of restraint / into the fires of sense-control"
+        },
+        {
+          "word": "शब्दादीन्",
+          "transliteration": "śabdādīn",
+          "root": "śabda (sound) + ādi (beginning, et cetera)",
+          "grammatical_form": "Noun, masculine, accusative, plural (compound)",
+          "meaning": "sound and the rest / the sense-objects beginning with sound"
+        },
+        {
+          "word": "इन्द्रियाग्निषु",
+          "transliteration": "indriyāgniṣu",
+          "root": "indriya (sense organ) + agni (fire)",
+          "grammatical_form": "Noun, masculine, locative, plural (compound)",
+          "meaning": "in the fires of the senses / into the sense organs conceived as sacred fires"
+        }
+      ],
+      "commentary": {
+        "dadaji": "In this verse Krishna reveals two more beautiful forms of inner yajña. The first group offers the senses themselves into the fire of saṃyama — restraint. This is the path of one who practices withdrawal of the senses, like the tortoise drawing in its limbs, gradually reducing the power of the outgoing tendency. The second group is subtler — they allow the senses to engage with their objects (sound, touch, form, taste, smell) but offer those very contacts as oblations into the fire of the senses, meaning they consume the experience consciously without letting it create craving or aversion. Both are valid yajñas. The Lord is showing us that even how we use our senses can become a sacred practice. Truly, all of life can be made into worship.",
+        "sarvapriyananda": "This verse presents two contrasting but equally valid approaches to sense-management as spiritual practice. The first — saṃyama-yajña: the practitioner sacrifices the sense organs themselves (śrotrādi) into the fires of restraint (saṃyama). This corresponds to the pratyāhāra of Patañjali's Yoga — the systematic withdrawal of sensory awareness from external objects. The senses are not used; they are offered up. The second — indriya-yajña: the practitioner allows the senses to contact their objects (śabdādi viṣayāḥ) but offers those very contacts into the sense-fires — meaning sensory experience is witnessed and released without creating saṃskāras. The first path restrains the instruments; the second path transforms the relationship with experience itself. Both qualify as yajña.",
+        "yogananda": "The great Master of Yoga here describes two inner sacrificial paths. The first group — those who pour the senses into the fires of restraint — are the practitioners of pratyāhāra and dhāraṇā: by withdrawing the perceptive powers from their outward objects and directing them inward toward the divine Light, the senses are, as it were, burned in the sacred fire of self-discipline, purified of their restlessness. The second group offers the sense-objects themselves: they engage with the world of form and sound but with such inner detachment and mindfulness that each sensory contact is an offering — felt, witnessed, released — creating no binding impression. The spiritual aspirant may practice both: first restraining the senses in meditation, then engaging the world with the mindfulness of a yogi.",
+        "goyandka": "The Bhagavān describes here two forms of indriya-yajña. In the first, the jñānendriya-s — the five cognitive senses beginning with hearing (śrotra) — are themselves the oblation offered into the fires of saṃyama (disciplined restraint). This means the senses are held back from their objects through vairāgya and viveka; their outgoing tendency is sacrificed. In the second, the viṣaya-s — the objects of the senses: sound (śabda), touch (sparśa), form (rūpa), taste (rasa), smell (gandha) — are the oblation offered into the fires of the sense organs. This corresponds to the practice of careful, conscious engagement: one meets sense-objects but without attachment, as if offering them to the sense-fires which consume them without residue."
+      }
+    },
+    {
+      "verse": 27,
+      "sanskrit": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे ।\nआत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ॥",
+      "transliteration": "sarvāṇīndriya-karmāṇi prāṇa-karmāṇi cāpare\nātma-saṃyama-yogāgnau juhvati jñāna-dīpite",
+      "translation": "Others offer all the functions of the senses and all the functions of the vital breath into the fire of the yoga of self-discipline, kindled by knowledge.",
+      "audio": "/assets/audio/ch04/verse_04_27.mp3",
+      "word_breakdown": [
+        {
+          "word": "इन्द्रियकर्माणि",
+          "transliteration": "indriya-karmāṇi",
+          "root": "indriya (sense organ) + karman (function, action)",
+          "grammatical_form": "Noun, neuter, accusative, plural (compound)",
+          "meaning": "all the functions and activities of the sense organs"
+        },
+        {
+          "word": "प्राणकर्माणि",
+          "transliteration": "prāṇa-karmāṇi",
+          "root": "prāṇa (vital breath, life-force) + karman (function, action)",
+          "grammatical_form": "Noun, neuter, accusative, plural (compound)",
+          "meaning": "all the functions of the vital breath / all activities of the prāṇic force"
+        },
+        {
+          "word": "आत्मसंयमयोगाग्नौ",
+          "transliteration": "ātma-saṃyama-yogāgnau",
+          "root": "ātman + sam + √yam + yoga + agni",
+          "grammatical_form": "Noun, masculine, locative, singular (compound)",
+          "meaning": "into the fire of the yoga of self-restraint / in the sacred fire of the discipline of self-control"
+        },
+        {
+          "word": "ज्ञानदीपिते",
+          "transliteration": "jñāna-dīpite",
+          "root": "jñāna (knowledge) + √dīp (to kindle, to illuminate)",
+          "grammatical_form": "Past passive participle, masculine/neuter, locative, singular",
+          "meaning": "kindled by knowledge / illumined and ignited by wisdom"
+        }
+      ],
+      "commentary": {
+        "dadaji": "This is a profound verse, dear one, and somewhat subtle. The previous verse described those who restrain the senses or offer sense-objects. Here the Lord describes a complete offering: all functions of the senses — every act of seeing, hearing, tasting, touching, smelling — and all functions of the vital prāṇa — breathing, digesting, moving — all of these are poured into the fire of ātma-saṃyama-yoga, the practice of complete inner self-discipline. And this fire, this yoga, is kindled by jñāna — by true knowledge of the Self. This is the integrated spiritual life where no corner of experience is left outside the sacred fire. Every breath, every sensation, every thought is offered up. Such a practice must be ignited by knowledge, not mere will-power, for only the light of wisdom can sustain this complete an inner sacrifice.",
+        "sarvapriyananda": "Verse 27 describes what might be called integral yoga-yajña. The offerings here are comprehensive: sarvāṇi indriya-karmāṇi — all the activities of the cognitive and conative senses (not just hearing, but all perceptual and motor functions), and prāṇa-karmāṇi — all the activities of the five prāṇas (prāṇa, apāna, samāna, udāna, vyāna) governing biological functions. All of these are offered into ātma-saṃyama-yoga-agni — the fire of the yoga of total self-restraint. The crucial qualifier is jñāna-dīpite: this fire is kindled by Self-knowledge. Without jñāna, self-restraint is mere austerity and can generate pride or rigidity. When lit by the understanding 'I am not the doer, not the senser, not the breather,' restraint becomes transparent liberation.",
+        "yogananda": "This verse describes the advanced kriyā yogi who has placed even the prāṇic functions under the altar of inner sacrifice. Prāṇa-karmāṇi — the activities of the life-force: the rising and falling of breath, the pulse of energy through the spine, the humming of prāṇa in the senses — all of this is offered into the fire of ātma-saṃyama-yoga, the yoga of complete self-mastery. This fire is jñāna-dīpita — kindled by the wisdom that the prāṇa is not 'mine' but is the universal Life appearing in this form. The true kriyābān yogi interiorizes both breath and sensation, offering them at the altar of the ātman. In deep kriyā practice, breathing becomes minimal and the prāṇic energy rises inward and upward — this is the practical demonstration of this verse.",
+        "goyandka": "This verse extends the scope of yoga-yajña to encompass the totality of human function. Indriya-karmāṇi includes both jñānendriya-karma (the activity of the five sense organs) and karmendriya-karma (the activity of the five organs of action — hands, feet, speech, reproductive organ, organs of elimination). Prāṇa-karmāṇi refers to the five vital functions (prāṇa: respiration; apāna: excretion; samāna: digestion; udāna: upward movement; vyāna: circulation). All of these — the complete range of psychophysical functioning — are surrendered into the fire of ātma-saṃyama-yoga: complete inner self-discipline. The all-important condition is jñāna-dīpite: this fire must be kindled by wisdom. Self-discipline rooted in ignorance leads to rigidity; rooted in Self-knowledge, it leads to liberation."
+      }
+    },
+    {
+      "verse": 28,
+      "sanskrit": "द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे ।\nस्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ॥",
+      "transliteration": "dravya-yajñās tapo-yajñā yoga-yajñās tathāpare\nsvādhyāya-jñāna-yajñāś ca yatayaḥ saṃśita-vratāḥ",
+      "translation": "Others offer material wealth as sacrifice, or austerity as sacrifice, or yoga as sacrifice, or Vedic study and knowledge as sacrifice — ascetics of firm vows.",
+      "audio": "/assets/audio/ch04/verse_04_28.mp3",
+      "word_breakdown": [
+        {
+          "word": "द्रव्ययज्ञाः",
+          "transliteration": "dravya-yajñāḥ",
+          "root": "dravya (material wealth, substance) + yajña (sacrifice)",
+          "grammatical_form": "Noun, masculine, nominative, plural (compound)",
+          "meaning": "those for whom sacrifice is material offering / practitioners of material sacrifice (dana)"
+        },
+        {
+          "word": "तपोयज्ञाः",
+          "transliteration": "tapo-yajñāḥ",
+          "root": "tapas (austerity, heat, discipline) + yajña (sacrifice)",
+          "grammatical_form": "Noun, masculine, nominative, plural (compound)",
+          "meaning": "those for whom sacrifice is austerity / practitioners of tapas as yajña"
+        },
+        {
+          "word": "स्वाध्यायज्ञानयज्ञाः",
+          "transliteration": "svādhyāya-jñāna-yajñāḥ",
+          "root": "sva (own) + adhyāya (study) + jñāna (knowledge) + yajña",
+          "grammatical_form": "Noun, masculine, nominative, plural (compound)",
+          "meaning": "those whose sacrifice is Vedic self-study and knowledge / practitioners of jñāna-yajña"
+        },
+        {
+          "word": "संशितव्रताः",
+          "transliteration": "saṃśita-vratāḥ",
+          "root": "sam + √śā (to sharpen, to intensify) + vrata (vow, religious observance)",
+          "grammatical_form": "Adjective, masculine, nominative, plural (compound)",
+          "meaning": "of sharpened / intensified vows / with firmly strengthened resolves"
+        }
+      ],
+      "commentary": {
+        "dadaji": "What joy it gives me to see how the Lord encompasses every sincere path in His vision of yajña! The philanthropist who donates generously — dravya-yajña, the sacrifice of wealth. The ascetic who undergoes fasting, silence, and physical hardship — tapo-yajña. The meditator who practices kriyā and āsana with dedication — yoga-yajña. The scholar who immerses himself in scriptures, reciting the Vedas, studying the Upaniṣads — svādhyāya-yajña. The philosopher who pursues jñāna, the knowledge of Brahman — jñāna-yajña. And all of these are yatayaḥ — strivers, those who make earnest effort — saṃśita-vratāḥ, with vows that have been sharpened to a fine point by devotion and discipline. Every sincere path is honored here. Find your own and walk it with resolve.",
+        "sarvapriyananda": "Krishna continues the taxonomy of sacrifice, now enumerating four more: dravya-yajña (sacrifice of material possessions — wealth given in charity, temple offerings, feeding the poor), tapo-yajña (sacrifice of physical and mental ease through austerity — fasting, vigil, silence, endurance of discomfort in service of purification), yoga-yajña (sacrifice through the practice of the eight-limbed yoga of Patañjali or similar disciplines), and svādhyāya-jñāna-yajña (sacrifice through Vedic self-study and the cultivation of Self-knowledge). The practitioners of all these are characterized as yatayaḥ (strivers) and saṃśita-vratāḥ (those of sharpened vows). The Gītā's inclusivity here is remarkable — it validates every form of sincere spiritual effort as a valid path to liberation.",
+        "yogananda": "The Blessed Lord enumerates here the four great paths of sacrifice available to sincere seekers of truth. Dravya-yajña is practiced by the devotee who consecrates his material wealth to God through charitable giving — recognizing all possessions as held in trust from the Divine. Tapo-yajña is the path of those who purify body, speech, and mind through systematic austerity — fasting, silence, endurance. Yoga-yajña is the royal path of meditation, pranayama, and the eight limbs of yoga by which the practitioner systematically yokes the individual soul to the Universal. Svādhyāya-jñāna-yajña is the sacrifice of the mind's false certainties into the fire of scriptural study and Self-inquiry. All these paths are honored — all purify, all liberate, when practiced by saṃśita-vratāḥ: those whose spiritual vow has been made irrevocably.",
+        "goyandka": "The Bhagavān enumerates four additional categories of yajña-practitioners. Dravya-yajñāḥ: those who perform sacrifice through material means — offerings of food, money, gold, and goods to the deserving (brāhmaṇas, the poor, temples). This is the path of dāna (generosity) elevated to the level of sacred sacrifice. Tapo-yajñāḥ: those for whom tapas itself is the yajña — physical austerity (fasting, exposure to elements), verbal austerity (silence, truthful speech), and mental austerity (equanimity, restraint of thought). Yoga-yajñāḥ: practitioners of the eightfold yoga who offer the scattered functions of body and mind into the discipline of yoga. Svādhyāya-jñāna-yajñāḥ: those who sacrifice through Vedic recitation (svādhyāya) and through jñāna — the direct inquiry into the nature of the Self. All are described as yatayaḥ: those who strive diligently."
+      }
+    },
+    {
+      "verse": 29,
+      "sanskrit": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे ।\nप्राणापानगती रुद्ध्वा प्राणायामपरायणाः ॥",
+      "transliteration": "apāne juhvati prāṇaṃ prāṇe 'pānaṃ tathāpare\nprāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ",
+      "translation": "Others devoted to pranayama offer the outgoing breath (prana) into the incoming (apana) and the incoming into the outgoing, restraining the movements of prana and apana.",
+      "audio": "/assets/audio/ch04/verse_04_29.mp3",
+      "word_breakdown": [
+        {
+          "word": "अपाने",
+          "transliteration": "apāne",
+          "root": "apa + √an (to breathe) — apāna: the downward-moving vital air",
+          "grammatical_form": "Noun, masculine, locative, singular",
+          "meaning": "into the apana (the downward, exhalation-associated vital breath)"
+        },
+        {
+          "word": "प्राणम्",
+          "transliteration": "prāṇam",
+          "root": "pra + √an (to breathe) — prāṇa: the upward-moving vital air",
+          "grammatical_form": "Noun, masculine, accusative, singular",
+          "meaning": "the prana (the upward, inhalation-associated vital breath)"
+        },
+        {
+          "word": "गती",
+          "transliteration": "gatī",
+          "root": "√gam (to go) — gati: movement, path",
+          "grammatical_form": "Noun, feminine, accusative, dual",
+          "meaning": "the two movements / the two courses (of prāṇa and apāna)"
+        },
+        {
+          "word": "रुद्ध्वा",
+          "transliteration": "ruddhvā",
+          "root": "√rudh (to obstruct, to restrain, to stop)",
+          "grammatical_form": "Gerund (absolutive)",
+          "meaning": "having restrained / having stopped / by blocking"
+        },
+        {
+          "word": "प्राणायामपरायणाः",
+          "transliteration": "prāṇāyāma-parāyaṇāḥ",
+          "root": "prāṇa + āyāma (extension, restraint) + parāyaṇa (devoted to, absorbed in)",
+          "grammatical_form": "Adjective, masculine, nominative, plural (compound)",
+          "meaning": "devoted to pranayama / absorbed in the practice of breath-regulation"
+        }
+      ],
+      "commentary": {
+        "dadaji": "Here the Lord honors the dedicated prāṇāyāma practitioner, the one whose yajña is the sacred science of breath. In this inner fire sacrifice, the inhaled prāṇa is offered into the apāna (the exhalation energy), and the apāna is offered into the prāṇa — they merge, they balance, they neutralize each other. And then in kumbhaka — the suspension of breath — both movements are stilled, offered up completely. The prāṇāyāmi knows that where breath ceases, thought ceases, and where thought ceases, the mind becomes quiet enough to hear the silent voice of the ātman. This is a most powerful sādhana. Even in daily life, a few minutes of conscious prāṇāyāma can transform our inner state. The yogi who has mastered this lives in a continuous state of inner worship.",
+        "sarvapriyananda": "This verse makes explicit that prāṇāyāma — the fourth of Patañjali's eight limbs — is a form of yajña as honored by the Gītā as any external fire sacrifice. The technical description is precise: apāne juhvati prāṇam — they pour prāṇa (the ascending inhalation-force) as oblation into apāna (the descending exhalation-force); and prāṇe 'pānam — they pour apāna back into prāṇa. This describes the reciprocal regulation of inhalation (pūraka) and exhalation (recaka). Then prāṇāpāna-gatī ruddhvā — restraining both movements — describes kumbhaka (breath retention), where both currents are offered up and held in suspension. In this state, the interiorized prāṇa withdraws the mind from the senses, enabling pratyāhāra and dhāraṇā to arise naturally.",
+        "yogananda": "My Guru, Sri Yukteswar, and his Guru, Lahiri Mahasaya, taught that this verse is none other than the Gītā's direct reference to Kriyā Yoga. The sacred science of Kriyā involves precisely this: the conscious offering of prāṇa into apāna and apāna into prāṇa through systematic rotation of the life-current in the spine — the path from mūlādhāra to sahasrāra and back. By this reciprocal offering, the two currents neutralize each other, breath is naturally suspended in kevala-kumbhaka, and the life-force is withdrawn from the senses and offered at the altar of the brain's divine center. In this state of breathlessness, the yogi tastes samādhi — the Supreme Sacrifice in which the individual life is offered into the Cosmic Life. Prāṇāyāma-parāyaṇāḥ: utterly devoted to this supreme inner fire ritual.",
+        "goyandka": "This verse is a specific description of prāṇāyāma as yajña. The Lord describes the pūraka-recaka-kumbhaka triad in sacrificial language. Apāne juhvati prāṇam: during pūraka (inhalation), the prāṇa-vāyu is merged into the apāna-vāyu — the upward breath is offered into the downward field. Prāṇe 'pānam: during recaka (exhalation), the apāna-vāyu is offered into the prāṇa-field — the downward breath is merged into the upward. Prāṇāpāna-gatī ruddhvā: by restraining both movements — this is kumbhaka (retention), where both vital airs are suspended, their activities offered completely. These prāṇāyāma-parāyaṇāḥ — those utterly devoted to this practice — perform a continuous inner yajña with every breath, purifying the nāḍīs and preparing the mind for meditation."
+      }
+    },
+    {
+      "verse": 30,
+      "sanskrit": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति ।\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ॥",
+      "transliteration": "apare niyatāhārāḥ prāṇān prāṇeṣu juhvati\nsarve 'py ete yajña-vido yajña-kṣapita-kalmaṣāḥ",
+      "translation": "Others, who restrict their food, offer the pranas into the pranas. All these are knowers of sacrifice; all their sins are destroyed by sacrifice.",
+      "audio": "/assets/audio/ch04/verse_04_30.mp3",
+      "word_breakdown": [
+        {
+          "word": "नियताहाराः",
+          "transliteration": "niyatāhārāḥ",
+          "root": "niyata (regulated, controlled) + āhāra (food, intake)",
+          "grammatical_form": "Adjective, masculine, nominative, plural (compound)",
+          "meaning": "those of regulated food / those who have controlled their diet"
+        },
+        {
+          "word": "प्राणान्",
+          "transliteration": "prāṇān",
+          "root": "pra + √an (to breathe) — the five vital breaths collectively",
+          "grammatical_form": "Noun, masculine, accusative, plural",
+          "meaning": "the pranas / the vital breaths (all five: prāṇa, apāna, samāna, udāna, vyāna)"
+        },
+        {
+          "word": "यज्ञविदः",
+          "transliteration": "yajña-vidaḥ",
+          "root": "yajña (sacrifice) + √vid (to know)",
+          "grammatical_form": "Noun/Adjective, masculine, nominative, plural (compound)",
+          "meaning": "knowers of sacrifice / those who truly understand yajña"
+        },
+        {
+          "word": "यज्ञक्षपितकल्मषाः",
+          "transliteration": "yajña-kṣapita-kalmaṣāḥ",
+          "root": "yajña + √kṣap (to destroy, to diminish) + kalmaṣa (sin, impurity, stain)",
+          "grammatical_form": "Adjective, masculine, nominative, plural (compound)",
+          "meaning": "those whose sins have been destroyed by sacrifice / purified of all impurity through yajña"
+        }
+      ],
+      "commentary": {
+        "dadaji": "The Lord concludes this beautiful passage on the types of yajña with a verse that brings me great hope, dear one. Niyatāhārāḥ — those who regulate their food — perform the sacrifice of prāṇas into prāṇas: by eating moderately and consciously, they regulate the vital energies themselves, controlling how much prāṇa the body takes in and uses. This seemingly simple practice — mindful, moderate eating — is here elevated to the level of sacred sacrifice. And then comes the great declaration: sarve 'py ete yajña-vidaḥ — all of these, every single one of these practitioners, from the most sophisticated jñānin to the one who simply moderates his food — they are all yajña-vids, true knowers of sacrifice. And for all of them, yajña-kṣapita-kalmaṣāḥ — all sins destroyed by the power of sacrifice. What a compassionate Lord!",
+        "sarvapriyananda": "The final category in this enumeration is the niyatāhāra-yajña: those who practice regulated eating as spiritual discipline. Mitāhāra — moderate, measured food — is prescribed in the Haṭhayoga Pradīpikā and Gītā both as essential for the advanced practitioner. The description prāṇān prāṇeṣu juhvati — offering the prāṇas into the prāṇas — may signify that by controlling food intake, the vital airs (which are fed by digested food) are themselves brought under regulation, each prāṇa functioning at its optimum without excess. The verse then delivers its grand conclusion: sarve 'py ete yajña-vidaḥ — all of these practitioners, across all these forms of yajña, are yajña-vids: true knowers of the deepest meaning of sacrifice. And by that knowledge, yajña-kṣapita-kalmaṣāḥ: their karmic impurities are entirely consumed.",
+        "yogananda": "The Bhagavān completes His enumeration with the practitioners of āhāra-niyama — regulation of food. Mitāhāra is integral to prāṇāyāma practice: overeating creates heaviness in the prāṇic field, disturbs the nāḍīs, and makes interiorization of consciousness difficult. The yogi who eats sparingly and mindfully is offering the very process of metabolism — the prāṇas engaged in digestion — into the sacred fire of purified prāṇic function. The magnificent conclusion — sarve 'py ete yajña-vidaḥ — reveals the Lord's limitless compassion and the all-embracing wisdom of the Gītā. Whatever path the sincere seeker walks — ritual, austerity, pranayama, meditation, knowledge, charity, dietary discipline — if it is walked with understanding and devotion, all karma is burned and liberation is attained. Choose your yajña and practice it with your whole being.",
+        "goyandka": "The Lord concludes the enumeration of yajña-types with a final form: niyatāhāra-yajña. By regulating diet — eating at proper times, in proper quantity, of proper quality — the practitioner controls samāna-vāyu (the vital air presiding over digestion) and thereby regulates all five prāṇas. Prāṇān prāṇeṣu juhvati: the prāṇas in their various functions are offered, through this dietary discipline, into the fire of prāṇic regulation itself. Then comes the conclusive declaration of this entire section (verses 25–30): sarve 'py ete yajña-vidaḥ — all of these practitioners, without exception, are yajña-vids — true understanders of what sacrifice means. They are not merely performers of ritual; they have understood the inner principle of offering. And the result: yajña-kṣapita-kalmaṣāḥ — all impurity, all past karma, all moral stain, is destroyed by the power of yajña practiced with true understanding."
+      }
+    }
+  ]
+}
