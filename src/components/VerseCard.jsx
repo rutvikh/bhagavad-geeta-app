@@ -27,16 +27,20 @@ export default function VerseCard({ verse, chapterNumber, mini = false }) {
 
       {/* ② Sanskrit verse */}
       <div className="mb-4">
-        <p className="sanskrit" style={{ margin: 0 }}>
-          {verse.sanskrit}
-        </p>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
+          {verse.sanskrit.split('\n').map((line, i) => (
+            <p key={i} className="sanskrit" style={{ margin: 0 }}>{line}</p>
+          ))}
+        </div>
       </div>
 
       {/* ③ Transliteration */}
       <div className="mb-4">
-        <p className="transliteration" style={{ margin: 0 }}>
-          {verse.transliteration}
-        </p>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
+          {verse.transliteration.split('\n').map((line, i) => (
+            <p key={i} className="transliteration" style={{ margin: 0 }}>{line}</p>
+          ))}
+        </div>
       </div>
 
       {/* ④ English translation */}
