@@ -6,7 +6,7 @@ import CommentaryTabs from './CommentaryTabs'
 export default function VerseCard({ verse, chapterNumber, mini = false }) {
   if (!verse) return null
 
-  const audioSrc = verse.audio || `/assets/audio/ch${String(chapterNumber).padStart(2,'0')}/verse_${String(chapterNumber).padStart(2,'0')}_${String(verse.verse).padStart(2,'0')}.mp3`
+  const audioSrc = (verse.audio?.startsWith('http') ? verse.audio : null) || `https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP${chapterNumber}/${chapterNumber}-${verse.verse}.MP3`
 
   return (
     <div className="verse-card fade-in-up">
