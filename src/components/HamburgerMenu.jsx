@@ -46,8 +46,8 @@ export default function HamburgerMenu({ open, onClose }) {
         </button>
 
         <nav className="flex flex-col gap-1">
-          <NavItem onClick={() => handleNav('/')}>
-            🏠 Home — Verse of the Day
+          <NavItem onClick={() => handleNav('/verse-of-the-day')}>
+            🌅 Verse of the Day
           </NavItem>
 
           <NavItem onClick={() => handleNav('/overview')}>

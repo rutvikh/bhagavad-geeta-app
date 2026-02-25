@@ -1,5 +1,6 @@
 import { HashRouter, Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
+import Home from './pages/Home'
 import Overview from './pages/Overview'
 import ChapterPage from './pages/ChapterPage'
 import VersePage from './pages/VersePage'
@@ -16,6 +17,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Overview />} />
           <Route path="/overview" element={<Overview />} />
+          <Route path="/verse-of-the-day" element={<Home />} />
           <Route path="/chapter/:chapterNumber" element={<ChapterPage />} />
           <Route path="/chapter/:chapterNumber/verse/:verseNumber" element={<VersePage />} />
         </Routes>
