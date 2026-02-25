@@ -1,5 +1,6 @@
 import { HashRouter, Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
+import ScrollToTop from './components/ScrollToTop'
 import Home from './pages/Home'
 import Overview from './pages/Overview'
 import ChapterPage from './pages/ChapterPage'
@@ -8,6 +9,7 @@ import VersePage from './pages/VersePage'
 export default function App() {
   return (
     <HashRouter>
+      <ScrollToTop />
       {/* Fixed parallax background */}
       <div className="page-bg" aria-hidden="true" />
 
