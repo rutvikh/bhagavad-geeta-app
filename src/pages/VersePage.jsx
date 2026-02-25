@@ -50,8 +50,8 @@ export default function VersePage() {
   // Keyboard navigation
   useEffect(() => {
     function handleKey(e) {
-      if (e.key === 'ArrowLeft' && vNum > 1) { window.scrollTo(0, 0); navigate(`/chapter/${chNum}/verse/${vNum - 1}`) }
-      if (e.key === 'ArrowRight' && chapter && vNum < chapter.verse_count) { window.scrollTo(0, 0); navigate(`/chapter/${chNum}/verse/${vNum + 1}`) }
+      if (e.key === 'ArrowLeft' && vNum > 1) { window.scrollTo({ top: 0, behavior: 'instant' }); navigate(`/chapter/${chNum}/verse/${vNum - 1}`) }
+      if (e.key === 'ArrowRight' && chapter && vNum < chapter.verse_count) { window.scrollTo({ top: 0, behavior: 'instant' }); navigate(`/chapter/${chNum}/verse/${vNum + 1}`) }
     }
     window.addEventListener('keydown', handleKey)
     return () => window.removeEventListener('keydown', handleKey)
