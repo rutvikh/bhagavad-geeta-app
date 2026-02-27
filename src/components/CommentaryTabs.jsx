@@ -24,10 +24,18 @@ const TABS = [
   },
   {
     key: 'goyandka',
-    label: 'Goyandka',
+    label: 'Gita Press',
     fullName: 'Jayadayal Goyandka',
     subtitle: 'Tatvavivecani',
     color: '#005E5A',
+  },
+  {
+    key: 'guruji',
+    label: 'Guruji (Geeta Study)',
+    fullName: 'Guruji',
+    subtitle: 'Geeta Study',
+    color: '#7B3FA0',
+    wip: true,
   },
 ]
 
@@ -73,7 +81,24 @@ export default function CommentaryTabs({ commentary }) {
 
       {/* Commentary text */}
       <div className="space-y-3">
-        {text ? (
+        {activeTab?.wip ? (
+          <div
+            className="flex flex-col items-center text-center rounded-xl px-6 py-8"
+            style={{ background: 'rgba(245,230,200,0.5)', border: '1.5px dashed #B8860B' }}
+          >
+            <span style={{ fontSize: '2rem', marginBottom: '0.75rem' }}>🪔</span>
+            <p style={{ fontFamily: 'Libre Baskerville, Georgia, serif', fontWeight: '700', fontSize: '1rem', color: 'var(--color-saffron)', margin: '0 0 0.25rem' }}>
+              Guruji's Commentary
+            </p>
+            <p style={{ fontFamily: 'Libre Baskerville, Georgia, serif', fontWeight: '700', fontSize: '1rem', color: 'var(--color-saffron)', margin: '0 0 1rem' }}>
+              is being compiled
+            </p>
+            <div style={{ width: '60%', height: '1px', background: '#B8860B', opacity: 0.4, marginBottom: '1rem' }} />
+            <p style={{ fontFamily: 'Open Sans, sans-serif', fontSize: '0.83rem', color: 'rgba(44,26,0,0.65)', margin: 0, lineHeight: '1.6' }}>
+              This section will contain insights from<br />Geeta Study sessions. Coming soon.
+            </p>
+          </div>
+        ) : text ? (
           text.split('\n\n').map((para, i) => (
             <p key={i} className="commentary-text" style={{ margin: 0 }}>
               {para}
