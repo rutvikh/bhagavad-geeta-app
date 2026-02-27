@@ -3,61 +3,61 @@
   "verses": [
     {
       "verse": 1,
-      "sanskrit": "śrī-bhagavān uvāca —\nūrdhva-mūlam adhaḥ-śākham aśvatthaṃ prāhur avyayam |\nchandāṃsi yasya parṇāni yas taṃ veda sa veda-vit ||",
+      "sanskrit": "श्री-भगवान् उवाच —\nऊर्ध्व-मूलम् अधः-शाखम् अश्वत्थं प्राहुर् अव्ययम् ।\nछन्दांसि यस्य पर्णानि यस् तं वेद स वेद-वित् ॥",
       "transliteration": "ūrdhva-mūlam adhaḥ-śākham aśvatthaṃ prāhur avyayam |\nchandāṃsi yasya parṇāni yas taṃ veda sa veda-vit ||",
       "translation": "The Blessed Lord said: They speak of the imperishable Aśvattha (sacred fig tree) with roots above and branches below, whose leaves are the Vedic hymns — he who knows it is a knower of the Vedas.",
       "audio": "/assets/audio/ch15/verse_15_01.mp3",
       "word_breakdown": [
         {
-          "word": "ūrdhva-mūlam",
+          "word": "ऊर्ध्व-मूलम्",
           "meaning": "with roots above (ūrdhva = above/upward; mūlam = roots)"
         },
         {
-          "word": "adhaḥ-śākham",
+          "word": "अधः-शाखम्",
           "meaning": "with branches below (adhaḥ = below/downward; śākham = branches)"
         },
         {
-          "word": "aśvattham",
+          "word": "अश्वत्थम्",
           "meaning": "the Aśvattha — the sacred fig/peepal tree; symbolizes the cosmos"
         },
         {
-          "word": "prāhuḥ",
+          "word": "प्राहुः",
           "meaning": "they say, they speak of"
         },
         {
-          "word": "avyayam",
+          "word": "अव्ययम्",
           "meaning": "imperishable, eternal, inexhaustible"
         },
         {
-          "word": "chandāṃsi",
+          "word": "छन्दांसि",
           "meaning": "the Vedic hymns, the Vedas (from chandas = metre/Veda)"
         },
         {
-          "word": "yasya",
+          "word": "यस्य",
           "meaning": "of which, whose"
         },
         {
-          "word": "parṇāni",
+          "word": "पर्णानि",
           "meaning": "leaves"
         },
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "he who"
         },
         {
-          "word": "tam",
+          "word": "तम्",
           "meaning": "it (the tree)"
         },
         {
-          "word": "veda",
+          "word": "वेद",
           "meaning": "knows"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "he"
         },
         {
-          "word": "veda-vit",
+          "word": "वेद-वित्",
           "meaning": "knower of the Vedas (veda-vit = one who truly knows the Veda)"
         }
       ],
@@ -70,49 +70,49 @@
     },
     {
       "verse": 2,
-      "sanskrit": "adhaś cordhvaṃ prasṛtās tasya śākhā\nguṇa-pravṛddhā viṣaya-pravālāḥ |\nadhaś ca mūlāny anusantatāni\nkarmānubandhīni manuṣya-loke ||",
+      "sanskrit": "अधश् चोर्ध्वं प्रसृतास् तस्य शाखा\nगुण-प्रवृद्धा विषय-प्रवालाः ।\nअधश् च मूलान्य् अनुसन्ततानि\nकर्मानुबन्धीनि मनुष्य-लोके ॥",
       "transliteration": "adhaś cordhvaṃ prasṛtās tasya śākhā\nguṇa-pravṛddhā viṣaya-pravālāḥ |\nadhaś ca mūlāny anusantatāni\nkarmānubandhīni manuṣya-loke ||",
       "translation": "Its branches spread downward and upward, nourished by the guṇas, with sense-objects as their sprouts. And below, the roots spread downward, bound to action in the world of men.",
       "audio": "/assets/audio/ch15/verse_15_02.mp3",
       "word_breakdown": [
         {
-          "word": "adhaḥ ca ūrdhvam",
+          "word": "अधः च ऊर्ध्वम्",
           "meaning": "downward and upward"
         },
         {
-          "word": "prasṛtāḥ",
+          "word": "प्रसृताः",
           "meaning": "spread out, extended"
         },
         {
-          "word": "tasya śākhāḥ",
+          "word": "तस्य शाखाः",
           "meaning": "its branches"
         },
         {
-          "word": "guṇa-pravṛddhāḥ",
+          "word": "गुण-प्रवृद्धाः",
           "meaning": "nourished and swelled by the three guṇas (sattva, rajas, tamas)"
         },
         {
-          "word": "viṣaya-pravālāḥ",
+          "word": "विषय-प्रवालाः",
           "meaning": "with sense-objects as tender sprouts/shoots (viṣaya = sense-objects; pravāla = new shoot)"
         },
         {
-          "word": "adhaḥ ca",
+          "word": "अधः च",
           "meaning": "and below"
         },
         {
-          "word": "mūlāni",
+          "word": "मूलानि",
           "meaning": "roots"
         },
         {
-          "word": "anusantatāni",
+          "word": "अनुसन्ततानि",
           "meaning": "spread out, proliferating"
         },
         {
-          "word": "karmānubandhīni",
+          "word": "कर्मानुबन्धीनि",
           "meaning": "bound by karma, entwining actions (karma + anubandhīni = action-bound)"
         },
         {
-          "word": "manuṣya-loke",
+          "word": "मनुष्य-लोके",
           "meaning": "in the world of human beings"
         }
       ],
@@ -125,57 +125,57 @@
     },
     {
       "verse": 3,
-      "sanskrit": "na rūpam asyeha tathopalabhyate\nnānto na cādir na ca sampratiṣṭhā |\naśvattham enaṃ su-virūḍha-mūlam\nasaṅga-śastreṇa dṛḍhena chittvā ||",
+      "sanskrit": "न रूपम् अस्येह तथोपलभ्यते\nनान्तो न चादिर् न च सम्प्रतिष्ठा ।\nअश्वत्थम् एनं सु-विरूढ-मूलम्\nअसङ्ग-शस्त्रेण दृढेन छित्त्वा ॥",
       "transliteration": "na rūpam asyeha tathopalabhyate\nnānto na cādir na ca sampratiṣṭhā |\naśvattham enaṃ su-virūḍha-mūlam\nasaṅga-śastreṇa dṛḍhena chittvā ||",
       "translation": "Its form is not perceived here as such — nor its end, nor its beginning, nor its foundation. Having cut this deeply-rooted Aśvattha with the firm axe of non-attachment (asaṅga-śastreṇa)...",
       "audio": "/assets/audio/ch15/verse_15_03.mp3",
       "word_breakdown": [
         {
-          "word": "na rūpam",
+          "word": "न रूपम्",
           "meaning": "the form is not (na = not; rūpam = form)"
         },
         {
-          "word": "asya",
+          "word": "अस्य",
           "meaning": "of this (tree)"
         },
         {
-          "word": "iha",
+          "word": "इह",
           "meaning": "here (in this world of ordinary perception)"
         },
         {
-          "word": "tathā upalabhyate",
+          "word": "तथा उपलभ्यते",
           "meaning": "perceived as such (upalabhyate = is perceived/grasped)"
         },
         {
-          "word": "na antaḥ",
+          "word": "न अन्तः",
           "meaning": "nor its end"
         },
         {
-          "word": "na ca ādiḥ",
+          "word": "न च आदिः",
           "meaning": "nor its beginning"
         },
         {
-          "word": "na ca sampratiṣṭhā",
+          "word": "न च सम्प्रतिष्ठा",
           "meaning": "nor its foundation/resting place"
         },
         {
-          "word": "aśvattham enam",
+          "word": "अश्वत्थम् एनम्",
           "meaning": "this Aśvattha tree"
         },
         {
-          "word": "su-virūḍha-mūlam",
+          "word": "सु-विरूढ-मूलम्",
           "meaning": "whose roots have grown very deep (su = very; virūḍha = firmly grown; mūlam = root)"
         },
         {
-          "word": "asaṅga-śastreṇa",
+          "word": "असङ्ग-शस्त्रेण",
           "meaning": "with the axe of non-attachment (asaṅga = non-clinging; śastra = weapon/axe)"
         },
         {
-          "word": "dṛḍhena",
+          "word": "दृढेन",
           "meaning": "firm, strong"
         },
         {
-          "word": "chittvā",
+          "word": "छित्त्वा",
           "meaning": "having cut, after cutting"
         }
       ],
@@ -188,61 +188,61 @@
     },
     {
       "verse": 4,
-      "sanskrit": "tataḥ padaṃ tat parimārgitavyaṃ\nyasmin gatā na nivartanti bhūyaḥ |\ntam eva cādyaṃ puruṣaṃ prapadye\nyataḥ pravṛttiḥ prasṛtā purāṇī ||",
+      "sanskrit": "ततः पदं तत् परिमार्गितव्यं\nयस्मिन् गता न निवर्तन्ति भूयः ।\nतम् एव चाद्यं पुरुषं प्रपद्ये\nयतः प्रवृत्तिः प्रसृता पुराणी ॥",
       "transliteration": "tataḥ padaṃ tat parimārgitavyaṃ\nyasmin gatā na nivartanti bhūyaḥ |\ntam eva cādyaṃ puruṣaṃ prapadye\nyataḥ pravṛttiḥ prasṛtā purāṇī ||",
       "translation": "...then that State must be sought, having gone to which one does not return again. I take refuge in that Primal Puruṣa alone, from whom the ancient flow of creation has poured forth.",
       "audio": "/assets/audio/ch15/verse_15_04.mp3",
       "word_breakdown": [
         {
-          "word": "tataḥ",
+          "word": "ततः",
           "meaning": "then, thereafter (after cutting the tree)"
         },
         {
-          "word": "padam tat",
+          "word": "पदम् तत्",
           "meaning": "that State, that Supreme Goal (padam = state/abode/goal)"
         },
         {
-          "word": "parimārgitavyam",
+          "word": "परिमार्गितव्यम्",
           "meaning": "must be sought, should be earnestly searched for"
         },
         {
-          "word": "yasmin gatāḥ",
+          "word": "यस्मिन् गताः",
           "meaning": "having gone to which, those who have reached which"
         },
         {
-          "word": "na nivartanti",
+          "word": "न निवर्तन्ति",
           "meaning": "do not return"
         },
         {
-          "word": "bhūyaḥ",
+          "word": "भूयः",
           "meaning": "again, any more"
         },
         {
-          "word": "tam eva",
+          "word": "तम् एव",
           "meaning": "that alone (emphatic)"
         },
         {
-          "word": "ca ādyam puruṣam",
+          "word": "च आद्यम् पुरुषम्",
           "meaning": "and the Primal Person, the original Puruṣa (ādya = primeval/first)"
         },
         {
-          "word": "prapadye",
+          "word": "प्रपद्ये",
           "meaning": "I take refuge, I surrender to (pra + pad = to fall forward into, surrender)"
         },
         {
-          "word": "yataḥ",
+          "word": "यतः",
           "meaning": "from whom"
         },
         {
-          "word": "pravṛttiḥ",
+          "word": "प्रवृत्तिः",
           "meaning": "the flow of creation, activity, manifestation"
         },
         {
-          "word": "prasṛtā",
+          "word": "प्रसृता",
           "meaning": "has poured forth, streamed out"
         },
         {
-          "word": "purāṇī",
+          "word": "पुराणी",
           "meaning": "ancient, primeval, beginningless"
         }
       ],
@@ -255,45 +255,45 @@
     },
     {
       "verse": 5,
-      "sanskrit": "nirmāna-mohā jita-saṅga-doṣā\nadhyātma-nityā vinivṛtta-kāmāḥ |\ndvandvair vimuktāḥ sukha-duḥkha-saṃjñair\ngacchanty amūḍhāḥ padam avyayam tat ||",
+      "sanskrit": "निर्मान-मोहा जित-सङ्ग-दोषा\nअध्यात्म-नित्या विनिवृत्त-कामाः ।\nद्वन्द्वैर् विमुक्ताः सुख-दुःख-संज्ञैर्\nगच्छन्त्य् अमूढाः पदम् अव्ययम् तत् ॥",
       "transliteration": "nirmāna-mohā jita-saṅga-doṣā\nadhyātma-nityā vinivṛtta-kāmāḥ |\ndvandvair vimuktāḥ sukha-duḥkha-saṃjñair\ngacchanty amūḍhāḥ padam avyayam tat ||",
       "translation": "Free from pride and delusion, with the fault of attachment conquered, ever-abiding in the Supreme Self, with desires completely withdrawn, freed from the pairs of opposites known as pleasure and pain — the undeluded go to that Imperishable State.",
       "audio": "/assets/audio/ch15/verse_15_05.mp3",
       "word_breakdown": [
         {
-          "word": "nirmāna-mohāḥ",
+          "word": "निर्मान-मोहाः",
           "meaning": "free from pride and delusion (nir = free from; māna = pride/ego; moha = delusion)"
         },
         {
-          "word": "jita-saṅga-doṣāḥ",
+          "word": "जित-सङ्ग-दोषाः",
           "meaning": "having conquered the fault of attachment (jita = conquered; saṅga = attachment; doṣa = fault/defect)"
         },
         {
-          "word": "adhyātma-nityāḥ",
+          "word": "अध्यात्म-नित्याः",
           "meaning": "ever-abiding/constant in the Supreme Self (adhyātma = the inner Self/Ātman; nitya = constant, eternal)"
         },
         {
-          "word": "vinivṛtta-kāmāḥ",
+          "word": "विनिवृत्त-कामाः",
           "meaning": "with desires completely withdrawn/turned away (vinivṛtta = completely turned back; kāma = desire)"
         },
         {
-          "word": "dvandvaiḥ vimuktāḥ",
+          "word": "द्वन्द्वैः विमुक्ताः",
           "meaning": "freed from the pairs of opposites (dvandva = pair of opposites)"
         },
         {
-          "word": "sukha-duḥkha-saṃjñaiḥ",
+          "word": "सुख-दुःख-संज्ञैः",
           "meaning": "known as/called pleasure and pain (sukha = pleasure; duḥkha = pain; saṃjña = known as)"
         },
         {
-          "word": "gacchanti",
+          "word": "गच्छन्ति",
           "meaning": "they go, they attain"
         },
         {
-          "word": "amūḍhāḥ",
+          "word": "अमूढाः",
           "meaning": "the undeluded, the un-confused ones (a = not; mūḍha = deluded)"
         },
         {
-          "word": "padam avyayam tat",
+          "word": "पदम् अव्ययम् तत्",
           "meaning": "that Imperishable State (padam = state/abode; avyayam = imperishable; tat = that)"
         }
       ],
@@ -306,45 +306,45 @@
     },
     {
       "verse": 6,
-      "sanskrit": "na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ |\nyad gatvā na nivartante tad dhāma paramaṃ mama ||",
+      "sanskrit": "न तद् भासयते सूर्यो न शशाङ्को न पावकः ।\nयद् गत्वा न निवर्तन्ते तद् धाम परमं मम ॥",
       "transliteration": "na tad bhāsayate sūryaḥ na śaśāṅkaḥ na pāvakaḥ |\nyad gatvā na nivartante tad dhāma paramaṃ mama ||",
       "translation": "Neither the sun nor the moon nor fire illumines That — having gone there, they do not return. That is My Supreme Abode.",
       "audio": "/assets/audio/ch15/verse_15_06.mp3",
       "word_breakdown": [
         {
-          "word": "na tad bhāsayate",
+          "word": "न तद् भासयते",
           "meaning": "does not illumine That (bhāsayate = illumines, lights up)"
         },
         {
-          "word": "sūryaḥ",
+          "word": "सूर्यः",
           "meaning": "the sun"
         },
         {
-          "word": "śaśāṅkaḥ",
+          "word": "शशाङ्कः",
           "meaning": "the moon (śaśa = hare; aṅka = mark — the moon 'marked with a hare')"
         },
         {
-          "word": "pāvakaḥ",
+          "word": "पावकः",
           "meaning": "fire (pāvaka = the purifier — a name of Agni)"
         },
         {
-          "word": "yad gatvā",
+          "word": "यद् गत्वा",
           "meaning": "having gone to which"
         },
         {
-          "word": "na nivartante",
+          "word": "न निवर्तन्ते",
           "meaning": "they do not return"
         },
         {
-          "word": "tad dhāma",
+          "word": "तद् धाम",
           "meaning": "that Abode, that radiance (dhāma = abode/light/radiance)"
         },
         {
-          "word": "paramam",
+          "word": "परमम्",
           "meaning": "supreme, highest"
         },
         {
-          "word": "mama",
+          "word": "मम",
           "meaning": "Mine, My (the Lord's)"
         }
       ],
@@ -357,41 +357,41 @@
     },
     {
       "verse": 7,
-      "sanskrit": "mamaivāṃśo jīva-loke jīva-bhūtaḥ sanātanaḥ |\nmanaḥ-ṣaṣṭhānīndriyāṇi prakṛti-sthāni karṣati ||",
+      "sanskrit": "ममैवांशो जीव-लोके जीव-भूतः सनातनः ।\nमनः-षष्ठानीन्द्रियाणि प्रकृति-स्थानि कर्षति ॥",
       "transliteration": "mamaivāṃśaḥ jīva-loke jīva-bhūtaḥ sanātanaḥ |\nmanaḥ-ṣaṣṭhāni indriyāṇi prakṛti-sthāni karṣati ||",
       "translation": "An eternal fragment of Myself alone — having become the jīva (individual soul) in the world of jīvas — draws to itself the senses, with mind as the sixth, abiding in Prakṛti.",
       "audio": "/assets/audio/ch15/verse_15_07.mp3",
       "word_breakdown": [
         {
-          "word": "mama eva aṃśaḥ",
+          "word": "मम एव अंशः",
           "meaning": "a fragment/portion of Me alone (aṃśa = part, portion, fragment)"
         },
         {
-          "word": "jīva-loke",
+          "word": "जीव-लोके",
           "meaning": "in the world of jīvas, in the realm of living beings"
         },
         {
-          "word": "jīva-bhūtaḥ",
+          "word": "जीव-भूतः",
           "meaning": "having become a jīva, manifesting as an individual soul"
         },
         {
-          "word": "sanātanaḥ",
+          "word": "सनातनः",
           "meaning": "eternal, ancient, everlasting"
         },
         {
-          "word": "manaḥ-ṣaṣṭhāni",
+          "word": "मनः-षष्ठानि",
           "meaning": "with mind as the sixth (manas + ṣaṣṭha = sixth), i.e., the five senses plus the mind"
         },
         {
-          "word": "indriyāṇi",
+          "word": "इन्द्रियाणि",
           "meaning": "the senses (organs of perception)"
         },
         {
-          "word": "prakṛti-sthāni",
+          "word": "प्रकृति-स्थानि",
           "meaning": "abiding in / situated in Prakṛti (material nature)"
         },
         {
-          "word": "karṣati",
+          "word": "कर्षति",
           "meaning": "draws, attracts, pulls toward itself"
         }
       ],
@@ -404,49 +404,49 @@
     },
     {
       "verse": 8,
-      "sanskrit": "śarīraṃ yad avāpnoti yac cāpy utkrāmatīśvaraḥ |\ngṛhītvaitāni saṃyāti vāyur gandhān ivāśayāt ||",
+      "sanskrit": "शरीरं यद् अवाप्नोति यच् चाप्य् उत्क्रामतीश्वरः ।\nगृहीत्वैतानि संयाति वायुर् गन्धान् इवाशयात् ॥",
       "transliteration": "śarīram yad avāpnoti yac ca api utkrāmati īśvaraḥ |\ngṛhītvā etāni saṃyāti vāyuḥ gandhān iva āśayāt ||",
       "translation": "When the lord (jīva) obtains a body and when it departs from it, it takes these (senses and mind) along and goes — as the wind carries fragrances away from their source.",
       "audio": "/assets/audio/ch15/verse_15_08.mp3",
       "word_breakdown": [
         {
-          "word": "śarīram yad avāpnoti",
+          "word": "शरीरम् यद् अवाप्नोति",
           "meaning": "when (it) obtains a body (avāpnoti = obtains, acquires)"
         },
         {
-          "word": "yad ca api utkrāmati",
+          "word": "यद् च अपि उत्क्रामति",
           "meaning": "and also when it departs, rises out (utkrāmati = departs, exits)"
         },
         {
-          "word": "īśvaraḥ",
+          "word": "ईश्वरः",
           "meaning": "the lord — here the jīva, master/lord of the body"
         },
         {
-          "word": "gṛhītvā",
+          "word": "गृहीत्वा",
           "meaning": "having taken, having gathered up"
         },
         {
-          "word": "etāni",
+          "word": "एतानि",
           "meaning": "these (referring to the senses and mind from verse 7)"
         },
         {
-          "word": "saṃyāti",
+          "word": "संयाति",
           "meaning": "goes, departs, moves on"
         },
         {
-          "word": "vāyuḥ",
+          "word": "वायुः",
           "meaning": "the wind"
         },
         {
-          "word": "gandhān",
+          "word": "गन्धान्",
           "meaning": "fragrances, scents"
         },
         {
-          "word": "iva",
+          "word": "इव",
           "meaning": "like, just as"
         },
         {
-          "word": "āśayāt",
+          "word": "आशयात्",
           "meaning": "from their seat/source/abode (āśaya = resting place, source)"
         }
       ],
@@ -459,53 +459,53 @@
     },
     {
       "verse": 9,
-      "sanskrit": "śrotram cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇam eva ca |\nadhiṣṭhāya manaś cāyaṃ viṣayān upasevate ||",
+      "sanskrit": "श्रोत्रम् चक्षुः स्पर्शनं च रसनं घ्राणम् एव च ।\nअधिष्ठाय मनश् चायं विषयान् उपसेवते ॥",
       "transliteration": "śrotram cakṣuḥ sparśanam ca rasanam ghrāṇam eva ca |\nadhiṣṭhāya manaḥ ca ayam viṣayān upasevate ||",
       "translation": "Presiding over the ear, the eye, the tactile sense, the taste, the smell, and the mind — this one (the jīva) experiences the objects of the senses.",
       "audio": "/assets/audio/ch15/verse_15_09.mp3",
       "word_breakdown": [
         {
-          "word": "śrotram",
+          "word": "श्रोत्रम्",
           "meaning": "the ear (organ of hearing)"
         },
         {
-          "word": "cakṣuḥ",
+          "word": "चक्षुः",
           "meaning": "the eye (organ of sight)"
         },
         {
-          "word": "sparśanam",
+          "word": "स्पर्शनम्",
           "meaning": "the tactile sense, the skin (organ of touch)"
         },
         {
-          "word": "rasanam",
+          "word": "रसनम्",
           "meaning": "the tongue (organ of taste)"
         },
         {
-          "word": "ghrāṇam",
+          "word": "घ्राणम्",
           "meaning": "the nose (organ of smell)"
         },
         {
-          "word": "eva ca",
+          "word": "एव च",
           "meaning": "and indeed, also"
         },
         {
-          "word": "adhiṣṭhāya",
+          "word": "अधिष्ठाय",
           "meaning": "presiding over, sitting as master of, inhabiting (adhi + sthā = to stand over/upon)"
         },
         {
-          "word": "manaḥ ca",
+          "word": "मनः च",
           "meaning": "and the mind (manas)"
         },
         {
-          "word": "ayam",
+          "word": "अयम्",
           "meaning": "this one (referring to the jīva)"
         },
         {
-          "word": "viṣayān",
+          "word": "विषयान्",
           "meaning": "sense-objects, the objects of experience"
         },
         {
-          "word": "upasevate",
+          "word": "उपसेवते",
           "meaning": "experiences, enjoys, serves (upa + sev = to be near to, to attend upon, to experience)"
         }
       ],
@@ -518,49 +518,49 @@
     },
     {
       "verse": 10,
-      "sanskrit": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam |\nvimūḍhā nānupaśyanti paśyanti jñāna-cakṣuṣaḥ ||",
+      "sanskrit": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् ।\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञान-चक्षुषः ॥",
       "transliteration": "utkrāmantam sthitam vā api bhuñjānam vā guṇānvitam |\nvimūḍhāḥ na anupaśyanti paśyanti jñāna-cakṣuṣaḥ ||",
       "translation": "The greatly deluded do not perceive the jīva departing, remaining, or experiencing — when it is accompanied by the guṇas. Those with the eye of knowledge see it.",
       "audio": "/assets/audio/ch15/verse_15_10.mp3",
       "word_breakdown": [
         {
-          "word": "utkrāmantam",
+          "word": "उत्क्रामन्तम्",
           "meaning": "departing, leaving (the body at death) — utkrāmantam = the one going upward/out"
         },
         {
-          "word": "sthitam",
+          "word": "स्थितम्",
           "meaning": "remaining, abiding (in the body during life)"
         },
         {
-          "word": "vā api",
+          "word": "वा अपि",
           "meaning": "or also, whether"
         },
         {
-          "word": "bhuñjānam",
+          "word": "भुञ्जानम्",
           "meaning": "experiencing, enjoying (sense-objects)"
         },
         {
-          "word": "vā",
+          "word": "वा",
           "meaning": "or"
         },
         {
-          "word": "guṇānvitam",
+          "word": "गुणान्वितम्",
           "meaning": "accompanied by the guṇas (guṇa-anvita = endowed with / joined by the guṇas)"
         },
         {
-          "word": "vimūḍhāḥ",
+          "word": "विमूढाः",
           "meaning": "the greatly deluded (vi = intensifier; mūḍha = confused/deluded)"
         },
         {
-          "word": "na anupaśyanti",
+          "word": "न अनुपश्यन्ति",
           "meaning": "do not perceive, do not see following/tracking"
         },
         {
-          "word": "paśyanti",
+          "word": "पश्यन्ति",
           "meaning": "they see, they perceive"
         },
         {
-          "word": "jñāna-cakṣuṣaḥ",
+          "word": "ज्ञान-चक्षुषः",
           "meaning": "those with the eye of knowledge/wisdom (jñāna = knowledge; cakṣus = eye)"
         }
       ],
@@ -573,53 +573,53 @@
     },
     {
       "verse": 11,
-      "sanskrit": "yatanto yoginaś cainaṃ paśyanty ātmany avasthitam | yatanto'py akṛtātmāno nainaṃ paśyanty acetasaḥ ||",
+      "sanskrit": "यतन्तो योगिनश् चैनं पश्यन्त्य् आत्मन्य् अवस्थितम् । यतन्तोऽप्य् अकृतात्मानो नैनं पश्यन्त्य् अचेतसः ॥",
       "transliteration": "yatanto yoginaś cainaṃ paśyanty ātmany avasthitam | yatanto'py akṛtātmāno nainaṃ paśyanty acetasaḥ ||",
       "translation": "The yogins striving see It — the Ātman established in the self; but the undisciplined (akṛtātmānaḥ), though striving, do not see It — the unthinking (acetasaḥ).",
       "audio": "/assets/audio/ch15/verse_15_11.mp3",
       "word_breakdown": [
         {
-          "word": "yatantaḥ",
+          "word": "यतन्तः",
           "meaning": "those who strive / making effort"
         },
         {
-          "word": "yoginaḥ",
+          "word": "योगिनः",
           "meaning": "yogins / those disciplined in yoga"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and / also"
         },
         {
-          "word": "enam",
+          "word": "एनम्",
           "meaning": "this (the Ātman)"
         },
         {
-          "word": "paśyanti",
+          "word": "पश्यन्ति",
           "meaning": "they see / perceive"
         },
         {
-          "word": "ātmani",
+          "word": "आत्मनि",
           "meaning": "in the self"
         },
         {
-          "word": "avasthitam",
+          "word": "अवस्थितम्",
           "meaning": "established / dwelling"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "even / though"
         },
         {
-          "word": "akṛtātmānaḥ",
+          "word": "अकृतात्मानः",
           "meaning": "those who have not purified/worked on their self; the undisciplined"
         },
         {
-          "word": "na",
+          "word": "न",
           "meaning": "not"
         },
         {
-          "word": "acetasaḥ",
+          "word": "अचेतसः",
           "meaning": "those without (purified) mind/consciousness; the unthinking"
         }
       ],
@@ -632,53 +632,53 @@
     },
     {
       "verse": 12,
-      "sanskrit": "yad āditya-gataṃ tejo jagad bhāsayate'khilam | yac candramasi yac cāgnau tat tejo viddhi māmakam ||",
+      "sanskrit": "यद् आदित्य-गतं तेजो जगद् भासयतेऽखिलम् । यच् चन्द्रमसि यच् चाग्नौ तत् तेजो विद्धि मामकम् ॥",
       "transliteration": "yad āditya-gataṃ tejo jagad bhāsayate'khilam | yac candramasi yac cāgnau tat tejo viddhi māmakam ||",
       "translation": "The brilliance in the sun that illumines the entire world, and that which is in the moon and in fire — know that splendor (tejas) to be Mine.",
       "audio": "/assets/audio/ch15/verse_15_12.mp3",
       "word_breakdown": [
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "that which"
         },
         {
-          "word": "āditya-gatam",
+          "word": "आदित्य-गतम्",
           "meaning": "residing in the sun / belonging to Āditya"
         },
         {
-          "word": "tejas",
+          "word": "तेजस्",
           "meaning": "brilliance / splendor / radiant energy"
         },
         {
-          "word": "jagat",
+          "word": "जगत्",
           "meaning": "the world"
         },
         {
-          "word": "bhāsayate",
+          "word": "भासयते",
           "meaning": "illumines / makes shine"
         },
         {
-          "word": "akhilam",
+          "word": "अखिलम्",
           "meaning": "entire / all"
         },
         {
-          "word": "yac candramasi",
+          "word": "यच् चन्द्रमसि",
           "meaning": "that which is in the moon"
         },
         {
-          "word": "yac cāgnau",
+          "word": "यच् चाग्नौ",
           "meaning": "and that which is in fire"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "viddhi",
+          "word": "विद्धि",
           "meaning": "know / understand"
         },
         {
-          "word": "māmakam",
+          "word": "मामकम्",
           "meaning": "as Mine / belonging to Me"
         }
       ],
@@ -691,57 +691,57 @@
     },
     {
       "verse": 13,
-      "sanskrit": "gām āviśya ca bhūtāni dhārayāmy aham ojasā | puṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||",
+      "sanskrit": "गाम् आविश्य च भूतानि धारयाम्य् अहम् ओजसा । पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ॥",
       "transliteration": "gām āviśya ca bhūtāni dhārayāmy aham ojasā | puṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||",
       "translation": "And having entered the earth, I support all beings with My vital energy (ojas); having become the moon (soma), the essence of taste (rasātmaka), I nourish all plants.",
       "audio": "/assets/audio/ch15/verse_15_13.mp3",
       "word_breakdown": [
         {
-          "word": "gām āviśya",
+          "word": "गाम् आविश्य",
           "meaning": "having entered the earth"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "bhūtāni",
+          "word": "भूतानि",
           "meaning": "beings / all creatures"
         },
         {
-          "word": "dhārayāmi",
+          "word": "धारयामि",
           "meaning": "I support / I sustain / I hold"
         },
         {
-          "word": "aham",
+          "word": "अहम्",
           "meaning": "I"
         },
         {
-          "word": "ojasā",
+          "word": "ओजसा",
           "meaning": "by vital energy / by ojas"
         },
         {
-          "word": "puṣṇāmi",
+          "word": "पुष्णामि",
           "meaning": "I nourish / I cause to grow"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "auṣadhīḥ sarvāḥ",
+          "word": "औषधीः सर्वाः",
           "meaning": "all plants / all herbs"
         },
         {
-          "word": "somaḥ",
+          "word": "सोमः",
           "meaning": "the moon / soma (lunar deity)"
         },
         {
-          "word": "bhūtvā",
+          "word": "भूत्वा",
           "meaning": "having become"
         },
         {
-          "word": "rasātmakaḥ",
+          "word": "रसात्मकः",
           "meaning": "the essence of taste / the one whose nature is sap/liquid/rasa"
         }
       ],
@@ -754,45 +754,45 @@
     },
     {
       "verse": 14,
-      "sanskrit": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ deham āśritaḥ | prāṇāpāna-samāyuktaḥ pacāmy annaṃ catur-vidham ||",
+      "sanskrit": "अहं वैश्वानरो भूत्वा प्राणिनां देहम् आश्रितः । प्राणापान-समायुक्तः पचाम्य् अन्नं चतुर्-विधम् ॥",
       "transliteration": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ deham āśritaḥ | prāṇāpāna-samāyuktaḥ pacāmy annaṃ catur-vidham ||",
       "translation": "Having become the Vaiśvānara fire, dwelling in the body of living beings, united with prāṇa and apāna — I digest the four kinds of food.",
       "audio": "/assets/audio/ch15/verse_15_14.mp3",
       "word_breakdown": [
         {
-          "word": "aham",
+          "word": "अहम्",
           "meaning": "I"
         },
         {
-          "word": "vaiśvānaraḥ",
+          "word": "वैश्वानरः",
           "meaning": "Vaiśvānara — the digestive fire within all beings; the universal fire"
         },
         {
-          "word": "bhūtvā",
+          "word": "भूत्वा",
           "meaning": "having become"
         },
         {
-          "word": "prāṇinām",
+          "word": "प्राणिनाम्",
           "meaning": "of living beings / of those who breathe"
         },
         {
-          "word": "deham āśritaḥ",
+          "word": "देहम् आश्रितः",
           "meaning": "dwelling in / having taken shelter in the body"
         },
         {
-          "word": "prāṇa-apāna-samāyuktaḥ",
+          "word": "प्राण-अपान-समायुक्तः",
           "meaning": "united with prāṇa (inward breath) and apāna (downward breath)"
         },
         {
-          "word": "pacāmi",
+          "word": "पचामि",
           "meaning": "I digest / I cook / I transform"
         },
         {
-          "word": "annam",
+          "word": "अन्नम्",
           "meaning": "food"
         },
         {
-          "word": "catur-vidham",
+          "word": "चतुर्-विधम्",
           "meaning": "of four kinds (chewed, swallowed, licked, drunk)"
         }
       ],
@@ -805,57 +805,57 @@
     },
     {
       "verse": 15,
-      "sanskrit": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtir jñānam apohanaṃ ca | vedaiś ca sarvair aham eva vedyo vedānta-kṛd veda-vid eva cāham ||",
+      "sanskrit": "सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर् ज्ञानम् अपोहनं च । वेदैश् च सर्वैर् अहम् एव वेद्यो वेदान्त-कृद् वेद-विद् एव चाहम् ॥",
       "transliteration": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtir jñānam apohanaṃ ca | vedaiś ca sarvair aham eva vedyo vedānta-kṛd veda-vid eva cāham ||",
       "translation": "And I am seated in the heart of all beings; from Me come memory (smṛti), knowledge (jñāna), and their removal (apohana). I alone am to be known by all the Vedas; I am the author of Vedānta (vedānta-kṛt) and the knower of the Vedas.",
       "audio": "/assets/audio/ch15/verse_15_15.mp3",
       "word_breakdown": [
         {
-          "word": "sarvasya",
+          "word": "सर्वस्य",
           "meaning": "of all / in all beings"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "aham",
+          "word": "अहम्",
           "meaning": "I"
         },
         {
-          "word": "hṛdi sanniviṣṭaḥ",
+          "word": "हृदि सन्निविष्टः",
           "meaning": "seated / dwelling in the heart"
         },
         {
-          "word": "mattaḥ",
+          "word": "मत्तः",
           "meaning": "from Me / from Mine"
         },
         {
-          "word": "smṛtiḥ",
+          "word": "स्मृतिः",
           "meaning": "memory / recollection"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge / wisdom / illumined understanding"
         },
         {
-          "word": "apohanam",
+          "word": "अपोहनम्",
           "meaning": "removal / taking away (of both memory and knowledge)"
         },
         {
-          "word": "vedaiḥ ca sarvaiḥ",
+          "word": "वेदैः च सर्वैः",
           "meaning": "by all the Vedas"
         },
         {
-          "word": "aham eva vedyaḥ",
+          "word": "अहम् एव वेद्यः",
           "meaning": "I alone am to be known"
         },
         {
-          "word": "vedānta-kṛt",
+          "word": "वेदान्त-कृत्",
           "meaning": "the maker/author of Vedānta (the Upaniṣads or Brahma-sūtras)"
         },
         {
-          "word": "veda-vit",
+          "word": "वेद-वित्",
           "meaning": "the knower of the Vedas"
         }
       ],
@@ -868,45 +868,45 @@
     },
     {
       "verse": 16,
-      "sanskrit": "dvāv imau puruṣau loke kṣaraś cākṣara eva ca | kṣaraḥ sarvāṇi bhūtāni kūṭa-stho'kṣara ucyate ||",
+      "sanskrit": "द्वाव् इमौ पुरुषौ लोके क्षरश् चाक्षर एव च । क्षरः सर्वाणि भूतानि कूट-स्थोऽक्षर उच्यते ॥",
       "transliteration": "dvāv imau puruṣau loke kṣaraś cākṣara eva ca | kṣaraḥ sarvāṇi bhūtāni kūṭa-stho'kṣara ucyate ||",
       "translation": "There are two Puruṣas in this world — the Kṣara (perishable/mutable) and the Akṣara (imperishable/immutable). All beings are the Kṣara; the Kūṭastha (the unchanging) is called the Akṣara.",
       "audio": "/assets/audio/ch15/verse_15_16.mp3",
       "word_breakdown": [
         {
-          "word": "dvāv",
+          "word": "द्वाव्",
           "meaning": "two"
         },
         {
-          "word": "imau",
+          "word": "इमौ",
           "meaning": "these"
         },
         {
-          "word": "puruṣau",
+          "word": "पुरुषौ",
           "meaning": "Puruṣas / persons / principles"
         },
         {
-          "word": "loke",
+          "word": "लोके",
           "meaning": "in the world"
         },
         {
-          "word": "kṣaraḥ",
+          "word": "क्षरः",
           "meaning": "the perishable / the mutable / that which flows away"
         },
         {
-          "word": "ca akṣara eva ca",
+          "word": "च अक्षर एव च",
           "meaning": "and the imperishable / the immutable / the unchanging"
         },
         {
-          "word": "sarvāṇi bhūtāni",
+          "word": "सर्वाणि भूतानि",
           "meaning": "all beings / all creatures"
         },
         {
-          "word": "kūṭa-sthaḥ",
+          "word": "कूट-स्थः",
           "meaning": "the one standing like an anvil; the immovable, unchanging one"
         },
         {
-          "word": "akṣaraḥ ucyate",
+          "word": "अक्षरः उच्यते",
           "meaning": "is called the Akṣara / is spoken of as the Imperishable"
         }
       ],
@@ -919,53 +919,53 @@
     },
     {
       "verse": 17,
-      "sanskrit": "uttamaḥ puruṣas tv anyaḥ paramātmety udāhṛtaḥ | yo loka-trayam āviśya bibharty avyaya īśvaraḥ ||",
+      "sanskrit": "उत्तमः पुरुषस् त्व् अन्यः परमात्मेत्य् उदाहृतः । यो लोक-त्रयम् आविश्य बिभर्त्य् अव्यय ईश्वरः ॥",
       "transliteration": "uttamaḥ puruṣas tv anyaḥ paramātmety udāhṛtaḥ | yo loka-trayam āviśya bibharty avyaya īśvaraḥ ||",
       "translation": "But the Uttama Puruṣa (Supreme Person) is different from both — He is spoken of as Paramātman; He is the Immutable Lord (avyaya Īśvara) who, having pervaded the three worlds, sustains them.",
       "audio": "/assets/audio/ch15/verse_15_17.mp3",
       "word_breakdown": [
         {
-          "word": "uttamaḥ puruṣaḥ",
+          "word": "उत्तमः पुरुषः",
           "meaning": "the Supreme Person / the Highest Puruṣa"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "but / however (marking a contrast)"
         },
         {
-          "word": "anyaḥ",
+          "word": "अन्यः",
           "meaning": "other / different from both"
         },
         {
-          "word": "paramātmā",
+          "word": "परमात्मा",
           "meaning": "the Supreme Self / the Highest Ātman"
         },
         {
-          "word": "iti udāhṛtaḥ",
+          "word": "इति उदाहृतः",
           "meaning": "is spoken of thus / is called / is cited by this name"
         },
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "who"
         },
         {
-          "word": "loka-trayam",
+          "word": "लोक-त्रयम्",
           "meaning": "the three worlds (earth, atmosphere, heavens)"
         },
         {
-          "word": "āviśya",
+          "word": "आविश्य",
           "meaning": "having entered / having pervaded"
         },
         {
-          "word": "bibharti",
+          "word": "बिभर्ति",
           "meaning": "sustains / supports / bears"
         },
         {
-          "word": "avyayaḥ",
+          "word": "अव्ययः",
           "meaning": "immutable / inexhaustible / imperishable"
         },
         {
-          "word": "īśvaraḥ",
+          "word": "ईश्वरः",
           "meaning": "the Lord / the Ruler / the Sovereign"
         }
       ],
@@ -978,53 +978,53 @@
     },
     {
       "verse": 18,
-      "sanskrit": "yasmāt kṣaram atīto'ham akṣarād api cottamaḥ | ato'smi loke vede ca prathitaḥ puruṣottamaḥ ||",
+      "sanskrit": "यस्मात् क्षरम् अतीतोऽहम् अक्षराद् अपि चोत्तमः । अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ॥",
       "transliteration": "yasmāt kṣaram atīto'ham akṣarād api cottamaḥ | ato'smi loke vede ca prathitaḥ puruṣottamaḥ ||",
       "translation": "Because I transcend the Kṣara and am higher (uttama) than even the Akṣara — therefore in the world and in the Vedas I am celebrated as Puruṣottama, the Supreme Person.",
       "audio": "/assets/audio/ch15/verse_15_18.mp3",
       "word_breakdown": [
         {
-          "word": "yasmāt",
+          "word": "यस्मात्",
           "meaning": "because / since"
         },
         {
-          "word": "kṣaram atītaḥ",
+          "word": "क्षरम् अतीतः",
           "meaning": "having transcended / gone beyond the perishable (Kṣara)"
         },
         {
-          "word": "aham",
+          "word": "अहम्",
           "meaning": "I"
         },
         {
-          "word": "akṣarāt api",
+          "word": "अक्षरात् अपि",
           "meaning": "than even the Akṣara / beyond even the imperishable"
         },
         {
-          "word": "ca uttamaḥ",
+          "word": "च उत्तमः",
           "meaning": "and the highest / and superior"
         },
         {
-          "word": "ataḥ",
+          "word": "अतः",
           "meaning": "therefore / for this reason"
         },
         {
-          "word": "asmi",
+          "word": "अस्मि",
           "meaning": "I am"
         },
         {
-          "word": "loke",
+          "word": "लोके",
           "meaning": "in the world"
         },
         {
-          "word": "vede ca",
+          "word": "वेदे च",
           "meaning": "and in the Vedas / in the scriptures"
         },
         {
-          "word": "prathitaḥ",
+          "word": "प्रथितः",
           "meaning": "celebrated / well known / renowned"
         },
         {
-          "word": "puruṣottamaḥ",
+          "word": "पुरुषोत्तमः",
           "meaning": "Puruṣottama — the Supreme Person / the Best of all Puruṣas"
         }
       ],
@@ -1037,57 +1037,57 @@
     },
     {
       "verse": 19,
-      "sanskrit": "yo mām evam asammūḍho jānāti puruṣottamam | sa sarva-vid bhajati māṃ sarva-bhāvena bhārata ||",
+      "sanskrit": "यो माम् एवम् असम्मूढो जानाति पुरुषोत्तमम् । स सर्व-विद् भजति मां सर्व-भावेन भारत ॥",
       "transliteration": "yo mām evam asammūḍho jānāti puruṣottamam | sa sarva-vid bhajati māṃ sarva-bhāvena bhārata ||",
       "translation": "He who, undeluded (asammūḍhaḥ), knows Me thus as Puruṣottama — he is all-knowing (sarva-vid); he worships Me with his whole being (sarva-bhāvena), O Bhārata.",
       "audio": "/assets/audio/ch15/verse_15_19.mp3",
       "word_breakdown": [
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "he who / whoever"
         },
         {
-          "word": "mām",
+          "word": "माम्",
           "meaning": "Me"
         },
         {
-          "word": "evam",
+          "word": "एवम्",
           "meaning": "thus / in this way"
         },
         {
-          "word": "asammūḍhaḥ",
+          "word": "असम्मूढः",
           "meaning": "undeluded / free from confusion / with clear discernment"
         },
         {
-          "word": "jānāti",
+          "word": "जानाति",
           "meaning": "knows / understands"
         },
         {
-          "word": "puruṣottamam",
+          "word": "पुरुषोत्तमम्",
           "meaning": "as Puruṣottama / the Supreme Person"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "he / that person"
         },
         {
-          "word": "sarva-vit",
+          "word": "सर्व-वित्",
           "meaning": "all-knowing / knower of everything (of consequence)"
         },
         {
-          "word": "bhajati",
+          "word": "भजति",
           "meaning": "worships / serves with devotion"
         },
         {
-          "word": "mām",
+          "word": "माम्",
           "meaning": "Me"
         },
         {
-          "word": "sarva-bhāvena",
+          "word": "सर्व-भावेन",
           "meaning": "with all states of being / with one's whole self / with every faculty"
         },
         {
-          "word": "bhārata",
+          "word": "भारत",
           "meaning": "O Bhārata / O descendant of Bharata (Arjuna)"
         }
       ],
@@ -1100,61 +1100,61 @@
     },
     {
       "verse": 20,
-      "sanskrit": "iti guhyatamaṃ śāstram idam uktaṃ mayānagha | etad buddhvā buddhimān syāt kṛta-kṛtyaś ca bhārata ||",
+      "sanskrit": "इति गुह्यतमं शास्त्रम् इदम् उक्तं मयानघ । एतद् बुद्ध्वा बुद्धिमान् स्यात् कृत-कृत्यश् च भारत ॥",
       "transliteration": "iti guhyatamaṃ śāstram idam uktaṃ mayānagha | etad buddhvā buddhimān syāt kṛta-kṛtyaś ca bhārata ||",
       "translation": "Thus this most secret scripture (guhyatamaṃ śāstram) has been declared by Me, O Sinless One (Anagha). Understanding this, one becomes wise (buddhimān) and all duties are fulfilled (kṛta-kṛtyaḥ), O Bhārata.",
       "audio": "/assets/audio/ch15/verse_15_20.mp3",
       "word_breakdown": [
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus / in this way (marking the conclusion)"
         },
         {
-          "word": "guhyatamam",
+          "word": "गुह्यतमम्",
           "meaning": "the most secret / the deepest mystery"
         },
         {
-          "word": "śāstram",
+          "word": "शास्त्रम्",
           "meaning": "scripture / teaching / sacred text"
         },
         {
-          "word": "idam",
+          "word": "इदम्",
           "meaning": "this"
         },
         {
-          "word": "uktam",
+          "word": "उक्तम्",
           "meaning": "has been declared / spoken / stated"
         },
         {
-          "word": "mayā",
+          "word": "मया",
           "meaning": "by Me"
         },
         {
-          "word": "anagha",
+          "word": "अनघ",
           "meaning": "O Sinless One / O Arjuna (epithet meaning 'without fault/sin')"
         },
         {
-          "word": "etat buddhvā",
+          "word": "एतत् बुद्ध्वा",
           "meaning": "having understood this / knowing this"
         },
         {
-          "word": "buddhimān",
+          "word": "बुद्धिमान्",
           "meaning": "wise / one endowed with discerning intelligence"
         },
         {
-          "word": "syāt",
+          "word": "स्यात्",
           "meaning": "one becomes / one shall be"
         },
         {
-          "word": "kṛta-kṛtyaḥ",
+          "word": "कृत-कृत्यः",
           "meaning": "one who has accomplished all that needed to be done; duties fulfilled; goals attained"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "bhārata",
+          "word": "भारत",
           "meaning": "O Bhārata / O Arjuna, descendant of Bharata"
         }
       ],

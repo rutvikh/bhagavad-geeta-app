@@ -3,53 +3,53 @@
   "verses": [
     {
       "verse": 1,
-      "sanskrit": "arjuna uvāca —\nprakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñam eva ca |\netad veditum icchāmi jñānaṃ jñeyaṃ ca keśava ||",
+      "sanskrit": "अर्जुन उवाच —\nप्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञम् एव च ।\nएतद् वेदितुम् इच्छामि ज्ञानं ज्ञेयं च केशव ॥",
       "transliteration": "arjuna uvāca —\nprakṛtiṃ puruṣaṃ ca eva kṣetraṃ kṣetrajñam eva ca |\netad veditum icchāmi jñānaṃ jñeyaṃ ca keśava ||",
       "translation": "Arjuna said: O Keśava, I desire to know about Prakṛti (primal Nature) and Puruṣa (the conscious Self), the Field (kṣetra) and the Knower of the Field (kṣetrajña), knowledge (jñāna) and that which ought to be known (jñeya).",
       "audio": "/assets/audio/ch13/verse_13_01.mp3",
       "word_breakdown": [
         {
-          "word": "prakṛtim",
+          "word": "प्रकृतिम्",
           "meaning": "Prakṛti — primal Nature, the material principle, the matrix of all manifestation"
         },
         {
-          "word": "puruṣam",
+          "word": "पुरुषम्",
           "meaning": "Puruṣa — the cosmic Person, the conscious Self, the witnessing principle"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also, and indeed"
         },
         {
-          "word": "kṣetram",
+          "word": "क्षेत्रम्",
           "meaning": "the Field — the body, the world of experience, matter"
         },
         {
-          "word": "kṣetrajñam",
+          "word": "क्षेत्रज्ञम्",
           "meaning": "the Knower of the Field — the conscious witness within the body"
         },
         {
-          "word": "eva ca",
+          "word": "एव च",
           "meaning": "and also, likewise"
         },
         {
-          "word": "etad",
+          "word": "एतद्",
           "meaning": "this — referring to all the above"
         },
         {
-          "word": "veditum icchāmi",
+          "word": "वेदितुम् इच्छामि",
           "meaning": "I desire to know — I wish to understand fully"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge — the means and the nature of knowing"
         },
         {
-          "word": "jñeyam",
+          "word": "ज्ञेयम्",
           "meaning": "that which ought to be known — the ultimate object of knowledge, the Self/Brahman"
         },
         {
-          "word": "keśava",
+          "word": "केशव",
           "meaning": "O Keśava — name of Krishna meaning 'He of beautiful hair,' or slayer of the demon Keśī"
         }
       ],
@@ -62,57 +62,57 @@
     },
     {
       "verse": 2,
-      "sanskrit": "śrī bhagavān uvāca —\nidaṃ śarīraṃ kaunteya kṣetram ity abhidhīyate |\netad yo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ ||",
+      "sanskrit": "श्री भगवान् उवाच —\nइदं शरीरं कौन्तेय क्षेत्रम् इत्य् अभिधीयते ।\nएतद् यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ॥",
       "transliteration": "śrī bhagavān uvāca —\nidaṃ śarīraṃ kaunteya kṣetram iti abhidhīyate |\netad yaḥ vetti taṃ prāhuḥ kṣetrajñaḥ iti tadvidaḥ ||",
       "translation": "The Blessed Lord said: This body, O Kaunteya (Arjuna), is called the Field (kṣetra). The one who knows this — the knowers of truth (tadvidaḥ) call that one the Knower of the Field (kṣetrajña).",
       "audio": "/assets/audio/ch13/verse_13_02.mp3",
       "word_breakdown": [
         {
-          "word": "idam",
+          "word": "इदम्",
           "meaning": "this — pointing directly at the body being addressed"
         },
         {
-          "word": "śarīram",
+          "word": "शरीरम्",
           "meaning": "the body — the physical and subtle body together, the entire psycho-physical organism"
         },
         {
-          "word": "kaunteya",
+          "word": "कौन्तेय",
           "meaning": "O son of Kuntī — Arjuna, addressed as the son of his mother Kuntī"
         },
         {
-          "word": "kṣetram",
+          "word": "क्षेत्रम्",
           "meaning": "the Field — that which is known, experienced, cultivated; the body as the field of experience"
         },
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus, so — indicating a definition or name"
         },
         {
-          "word": "abhidhīyate",
+          "word": "अभिधीयते",
           "meaning": "is called, is designated, is known as"
         },
         {
-          "word": "etad",
+          "word": "एतद्",
           "meaning": "this — referring to the Field just named"
         },
         {
-          "word": "yaḥ vetti",
+          "word": "यः वेत्ति",
           "meaning": "who knows — the one who cognizes, who is aware of the Field"
         },
         {
-          "word": "tam",
+          "word": "तम्",
           "meaning": "that one — referring to the one who knows"
         },
         {
-          "word": "prāhuḥ",
+          "word": "प्राहुः",
           "meaning": "they call, they declare — the wise say"
         },
         {
-          "word": "kṣetrajñaḥ",
+          "word": "क्षेत्रज्ञः",
           "meaning": "the Knower of the Field — pure consciousness, the witnessing Self within the body"
         },
         {
-          "word": "tadvidaḥ",
+          "word": "तद्विदः",
           "meaning": "the knowers of that truth — those who have realized the distinction between Field and Knower"
         }
       ],
@@ -125,49 +125,49 @@
     },
     {
       "verse": 3,
-      "sanskrit": "kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata |\nkṣetrakṣetrajñayor jñānaṃ yat taj jñānaṃ mataṃ mama ||",
+      "sanskrit": "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।\nक्षेत्रक्षेत्रज्ञयोर् ज्ञानं यत् तज् ज्ञानं मतं मम ॥",
       "transliteration": "kṣetrajñaṃ ca api māṃ viddhi sarvakṣetreṣu bhārata |\nkṣetrakṣetrajñayoḥ jñānaṃ yat tat jñānaṃ matam mama ||",
       "translation": "And know Me as the Kṣetrajña (Knower of the Field) in all Fields, O Bhārata. The knowledge of both the Field and the Knower of the Field — that I consider to be true knowledge.",
       "audio": "/assets/audio/ch13/verse_13_03.mp3",
       "word_breakdown": [
         {
-          "word": "kṣetrajñam",
+          "word": "क्षेत्रज्ञम्",
           "meaning": "the Knower of the Field — the pure witnessing consciousness"
         },
         {
-          "word": "ca api",
+          "word": "च अपि",
           "meaning": "and also, furthermore — adding a crucial further teaching"
         },
         {
-          "word": "mām",
+          "word": "माम्",
           "meaning": "Me — Krishna speaking as the universal Consciousness, Paramātman"
         },
         {
-          "word": "viddhi",
+          "word": "विद्धि",
           "meaning": "know — imperative, 'you must know this,' direct instruction"
         },
         {
-          "word": "sarvakṣetreṣu",
+          "word": "सर्वक्षेत्रेषु",
           "meaning": "in all Fields — in every body, in every being without exception"
         },
         {
-          "word": "bhārata",
+          "word": "भारत",
           "meaning": "O Bhārata — descendant of Bharata, Arjuna addressed by his lineage"
         },
         {
-          "word": "kṣetrakṣetrajñayoḥ",
+          "word": "क्षेत्रक्षेत्रज्ञयोः",
           "meaning": "of the Field and the Knower of the Field — genitive dual, 'of both'"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge — understanding, direct knowing"
         },
         {
-          "word": "yat tat",
+          "word": "यत् तत्",
           "meaning": "that which — referring to the knowledge just mentioned"
         },
         {
-          "word": "jñānam matam mama",
+          "word": "ज्ञानम् मतम् मम",
           "meaning": "is considered by Me to be (true) knowledge — Krishna's own definition of wisdom"
         }
       ],
@@ -180,49 +180,49 @@
     },
     {
       "verse": 4,
-      "sanskrit": "tat kṣetraṃ yac ca yādṛk ca yadvikāri yataś ca yat |\nsa ca yo yatprabhāvaś ca tat samāsena me śṛṇu ||",
+      "sanskrit": "तत् क्षेत्रं यच् च यादृक् च यद्विकारि यतश् च यत् ।\nस च यो यत्प्रभावश् च तत् समासेन मे शृणु ॥",
       "transliteration": "tat kṣetram yat ca yādṛk ca yadvikāri yataḥ ca yat |\nsaḥ ca yaḥ yatprabhāvaḥ ca tat samāsena me śṛṇu ||",
       "translation": "What that Field is, of what nature it is, what its modifications are, and from what it arises — and also who the Knower of the Field is and what His powers are — hear that from Me briefly.",
       "audio": "/assets/audio/ch13/verse_13_04.mp3",
       "word_breakdown": [
         {
-          "word": "tat kṣetram",
+          "word": "तत् क्षेत्रम्",
           "meaning": "that Field — what has just been named as the object of inquiry"
         },
         {
-          "word": "yat ca",
+          "word": "यत् च",
           "meaning": "what it is — its essential constitution, its components"
         },
         {
-          "word": "yādṛk ca",
+          "word": "यादृक् च",
           "meaning": "of what kind it is — its nature and characteristics"
         },
         {
-          "word": "yadvikāri",
+          "word": "यद्विकारि",
           "meaning": "what its modifications/transformations are — the changes it undergoes"
         },
         {
-          "word": "yataḥ ca",
+          "word": "यतः च",
           "meaning": "from what it arises — its source or origin"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "what — what that source itself is"
         },
         {
-          "word": "saḥ ca yaḥ",
+          "word": "सः च यः",
           "meaning": "and also who that one is — referring to the Kṣetrajña"
         },
         {
-          "word": "yatprabhāvaḥ",
+          "word": "यत्प्रभावः",
           "meaning": "of what powers/influence — the capabilities and glory of the Knower"
         },
         {
-          "word": "tat samāsena",
+          "word": "तत् समासेन",
           "meaning": "that in brief — a concise summary rather than exhaustive enumeration"
         },
         {
-          "word": "me śṛṇu",
+          "word": "मे शृणु",
           "meaning": "hear from Me — listen to Me, receive this teaching directly"
         }
       ],
@@ -235,45 +235,45 @@
     },
     {
       "verse": 5,
-      "sanskrit": "ṛṣibhir bahudhā gītaṃ chandobhir vividhaiḥ pṛthak |\nbrahmasūtrapadaiś caiva hetumadbhir viniścitaiḥ ||",
+      "sanskrit": "ऋषिभिर् बहुधा गीतं छन्दोभिर् विविधैः पृथक् ।\nब्रह्मसूत्रपदैश् चैव हेतुमद्भिर् विनिश्चितैः ॥",
       "transliteration": "ṛṣibhiḥ bahudhā gītam chandobhiḥ vividhaiḥ pṛthak |\nbrahmasūtrapadaiḥ ca eva hetumadbhiḥ viniścitaiḥ ||",
       "translation": "This (knowledge of the Field and the Knower) has been sung by the sages in many ways, distinctly through various Vedic hymns, and also through the reasoned and conclusive aphorisms of the Brahma-sūtras.",
       "audio": "/assets/audio/ch13/verse_13_05.mp3",
       "word_breakdown": [
         {
-          "word": "ṛṣibhiḥ",
+          "word": "ऋषिभिः",
           "meaning": "by the sages — the Vedic seers who directly perceived truth in meditation"
         },
         {
-          "word": "bahudhā",
+          "word": "बहुधा",
           "meaning": "in many ways — in diverse forms, from many angles"
         },
         {
-          "word": "gītam",
+          "word": "गीतम्",
           "meaning": "has been sung, described, elaborated — the root gā means to sing or proclaim"
         },
         {
-          "word": "chandobhiḥ",
+          "word": "छन्दोभिः",
           "meaning": "through hymns — the chandas (Vedic meters) and the mantras composed in them"
         },
         {
-          "word": "vividhaiḥ pṛthak",
+          "word": "विविधैः पृथक्",
           "meaning": "various and distinct — each tradition approaching from a different angle"
         },
         {
-          "word": "brahmasūtrapadaiḥ",
+          "word": "ब्रह्मसूत्रपदैः",
           "meaning": "through the aphorisms (padāḥ) of the Brahma-sūtras — the Vedānta-sūtras of Bādarāyaṇa"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also — adding this authoritative text"
         },
         {
-          "word": "hetumadbhiḥ",
+          "word": "हेतुमद्भिः",
           "meaning": "with reasoning, well-reasoned — the sūtras are noted for their logical rigor"
         },
         {
-          "word": "viniścitaiḥ",
+          "word": "विनिश्चितैः",
           "meaning": "well-determined, conclusive — definitive, not speculative"
         }
       ],
@@ -286,45 +286,45 @@
     },
     {
       "verse": 6,
-      "sanskrit": "mahābhūtāny ahaṃkāro buddhir avyaktam eva ca |\nindriyāṇi daśaikaṃ ca pañca cendriyagocarāḥ ||",
+      "sanskrit": "महाभूतान्य् अहंकारो बुद्धिर् अव्यक्तम् एव च ।\nइन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ॥",
       "transliteration": "mahābhūtāni ahaṃkāraḥ buddhiḥ avyaktam eva ca |\nindriyāṇi daśa ekam ca pañca ca indriyagocarāḥ ||",
       "translation": "The five great elements (mahābhūtas), ego (ahaṃkāra), intellect (buddhi), the unmanifest Prakṛti (avyakta), the ten sense organs, and the one (mind), and the five sense objects — (these together constitute the Field).",
       "audio": "/assets/audio/ch13/verse_13_06.mp3",
       "word_breakdown": [
         {
-          "word": "mahābhūtāni",
+          "word": "महाभूतानि",
           "meaning": "the five great elements — earth (pṛthvī), water (ap), fire (tejas), air (vāyu), and ether (ākāśa)"
         },
         {
-          "word": "ahaṃkāraḥ",
+          "word": "अहंकारः",
           "meaning": "ego — the 'I-making' principle, the sense of individual selfhood in Prakṛti"
         },
         {
-          "word": "buddhiḥ",
+          "word": "बुद्धिः",
           "meaning": "intellect — the discriminating, deciding faculty; the finest expression of Prakṛti"
         },
         {
-          "word": "avyaktam",
+          "word": "अव्यक्तम्",
           "meaning": "the unmanifest — primordial Prakṛti, the undifferentiated matrix before creation"
         },
         {
-          "word": "eva ca",
+          "word": "एव च",
           "meaning": "and also, indeed — emphasizing the inclusion of the unmanifest"
         },
         {
-          "word": "indriyāṇi daśa",
+          "word": "इन्द्रियाणि दश",
           "meaning": "the ten sense organs — five jñānendriyas (organs of perception: ear, skin, eye, tongue, nose) and five karmendriyas (organs of action: speech, hands, feet, reproductive organ, organs of elimination)"
         },
         {
-          "word": "ekam ca",
+          "word": "एकम् च",
           "meaning": "and the one — manas, the coordinating mind that receives inputs from all ten sense organs"
         },
         {
-          "word": "pañca ca",
+          "word": "पञ्च च",
           "meaning": "and the five — the five sense objects"
         },
         {
-          "word": "indriyagocarāḥ",
+          "word": "इन्द्रियगोचराः",
           "meaning": "the ranges/objects of the senses — sound, touch, form, taste, smell corresponding to the five sense organs"
         }
       ],
@@ -337,49 +337,49 @@
     },
     {
       "verse": 7,
-      "sanskrit": "icchā dveṣaḥ sukhaṃ duḥkhaṃ saṃghātaś cetanā dhṛtiḥ |\netat kṣetraṃ samāsena savikāram udāhṛtam ||",
+      "sanskrit": "इच्छा द्वेषः सुखं दुःखं संघातश् चेतना धृतिः ।\nएतत् क्षेत्रं समासेन सविकारम् उदाहृतम् ॥",
       "transliteration": "icchā dveṣaḥ sukham duḥkham saṃghātaḥ cetanā dhṛtiḥ |\netat kṣetram samāsena savikāram udāhṛtam ||",
       "translation": "Desire, aversion (hatred), pleasure, pain, the aggregate (the body-mind complex), consciousness (as a modification within the Field), and steadiness (fortitude) — this is the Field described briefly along with its modifications.",
       "audio": "/assets/audio/ch13/verse_13_07.mp3",
       "word_breakdown": [
         {
-          "word": "icchā",
+          "word": "इच्छा",
           "meaning": "desire — the pull toward what is wanted; the basic movement of Prakṛti toward pleasure"
         },
         {
-          "word": "dveṣaḥ",
+          "word": "द्वेषः",
           "meaning": "aversion, hatred — the push away from what is unwanted; the root of all conflict"
         },
         {
-          "word": "sukham",
+          "word": "सुखम्",
           "meaning": "pleasure — agreeable sensation arising from contact between sense organs and their objects"
         },
         {
-          "word": "duḥkham",
+          "word": "दुःखम्",
           "meaning": "pain, sorrow, suffering — the inevitable counterpart of pleasure in the Field"
         },
         {
-          "word": "saṃghātaḥ",
+          "word": "संघातः",
           "meaning": "the aggregate — the composite body-mind-senses as an assembled whole"
         },
         {
-          "word": "cetanā",
+          "word": "चेतना",
           "meaning": "consciousness as reflected in the Field — the appearance of awareness in matter, often called 'chidābhāsa'"
         },
         {
-          "word": "dhṛtiḥ",
+          "word": "धृतिः",
           "meaning": "fortitude, steadiness — the capacity of the Field to maintain coherence and resilience"
         },
         {
-          "word": "etat kṣetram",
+          "word": "एतत् क्षेत्रम्",
           "meaning": "this is the Field — summarizing all that has been enumerated"
         },
         {
-          "word": "samāsena",
+          "word": "समासेन",
           "meaning": "in brief — this is a compressed summary; full elaboration is in the Upaniṣads"
         },
         {
-          "word": "savikāram udāhṛtam",
+          "word": "सविकारम् उदाहृतम्",
           "meaning": "described along with its modifications — the Field is not static but constantly undergoing change"
         }
       ],
@@ -392,45 +392,45 @@
     },
     {
       "verse": 8,
-      "sanskrit": "amānitvam adambhitvam ahiṃsā kṣāntir ārjavam |\nācāryopāsanaṃ śaucaṃ sthairyam ātmavinigrahaḥ ||",
+      "sanskrit": "अमानित्वम् अदम्भित्वम् अहिंसा क्षान्तिर् आर्जवम् ।\nआचार्योपासनं शौचं स्थैर्यम् आत्मविनिग्रहः ॥",
       "transliteration": "amānitvam adambhitvam ahiṃsā kṣāntiḥ ārjavam |\nācāryopāsanam śaucam sthairyam ātmavinigrahaḥ ||",
       "translation": "Absence of pride (amānitva), absence of hypocrisy (adambhitva), non-violence (ahiṃsā), patience and forbearance (kṣānti), uprightness (ārjava), service to the teacher (ācāryopāsana), purity (śauca), steadiness (sthairya), self-control (ātmavinigraha)...",
       "audio": "/assets/audio/ch13/verse_13_08.mp3",
       "word_breakdown": [
         {
-          "word": "amānitvam",
+          "word": "अमानित्वम्",
           "meaning": "absence of pride — not craving respect, honor, or recognition; freedom from the need to be considered important"
         },
         {
-          "word": "adambhitvam",
+          "word": "अदम्भित्वम्",
           "meaning": "absence of hypocrisy/deceit — not performing virtuous actions for show; authenticity without pretense"
         },
         {
-          "word": "ahiṃsā",
+          "word": "अहिंसा",
           "meaning": "non-violence — not causing harm in thought, word, or deed; the bedrock of dharmic conduct"
         },
         {
-          "word": "kṣāntiḥ",
+          "word": "क्षान्तिः",
           "meaning": "patience, forbearance — the capacity to bear hardship, insult, and adversity without being disturbed"
         },
         {
-          "word": "ārjavam",
+          "word": "आर्जवम्",
           "meaning": "uprightness, straightforwardness — the alignment of thought, speech, and action; integrity"
         },
         {
-          "word": "ācāryopāsanam",
+          "word": "आचार्योपासनम्",
           "meaning": "service/devotion to the teacher — attending to the guru with humility, learning through relationship and seva"
         },
         {
-          "word": "śaucam",
+          "word": "शौचम्",
           "meaning": "purity — both outer cleanliness and inner purity of motive, thought, and intention"
         },
         {
-          "word": "sthairyam",
+          "word": "स्थैर्यम्",
           "meaning": "steadiness — the quality of remaining firm and unshaken in one's conviction and practice"
         },
         {
-          "word": "ātmavinigrahaḥ",
+          "word": "आत्मविनिग्रहः",
           "meaning": "self-control — mastery over the mind and senses; the redirection of energy inward toward Self-knowledge"
         }
       ],
@@ -443,53 +443,53 @@
     },
     {
       "verse": 9,
-      "sanskrit": "indriyārtheṣu vairāgyam anahaṃkāra eva ca |\njanmamṛtyujarāvyādhiduḥkhadoṣānudarśanam ||",
+      "sanskrit": "इन्द्रियार्थेषु वैराग्यम् अनहंकार एव च ।\nजन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम् ॥",
       "transliteration": "indriyārtheṣu vairāgyam anahaṃkāraḥ eva ca |\njanma-mṛtyu-jarā-vyādhi-duḥkha-doṣa-anudarśanam ||",
       "translation": "...dispassion (vairāgya) toward sense objects; absence of ego (anahaṃkāra); and the clear perception of the evil inherent in birth, death, old age, sickness, and pain...",
       "audio": "/assets/audio/ch13/verse_13_09.mp3",
       "word_breakdown": [
         {
-          "word": "indriyārtheṣu",
+          "word": "इन्द्रियार्थेषु",
           "meaning": "toward the objects of the senses — sounds, touches, forms, tastes, smells; the entire domain of sensory experience"
         },
         {
-          "word": "vairāgyam",
+          "word": "वैराग्यम्",
           "meaning": "dispassion, detachment — not suppression of feeling but freedom from compulsive craving; equanimity before sensory stimuli"
         },
         {
-          "word": "anahaṃkāraḥ",
+          "word": "अनहंकारः",
           "meaning": "absence of ego — not the destruction of functional identity but the dissolution of the false identification with the body-mind as the ultimate Self"
         },
         {
-          "word": "eva ca",
+          "word": "एव च",
           "meaning": "and also, indeed — emphasizing the importance of these qualities"
         },
         {
-          "word": "janma",
+          "word": "जन्म",
           "meaning": "birth — the beginning of embodiment, which carries with it the inevitability of the subsequent sufferings"
         },
         {
-          "word": "mṛtyu",
+          "word": "मृत्यु",
           "meaning": "death — the dissolution of the body, which the ego fears above all things"
         },
         {
-          "word": "jarā",
+          "word": "जरा",
           "meaning": "old age — the gradual decay of the body; the suffering of diminishment"
         },
         {
-          "word": "vyādhi",
+          "word": "व्याधि",
           "meaning": "disease, sickness — the vulnerability of the physical body to illness and pain"
         },
         {
-          "word": "duḥkha",
+          "word": "दुःख",
           "meaning": "suffering, pain — the pervasive quality of existence in the Field when mistaken for the whole of reality"
         },
         {
-          "word": "doṣa",
+          "word": "दोष",
           "meaning": "the inherent defect, evil — the fundamental inadequacy of sense-bound existence as a source of lasting happiness"
         },
         {
-          "word": "anudarśanam",
+          "word": "अनुदर्शनम्",
           "meaning": "clear and steady perception — not a passing thought but a settled, repeated seeing of this truth"
         }
       ],
@@ -502,53 +502,53 @@
     },
     {
       "verse": 10,
-      "sanskrit": "asaktir anabhiṣvaṅgaḥ putradāragṛhādiṣu |\nnityaṃ ca samacittatvam iṣṭāniṣṭopapattiṣu ||",
+      "sanskrit": "असक्तिर् अनभिष्वङ्गः पुत्रदारगृहादिषु ।\nनित्यं च समचित्तत्वम् इष्टानिष्टोपपत्तिषु ॥",
       "transliteration": "asaktiḥ anabhiṣvaṅgaḥ putra-dāra-gṛha-ādiṣu |\nnityam ca samacittatvam iṣṭa-aniṣṭa-upapattiṣu ||",
       "translation": "...non-attachment (asakti) and freedom from excessive clinging (anabhiṣvaṅga) to son, wife, home, and so forth; and constant evenness of mind (samacittatva) in the occurrence of desired and undesired events...",
       "audio": "/assets/audio/ch13/verse_13_10.mp3",
       "word_breakdown": [
         {
-          "word": "asaktiḥ",
+          "word": "असक्तिः",
           "meaning": "non-attachment — the absence of binding clinging to outcomes, relationships, or possessions; freedom from the compulsion of 'mine'"
         },
         {
-          "word": "anabhiṣvaṅgaḥ",
+          "word": "अनभिष्वङ्गः",
           "meaning": "freedom from excessive clinging — a stronger form of non-attachment; not being engulfed or overwhelmed by love of family and home; the prefix 'ana-abhi-' suggests freedom from obsessive, suffocating attachment"
         },
         {
-          "word": "putra",
+          "word": "पुत्र",
           "meaning": "son — used representatively for all children; the deepest and most natural object of parental attachment"
         },
         {
-          "word": "dāra",
+          "word": "दार",
           "meaning": "wife — the primary intimate relationship; the domestic bond"
         },
         {
-          "word": "gṛha",
+          "word": "गृह",
           "meaning": "home — the house, property, and the entire domestic sphere; everything that constitutes 'mine'"
         },
         {
-          "word": "ādiṣu",
+          "word": "आदिषु",
           "meaning": "and so forth — extending to all personal possessions, relationships, identities, and roles"
         },
         {
-          "word": "nityam",
+          "word": "नित्यम्",
           "meaning": "constantly, always — not occasionally but as a stable disposition; evenness that has become natural"
         },
         {
-          "word": "samacittatvam",
+          "word": "समचित्तत्वम्",
           "meaning": "evenness of mind — equanimity; sama = equal/same, citta = mind; the mind that does not rise or fall with circumstances"
         },
         {
-          "word": "iṣṭa",
+          "word": "इष्ट",
           "meaning": "desired — pleasant, wished-for events and circumstances"
         },
         {
-          "word": "aniṣṭa",
+          "word": "अनिष्ट",
           "meaning": "undesired — unpleasant, unwanted events; things that go wrong"
         },
         {
-          "word": "upapattiṣu",
+          "word": "उपपत्तिषु",
           "meaning": "in the occurrences, in the happening of — when these events actually arrive"
         }
       ],
@@ -561,53 +561,53 @@
     },
     {
       "verse": 11,
-      "sanskrit": "adhyātma-jñāna-nityatvaṃ tattva-jñānārtha-darśanam | etaj jñānam iti proktam ajñānaṃ yad ato'nyathā ||",
+      "sanskrit": "अध्यात्म-ज्ञान-नित्यत्वं तत्त्व-ज्ञानार्थ-दर्शनम् । एतज् ज्ञानम् इति प्रोक्तम् अज्ञानं यद् अतोऽन्यथा ॥",
       "transliteration": "adhyātma-jñāna-nityatvaṃ tattva-jñāna-artha-darśanam | etat jñānam iti proktam ajñānaṃ yat ataḥ anyathā ||",
       "translation": "Constant absorption in self-knowledge (adhyātma-jñāna), and insight into the purpose and meaning of tattva-jñāna — this is declared to be knowledge (jñānam); whatever is contrary to this is ignorance (ajñānam).",
       "audio": "/assets/audio/ch13/verse_13_11.mp3",
       "word_breakdown": [
         {
-          "word": "adhyātma-jñāna",
+          "word": "अध्यात्म-ज्ञान",
           "meaning": "knowledge of the Self; self-knowledge; spiritual self-inquiry"
         },
         {
-          "word": "nityatvam",
+          "word": "नित्यत्वम्",
           "meaning": "constancy; permanence; the quality of being ever-abiding"
         },
         {
-          "word": "tattva-jñāna",
+          "word": "तत्त्व-ज्ञान",
           "meaning": "knowledge of the truth; knowledge of the essential nature of reality"
         },
         {
-          "word": "artha",
+          "word": "अर्थ",
           "meaning": "purpose; meaning; aim; the goal toward which knowledge is directed"
         },
         {
-          "word": "darśanam",
+          "word": "दर्शनम्",
           "meaning": "vision; insight; clear seeing; perception of truth"
         },
         {
-          "word": "etat",
+          "word": "एतत्",
           "meaning": "this; referring to the twenty qualities listed from verse 8 onward"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge; wisdom; the state of genuine knowing"
         },
         {
-          "word": "iti proktam",
+          "word": "इति प्रोक्तम्",
           "meaning": "is thus declared; has been said to be so"
         },
         {
-          "word": "ajñānam",
+          "word": "अज्ञानम्",
           "meaning": "ignorance; absence of true knowledge; the root of bondage"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "that which; whatever"
         },
         {
-          "word": "ataḥ anyathā",
+          "word": "अतः अन्यथा",
           "meaning": "contrary to this; otherwise than what has been described"
         }
       ],
@@ -620,57 +620,57 @@
     },
     {
       "verse": 12,
-      "sanskrit": "jñeyaṃ yat tat pravakṣyāmi yaj jñātvā'mṛtam aśnute | anādi mat-paraṃ brahma na sat tan nāsad ucyate ||",
+      "sanskrit": "ज्ञेयं यत् तत् प्रवक्ष्यामि यज् ज्ञात्वाऽमृतम् अश्नुते । अनादि मत्-परं ब्रह्म न सत् तन् नासद् उच्यते ॥",
       "transliteration": "jñeyam yat tat pravakṣyāmi yat jñātvā amṛtam aśnute | anādi mat-param brahma na sat tat na asat ucyate ||",
       "translation": "I will declare that which is to be known — knowing which, one attains immortality. It is the beginningless supreme Brahman, which is said to be neither sat (existent) nor asat (non-existent).",
       "audio": "/assets/audio/ch13/verse_13_12.mp3",
       "word_breakdown": [
         {
-          "word": "jñeyam",
+          "word": "ज्ञेयम्",
           "meaning": "that which is to be known; the object of ultimate knowledge; the knowable"
         },
         {
-          "word": "yat tat",
+          "word": "यत् तत्",
           "meaning": "that which; referring to the Brahman about to be described"
         },
         {
-          "word": "pravakṣyāmi",
+          "word": "प्रवक्ष्यामि",
           "meaning": "I will declare; I shall now speak; I am about to reveal"
         },
         {
-          "word": "jñātvā",
+          "word": "ज्ञात्वा",
           "meaning": "having known; upon knowing; by realizing"
         },
         {
-          "word": "amṛtam",
+          "word": "अमृतम्",
           "meaning": "immortality; deathlessness; the state beyond birth and death"
         },
         {
-          "word": "aśnute",
+          "word": "अश्नुते",
           "meaning": "one attains; one tastes; one enjoys"
         },
         {
-          "word": "anādi",
+          "word": "अनादि",
           "meaning": "without a beginning; beginningless; eternal in the backward direction"
         },
         {
-          "word": "mat-param",
+          "word": "मत्-परम्",
           "meaning": "having Me as the supreme; subordinate to Me; with Me (Krishna/Brahman) as the highest"
         },
         {
-          "word": "brahma",
+          "word": "ब्रह्म",
           "meaning": "Brahman; the Absolute; the ground of all existence"
         },
         {
-          "word": "na sat",
+          "word": "न सत्",
           "meaning": "not existent; not describable as 'being' in the empirical sense"
         },
         {
-          "word": "na asat",
+          "word": "न असत्",
           "meaning": "not non-existent; not mere nothingness; not an absence"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is said to be; is declared; is described"
         }
       ],
@@ -683,53 +683,53 @@
     },
     {
       "verse": 13,
-      "sanskrit": "sarvataḥ pāṇi-pādaṃ tat sarvato'kṣi-śiro-mukham | sarvataḥ śrutimal loke sarvam āvṛtya tiṣṭhati ||",
+      "sanskrit": "सर्वतः पाणि-पादं तत् सर्वतोऽक्षि-शिरो-मुखम् । सर्वतः श्रुतिमल् लोके सर्वम् आवृत्य तिष्ठति ॥",
       "transliteration": "sarvataḥ pāṇi-pādam tat sarvataḥ akṣi-śiraḥ-mukham | sarvataḥ śrutimat loke sarvam āvṛtya tiṣṭhati ||",
       "translation": "It has hands and feet everywhere; eyes, heads, and mouths everywhere; ears everywhere — it stands pervading everything in the world.",
       "audio": "/assets/audio/ch13/verse_13_13.mp3",
       "word_breakdown": [
         {
-          "word": "sarvataḥ",
+          "word": "सर्वतः",
           "meaning": "everywhere; on all sides; in every direction"
         },
         {
-          "word": "pāṇi-pādam",
+          "word": "पाणि-पादम्",
           "meaning": "hands and feet; the organs of action"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that; referring to Brahman, the jñeyam being described"
         },
         {
-          "word": "akṣi",
+          "word": "अक्षि",
           "meaning": "eyes; organs of sight"
         },
         {
-          "word": "śiraḥ",
+          "word": "शिरः",
           "meaning": "heads; the seat of intelligence"
         },
         {
-          "word": "mukham",
+          "word": "मुखम्",
           "meaning": "mouths; faces; the organ of speech and intake"
         },
         {
-          "word": "śrutimat",
+          "word": "श्रुतिमत्",
           "meaning": "possessing ears; having hearing everywhere; the quality of universal perception"
         },
         {
-          "word": "loke",
+          "word": "लोके",
           "meaning": "in the world; in the universe; among all beings"
         },
         {
-          "word": "sarvam",
+          "word": "सर्वम्",
           "meaning": "everything; all; the entire universe without exception"
         },
         {
-          "word": "āvṛtya",
+          "word": "आवृत्य",
           "meaning": "pervading; enveloping; encompassing; having covered"
         },
         {
-          "word": "tiṣṭhati",
+          "word": "तिष्ठति",
           "meaning": "stands; exists; remains; abides — used for the immanent presence of Brahman"
         }
       ],
@@ -742,45 +742,45 @@
     },
     {
       "verse": 14,
-      "sanskrit": "sarvendriya-guṇābhāsaṃ sarvendriya-vivarjitam | asaktaṃ sarva-bhṛc caiva nirguṇaṃ guṇa-bhoktṛ ca ||",
+      "sanskrit": "सर्वेन्द्रिय-गुणाभासं सर्वेन्द्रिय-विवर्जितम् । असक्तं सर्व-भृच् चैव निर्गुणं गुण-भोक्तृ च ॥",
       "transliteration": "sarva-indriya-guṇa-ābhāsam sarva-indriya-vivarjitam | asaktam sarva-bhṛt ca eva nirguṇam guṇa-bhoktṛ ca ||",
       "translation": "Appearing as the illumined functions of all senses, yet devoid of all senses; unattached, yet sustaining everything; free from the guṇas, yet experiencing (or appearing as the enjoyer of) the guṇas.",
       "audio": "/assets/audio/ch13/verse_13_14.mp3",
       "word_breakdown": [
         {
-          "word": "sarva-indriya",
+          "word": "सर्व-इन्द्रिय",
           "meaning": "all the senses; every sensory faculty — sight, hearing, touch, taste, smell"
         },
         {
-          "word": "guṇa-ābhāsam",
+          "word": "गुण-आभासम्",
           "meaning": "appearing as the functions/qualities; reflecting the characteristics; the ābhāsa (reflection/appearance) of sense-functions"
         },
         {
-          "word": "sarva-indriya-vivarjitam",
+          "word": "सर्व-इन्द्रिय-विवर्जितम्",
           "meaning": "devoid of all senses; without any sense organs; transcending sensory apparatus"
         },
         {
-          "word": "asaktam",
+          "word": "असक्तम्",
           "meaning": "unattached; without clinging; free from any dependency or involvement"
         },
         {
-          "word": "sarva-bhṛt",
+          "word": "सर्व-भृत्",
           "meaning": "the sustainer of all; the support of everything; the one who bears and maintains the universe"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also; indeed; emphasizing the conjunction of seemingly opposite qualities"
         },
         {
-          "word": "nirguṇam",
+          "word": "निर्गुणम्",
           "meaning": "without guṇas; beyond the three attributes of Prakṛti; transcending sattva, rajas, and tamas"
         },
         {
-          "word": "guṇa-bhoktṛ",
+          "word": "गुण-भोक्तृ",
           "meaning": "the experiencer/enjoyer of the guṇas; appearing as though experiencing the three qualities"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and; also; indicating the paradoxical conjunction"
         }
       ],
@@ -793,53 +793,53 @@
     },
     {
       "verse": 15,
-      "sanskrit": "bahir antaś ca bhūtānām acaraṃ caram eva ca | sūkṣmatvāt tad avijñeyaṃ dūra-sthaṃ cāntike ca tat ||",
+      "sanskrit": "बहिर् अन्तश् च भूतानाम् अचरं चरम् एव च । सूक्ष्मत्वात् तद् अविज्ञेयं दूर-स्थं चान्तिके च तत् ॥",
       "transliteration": "bahiḥ antaḥ ca bhūtānām acaram caram eva ca | sūkṣmatvāt tat avijñeyam dūra-stham ca antike ca tat ||",
       "translation": "It is outside and inside all beings; it is moving and also unmoving; because of Its subtlety It is incomprehensible; It is far away and yet near.",
       "audio": "/assets/audio/ch13/verse_13_15.mp3",
       "word_breakdown": [
         {
-          "word": "bahiḥ",
+          "word": "बहिः",
           "meaning": "outside; external; beyond the surface of beings"
         },
         {
-          "word": "antaḥ",
+          "word": "अन्तः",
           "meaning": "inside; within; the interior of all beings"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and; both; indicating simultaneous coexistence of opposites"
         },
         {
-          "word": "bhūtānām",
+          "word": "भूतानाम्",
           "meaning": "of all beings; of all creatures; of all that exists"
         },
         {
-          "word": "acaram",
+          "word": "अचरम्",
           "meaning": "unmoving; static; that which does not move — the immovable Brahman"
         },
         {
-          "word": "caram",
+          "word": "चरम्",
           "meaning": "moving; dynamic; the moving creation; that which has motion"
         },
         {
-          "word": "eva",
+          "word": "एव",
           "meaning": "indeed; certainly; emphasizing the statement"
         },
         {
-          "word": "sūkṣmatvāt",
+          "word": "सूक्ष्मत्वात्",
           "meaning": "because of Its subtlety; due to Its infinitely fine nature; by reason of being the subtlest"
         },
         {
-          "word": "avijñeyam",
+          "word": "अविज्ञेयम्",
           "meaning": "incomprehensible; not knowable by ordinary means; beyond the grasp of mind and senses"
         },
         {
-          "word": "dūra-stham",
+          "word": "दूर-स्थम्",
           "meaning": "standing far away; distant; infinitely remote for those in ignorance"
         },
         {
-          "word": "antike",
+          "word": "अन्तिके",
           "meaning": "near; close; intimate; immediately present for those with wisdom"
         }
       ],
@@ -852,45 +852,45 @@
     },
     {
       "verse": 16,
-      "sanskrit": "avibhaktaṃ ca bhūteṣu vibhaktam iva ca sthitam | bhūta-bhartṛ ca taj jñeyaṃ grasiṣṇu prabhaviṣṇu ca ||",
+      "sanskrit": "अविभक्तं च भूतेषु विभक्तम् इव च स्थितम् । भूत-भर्तृ च तज् ज्ञेयं ग्रसिष्णु प्रभविष्णु च ॥",
       "transliteration": "avibhaktam ca bhūteṣu vibhaktam iva ca sthitam | bhūta-bhartṛ ca tat jñeyam grasiṣṇu prabhaviṣṇu ca ||",
       "translation": "And though undivided among beings, It appears as if divided; It is to be known as the supporter, the devourer, and the creator of all beings.",
       "audio": "/assets/audio/ch13/verse_13_16.mp3",
       "word_breakdown": [
         {
-          "word": "avibhaktam",
+          "word": "अविभक्तम्",
           "meaning": "undivided; without partition; indivisible; the one without any internal division"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and; also; both — the connective holding the paradox"
         },
         {
-          "word": "bhūteṣu",
+          "word": "भूतेषु",
           "meaning": "among beings; in all creatures; within all that has come into existence"
         },
         {
-          "word": "vibhaktam iva",
+          "word": "विभक्तम् इव",
           "meaning": "as if divided; appearing to be divided; seemingly partitioned — the word 'iva' (like/as if) is crucial"
         },
         {
-          "word": "sthitam",
+          "word": "स्थितम्",
           "meaning": "situated; standing; abiding; existing in that apparent state of division"
         },
         {
-          "word": "bhūta-bhartṛ",
+          "word": "भूत-भर्तृ",
           "meaning": "the supporter of all beings; the sustainer; the one who bears and maintains existence"
         },
         {
-          "word": "tat jñeyam",
+          "word": "तत् ज्ञेयम्",
           "meaning": "that is to be known; that Brahman is to be understood thus"
         },
         {
-          "word": "grasiṣṇu",
+          "word": "ग्रसिष्णु",
           "meaning": "the devourer; the destroyer; Time (Kāla) that absorbs everything back into itself"
         },
         {
-          "word": "prabhaviṣṇu",
+          "word": "प्रभविष्णु",
           "meaning": "the creator; the source from which all emerges; the origin of all manifestation"
         }
       ],
@@ -903,53 +903,53 @@
     },
     {
       "verse": 17,
-      "sanskrit": "jyotiṣām api taj jyotis tamasaḥ param ucyate | jñānaṃ jñeyaṃ jñāna-gamyaṃ hṛdi sarvasya viṣṭhitam ||",
+      "sanskrit": "ज्योतिषाम् अपि तज् ज्योतिस् तमसः परम् उच्यते । ज्ञानं ज्ञेयं ज्ञान-गम्यं हृदि सर्वस्य विष्ठितम् ॥",
       "transliteration": "jyotiṣām api tat jyotiḥ tamasaḥ param ucyate | jñānam jñeyam jñāna-gamyam hṛdi sarvasya viṣṭhitam ||",
       "translation": "That is the Light of lights, declared to be beyond darkness; It is knowledge, the object of knowledge, and the goal of knowledge — seated in the heart of all.",
       "audio": "/assets/audio/ch13/verse_13_17.mp3",
       "word_breakdown": [
         {
-          "word": "jyotiṣām",
+          "word": "ज्योतिषाम्",
           "meaning": "of lights; of all luminaries; of fire, sun, moon, stars — all sources of light"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "even; also; including — emphasizing that Brahman illumines even other lights"
         },
         {
-          "word": "tat jyotiḥ",
+          "word": "तत् ज्योतिः",
           "meaning": "that light; referring to Brahman as the Light of all lights"
         },
         {
-          "word": "tamasaḥ param",
+          "word": "तमसः परम्",
           "meaning": "beyond darkness; transcending tamas (ignorance); beyond the realm of nescience"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is declared; is said to be; is described thus"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge; here meaning Brahman as pure consciousness, the knower-aspect"
         },
         {
-          "word": "jñeyam",
+          "word": "ज्ञेयम्",
           "meaning": "the object of knowledge; the known; Brahman as what is to be realized"
         },
         {
-          "word": "jñāna-gamyam",
+          "word": "ज्ञान-गम्यम्",
           "meaning": "the goal of knowledge; that which is reached through knowledge; the ultimate destination of the knowing process"
         },
         {
-          "word": "hṛdi",
+          "word": "हृदि",
           "meaning": "in the heart; in the cave of the heart (hṛdaya-guha); the innermost center of being"
         },
         {
-          "word": "sarvasya",
+          "word": "सर्वस्य",
           "meaning": "of all; of every being without exception"
         },
         {
-          "word": "viṣṭhitam",
+          "word": "विष्ठितम्",
           "meaning": "seated; established; abiding; dwelling — as in a permanent, stable residence"
         }
       ],
@@ -962,53 +962,53 @@
     },
     {
       "verse": 18,
-      "sanskrit": "iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ | mad-bhakta etad vijñāya mad-bhāvāyopapadyate ||",
+      "sanskrit": "इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः । मद्-भक्त एतद् विज्ञाय मद्-भावायोपपद्यते ॥",
       "transliteration": "iti kṣetram tathā jñānam jñeyam ca uktam samāsataḥ | mat-bhaktaḥ etat vijñāya mat-bhāvāya upapadyate ||",
       "translation": "Thus the kṣetra (field), jñāna (knowledge), and jñeyam (the knowable) have been briefly described. My devotee, understanding this, attains My state of being (mad-bhāva).",
       "audio": "/assets/audio/ch13/verse_13_18.mp3",
       "word_breakdown": [
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus; in this way; indicating the conclusion of the preceding teaching"
         },
         {
-          "word": "kṣetram",
+          "word": "क्षेत्रम्",
           "meaning": "the field; the body-mind complex; all of Prakṛti as described in verses 1-7"
         },
         {
-          "word": "tathā",
+          "word": "तथा",
           "meaning": "and also; likewise; in the same manner"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge; the twenty qualities of wisdom described in verses 8-11"
         },
         {
-          "word": "jñeyam",
+          "word": "ज्ञेयम्",
           "meaning": "the knowable; Brahman as described in verses 12-17"
         },
         {
-          "word": "ca uktam",
+          "word": "च उक्तम्",
           "meaning": "has been stated; has been declared; has been described"
         },
         {
-          "word": "samāsataḥ",
+          "word": "समासतः",
           "meaning": "briefly; in summary; in a concise manner — acknowledging the vastness not fully stated"
         },
         {
-          "word": "mat-bhaktaḥ",
+          "word": "मत्-भक्तः",
           "meaning": "My devotee; one devoted to Me; not merely the jñānī but the bhakta"
         },
         {
-          "word": "etat vijñāya",
+          "word": "एतत् विज्ञाय",
           "meaning": "having understood this; having truly realized this — vijñāya implies experiential realization, not mere hearing"
         },
         {
-          "word": "mat-bhāvāya",
+          "word": "मत्-भावाय",
           "meaning": "for attaining My state of being; to realize My nature; to become one with My essence"
         },
         {
-          "word": "upapadyate",
+          "word": "उपपद्यते",
           "meaning": "attains; becomes fit for; arrives at; is qualified for"
         }
       ],
@@ -1021,49 +1021,49 @@
     },
     {
       "verse": 19,
-      "sanskrit": "prakṛtiṃ puruṣaṃ caiva viddhy anādī ubhāv api | vikārāṃś ca guṇāṃś caiva viddhi prakṛti-saṃbhavān ||",
+      "sanskrit": "प्रकृतिं पुरुषं चैव विद्ध्य् अनादी उभाव् अपि । विकारांश् च गुणांश् चैव विद्धि प्रकृति-संभवान् ॥",
       "transliteration": "prakṛtim puruṣam ca eva viddhi anādī ubhau api | vikārān ca guṇān ca eva viddhi prakṛti-sambhavān ||",
       "translation": "Know that both Prakṛti and Puruṣa are beginningless; and know that the modifications (vikāras) and the guṇas are born of Prakṛti.",
       "audio": "/assets/audio/ch13/verse_13_19.mp3",
       "word_breakdown": [
         {
-          "word": "prakṛtim",
+          "word": "प्रकृतिम्",
           "meaning": "Prakṛti; primordial Nature; the material cause of the universe; the field of all manifestation"
         },
         {
-          "word": "puruṣam",
+          "word": "पुरुषम्",
           "meaning": "Puruṣa; the conscious Self; the witness; the principle of pure awareness"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also; both; indeed — emphasizing the pair together"
         },
         {
-          "word": "viddhi",
+          "word": "विद्धि",
           "meaning": "know; understand; realize — the imperative addressed to Arjuna and all seekers"
         },
         {
-          "word": "anādī",
+          "word": "अनादी",
           "meaning": "beginningless; without a starting point; both having existed from eternity"
         },
         {
-          "word": "ubhau api",
+          "word": "उभौ अपि",
           "meaning": "both; both of them; each without exception"
         },
         {
-          "word": "vikārān",
+          "word": "विकारान्",
           "meaning": "modifications; transformations; the twenty-four tattvas of Sāṃkhya that evolve from Prakṛti"
         },
         {
-          "word": "guṇān",
+          "word": "गुणान्",
           "meaning": "the three guṇas — sattva, rajas, and tamas; the fundamental qualities of Prakṛti"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also; and indeed"
         },
         {
-          "word": "prakṛti-sambhavān",
+          "word": "प्रकृति-सम्भवान्",
           "meaning": "born of Prakṛti; having Prakṛti as their source and cause; arising from primordial Nature"
         }
       ],
@@ -1076,49 +1076,49 @@
     },
     {
       "verse": 20,
-      "sanskrit": "kārya-kāraṇa-kartṛtve hetuḥ prakṛtiḥ ucyate | puruṣaḥ sukha-duḥkhānāṃ bhoktṛtve hetur ucyate ||",
+      "sanskrit": "कार्य-कारण-कर्तृत्वे हेतुः प्रकृतिः उच्यते । पुरुषः सुख-दुःखानां भोक्तृत्वे हेतुर् उच्यते ॥",
       "transliteration": "kārya-kāraṇa-kartṛtve hetuḥ prakṛtiḥ ucyate | puruṣaḥ sukha-duḥkhānām bhoktṛtve hetuḥ ucyate ||",
       "translation": "Prakṛti is said to be the cause in the production of effects and instruments (kārya and kāraṇa); Puruṣa is said to be the cause in the experience of pleasure and pain.",
       "audio": "/assets/audio/ch13/verse_13_20.mp3",
       "word_breakdown": [
         {
-          "word": "kārya",
+          "word": "कार्य",
           "meaning": "effect; product; that which is produced — the body and the experienced world"
         },
         {
-          "word": "kāraṇa",
+          "word": "कारण",
           "meaning": "cause; instrument; means — the senses, mind, and intellect as instruments of action"
         },
         {
-          "word": "kartṛtve",
+          "word": "कर्तृत्वे",
           "meaning": "in doership; in the quality of being the agent; in the capacity of the actor/doer"
         },
         {
-          "word": "hetuḥ",
+          "word": "हेतुः",
           "meaning": "cause; reason; the basis; that which is responsible"
         },
         {
-          "word": "prakṛtiḥ",
+          "word": "प्रकृतिः",
           "meaning": "Prakṛti; primordial Nature; the material and efficient cause of all modification"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is said to be; is declared; is established as"
         },
         {
-          "word": "puruṣaḥ",
+          "word": "पुरुषः",
           "meaning": "Puruṣa; the conscious witness-Self; the experiencer"
         },
         {
-          "word": "sukha-duḥkhānām",
+          "word": "सुख-दुःखानाम्",
           "meaning": "of pleasure and pain; of all experiences of joy and sorrow; of the entire range of vedanā (feeling)"
         },
         {
-          "word": "bhoktṛtve",
+          "word": "भोक्तृत्वे",
           "meaning": "in the capacity of experiencer; in the role of the enjoyer/sufferer; in experiencership"
         },
         {
-          "word": "hetuḥ ucyate",
+          "word": "हेतुः उच्यते",
           "meaning": "is said to be the cause; is declared as the ground of that experiencership"
         }
       ],
@@ -1131,53 +1131,53 @@
     },
     {
       "verse": 21,
-      "sanskrit": "puruṣaḥ prakṛti-stho hi bhuṅkte prakṛti-jān guṇān | kāraṇaṃ guṇa-saṅgo'sya sad-asad-yoni-janmasu ||",
+      "sanskrit": "पुरुषः प्रकृति-स्थो हि भुङ्क्ते प्रकृति-जान् गुणान् । कारणं गुण-सङ्गोऽस्य सद्-असद्-योनि-जन्मसु ॥",
       "transliteration": "puruṣaḥ prakṛti-stho hi bhuṅkte prakṛti-jān guṇān | kāraṇaṃ guṇa-saṅgo'sya sad-asad-yoni-janmasu ||",
       "translation": "Indeed, the Puruṣa, seated in (identified with) Prakṛti, experiences the guṇas born of Prakṛti. Attachment to the guṇas is the cause of its birth in good and evil wombs.",
       "audio": "/assets/audio/ch13/verse_13_21.mp3",
       "word_breakdown": [
         {
-          "word": "puruṣaḥ",
+          "word": "पुरुषः",
           "meaning": "the Puruṣa, pure consciousness"
         },
         {
-          "word": "prakṛti-sthaḥ",
+          "word": "प्रकृति-स्थः",
           "meaning": "seated in / identified with Prakṛti (Nature)"
         },
         {
-          "word": "hi",
+          "word": "हि",
           "meaning": "indeed, verily"
         },
         {
-          "word": "bhuṅkte",
+          "word": "भुङ्क्ते",
           "meaning": "experiences, seems to enjoy"
         },
         {
-          "word": "prakṛti-jān",
+          "word": "प्रकृति-जान्",
           "meaning": "born of Prakṛti"
         },
         {
-          "word": "guṇān",
+          "word": "गुणान्",
           "meaning": "the three guṇas (sattva, rajas, tamas)"
         },
         {
-          "word": "kāraṇam",
+          "word": "कारणम्",
           "meaning": "the cause, the reason"
         },
         {
-          "word": "guṇa-saṅgaḥ",
+          "word": "गुण-सङ्गः",
           "meaning": "attachment to, identification with the guṇas"
         },
         {
-          "word": "asya",
+          "word": "अस्य",
           "meaning": "of it / of the Puruṣa"
         },
         {
-          "word": "sat-asat",
+          "word": "सत्-असत्",
           "meaning": "good and evil, higher and lower"
         },
         {
-          "word": "yoni-janmasu",
+          "word": "योनि-जन्मसु",
           "meaning": "in births through various wombs"
         }
       ],
@@ -1190,49 +1190,49 @@
     },
     {
       "verse": 22,
-      "sanskrit": "upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ | paramātmeti cāpy ukto dehe'smin puruṣaḥ paraḥ ||",
+      "sanskrit": "उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः । परमात्मेति चाप्य् उक्तो देहेऽस्मिन् पुरुषः परः ॥",
       "transliteration": "upadraṣṭā anumantā ca bhartā bhoktā maheśvaraḥ | paramātmā iti ca api uktaḥ dehe asmin puruṣaḥ paraḥ ||",
       "translation": "The Supreme Puruṣa in this body is the witness (upadraṣṭā), the permitter (anumantā), the sustainer (bhartā), the experiencer (bhoktā), the Great Lord (Maheśvara) — also called the Paramātman, the Supreme Self.",
       "audio": "/assets/audio/ch13/verse_13_22.mp3",
       "word_breakdown": [
         {
-          "word": "upadraṣṭā",
+          "word": "उपद्रष्टा",
           "meaning": "the witness, the seer standing near"
         },
         {
-          "word": "anumantā",
+          "word": "अनुमन्ता",
           "meaning": "the permitter, the consenter, the sanctioner"
         },
         {
-          "word": "bhartā",
+          "word": "भर्ता",
           "meaning": "the sustainer, the upholder"
         },
         {
-          "word": "bhoktā",
+          "word": "भोक्ता",
           "meaning": "the experiencer, the apparent enjoyer"
         },
         {
-          "word": "maheśvaraḥ",
+          "word": "महेश्वरः",
           "meaning": "the Great Lord, the Supreme Ruler"
         },
         {
-          "word": "paramātmā",
+          "word": "परमात्मा",
           "meaning": "the Supreme Self, the highest Ātman"
         },
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus, so called"
         },
         {
-          "word": "ca api uktaḥ",
+          "word": "च अपि उक्तः",
           "meaning": "is also described / called"
         },
         {
-          "word": "dehe asmin",
+          "word": "देहे अस्मिन्",
           "meaning": "in this body"
         },
         {
-          "word": "puruṣaḥ paraḥ",
+          "word": "पुरुषः परः",
           "meaning": "the Supreme Puruṣa, the transcendent Person"
         }
       ],
@@ -1245,53 +1245,53 @@
     },
     {
       "verse": 23,
-      "sanskrit": "ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha | sarvathā vartamāno'pi na sa bhūyo'bhijāyate ||",
+      "sanskrit": "य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह । सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ॥",
       "transliteration": "yaḥ evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha | sarvathā vartamānaḥ api na saḥ bhūyaḥ abhijāyate ||",
       "translation": "He who thus knows the Puruṣa and Prakṛti together with the guṇas — in whatever manner he exists, he is not born again.",
       "audio": "/assets/audio/ch13/verse_13_23.mp3",
       "word_breakdown": [
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "he who"
         },
         {
-          "word": "evaṃ vetti",
+          "word": "एवं वेत्ति",
           "meaning": "knows thus, understands in this way"
         },
         {
-          "word": "puruṣam",
+          "word": "पुरुषम्",
           "meaning": "the Puruṣa, pure consciousness"
         },
         {
-          "word": "prakṛtim ca",
+          "word": "प्रकृतिम् च",
           "meaning": "and Prakṛti, Nature"
         },
         {
-          "word": "guṇaiḥ saha",
+          "word": "गुणैः सह",
           "meaning": "together with the guṇas"
         },
         {
-          "word": "sarvathā",
+          "word": "सर्वथा",
           "meaning": "in every way, regardless of circumstance"
         },
         {
-          "word": "vartamānaḥ",
+          "word": "वर्तमानः",
           "meaning": "existing, living, abiding"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "even, though"
         },
         {
-          "word": "na",
+          "word": "न",
           "meaning": "not"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "he, that person"
         },
         {
-          "word": "bhūyaḥ abhijāyate",
+          "word": "भूयः अभिजायते",
           "meaning": "is born again, takes rebirth"
         }
       ],
@@ -1304,49 +1304,49 @@
     },
     {
       "verse": 24,
-      "sanskrit": "dhyānenātmani paśyanti kecid ātmānam ātmanā | anye sāṃkhyena yogena karma-yogena cāpare ||",
+      "sanskrit": "ध्यानेनात्मनि पश्यन्ति केचिद् आत्मानम् आत्मना । अन्ये सांख्येन योगेन कर्म-योगेन चापरे ॥",
       "transliteration": "dhyānena ātmani paśyanti kecit ātmānam ātmanā | anye sāṃkhyena yogena karma-yogena ca apare ||",
       "translation": "Some see the Self within themselves through meditation on the Self, by the Self; others through the path of Sāṃkhya (knowledge/discrimination), and still others through Karma Yoga (the yoga of action).",
       "audio": "/assets/audio/ch13/verse_13_24.mp3",
       "word_breakdown": [
         {
-          "word": "dhyānena",
+          "word": "ध्यानेन",
           "meaning": "through meditation, through contemplation"
         },
         {
-          "word": "ātmani",
+          "word": "आत्मनि",
           "meaning": "in the Self, within oneself"
         },
         {
-          "word": "paśyanti",
+          "word": "पश्यन्ति",
           "meaning": "they see, they perceive"
         },
         {
-          "word": "kecit",
+          "word": "केचित्",
           "meaning": "some (people)"
         },
         {
-          "word": "ātmānam",
+          "word": "आत्मानम्",
           "meaning": "the Self, the Ātman (object of seeing)"
         },
         {
-          "word": "ātmanā",
+          "word": "आत्मना",
           "meaning": "by the Self, through the Self (instrument of seeing)"
         },
         {
-          "word": "anye",
+          "word": "अन्ये",
           "meaning": "others"
         },
         {
-          "word": "sāṃkhyena yogena",
+          "word": "सांख्येन योगेन",
           "meaning": "through the yoga of Sāṃkhya, discriminative knowledge"
         },
         {
-          "word": "karma-yogena",
+          "word": "कर्म-योगेन",
           "meaning": "through the yoga of selfless action"
         },
         {
-          "word": "ca apare",
+          "word": "च अपरे",
           "meaning": "and yet others, still others"
         }
       ],
@@ -1359,49 +1359,49 @@
     },
     {
       "verse": 25,
-      "sanskrit": "anye tv evam ajānantaḥ śrutvānyebhya upāsate | te'pi cātitaranty eva mṛtyuṃ śruti-parāyaṇāḥ ||",
+      "sanskrit": "अन्ये त्व् एवम् अजानन्तः श्रुत्वान्येभ्य उपासते । तेऽपि चातितरन्त्य् एव मृत्युं श्रुति-परायणाः ॥",
       "transliteration": "anye tu evam ajānantaḥ śrutvā anyebhyaḥ upāsate | te api ca atitaranti eva mṛtyum śruti-parāyaṇāḥ ||",
       "translation": "But others, not knowing these paths, worship by hearing from others (teachers); even they cross beyond death — those who are devoted to what they hear (śruti-parāyaṇāḥ).",
       "audio": "/assets/audio/ch13/verse_13_25.mp3",
       "word_breakdown": [
         {
-          "word": "anye tu",
+          "word": "अन्ये तु",
           "meaning": "but others, yet other people"
         },
         {
-          "word": "evam ajānantaḥ",
+          "word": "एवम् अजानन्तः",
           "meaning": "not knowing in this way, not having this direct knowledge"
         },
         {
-          "word": "śrutvā",
+          "word": "श्रुत्वा",
           "meaning": "having heard, by hearing"
         },
         {
-          "word": "anyebhyaḥ",
+          "word": "अन्येभ्यः",
           "meaning": "from others, from teachers"
         },
         {
-          "word": "upāsate",
+          "word": "उपासते",
           "meaning": "they worship, they practice, they meditate"
         },
         {
-          "word": "te api ca",
+          "word": "ते अपि च",
           "meaning": "they also indeed"
         },
         {
-          "word": "atitaranti",
+          "word": "अतितरन्ति",
           "meaning": "cross beyond, transcend"
         },
         {
-          "word": "eva",
+          "word": "एव",
           "meaning": "indeed, verily (emphatic)"
         },
         {
-          "word": "mṛtyum",
+          "word": "मृत्युम्",
           "meaning": "death, the cycle of mortality"
         },
         {
-          "word": "śruti-parāyaṇāḥ",
+          "word": "श्रुति-परायणाः",
           "meaning": "devoted to hearing, taking scripture and the guru's word as supreme refuge"
         }
       ],
@@ -1414,45 +1414,45 @@
     },
     {
       "verse": 26,
-      "sanskrit": "yāvat sañjāyate kiñcit sattvaṃ sthāvara-jaṅgamam | kṣetra-kṣetrajña-saṃyogāt tad viddhi bharatarṣabha ||",
+      "sanskrit": "यावत् सञ्जायते किञ्चित् सत्त्वं स्थावर-जङ्गमम् । क्षेत्र-क्षेत्रज्ञ-संयोगात् तद् विद्धि भरतर्षभ ॥",
       "transliteration": "yāvat sañjāyate kiñcit sattvam sthāvara-jaṅgamam | kṣetra-kṣetrajña-saṃyogāt tat viddhi bharatarṣabha ||",
       "translation": "Whatever being is born — moving or unmoving — know that to be from the union of kṣetra (field/body) and kṣetrajña (knower of field), O Best of the Bharatas.",
       "audio": "/assets/audio/ch13/verse_13_26.mp3",
       "word_breakdown": [
         {
-          "word": "yāvat",
+          "word": "यावत्",
           "meaning": "whatever, as much as, all that"
         },
         {
-          "word": "sañjāyate",
+          "word": "सञ्जायते",
           "meaning": "is born, comes into existence"
         },
         {
-          "word": "kiñcit",
+          "word": "किञ्चित्",
           "meaning": "anything, any being whatsoever"
         },
         {
-          "word": "sattvam",
+          "word": "सत्त्वम्",
           "meaning": "being, entity, creature"
         },
         {
-          "word": "sthāvara",
+          "word": "स्थावर",
           "meaning": "unmoving, stationary (plants, minerals)"
         },
         {
-          "word": "jaṅgamam",
+          "word": "जङ्गमम्",
           "meaning": "moving, animate (animals, humans)"
         },
         {
-          "word": "kṣetra-kṣetrajña-saṃyogāt",
+          "word": "क्षेत्र-क्षेत्रज्ञ-संयोगात्",
           "meaning": "from the union/conjunction of the field and the knower of the field"
         },
         {
-          "word": "tat viddhi",
+          "word": "तत् विद्धि",
           "meaning": "know that, understand that"
         },
         {
-          "word": "bharatarṣabha",
+          "word": "भरतर्षभ",
           "meaning": "O Best of the Bharatas (Arjuna)"
         }
       ],
@@ -1465,41 +1465,41 @@
     },
     {
       "verse": 27,
-      "sanskrit": "samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram | vinaśyatsu avinaśyantaṃ yaḥ paśyati sa paśyati ||",
+      "sanskrit": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् । विनश्यत्सु अविनश्यन्तं यः पश्यति स पश्यति ॥",
       "transliteration": "samam sarveṣu bhūteṣu tiṣṭhantam parameśvaram | vinaśyatsu avinaśyantam yaḥ paśyati saḥ paśyati ||",
       "translation": "He who sees the Supreme Lord equally dwelling in all beings — the imperishable within the perishable — he truly sees.",
       "audio": "/assets/audio/ch13/verse_13_27.mp3",
       "word_breakdown": [
         {
-          "word": "samam",
+          "word": "समम्",
           "meaning": "equally, without distinction, uniformly"
         },
         {
-          "word": "sarveṣu bhūteṣu",
+          "word": "सर्वेषु भूतेषु",
           "meaning": "in all beings, in every creature"
         },
         {
-          "word": "tiṣṭhantam",
+          "word": "तिष्ठन्तम्",
           "meaning": "dwelling, abiding, established"
         },
         {
-          "word": "parameśvaram",
+          "word": "परमेश्वरम्",
           "meaning": "the Supreme Lord, the Highest Ruler"
         },
         {
-          "word": "vinaśyatsu",
+          "word": "विनश्यत्सु",
           "meaning": "in the perishable, among those that are destroyed"
         },
         {
-          "word": "avinaśyantam",
+          "word": "अविनश्यन्तम्",
           "meaning": "the imperishable, that which is not destroyed"
         },
         {
-          "word": "yaḥ paśyati",
+          "word": "यः पश्यति",
           "meaning": "he who sees, whoever perceives"
         },
         {
-          "word": "saḥ paśyati",
+          "word": "सः पश्यति",
           "meaning": "he truly sees, that one really sees"
         }
       ],
@@ -1512,53 +1512,53 @@
     },
     {
       "verse": 28,
-      "sanskrit": "samaṃ paśyan hi sarvatra samavasthitam īśvaram | na hinasty ātmanātmānaṃ tato yāti parāṃ gatim ||",
+      "sanskrit": "समं पश्यन् हि सर्वत्र समवस्थितम् ईश्वरम् । न हिनस्त्य् आत्मनात्मानं ततो याति परां गतिम् ॥",
       "transliteration": "samam paśyan hi sarvatra samavasthitam īśvaram | na hinasti ātmanā ātmānam tataḥ yāti parām gatim ||",
       "translation": "Because, seeing the Lord equally present everywhere, one does not injure the Self through the self — therefore one goes to the Supreme Goal.",
       "audio": "/assets/audio/ch13/verse_13_28.mp3",
       "word_breakdown": [
         {
-          "word": "samam paśyan",
+          "word": "समम् पश्यन्",
           "meaning": "seeing equally, perceiving with equanimity"
         },
         {
-          "word": "hi",
+          "word": "हि",
           "meaning": "because, indeed (causal)"
         },
         {
-          "word": "sarvatra",
+          "word": "सर्वत्र",
           "meaning": "everywhere, in all places and beings"
         },
         {
-          "word": "samavasthitam",
+          "word": "समवस्थितम्",
           "meaning": "equally established, uniformly present"
         },
         {
-          "word": "īśvaram",
+          "word": "ईश्वरम्",
           "meaning": "the Lord, the Ruler of all"
         },
         {
-          "word": "na hinasti",
+          "word": "न हिनस्ति",
           "meaning": "does not injure, does not harm, does not destroy"
         },
         {
-          "word": "ātmanā",
+          "word": "आत्मना",
           "meaning": "through the self (lower self, ego, buddhi)"
         },
         {
-          "word": "ātmānam",
+          "word": "आत्मानम्",
           "meaning": "the Self (higher Self, the Ātman)"
         },
         {
-          "word": "tataḥ",
+          "word": "ततः",
           "meaning": "therefore, because of this"
         },
         {
-          "word": "yāti",
+          "word": "याति",
           "meaning": "goes, attains"
         },
         {
-          "word": "parām gatim",
+          "word": "पराम् गतिम्",
           "meaning": "the Supreme Goal, the highest destination"
         }
       ],
@@ -1571,49 +1571,49 @@
     },
     {
       "verse": 29,
-      "sanskrit": "prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ | yaḥ paśyati tathātmānam akartāraṃ sa paśyati ||",
+      "sanskrit": "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः । यः पश्यति तथात्मानम् अकर्तारं स पश्यति ॥",
       "transliteration": "prakṛtyā eva ca karmāṇi kriyamāṇāni sarvaśaḥ | yaḥ paśyati tathā ātmānam akartāram saḥ paśyati ||",
       "translation": "He who sees that all actions are performed by Prakṛti alone in every way, and that the Self (Ātman) is the non-doer (akartā) — he truly sees.",
       "audio": "/assets/audio/ch13/verse_13_29.mp3",
       "word_breakdown": [
         {
-          "word": "prakṛtyā eva",
+          "word": "प्रकृत्या एव",
           "meaning": "by Prakṛti alone, by Nature itself"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and, also"
         },
         {
-          "word": "karmāṇi",
+          "word": "कर्माणि",
           "meaning": "actions, activities"
         },
         {
-          "word": "kriyamāṇāni",
+          "word": "क्रियमाणानि",
           "meaning": "being performed, being done (passive present participle)"
         },
         {
-          "word": "sarvaśaḥ",
+          "word": "सर्वशः",
           "meaning": "in every way, completely, entirely"
         },
         {
-          "word": "yaḥ paśyati",
+          "word": "यः पश्यति",
           "meaning": "he who sees"
         },
         {
-          "word": "tathā",
+          "word": "तथा",
           "meaning": "likewise, also, in the same way"
         },
         {
-          "word": "ātmānam",
+          "word": "आत्मानम्",
           "meaning": "the Self, the Ātman"
         },
         {
-          "word": "akartāram",
+          "word": "अकर्तारम्",
           "meaning": "the non-doer, not the agent of action"
         },
         {
-          "word": "saḥ paśyati",
+          "word": "सः पश्यति",
           "meaning": "he truly sees"
         }
       ],
@@ -1626,45 +1626,45 @@
     },
     {
       "verse": 30,
-      "sanskrit": "yadā bhūta-pṛthag-bhāvam eka-stham anupaśyati | tata eva ca vistāraṃ brahma sampadyate tadā ||",
+      "sanskrit": "यदा भूत-पृथग्-भावम् एक-स्थम् अनुपश्यति । तत एव च विस्तारं ब्रह्म सम्पद्यते तदा ॥",
       "transliteration": "yadā bhūta-pṛthag-bhāvam eka-stham anupaśyati | tataḥ eva ca vistāram brahma sampadyate tadā ||",
       "translation": "When one perceives the separate existence of all beings resting in the One, and their expansion from that One alone — then one attains Brahman.",
       "audio": "/assets/audio/ch13/verse_13_30.mp3",
       "word_breakdown": [
         {
-          "word": "yadā",
+          "word": "यदा",
           "meaning": "when"
         },
         {
-          "word": "bhūta-pṛthag-bhāvam",
+          "word": "भूत-पृथग्-भावम्",
           "meaning": "the separate existence/individuation of beings"
         },
         {
-          "word": "eka-stham",
+          "word": "एक-स्थम्",
           "meaning": "resting in the One, established in unity"
         },
         {
-          "word": "anupaśyati",
+          "word": "अनुपश्यति",
           "meaning": "one perceives clearly, sees thoroughly"
         },
         {
-          "word": "tataḥ eva ca",
+          "word": "ततः एव च",
           "meaning": "and from that very One alone"
         },
         {
-          "word": "vistāram",
+          "word": "विस्तारम्",
           "meaning": "expansion, manifestation, proliferation"
         },
         {
-          "word": "brahma",
+          "word": "ब्रह्म",
           "meaning": "Brahman, the Absolute"
         },
         {
-          "word": "sampadyate",
+          "word": "सम्पद्यते",
           "meaning": "one attains, one fully becomes, one realizes"
         },
         {
-          "word": "tadā",
+          "word": "तदा",
           "meaning": "then, at that moment"
         }
       ],
@@ -1677,57 +1677,57 @@
     },
     {
       "verse": 31,
-      "sanskrit": "anāditvān nirguṇatvāt paramātmāyam avyayaḥ |\nśarīra-stho'pi kaunteya na karoti na lipyate ||",
+      "sanskrit": "अनादित्वान् निर्गुणत्वात् परमात्मायम् अव्ययः ।\nशरीर-स्थोऽपि कौन्तेय न करोति न लिप्यते ॥",
       "transliteration": "anāditvān nirguṇatvāt paramātmā ayam avyayaḥ |\nśarīra-sthaḥ api kaunteya na karoti na lipyate ||",
       "translation": "Because this Supreme Self (Paramātman) is beginningless and without attributes (nirguṇa), O Kaunteya — though dwelling in the body, It does not act and is not tainted.",
       "audio": "/assets/audio/ch13/verse_13_31.mp3",
       "word_breakdown": [
         {
-          "word": "anāditvāt",
+          "word": "अनादित्वात्",
           "meaning": "because of being beginningless; anādi = without beginning, tvāt = ablative suffix indicating reason"
         },
         {
-          "word": "nirguṇatvāt",
+          "word": "निर्गुणत्वात्",
           "meaning": "because of being without the three guṇas (sattva, rajas, tamas); beyond all qualities and attributes"
         },
         {
-          "word": "paramātmā",
+          "word": "परमात्मा",
           "meaning": "the Supreme Self; param = highest/supreme, ātmā = Self; the universal, transcendent Consciousness"
         },
         {
-          "word": "ayam",
+          "word": "अयम्",
           "meaning": "this; pointing to the very Self being discussed — near and immediate, not distant"
         },
         {
-          "word": "avyayaḥ",
+          "word": "अव्ययः",
           "meaning": "imperishable, undecaying, inexhaustible; that which never diminishes or changes"
         },
         {
-          "word": "śarīra-sthaḥ",
+          "word": "शरीर-स्थः",
           "meaning": "dwelling in the body; śarīra = body, stha = situated/abiding; though it appears to reside within"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "even, though, despite; the critical concessive — despite appearances of embodiment"
         },
         {
-          "word": "kaunteya",
+          "word": "कौन्तेय",
           "meaning": "O son of Kuntī; Arjuna addressed by his maternal lineage, suggesting closeness and care"
         },
         {
-          "word": "na karoti",
+          "word": "न करोति",
           "meaning": "does not act, does not perform any action; pure witnessing Consciousness has no agency"
         },
         {
-          "word": "na lipyate",
+          "word": "न लिप्यते",
           "meaning": "is not tainted, not smeared, not stained; lip = to smear/anoint; the Self is untouched by actions performed in the body"
         },
         {
-          "word": "nirguṇa",
+          "word": "निर्गुण",
           "meaning": "beyond guṇas; not subject to the binding influence of nature's three modes; pure Existence-Consciousness-Bliss"
         },
         {
-          "word": "anādi",
+          "word": "अनादि",
           "meaning": "without origin; that which was never born and therefore can never die; eternal in the absolute sense"
         }
       ],
@@ -1740,61 +1740,61 @@
     },
     {
       "verse": 32,
-      "sanskrit": "yathā sarva-gataṃ saukṣmyād ākāśaṃ nopalipyate |\nsarvatrāvasthito dehe tathātmā nopalipyate ||",
+      "sanskrit": "यथा सर्व-गतं सौक्ष्म्याद् आकाशं नोपलिप्यते ।\nसर्वत्रावस्थितो देहे तथात्मा नोपलिप्यते ॥",
       "transliteration": "yathā sarva-gataṃ saukṣmyāt ākāśaṃ na upalipyate |\nsarvatra avasthitaḥ dehe tathā ātmā na upalipyate ||",
       "translation": "As the all-pervading ether is not tainted — because of its subtlety — so the Self, present everywhere within the body, is not tainted.",
       "audio": "/assets/audio/ch13/verse_13_32.mp3",
       "word_breakdown": [
         {
-          "word": "yathā",
+          "word": "यथा",
           "meaning": "just as, in the same way that; introduces the analogical reasoning (dṛṣṭānta)"
         },
         {
-          "word": "sarva-gatam",
+          "word": "सर्व-गतम्",
           "meaning": "all-pervading, going everywhere; sarva = all, gata = gone/pervading; omnipresent without exception"
         },
         {
-          "word": "saukṣmyāt",
+          "word": "सौक्ष्म्यात्",
           "meaning": "because of subtlety; sūkṣma = subtle/fine; the ablative indicates this subtlety as the reason for non-taintability"
         },
         {
-          "word": "ākāśam",
+          "word": "आकाशम्",
           "meaning": "ether, space, sky; the subtlest of the five great elements (pañca-mahābhūtas), pervading all others"
         },
         {
-          "word": "na upalipyate",
+          "word": "न उपलिप्यते",
           "meaning": "is not tainted, not smeared; upa = towards/upon, lip = to smear; despite intimate contact, no staining occurs"
         },
         {
-          "word": "sarvatra",
+          "word": "सर्वत्र",
           "meaning": "everywhere, in all places; the Self is not merely in some bodies but equally present in every body without distinction"
         },
         {
-          "word": "avasthitaḥ",
+          "word": "अवस्थितः",
           "meaning": "situated, established, abiding; thoroughly present and pervading — not merely touching but fully pervading"
         },
         {
-          "word": "dehe",
+          "word": "देहे",
           "meaning": "in the body; locative singular; within this particular body (and by extension, all bodies)"
         },
         {
-          "word": "tathā",
+          "word": "तथा",
           "meaning": "so, in the same way; the conclusion of the analogy — what is true of ākāśa is true of Ātman"
         },
         {
-          "word": "ātmā",
+          "word": "आत्मा",
           "meaning": "the Self; pure Consciousness, the witness; Ātman as the indwelling knower of the field (kṣetrajña)"
         },
         {
-          "word": "sūkṣma",
+          "word": "सूक्ष्म",
           "meaning": "subtle; subtler than the subtlest element; Ātman is beyond even ākāśa in its fineness, hence even less susceptible to taint"
         },
         {
-          "word": "upalipyate",
+          "word": "उपलिप्यते",
           "meaning": "becomes smeared/tainted; the verbal form emphasizes a process of gradual contamination — which simply does not occur for Ātman"
         },
         {
-          "word": "sarva-gata",
+          "word": "सर्व-गत",
           "meaning": "one whose nature is to pervade all; omnipresence here is not merely spatial but ontological — the ground of all existence"
         }
       ],
@@ -1807,65 +1807,65 @@
     },
     {
       "verse": 33,
-      "sanskrit": "yathā prakāśayaty ekaḥ kṛtsnaṃ lokam imaṃ raviḥ |\nkṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata ||",
+      "sanskrit": "यथा प्रकाशयत्य् एकः कृत्स्नं लोकम् इमं रविः ।\nक्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत ॥",
       "transliteration": "yathā prakāśayati ekaḥ kṛtsnam lokam imam raviḥ |\nkṣetram kṣetrī tathā kṛtsnam prakāśayati bhārata ||",
       "translation": "As the one sun illumines this entire world, so the Kṣetrin (the Lord of the field, Kṣetrajña) illumines the entire kṣetra (all fields), O Bhārata.",
       "audio": "/assets/audio/ch13/verse_13_33.mp3",
       "word_breakdown": [
         {
-          "word": "yathā",
+          "word": "यथा",
           "meaning": "just as; introduces the sun analogy (ravi-dṛṣṭānta), one of the Gītā's most celebrated illustrations"
         },
         {
-          "word": "prakāśayati",
+          "word": "प्रकाशयति",
           "meaning": "illumines, makes manifest, causes to shine; from pra + kāś = to shine; the Ātman illumines not by physical light but by Consciousness"
         },
         {
-          "word": "ekaḥ",
+          "word": "एकः",
           "meaning": "one, single, alone; the crucial word — one sun, one Self; non-duality in the most direct statement"
         },
         {
-          "word": "kṛtsnam",
+          "word": "कृत्स्नम्",
           "meaning": "entire, whole, complete, without remainder; not partially but fully — the entire world, the entire kṣetra"
         },
         {
-          "word": "lokam",
+          "word": "लोकम्",
           "meaning": "world, realm; the entire perceptible and imperceptible universe; all that is within the field of experience"
         },
         {
-          "word": "imam",
+          "word": "इमम्",
           "meaning": "this; the demonstrative pointing to the world immediately present — not abstract but this very world before us"
         },
         {
-          "word": "raviḥ",
+          "word": "रविः",
           "meaning": "the sun; from ravi = the shining one; the sun as cosmic illuminator, giver of all visibility and life"
         },
         {
-          "word": "kṣetram",
+          "word": "क्षेत्रम्",
           "meaning": "the field; the body-mind-sense complex and by extension all embodied beings, the entire realm of Prakṛti"
         },
         {
-          "word": "kṣetrī",
+          "word": "क्षेत्री",
           "meaning": "the owner/lord of the field; the knower, the Kṣetrajña, the Ātman as the illumining witness-Consciousness"
         },
         {
-          "word": "tathā",
+          "word": "तथा",
           "meaning": "so, in like manner; the analogy resolves — what the sun is to the physical world, the Kṣetrajña is to all fields"
         },
         {
-          "word": "bhārata",
+          "word": "भारत",
           "meaning": "O descendant of Bharata; Arjuna addressed by his dynastic name, placing this ultimate teaching in the context of his noble lineage"
         },
         {
-          "word": "ravi-dṛṣṭānta",
+          "word": "रवि-दृष्टान्त",
           "meaning": "the sun analogy; not mentioned explicitly but the technical name for this illustration used in Vedāntic commentaries"
         },
         {
-          "word": "kṣetrī-prakāśa",
+          "word": "क्षेत्री-प्रकाश",
           "meaning": "the illumination by the Kṣetrajña; Consciousness that makes all contents of the field (perceptions, thoughts, emotions) knowable"
         },
         {
-          "word": "eka-kṣetrajña",
+          "word": "एक-क्षेत्रज्ञ",
           "meaning": "the one Knower of all fields; the single non-dual Consciousness appearing as if multiple due to multiple bodies, just as one sun appears multiplied in many pools of water"
         }
       ],
@@ -1878,65 +1878,65 @@
     },
     {
       "verse": 34,
-      "sanskrit": "kṣetra-kṣetrajñayor evam antaram jñāna-cakṣuṣā |\nbhūta-prakṛti-mokṣaṃ ca ye vidur yānti te param ||",
+      "sanskrit": "क्षेत्र-क्षेत्रज्ञयोर् एवम् अन्तरम् ज्ञान-चक्षुषा ।\nभूत-प्रकृति-मोक्षं च ये विदुर् यान्ति ते परम् ॥",
       "transliteration": "kṣetra-kṣetrajñayoḥ evam antaram jñāna-cakṣuṣā |\nbhūta-prakṛti-mokṣam ca ye viduḥ yānti te param ||",
       "translation": "Those who thus perceive with the eye of wisdom (jñāna-cakṣus) the distinction between the kṣetra and kṣetrajña, and liberation from the Prakṛti-nature of beings — they go to the Supreme.",
       "audio": "/assets/audio/ch13/verse_13_34.mp3",
       "word_breakdown": [
         {
-          "word": "kṣetra-kṣetrajñayoḥ",
+          "word": "क्षेत्र-क्षेत्रज्ञयोः",
           "meaning": "of the field and the knower of the field; genitive dual — the entire chapter's two-term framework summarized in a single compound"
         },
         {
-          "word": "evam",
+          "word": "एवम्",
           "meaning": "thus, in this way; referring to all that has been taught in this chapter — the thorough understanding arrived at through all 33 preceding verses"
         },
         {
-          "word": "antaram",
+          "word": "अन्तरम्",
           "meaning": "the distinction, difference, interval between; the viveka — discriminative knowledge — that sees them as fundamentally different in nature"
         },
         {
-          "word": "jñāna-cakṣuṣā",
+          "word": "ज्ञान-चक्षुषा",
           "meaning": "with the eye of wisdom/knowledge; jñāna = knowledge, cakṣus = eye; the inner eye of discriminative understanding that transcends ordinary perception"
         },
         {
-          "word": "bhūta-prakṛti-mokṣam",
+          "word": "भूत-प्रकृति-मोक्षम्",
           "meaning": "liberation from the Prakṛti of beings; bhūta = beings/creatures, prakṛti = primal nature, mokṣa = release/freedom; freedom from the cycle of embodiment driven by Prakṛti"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and; connecting two objects of jñāna: (1) the kṣetra-kṣetrajña distinction and (2) liberation from bhūta-prakṛti"
         },
         {
-          "word": "ye viduḥ",
+          "word": "ये विदुः",
           "meaning": "those who know/perceive; viduḥ from vid = to know/see; not merely intellectual knowing but direct realization (vijñāna)"
         },
         {
-          "word": "yānti",
+          "word": "यान्ति",
           "meaning": "they go, they reach, they attain; the movement toward liberation — not through physical travel but through shift of identity and understanding"
         },
         {
-          "word": "te",
+          "word": "ते",
           "meaning": "they; those specific ones who have achieved this direct perception — an encouragement that such liberation is attainable"
         },
         {
-          "word": "param",
+          "word": "परम्",
           "meaning": "the Supreme, the Highest; paraṃ Brahma — not a place to go but a recognition of one's own ultimate nature; the Supreme that is one's own deepest Self"
         },
         {
-          "word": "jñāna-cakṣus",
+          "word": "ज्ञान-चक्षुस्",
           "meaning": "the eye of wisdom; in Vedānta, this refers to the purified intellect (śuddha-buddhi) capable of discriminating Ātman from anātman, Puruṣa from Prakṛti"
         },
         {
-          "word": "mokṣa",
+          "word": "मोक्ष",
           "meaning": "liberation, release, freedom; the fourth puruṣārtha and the supreme aim of the Gītā's teaching; here specifically, release from bhūta-prakṛti"
         },
         {
-          "word": "viveka",
+          "word": "विवेक",
           "meaning": "discriminative wisdom; though not appearing explicitly, antaram jñāna-cakṣuṣā is the definition of viveka — the core qualification for liberation in Advaita Vedānta"
         },
         {
-          "word": "param yānti",
+          "word": "परम् यान्ति",
           "meaning": "they attain the Supreme; the chapter's final promise and the entire Gītā's purpose in two words — those who perceive rightly go to the Highest"
         }
       ],

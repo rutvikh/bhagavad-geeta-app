@@ -1,7 +1,63 @@
+import { useRef, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import AudioPlayer from './AudioPlayer'
 import WordBreakdown from './WordBreakdown'
 import CommentaryTabs from './CommentaryTabs'
+
+function SanskritLine({ text }) {
+  const containerRef = useRef(null)
+  const textRef = useRef(null)
+
+  useEffect(() => {
+    const container = containerRef.current
+    const textEl = textRef.current
+    if (!container || !textEl) return
+
+    function fit() {
+      let size = 2.0
+      textEl.style.whiteSpace = 'nowrap'
+      textEl.style.fontSize = `${size}rem`
+      while (textEl.scrollWidth > container.clientWidth && size > 0.75) {
+        size = Math.round((size - 0.05) * 100) / 100
+        textEl.style.fontSize = `${size}rem`
+      }
+      // If still overflowing at minimum size, allow wrapping rather than clipping
+      if (textEl.scrollWidth > container.clientWidth) {
+        textEl.style.whiteSpace = 'normal'
+      }
+    }
+
+    fit()
+    const ro = new ResizeObserver(fit)
+    ro.observe(container)
+    return () => ro.disconnect()
+  }, [text])
+
+  return (
+    <div ref={containerRef} style={{ width: '100%', overflow: 'hidden' }}>
+      <p ref={textRef} className="sanskrit" style={{ margin: 0, whiteSpace: 'nowrap' }}>
+        {text}
+      </p>
+    </div>
+  )
+}
+
+function splitSanskrit(text) {
+  if (!text) return []
+  // Format 1: \n newline separator (chapters 1–9)
+  const byNewline = text.split('\n').map(l => l.trim()).filter(Boolean)
+  if (byNewline.length > 1) return byNewline
+  // Format 2: | pipe separator (chapters 11+) — restore dandas after splitting
+  const byPipe = text.split('|').map(l => l.trim()).filter(Boolean)
+  if (byPipe.length > 1) {
+    return byPipe.map((l, i) => i === byPipe.length - 1 ? `${l} ॥` : `${l} ।`)
+  }
+  // Format 3: । danda separator fallback
+  const byDanda = text.split('।').map(l => l.trim()).filter(Boolean)
+  if (byDanda.length > 1) return byDanda.map((l, i) => i < byDanda.length - 1 ? `${l} ।` : l)
+  // Fallback: single line as-is
+  return [text]
+}
 
 export default function VerseCard({ verse, chapterNumber, mini = false }) {
   if (!verse) return null
@@ -28,8 +84,8 @@ export default function VerseCard({ verse, chapterNumber, mini = false }) {
       {/* ② Sanskrit verse */}
       <div className="mb-4">
         <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
-          {verse.sanskrit.split('\n').map((line, i) => (
-            <p key={i} className="sanskrit" style={{ margin: 0 }}>{line}</p>
+          {splitSanskrit(verse.sanskrit).map((line, i) => (
+            <SanskritLine key={i} text={line} />
           ))}
         </div>
       </div>

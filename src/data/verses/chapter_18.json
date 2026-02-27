@@ -3,41 +3,41 @@
   "verses": [
     {
       "verse": 1,
-      "sanskrit": "arjuna uvāca |\nsannyāsasya mahābāho tattvam icchāmi veditum |\ntyāgasya ca hṛṣīkeśa pṛthak keśi-niṣūdana ||",
+      "sanskrit": "अर्जुन उवाच ।\nसन्न्यासस्य महाबाहो तत्त्वम् इच्छामि वेदितुम् ।\nत्यागस्य च हृषीकेश पृथक् केशि-निषूदन ॥",
       "transliteration": "arjuna uvāca |\nsannyāsasya mahā-bāho tattvam icchāmi veditum |\ntyāgasya ca hṛṣīkeśa pṛthak keśi-niṣūdana ||",
       "translation": "Arjuna said: O Mighty-Armed (Mahābāho), I wish to know the truth (tattvam) of sannyāsa — renunciation — and of tyāga — relinquishment — separately (pṛthak), O Hṛṣīkeśa, O Slayer of Keśin.",
       "audio": "/assets/audio/ch18/verse_18_01.mp3",
       "word_breakdown": [
         {
-          "word": "sannyāsasya",
+          "word": "सन्न्यासस्य",
           "meaning": "of sannyāsa — of formal renunciation (of action)"
         },
         {
-          "word": "mahā-bāho",
+          "word": "महा-बाहो",
           "meaning": "O Mighty-Armed — epithet for Kṛṣṇa (also applied to Arjuna)"
         },
         {
-          "word": "tattvam",
+          "word": "तत्त्वम्",
           "meaning": "the truth, the essential nature, the real distinction"
         },
         {
-          "word": "icchāmi veditum",
+          "word": "इच्छामि वेदितुम्",
           "meaning": "I wish to know, I desire to understand"
         },
         {
-          "word": "tyāgasya",
+          "word": "त्यागस्य",
           "meaning": "of tyāga — of inner relinquishment of fruits"
         },
         {
-          "word": "hṛṣīkeśa",
+          "word": "हृषीकेश",
           "meaning": "O Master of the senses — epithet for Kṛṣṇa"
         },
         {
-          "word": "pṛthak",
+          "word": "पृथक्",
           "meaning": "separately, distinctly, one from the other"
         },
         {
-          "word": "keśi-niṣūdana",
+          "word": "केशि-निषूदन",
           "meaning": "O Slayer of Keśin — Kṛṣṇa who slew the demon Keśin"
         }
       ],
@@ -50,41 +50,41 @@
     },
     {
       "verse": 2,
-      "sanskrit": "śrī bhagavān uvāca |\nkāmyānāṃ karmaṇāṃ nyāsaṃ sannyāsaṃ kavayo viduḥ |\nsarva-karma-phala-tyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ ||",
+      "sanskrit": "श्री भगवान् उवाच ।\nकाम्यानां कर्मणां न्यासं सन्न्यासं कवयो विदुः ।\nसर्व-कर्म-फल-त्यागं प्राहुस् त्यागं विचक्षणाः ॥",
       "transliteration": "śrī bhagavān uvāca |\nkāmyānāṃ karmaṇāṃ nyāsaṃ sannyāsaṃ kavayo viduḥ |\nsarva-karma-phala-tyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ ||",
       "translation": "The Blessed Lord said: The wise (kavayaḥ) understand sannyāsa to be the abandoning (nyāsam) of desire-motivated actions (kāmyānāṃ karmaṇām); the discerning (vicakṣaṇāḥ) declare tyāga to be the relinquishing (tyāgam) of the fruits of ALL actions (sarva-karma-phala-tyāgam).",
       "audio": "/assets/audio/ch18/verse_18_02.mp3",
       "word_breakdown": [
         {
-          "word": "kāmyānām karmaṇām",
+          "word": "काम्यानाम् कर्मणाम्",
           "meaning": "of desire-motivated actions — acts performed to obtain specific personal results"
         },
         {
-          "word": "nyāsam",
+          "word": "न्यासम्",
           "meaning": "laying aside, abandoning — the complete setting down of"
         },
         {
-          "word": "sannyāsam",
+          "word": "सन्न्यासम्",
           "meaning": "sannyāsa — formal renunciation, the monastic giving-up of desire-driven activity"
         },
         {
-          "word": "kavayaḥ",
+          "word": "कवयः",
           "meaning": "the wise, the seers, the learned knowers of scripture"
         },
         {
-          "word": "viduḥ",
+          "word": "विदुः",
           "meaning": "they know, they understand, they declare"
         },
         {
-          "word": "sarva-karma-phala-tyāgam",
+          "word": "सर्व-कर्म-फल-त्यागम्",
           "meaning": "the relinquishing of the fruits of ALL actions, without exception"
         },
         {
-          "word": "prāhuḥ",
+          "word": "प्राहुः",
           "meaning": "they say, they declare, they proclaim"
         },
         {
-          "word": "vicakṣaṇāḥ",
+          "word": "विचक्षणाः",
           "meaning": "the discerning, the sharp-eyed, the perceptive ones"
         }
       ],
@@ -97,37 +97,37 @@
     },
     {
       "verse": 3,
-      "sanskrit": "tyājyaṃ doṣavad ity eke karma prāhur manīṣiṇaḥ |\nyajña-dāna-tapaḥ-karma na tyājyam iti cāpare ||",
+      "sanskrit": "त्याज्यं दोषवद् इत्य् एके कर्म प्राहुर् मनीषिणः ।\nयज्ञ-दान-तपः-कर्म न त्याज्यम् इति चापरे ॥",
       "transliteration": "tyājyaṃ doṣavad ity eke karma prāhur manīṣiṇaḥ |\nyajña-dāna-tapaḥ-karma na tyājyam iti ca apare ||",
       "translation": "Some learned persons (manīṣiṇaḥ) declare that action (karma) should be abandoned as inherently defective (doṣavat); while others say that acts of sacrifice (yajña), charity (dāna), and austerity (tapaḥ) should not be abandoned.",
       "audio": "/assets/audio/ch18/verse_18_03.mp3",
       "word_breakdown": [
         {
-          "word": "tyājyam",
+          "word": "त्याज्यम्",
           "meaning": "that which should be abandoned, that which ought to be relinquished"
         },
         {
-          "word": "doṣavat",
+          "word": "दोषवत्",
           "meaning": "as defective, as filled with flaw — inherently tainted by action itself"
         },
         {
-          "word": "iti eke",
+          "word": "इति एके",
           "meaning": "thus some — one school of thought holds"
         },
         {
-          "word": "manīṣiṇaḥ",
+          "word": "मनीषिणः",
           "meaning": "learned persons, the thoughtful, the reflective scholars"
         },
         {
-          "word": "yajña-dāna-tapaḥ-karma",
+          "word": "यज्ञ-दान-तपः-कर्म",
           "meaning": "the actions of sacrifice, charity, and austerity — the three sacred acts"
         },
         {
-          "word": "na tyājyam",
+          "word": "न त्याज्यम्",
           "meaning": "should not be abandoned, ought not to be relinquished"
         },
         {
-          "word": "apare",
+          "word": "अपरे",
           "meaning": "others — the other school of thought holds"
         }
       ],
@@ -140,37 +140,37 @@
     },
     {
       "verse": 4,
-      "sanskrit": "niścayaṃ śṛṇu me tatra tyāge bharata-sattama |\ntyāgo hi puruṣa-vyāghra tri-vidhaḥ samprakīrtitaḥ ||",
+      "sanskrit": "निश्चयं शृणु मे तत्र त्यागे भरत-सत्तम ।\nत्यागो हि पुरुष-व्याघ्र त्रि-विधः सम्प्रकीर्तितः ॥",
       "transliteration": "niścayaṃ śṛṇu me tatra tyāge bharata-sattama |\ntyāgo hi puruṣa-vyāghra tri-vidhaḥ samprakīrtitaḥ ||",
       "translation": "Hear My definitive view (niścayam) on tyāga in this matter, O Best of Bharatas (bharata-sattama). Tyāga, O Tiger among Men (puruṣa-vyāghra), is declared to be threefold (tri-vidhaḥ).",
       "audio": "/assets/audio/ch18/verse_18_04.mp3",
       "word_breakdown": [
         {
-          "word": "niścayam",
+          "word": "निश्चयम्",
           "meaning": "the definitive determination, the certain and final conclusion"
         },
         {
-          "word": "śṛṇu me",
+          "word": "शृणु मे",
           "meaning": "hear from Me — listen to My authoritative teaching"
         },
         {
-          "word": "tatra tyāge",
+          "word": "तत्र त्यागे",
           "meaning": "on this matter of tyāga — concerning renunciation/relinquishment"
         },
         {
-          "word": "bharata-sattama",
+          "word": "भरत-सत्तम",
           "meaning": "O Best of Bharatas — highest among the descendants of Bharata"
         },
         {
-          "word": "puruṣa-vyāghra",
+          "word": "पुरुष-व्याघ्र",
           "meaning": "O Tiger among Men — one who is heroic, fearless, and supreme among humans"
         },
         {
-          "word": "tri-vidhaḥ",
+          "word": "त्रि-विधः",
           "meaning": "threefold — of three kinds, corresponding to the three guṇas"
         },
         {
-          "word": "samprakīrtitaḥ",
+          "word": "सम्प्रकीर्तितः",
           "meaning": "is proclaimed, is well-declared, is extensively celebrated in scripture"
         }
       ],
@@ -183,41 +183,41 @@
     },
     {
       "verse": 5,
-      "sanskrit": "yajña-dāna-tapaḥ-karma na tyājyaṃ kāryam eva tat |\nyajño dānaṃ tapaś caiva pāvanāni manīṣiṇām ||",
+      "sanskrit": "यज्ञ-दान-तपः-कर्म न त्याज्यं कार्यम् एव तत् ।\nयज्ञो दानं तपश् चैव पावनानि मनीषिणाम् ॥",
       "transliteration": "yajña-dāna-tapaḥ-karma na tyājyaṃ kāryam eva tat |\nyajño dānaṃ tapaś ca eva pāvanāni manīṣiṇām ||",
       "translation": "Acts of sacrifice (yajña), charity (dāna), and austerity (tapaḥ) should not be abandoned (na tyājyam) — they must indeed be performed (kāryam eva). Indeed, sacrifice, charity, and austerity are purifying (pāvanāni) for the wise (manīṣiṇām).",
       "audio": "/assets/audio/ch18/verse_18_05.mp3",
       "word_breakdown": [
         {
-          "word": "yajña-dāna-tapaḥ-karma",
+          "word": "यज्ञ-दान-तपः-कर्म",
           "meaning": "the actions of sacrifice, charity, and austerity — the three pillars of dharmic life"
         },
         {
-          "word": "na tyājyam",
+          "word": "न त्याज्यम्",
           "meaning": "should not be abandoned — must not be relinquished"
         },
         {
-          "word": "kāryam eva tat",
+          "word": "कार्यम् एव तत्",
           "meaning": "that must indeed be performed — it is obligatory, it is what is to be done"
         },
         {
-          "word": "yajñaḥ",
+          "word": "यज्ञः",
           "meaning": "sacrifice — ritual worship, any act of offering to the divine"
         },
         {
-          "word": "dānam",
+          "word": "दानम्",
           "meaning": "charity — giving to the needy, the worthy, and to dharmic causes"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity — disciplined practice, self-purification through restraint"
         },
         {
-          "word": "pāvanāni",
+          "word": "पावनानि",
           "meaning": "purifying — that which purifies the mind, heart, and subtle body"
         },
         {
-          "word": "manīṣiṇām",
+          "word": "मनीषिणाम्",
           "meaning": "for the wise, for the thoughtful, even for those of purified intelligence"
         }
       ],
@@ -230,37 +230,37 @@
     },
     {
       "verse": 6,
-      "sanskrit": "etāny api tu karmāṇi saṅgaṃ tyaktvā phalāni ca |\nkartavyānīti me pārtha niścitaṃ matam uttamam ||",
+      "sanskrit": "एतान्य् अपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च ।\nकर्तव्यानीति मे पार्थ निश्चितं मतम् उत्तमम् ॥",
       "transliteration": "etāny api tu karmāṇi saṅgaṃ tyaktvā phalāni ca |\nkartavyāni iti me pārtha niścitaṃ matam uttamam ||",
       "translation": "Even these actions (sacrifice, charity, austerity) should be performed relinquishing attachment (saṅgam tyaktvā) and fruits (phalāni ca). This, O Pārtha, is My definitive and highest view (niścitaṃ matam uttamam).",
       "audio": "/assets/audio/ch18/verse_18_06.mp3",
       "word_breakdown": [
         {
-          "word": "etāni api tu karmāṇi",
+          "word": "एतानि अपि तु कर्माणि",
           "meaning": "even these actions — even the sacred acts of sacrifice, charity, and austerity"
         },
         {
-          "word": "saṅgam tyaktvā",
+          "word": "सङ्गम् त्यक्त्वा",
           "meaning": "having relinquished attachment — abandoning clinging to the act itself"
         },
         {
-          "word": "phalāni ca",
+          "word": "फलानि च",
           "meaning": "and the fruits — relinquishing the results/rewards of the actions"
         },
         {
-          "word": "kartavyāni",
+          "word": "कर्तव्यानि",
           "meaning": "they must be performed — they are to be done, they are obligatory"
         },
         {
-          "word": "iti me pārtha",
+          "word": "इति मे पार्थ",
           "meaning": "this, O Pārtha — this is My view, addressed to Arjuna (son of Pṛthā)"
         },
         {
-          "word": "niścitam",
+          "word": "निश्चितम्",
           "meaning": "definitive, certain, settled — there is no ambiguity in this conclusion"
         },
         {
-          "word": "matam uttamam",
+          "word": "मतम् उत्तमम्",
           "meaning": "the highest/best view — the supreme and final opinion on this matter"
         }
       ],
@@ -273,41 +273,41 @@
     },
     {
       "verse": 7,
-      "sanskrit": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate |\nmohāt tasya parityāgas tāmasaḥ parikīrtitaḥ ||",
+      "sanskrit": "नियतस्य तु सन्न्यासः कर्मणो नोपपद्यते ।\nमोहात् तस्य परित्यागस् तामसः परिकीर्तितः ॥",
       "transliteration": "niyatasya tu sannyāsaḥ karmaṇaḥ na upapadyate |\nmohāt tasya parityāgaḥ tāmasaḥ parikīrtitaḥ ||",
       "translation": "But the abandonment (sannyāsaḥ) of obligatory action (niyatasya karmaṇaḥ) is not fitting (na upapadyate). Its abandonment from delusion (mohāt parityāgaḥ) is proclaimed to be tamasic (tāmasaḥ parikīrtitaḥ).",
       "audio": "/assets/audio/ch18/verse_18_07.mp3",
       "word_breakdown": [
         {
-          "word": "niyatasya karmaṇaḥ",
+          "word": "नियतस्य कर्मणः",
           "meaning": "of obligatory/ordained action — prescribed duty that is one's responsibility"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "but — a particle of contrast, marking a definite distinction"
         },
         {
-          "word": "sannyāsaḥ",
+          "word": "सन्न्यासः",
           "meaning": "abandonment, complete giving up — setting aside the action altogether"
         },
         {
-          "word": "na upapadyate",
+          "word": "न उपपद्यते",
           "meaning": "is not fitting, is not appropriate, does not stand up to scrutiny"
         },
         {
-          "word": "mohāt",
+          "word": "मोहात्",
           "meaning": "from delusion — from confusion, ignorance, wrong understanding"
         },
         {
-          "word": "tasya parityāgaḥ",
+          "word": "तस्य परित्यागः",
           "meaning": "its abandonment — the forsaking of that obligatory action"
         },
         {
-          "word": "tāmasaḥ",
+          "word": "तामसः",
           "meaning": "tamasic — characterized by the quality of tamas: inertia, delusion, darkness"
         },
         {
-          "word": "parikīrtitaḥ",
+          "word": "परिकीर्तितः",
           "meaning": "is proclaimed, is declared, is well-known in the tradition"
         }
       ],
@@ -320,41 +320,41 @@
     },
     {
       "verse": 8,
-      "sanskrit": "duḥkham ity eva yat karma kāya-kleśa-bhayāt tyajet |\nsa kṛtvā rājasaṃ tyāgaṃ naiva tyāga-phalaṃ labhet ||",
+      "sanskrit": "दुःखम् इत्य् एव यत् कर्म काय-क्लेश-भयात् त्यजेत् ।\nस कृत्वा राजसं त्यागं नैव त्याग-फलं लभेत् ॥",
       "transliteration": "duḥkham ity eva yat karma kāya-kleśa-bhayāt tyajet |\nsaḥ kṛtvā rājasaṃ tyāgaṃ na eva tyāga-phalaṃ labhet ||",
       "translation": "He who abandons action saying 'it is painful' (duḥkham iti) out of fear of bodily discomfort (kāya-kleśa-bhayāt) — having performed rajasic tyāga (rājasaṃ tyāgam) — does not at all (naiva) obtain the fruit of tyāga (tyāga-phalam).",
       "audio": "/assets/audio/ch18/verse_18_08.mp3",
       "word_breakdown": [
         {
-          "word": "duḥkham iti eva",
+          "word": "दुःखम् इति एव",
           "meaning": "saying 'it is painful' — with this rationalization as the motive"
         },
         {
-          "word": "yat karma",
+          "word": "यत् कर्म",
           "meaning": "whatever action — referring to one's obligatory duties"
         },
         {
-          "word": "kāya-kleśa-bhayāt",
+          "word": "काय-क्लेश-भयात्",
           "meaning": "from fear of bodily discomfort — avoiding physical hardship or pain"
         },
         {
-          "word": "tyajet",
+          "word": "त्यजेत्",
           "meaning": "abandons, gives up — if one were to relinquish"
         },
         {
-          "word": "saḥ kṛtvā",
+          "word": "सः कृत्वा",
           "meaning": "he, having performed — that person, having done"
         },
         {
-          "word": "rājasam tyāgam",
+          "word": "राजसम् त्यागम्",
           "meaning": "rajasic tyāga — relinquishment characterized by the quality of rajas: ego, desire, agitation"
         },
         {
-          "word": "naiva",
+          "word": "नैव",
           "meaning": "not at all, certainly not — emphatic negation"
         },
         {
-          "word": "tyāga-phalam labhet",
+          "word": "त्याग-फलम् लभेत्",
           "meaning": "obtains the fruit of tyāga — gains the liberation that true renunciation brings"
         }
       ],
@@ -367,41 +367,41 @@
     },
     {
       "verse": 9,
-      "sanskrit": "kāryam ity eva yat karma niyataṃ kriyate'rjuna |\nsaṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttvikaḥ matam ||",
+      "sanskrit": "कार्यम् इत्य् एव यत् कर्म नियतं क्रियतेऽर्जुन ।\nसङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विकः मतम् ॥",
       "transliteration": "kāryam ity eva yat karma niyataṃ kriyate arjuna |\nsaṅgaṃ tyaktvā phalaṃ ca eva saḥ tyāgaḥ sāttvikaḥ matam ||",
       "translation": "That which is done as obligatory action (niyatam karma), O Arjuna, because it should be done (kāryam iti eva) — abandoning attachment (saṅgam tyaktvā) and fruit (phalam ca) — that tyāga is considered sattvic (sāttvikaḥ).",
       "audio": "/assets/audio/ch18/verse_18_09.mp3",
       "word_breakdown": [
         {
-          "word": "kāryam iti eva",
+          "word": "कार्यम् इति एव",
           "meaning": "because it must be done — with the sole motivation that this is one's duty"
         },
         {
-          "word": "yat karma niyatam",
+          "word": "यत् कर्म नियतम्",
           "meaning": "whatever obligatory action — prescribed duty that one is appointed to perform"
         },
         {
-          "word": "kriyate",
+          "word": "क्रियते",
           "meaning": "is performed, is done — in the present, as a continuing practice"
         },
         {
-          "word": "saṅgam tyaktvā",
+          "word": "सङ्गम् त्यक्त्वा",
           "meaning": "having abandoned attachment — relinquishing the clinging to the act or its process"
         },
         {
-          "word": "phalam ca eva",
+          "word": "फलम् च एव",
           "meaning": "and indeed the fruit — also surrendering any expectation of result"
         },
         {
-          "word": "saḥ tyāgaḥ",
+          "word": "सः त्यागः",
           "meaning": "that tyāga — that particular form of relinquishment"
         },
         {
-          "word": "sāttvikaḥ",
+          "word": "सात्त्विकः",
           "meaning": "sattvic — characterized by the quality of sattva: clarity, purity, goodness"
         },
         {
-          "word": "matam",
+          "word": "मतम्",
           "meaning": "is considered, is held to be, is the view — Kṛṣṇa's authoritative opinion"
         }
       ],
@@ -414,37 +414,37 @@
     },
     {
       "verse": 10,
-      "sanskrit": "na dveṣṭy akuśalaṃ karma kuśale nānuṣajjate |\ntyāgī sattva-samāviṣṭo medhāvī chinna-saṃśayaḥ ||",
+      "sanskrit": "न द्वेष्ट्य् अकुशलं कर्म कुशले नानुषज्जते ।\nत्यागी सत्त्व-समाविष्टो मेधावी छिन्न-संशयः ॥",
       "transliteration": "na dveṣṭi akuśalaṃ karma kuśale na anuṣajjate |\ntyāgī sattva-samāviṣṭaḥ medhāvī chinna-saṃśayaḥ ||",
       "translation": "The tyāgī (renunciant) does not hate disagreeable/inauspicious action (akuśalam karma na dveṣṭi) and is not attached to auspicious action (kuśale na anuṣajjate) — pervaded by sattva (sattva-samāviṣṭaḥ), wise (medhāvī), with all doubts cut away (chinna-saṃśayaḥ).",
       "audio": "/assets/audio/ch18/verse_18_10.mp3",
       "word_breakdown": [
         {
-          "word": "na dveṣṭi akuśalam karma",
+          "word": "न द्वेष्टि अकुशलम् कर्म",
           "meaning": "does not hate inauspicious/disagreeable action — no aversion to difficult or unpleasant duty"
         },
         {
-          "word": "kuśale",
+          "word": "कुशले",
           "meaning": "in auspicious/pleasant action — toward agreeable, favorable, or pleasurable acts"
         },
         {
-          "word": "na anuṣajjate",
+          "word": "न अनुषज्जते",
           "meaning": "is not attached — does not cling to, does not become entangled in"
         },
         {
-          "word": "tyāgī",
+          "word": "त्यागी",
           "meaning": "the renunciant — one who has achieved genuine inner tyāga"
         },
         {
-          "word": "sattva-samāviṣṭaḥ",
+          "word": "सत्त्व-समाविष्टः",
           "meaning": "fully pervaded by sattva — completely suffused with the quality of purity and clarity"
         },
         {
-          "word": "medhāvī",
+          "word": "मेधावी",
           "meaning": "the wise one — of refined and purified intelligence, one who retains what is learned"
         },
         {
-          "word": "chinna-saṃśayaḥ",
+          "word": "छिन्न-संशयः",
           "meaning": "with doubts cut away — all doubts severed at the root, no remaining uncertainty"
         }
       ],
@@ -457,53 +457,53 @@
     },
     {
       "verse": 11,
-      "sanskrit": "na hi deha-bhṛtā śakyaṃ tyaktuṃ karmāṇy aśeṣataḥ | yas tu karma-phala-tyāgī sa tyāgīty abhidhīyate ||",
+      "sanskrit": "न हि देह-भृता शक्यं त्यक्तुं कर्माण्य् अशेषतः । यस् तु कर्म-फल-त्यागी स त्यागीत्य् अभिधीयते ॥",
       "transliteration": "na hi deha-bhṛtā śakyaṃ tyaktuṃ karmāṇy aśeṣataḥ | yas tu karma-phala-tyāgī sa tyāgīty abhidhīyate ||",
       "translation": "For it is not possible for an embodied being to entirely abandon actions. But he who relinquishes the fruits of action — he is said to be the tyāgī.",
       "audio": "/assets/audio/ch18/verse_18_11.mp3",
       "word_breakdown": [
         {
-          "word": "na hi",
+          "word": "न हि",
           "meaning": "indeed not; certainly not"
         },
         {
-          "word": "deha-bhṛtā",
+          "word": "देह-भृता",
           "meaning": "by one who bears a body; by an embodied being"
         },
         {
-          "word": "śakyam",
+          "word": "शक्यम्",
           "meaning": "possible; able to be done"
         },
         {
-          "word": "tyaktum",
+          "word": "त्यक्तुम्",
           "meaning": "to abandon; to renounce (infinitive)"
         },
         {
-          "word": "karmāṇi",
+          "word": "कर्माणि",
           "meaning": "actions; works"
         },
         {
-          "word": "aśeṣataḥ",
+          "word": "अशेषतः",
           "meaning": "entirely; completely; without remainder"
         },
         {
-          "word": "yaḥ tu",
+          "word": "यः तु",
           "meaning": "but he who; that person who"
         },
         {
-          "word": "karma-phala-tyāgī",
+          "word": "कर्म-फल-त्यागी",
           "meaning": "one who relinquishes the fruits of action"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "he; that one"
         },
         {
-          "word": "tyāgī iti",
+          "word": "त्यागी इति",
           "meaning": "is called a tyāgī; is said to be a renouncer"
         },
         {
-          "word": "abhidhīyate",
+          "word": "अभिधीयते",
           "meaning": "is called; is designated; is said to be"
         }
       ],
@@ -516,57 +516,57 @@
     },
     {
       "verse": 12,
-      "sanskrit": "aniṣṭam iṣṭaṃ miśraṃ ca tri-vidhaṃ karmaṇaḥ phalam | bhavaty atyāgināṃ pretya na tu sannyāsinām kvacit ||",
+      "sanskrit": "अनिष्टम् इष्टं मिश्रं च त्रि-विधं कर्मणः फलम् । भवत्य् अत्यागिनां प्रेत्य न तु सन्न्यासिनाम् क्वचित् ॥",
       "transliteration": "aniṣṭam iṣṭaṃ miśraṃ ca tri-vidhaṃ karmaṇaḥ phalam | bhavaty atyāgināṃ pretya na tu sannyāsinām kvacit ||",
       "translation": "The threefold fruit of action — unpleasant, pleasant, and mixed — comes to non-renouncers after death; but never to the sannyāsins.",
       "audio": "/assets/audio/ch18/verse_18_12.mp3",
       "word_breakdown": [
         {
-          "word": "aniṣṭam",
+          "word": "अनिष्टम्",
           "meaning": "unpleasant; undesired; disagreeable"
         },
         {
-          "word": "iṣṭam",
+          "word": "इष्टम्",
           "meaning": "pleasant; desired; agreeable"
         },
         {
-          "word": "miśram",
+          "word": "मिश्रम्",
           "meaning": "mixed; a combination of pleasant and unpleasant"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "tri-vidham",
+          "word": "त्रि-विधम्",
           "meaning": "threefold; of three kinds"
         },
         {
-          "word": "karmaṇaḥ phalam",
+          "word": "कर्मणः फलम्",
           "meaning": "the fruit of action; the result of karma"
         },
         {
-          "word": "bhavati",
+          "word": "भवति",
           "meaning": "comes; becomes; accrues"
         },
         {
-          "word": "atyāgināṃ",
+          "word": "अत्यागिनां",
           "meaning": "to non-renouncers; to those who do not practice tyāga"
         },
         {
-          "word": "pretya",
+          "word": "प्रेत्य",
           "meaning": "after death; having departed (from this world)"
         },
         {
-          "word": "na tu",
+          "word": "न तु",
           "meaning": "but not; certainly not"
         },
         {
-          "word": "sannyāsinām",
+          "word": "सन्न्यासिनाम्",
           "meaning": "to renouncers; to those who practice inner sannyāsa"
         },
         {
-          "word": "kvacit",
+          "word": "क्वचित्",
           "meaning": "ever; at any time; in any case"
         }
       ],
@@ -579,53 +579,53 @@
     },
     {
       "verse": 13,
-      "sanskrit": "pañcaitāni mahābāho kāraṇāni nibodha me | sāṃkhye kṛtānte proktāni siddhaye sarva-karmaṇām ||",
+      "sanskrit": "पञ्चैतानि महाबाहो कारणानि निबोध मे । सांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्व-कर्मणाम् ॥",
       "transliteration": "pañca etāni mahābāho kāraṇāni nibodha me | sāṃkhye kṛtānte proktāni siddhaye sarva-karmaṇām ||",
       "translation": "Learn from Me, O Mighty-Armed, these five causes for the accomplishment of all actions, as declared in the Sāṃkhya system.",
       "audio": "/assets/audio/ch18/verse_18_13.mp3",
       "word_breakdown": [
         {
-          "word": "pañca",
+          "word": "पञ्च",
           "meaning": "five"
         },
         {
-          "word": "etāni",
+          "word": "एतानि",
           "meaning": "these"
         },
         {
-          "word": "mahābāho",
+          "word": "महाबाहो",
           "meaning": "O Mighty-Armed; epithet of Arjuna"
         },
         {
-          "word": "kāraṇāni",
+          "word": "कारणानि",
           "meaning": "causes; factors; determinants"
         },
         {
-          "word": "nibodha",
+          "word": "निबोध",
           "meaning": "learn; understand; know thoroughly (imperative)"
         },
         {
-          "word": "me",
+          "word": "मे",
           "meaning": "from Me; my (teaching)"
         },
         {
-          "word": "sāṃkhye",
+          "word": "सांख्ये",
           "meaning": "in the Sāṃkhya (system of philosophy)"
         },
         {
-          "word": "kṛtānte",
+          "word": "कृतान्ते",
           "meaning": "in the established conclusion; in the final teaching; in the settled doctrine"
         },
         {
-          "word": "proktāni",
+          "word": "प्रोक्तानि",
           "meaning": "declared; stated; taught"
         },
         {
-          "word": "siddhaye",
+          "word": "सिद्धये",
           "meaning": "for the accomplishment; for the completion"
         },
         {
-          "word": "sarva-karmaṇām",
+          "word": "सर्व-कर्मणाम्",
           "meaning": "of all actions; of every kind of action"
         }
       ],
@@ -638,61 +638,61 @@
     },
     {
       "verse": 14,
-      "sanskrit": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthag-vidham | vividhāś ca pṛthak ceṣṭā daivaṃ caivātra pañcamam ||",
+      "sanskrit": "अधिष्ठानं तथा कर्ता करणं च पृथग्-विधम् । विविधाश् च पृथक् चेष्टा दैवं चैवात्र पञ्चमम् ॥",
       "transliteration": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthag-vidham | vividhāś ca pṛthak ceṣṭā daivaṃ ca eva atra pañcamam ||",
       "translation": "The seat or basis (the body), the doer (ego/mind), the various instruments (the senses), the different movements of vital force, and the fifth — the Divine — these are the five causes here.",
       "audio": "/assets/audio/ch18/verse_18_14.mp3",
       "word_breakdown": [
         {
-          "word": "adhiṣṭhānam",
+          "word": "अधिष्ठानम्",
           "meaning": "the seat; the basis; the locus of action (= the body)"
         },
         {
-          "word": "tathā",
+          "word": "तथा",
           "meaning": "also; likewise; and"
         },
         {
-          "word": "kartā",
+          "word": "कर्ता",
           "meaning": "the doer; the agent (= the ego or individualized mind)"
         },
         {
-          "word": "karaṇam",
+          "word": "करणम्",
           "meaning": "the instruments; the means (= the senses and motor organs)"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "pṛthag-vidham",
+          "word": "पृथग्-विधम्",
           "meaning": "of different kinds; various; manifold"
         },
         {
-          "word": "vividhāḥ",
+          "word": "विविधाः",
           "meaning": "various; diverse; manifold"
         },
         {
-          "word": "pṛthak",
+          "word": "पृथक्",
           "meaning": "separately; individually; distinct"
         },
         {
-          "word": "ceṣṭāḥ",
+          "word": "चेष्टाः",
           "meaning": "movements; efforts; functions of the vital forces (prāṇas)"
         },
         {
-          "word": "daivam",
+          "word": "दैवम्",
           "meaning": "the divine; fate; providence; unseen divine factor; grace"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also; indeed"
         },
         {
-          "word": "atra",
+          "word": "अत्र",
           "meaning": "here; in this analysis"
         },
         {
-          "word": "pañcamam",
+          "word": "पञ्चमम्",
           "meaning": "the fifth; number five"
         }
       ],
@@ -705,57 +705,57 @@
     },
     {
       "verse": 15,
-      "sanskrit": "śarīra-vāṅ-manobhir yat karma prārabhate naraḥ | nyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ ||",
+      "sanskrit": "शरीर-वाङ्-मनोभिर् यत् कर्म प्रारभते नरः । न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ॥",
       "transliteration": "śarīra-vāṅ-manobhiḥ yat karma prārabhate naraḥ | nyāyyaṃ vā viparītaṃ vā pañca ete tasya hetavaḥ ||",
       "translation": "Whatever action a person undertakes with body, speech, or mind — whether right or wrong — these five are its causes.",
       "audio": "/assets/audio/ch18/verse_18_15.mp3",
       "word_breakdown": [
         {
-          "word": "śarīra-vāṅ-manobhiḥ",
+          "word": "शरीर-वाङ्-मनोभिः",
           "meaning": "by body, speech, and mind; through the three instruments of action"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "whatever; which"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "action; work; deed"
         },
         {
-          "word": "prārabhate",
+          "word": "प्रारभते",
           "meaning": "undertakes; initiates; begins"
         },
         {
-          "word": "naraḥ",
+          "word": "नरः",
           "meaning": "a person; a human being"
         },
         {
-          "word": "nyāyyam",
+          "word": "न्याय्यम्",
           "meaning": "right; proper; in accordance with dharma"
         },
         {
-          "word": "vā",
+          "word": "वा",
           "meaning": "or; whether"
         },
         {
-          "word": "viparītam",
+          "word": "विपरीतम्",
           "meaning": "wrong; opposite; contrary to dharma"
         },
         {
-          "word": "vā",
+          "word": "वा",
           "meaning": "or"
         },
         {
-          "word": "pañca ete",
+          "word": "पञ्च एते",
           "meaning": "these five"
         },
         {
-          "word": "tasya",
+          "word": "तस्य",
           "meaning": "its; of that action"
         },
         {
-          "word": "hetavaḥ",
+          "word": "हेतवः",
           "meaning": "causes; reasons; factors"
         }
       ],
@@ -768,53 +768,53 @@
     },
     {
       "verse": 16,
-      "sanskrit": "tatraivaṃ sati kartāram ātmānaṃ kevalaṃ tu yaḥ | paśyaty akṛta-buddhitvān na sa paśyati durmatiḥ ||",
+      "sanskrit": "तत्रैवं सति कर्तारम् आत्मानं केवलं तु यः । पश्यत्य् अकृत-बुद्धित्वान् न स पश्यति दुर्मतिः ॥",
       "transliteration": "tatra evaṃ sati kartāram ātmānam kevalam tu yaḥ | paśyati akṛta-buddhitvāt na sa paśyati durmatiḥ ||",
       "translation": "This being so, he who sees the Self alone as the doer — because of his undeveloped intelligence — that person of perverted understanding does not truly see.",
       "audio": "/assets/audio/ch18/verse_18_16.mp3",
       "word_breakdown": [
         {
-          "word": "tatra",
+          "word": "तत्र",
           "meaning": "there; in that context; this being so"
         },
         {
-          "word": "evaṃ sati",
+          "word": "एवं सति",
           "meaning": "this being the case; since it is so"
         },
         {
-          "word": "kartāram",
+          "word": "कर्तारम्",
           "meaning": "as the doer; as the agent (accusative)"
         },
         {
-          "word": "ātmānam",
+          "word": "आत्मानम्",
           "meaning": "the self; oneself (here = the ego-self, jīva)"
         },
         {
-          "word": "kevalam",
+          "word": "केवलम्",
           "meaning": "alone; solely; exclusively"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "but; however"
         },
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "he who; whoever"
         },
         {
-          "word": "paśyati",
+          "word": "पश्यति",
           "meaning": "sees; perceives; considers"
         },
         {
-          "word": "akṛta-buddhitvāt",
+          "word": "अकृत-बुद्धित्वात्",
           "meaning": "due to undeveloped/immature intelligence; because of unformed understanding"
         },
         {
-          "word": "na sa paśyati",
+          "word": "न स पश्यति",
           "meaning": "he does not truly see; he does not perceive rightly"
         },
         {
-          "word": "durmatiḥ",
+          "word": "दुर्मतिः",
           "meaning": "one of perverted/wrong understanding; one of misguided intellect"
         }
       ],
@@ -827,45 +827,45 @@
     },
     {
       "verse": 17,
-      "sanskrit": "yasya nāhaṅkṛto bhāvo buddhir yasya na lipyate | hatvāpi sa imāṃl lokān na hanti na nibadhyate ||",
+      "sanskrit": "यस्य नाहङ्कृतो भावो बुद्धिर् यस्य न लिप्यते । हत्वापि स इमांल् लोकान् न हन्ति न निबध्यते ॥",
       "transliteration": "yasya na ahaṅkṛtaḥ bhāvaḥ buddhiḥ yasya na lipyate | hatvā api sa imān lokān na hanti na nibadhyate ||",
       "translation": "He whose state is free from ego and whose intelligence is not tainted — even if he slays these worlds, he does not slay, and is not bound.",
       "audio": "/assets/audio/ch18/verse_18_17.mp3",
       "word_breakdown": [
         {
-          "word": "yasya",
+          "word": "यस्य",
           "meaning": "whose; of whom"
         },
         {
-          "word": "na ahaṅkṛtaḥ bhāvaḥ",
+          "word": "न अहङ्कृतः भावः",
           "meaning": "whose state/feeling is not egotistic; who has no ego-sense of doership"
         },
         {
-          "word": "buddhiḥ",
+          "word": "बुद्धिः",
           "meaning": "intelligence; understanding; the discriminative faculty"
         },
         {
-          "word": "yasya na lipyate",
+          "word": "यस्य न लिप्यते",
           "meaning": "whose intelligence is not tainted/stained; not contaminated by ego or desire"
         },
         {
-          "word": "hatvā api",
+          "word": "हत्वा अपि",
           "meaning": "even having slain; even after killing"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "he; that person"
         },
         {
-          "word": "imān lokān",
+          "word": "इमान् लोकान्",
           "meaning": "these worlds; all these people/beings"
         },
         {
-          "word": "na hanti",
+          "word": "न हन्ति",
           "meaning": "does not slay; does not kill (in truth)"
         },
         {
-          "word": "na nibadhyate",
+          "word": "न निबध्यते",
           "meaning": "is not bound; is not fettered by karma"
         }
       ],
@@ -878,53 +878,53 @@
     },
     {
       "verse": 18,
-      "sanskrit": "jñānaṃ jñeyaṃ parijñātā tri-vidhā karma-codanā | karaṇaṃ karma karteti tri-vidhaḥ karma-saṃgrahaḥ ||",
+      "sanskrit": "ज्ञानं ज्ञेयं परिज्ञाता त्रि-विधा कर्म-चोदना । करणं कर्म कर्तेति त्रि-विधः कर्म-संग्रहः ॥",
       "transliteration": "jñānam jñeyam parijñātā tri-vidhā karma-codanā | karaṇam karma kartā iti tri-vidhaḥ karma-saṃgrahaḥ ||",
       "translation": "Knowledge, the knowable, and the knower — these are the threefold impulse to action. Instrument, action, and the doer — these are the threefold basis of action.",
       "audio": "/assets/audio/ch18/verse_18_18.mp3",
       "word_breakdown": [
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge; the act of knowing; the cognitive faculty"
         },
         {
-          "word": "jñeyam",
+          "word": "ज्ञेयम्",
           "meaning": "the knowable; the object of knowledge; what is to be known"
         },
         {
-          "word": "parijñātā",
+          "word": "परिज्ञाता",
           "meaning": "the knower; the one who knows completely"
         },
         {
-          "word": "tri-vidhā",
+          "word": "त्रि-विधा",
           "meaning": "threefold; of three kinds"
         },
         {
-          "word": "karma-codanā",
+          "word": "कर्म-चोदना",
           "meaning": "the impulse to action; the motivation for action; the prompting of karma"
         },
         {
-          "word": "karaṇam",
+          "word": "करणम्",
           "meaning": "the instrument; the means; the organ of action"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "the action; the deed; the work itself"
         },
         {
-          "word": "kartā",
+          "word": "कर्ता",
           "meaning": "the doer; the agent"
         },
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus; so (marks the end of a list)"
         },
         {
-          "word": "tri-vidhaḥ",
+          "word": "त्रि-विधः",
           "meaning": "threefold; of three kinds"
         },
         {
-          "word": "karma-saṃgrahaḥ",
+          "word": "कर्म-संग्रहः",
           "meaning": "the summary/basis of action; the complete account of action"
         }
       ],
@@ -937,49 +937,49 @@
     },
     {
       "verse": 19,
-      "sanskrit": "jñānaṃ karma ca kartā ca tri-dhaiva guṇa-bhedataḥ | procyate guṇa-saṃkhyāne yathāvac chṛṇu tāny api ||",
+      "sanskrit": "ज्ञानं कर्म च कर्ता च त्रि-धैव गुण-भेदतः । प्रोच्यते गुण-संख्याने यथावच् छृणु तान्य् अपि ॥",
       "transliteration": "jñānam karma ca kartā ca tri-dhā eva guṇa-bhedataḥ | procyate guṇa-saṃkhyāne yathāvat śṛṇu tāni api ||",
       "translation": "Knowledge, action, and doer are each declared as threefold according to the distinction of guṇas in the Sāṃkhya analysis. Hear them as they truly are.",
       "audio": "/assets/audio/ch18/verse_18_19.mp3",
       "word_breakdown": [
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "action; work"
         },
         {
-          "word": "ca kartā ca",
+          "word": "च कर्ता च",
           "meaning": "and the doer also"
         },
         {
-          "word": "tri-dhā eva",
+          "word": "त्रि-धा एव",
           "meaning": "only/exactly threefold; in three kinds precisely"
         },
         {
-          "word": "guṇa-bhedataḥ",
+          "word": "गुण-भेदतः",
           "meaning": "according to the distinction of guṇas; based on the differences among sattva, rajas, and tamas"
         },
         {
-          "word": "procyate",
+          "word": "प्रोच्यते",
           "meaning": "is declared; is said; is taught"
         },
         {
-          "word": "guṇa-saṃkhyāne",
+          "word": "गुण-संख्याने",
           "meaning": "in the Sāṃkhya analysis of guṇas; in the enumeration of guṇa-categories"
         },
         {
-          "word": "yathāvat",
+          "word": "यथावत्",
           "meaning": "as they truly are; precisely; accurately"
         },
         {
-          "word": "śṛṇu",
+          "word": "शृणु",
           "meaning": "hear; listen (imperative)"
         },
         {
-          "word": "tāni api",
+          "word": "तानि अपि",
           "meaning": "them also; these too"
         }
       ],
@@ -992,53 +992,53 @@
     },
     {
       "verse": 20,
-      "sanskrit": "sarva-bhūteṣu yenaikaṃ bhāvam avyayam īkṣate | avibhaktaṃ vibhakteṣu taj jñānaṃ viddhi sāttvikaṃ ||",
+      "sanskrit": "सर्व-भूतेषु येनैकं भावम् अव्ययम् ईक्षते । अविभक्तं विभक्तेषु तज् ज्ञानं विद्धि सात्त्विकं ॥",
       "transliteration": "sarva-bhūteṣu yena ekam bhāvam avyayam īkṣate | avibhaktam vibhakteṣu tat jñānam viddhi sāttvikam ||",
       "translation": "That knowledge by which one sees the one Imperishable Being in all beings — undivided in the divided — know that knowledge to be sattvic.",
       "audio": "/assets/audio/ch18/verse_18_20.mp3",
       "word_breakdown": [
         {
-          "word": "sarva-bhūteṣu",
+          "word": "सर्व-भूतेषु",
           "meaning": "in all beings; in all creatures (locative plural)"
         },
         {
-          "word": "yena",
+          "word": "येन",
           "meaning": "by which; through which (instrumental)"
         },
         {
-          "word": "ekam",
+          "word": "एकम्",
           "meaning": "one; single; the One"
         },
         {
-          "word": "bhāvam",
+          "word": "भावम्",
           "meaning": "Being; existence; the existent reality; the essential nature"
         },
         {
-          "word": "avyayam",
+          "word": "अव्ययम्",
           "meaning": "Imperishable; unchanging; indestructible"
         },
         {
-          "word": "īkṣate",
+          "word": "ईक्षते",
           "meaning": "sees; perceives; beholds (with contemplative seeing)"
         },
         {
-          "word": "avibhaktam",
+          "word": "अविभक्तम्",
           "meaning": "undivided; not split; indivisible"
         },
         {
-          "word": "vibhakteṣu",
+          "word": "विभक्तेषु",
           "meaning": "in the divided; in the differentiated; among the separated forms"
         },
         {
-          "word": "tat jñānam",
+          "word": "तत् ज्ञानम्",
           "meaning": "that knowledge; that understanding"
         },
         {
-          "word": "viddhi",
+          "word": "विद्धि",
           "meaning": "know; understand; recognize (imperative)"
         },
         {
-          "word": "sāttvikam",
+          "word": "सात्त्विकम्",
           "meaning": "sattvic; belonging to the quality of sattva; of the nature of purity and clarity"
         }
       ],
@@ -1051,49 +1051,49 @@
     },
     {
       "verse": 21,
-      "sanskrit": "pṛthaktvena tu yaj jñānaṃ nānā-bhāvān pṛthag-vidhān | vetti sarveṣu bhūteṣu taj jñānaṃ viddhi rājasam ||",
+      "sanskrit": "पृथक्त्वेन तु यज् ज्ञानं नाना-भावान् पृथग्-विधान् । वेत्ति सर्वेषु भूतेषु तज् ज्ञानं विद्धि राजसम् ॥",
       "transliteration": "pṛthaktvena tu yaj jñānaṃ nānā-bhāvān pṛthag-vidhān | vetti sarveṣu bhūteṣu taj jñānaṃ viddhi rājasam ||",
       "translation": "But that knowledge which perceives in all beings the manifold entities of various kinds as separate and distinct — know that knowledge to be rajasic.",
       "audio": "/assets/audio/ch18/verse_18_21.mp3",
       "word_breakdown": [
         {
-          "word": "pṛthaktvena",
+          "word": "पृथक्त्वेन",
           "meaning": "through the lens of separateness; by reason of division"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "but; however"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "which"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge"
         },
         {
-          "word": "nānā-bhāvān",
+          "word": "नाना-भावान्",
           "meaning": "manifold existences; diverse entities"
         },
         {
-          "word": "pṛthag-vidhān",
+          "word": "पृथग्-विधान्",
           "meaning": "of various kinds; of different sorts"
         },
         {
-          "word": "vetti",
+          "word": "वेत्ति",
           "meaning": "knows; perceives"
         },
         {
-          "word": "sarveṣu bhūteṣu",
+          "word": "सर्वेषु भूतेषु",
           "meaning": "in all beings"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "rājasam",
+          "word": "राजसम्",
           "meaning": "rajasic; born of rajas"
         }
       ],
@@ -1106,41 +1106,41 @@
     },
     {
       "verse": 22,
-      "sanskrit": "yat tu kṛtsnavad ekasmin kārye saktam ahaitukam | atattvārtha-vad alpaṃ ca tat tāmasam udāhṛtam ||",
+      "sanskrit": "यत् तु कृत्स्नवद् एकस्मिन् कार्ये सक्तम् अहैतुकम् । अतत्त्वार्थ-वद् अल्पं च तत् तामसम् उदाहृतम् ॥",
       "transliteration": "yat tu kṛtsnavad ekasmin kārye saktam ahaitukam | atattvārtha-vad alpaṃ ca tat tāmasam udāhṛtam ||",
       "translation": "But that which is attached to a single effect as if it were the whole, without reason, not grasping the true meaning, and trivial — that is declared tamasic.",
       "audio": "/assets/audio/ch18/verse_18_22.mp3",
       "word_breakdown": [
         {
-          "word": "kṛtsnavat",
+          "word": "कृत्स्नवत्",
           "meaning": "as if it were the whole; as if complete in itself"
         },
         {
-          "word": "ekasmin kārye",
+          "word": "एकस्मिन् कार्ये",
           "meaning": "in a single effect; in one limited matter"
         },
         {
-          "word": "saktam",
+          "word": "सक्तम्",
           "meaning": "attached; clinging"
         },
         {
-          "word": "ahaitukam",
+          "word": "अहैतुकम्",
           "meaning": "without reason; without proper grounds; baseless"
         },
         {
-          "word": "atattvārtha-vat",
+          "word": "अतत्त्वार्थ-वत्",
           "meaning": "not grasping the true meaning; missing the real purpose"
         },
         {
-          "word": "alpam",
+          "word": "अल्पम्",
           "meaning": "trivial; narrow; petty; of little scope"
         },
         {
-          "word": "tāmasam",
+          "word": "तामसम्",
           "meaning": "tamasic; born of tamas"
         },
         {
-          "word": "udāhṛtam",
+          "word": "उदाहृतम्",
           "meaning": "declared; said to be; cited as"
         }
       ],
@@ -1153,41 +1153,41 @@
     },
     {
       "verse": 23,
-      "sanskrit": "niyataṃ saṅga-rahitam arāga-dveṣataḥ kṛtam | aphala-prepsunā karma yat tat sāttvikaṃ ucyate ||",
+      "sanskrit": "नियतं सङ्ग-रहितम् अराग-द्वेषतः कृतम् । अफल-प्रेप्सुना कर्म यत् तत् सात्त्विकं उच्यते ॥",
       "transliteration": "niyataṃ saṅga-rahitam arāga-dveṣataḥ kṛtam | aphala-prepsunā karma yat tat sāttvikaṃ ucyate ||",
       "translation": "Action that is obligatory, free from attachment, done without love or hatred, by one who does not desire the fruit — that action is called sattvic.",
       "audio": "/assets/audio/ch18/verse_18_23.mp3",
       "word_breakdown": [
         {
-          "word": "niyatam",
+          "word": "नियतम्",
           "meaning": "obligatory; prescribed; regulated; that which is appointed"
         },
         {
-          "word": "saṅga-rahitam",
+          "word": "सङ्ग-रहितम्",
           "meaning": "free from attachment; devoid of clinging"
         },
         {
-          "word": "arāga-dveṣataḥ",
+          "word": "अराग-द्वेषतः",
           "meaning": "without love or hatred; free from personal likes and dislikes"
         },
         {
-          "word": "kṛtam",
+          "word": "कृतम्",
           "meaning": "done; performed"
         },
         {
-          "word": "aphala-prepsunā",
+          "word": "अफल-प्रेप्सुना",
           "meaning": "by one who does not desire the fruit; by a non-seeker of results"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "action"
         },
         {
-          "word": "sāttvikaṃ",
+          "word": "सात्त्विकं",
           "meaning": "sattvic; born of sattva"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is called; is said to be"
         }
       ],
@@ -1200,45 +1200,45 @@
     },
     {
       "verse": 24,
-      "sanskrit": "yat tu kāmepsunā karma sāhaṃkāreṇa vā punaḥ | kriyate bahulāyāsaṃ tad rājasam udāhṛtam ||",
+      "sanskrit": "यत् तु कामेप्सुना कर्म साहंकारेण वा पुनः । क्रियते बहुलायासं तद् राजसम् उदाहृतम् ॥",
       "transliteration": "yat tu kāmepsunā karma sāhaṃkāreṇa vā punaḥ | kriyate bahulāyāsaṃ tad rājasam udāhṛtam ||",
       "translation": "But action which is performed with great effort by one who desires enjoyment, or again with ego — that is declared rajasic.",
       "audio": "/assets/audio/ch18/verse_18_24.mp3",
       "word_breakdown": [
         {
-          "word": "kāmepsunā",
+          "word": "कामेप्सुना",
           "meaning": "by one who desires enjoyment; by one greedy for sensual pleasure"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "action"
         },
         {
-          "word": "sāhaṃkāreṇa",
+          "word": "साहंकारेण",
           "meaning": "with ego; with the sense of 'I am the doer'"
         },
         {
-          "word": "vā",
+          "word": "वा",
           "meaning": "or"
         },
         {
-          "word": "punaḥ",
+          "word": "पुनः",
           "meaning": "again; moreover"
         },
         {
-          "word": "kriyate",
+          "word": "क्रियते",
           "meaning": "is performed; is done"
         },
         {
-          "word": "bahulāyāsam",
+          "word": "बहुलायासम्",
           "meaning": "with great effort/strain; involving much exertion and fatigue"
         },
         {
-          "word": "rājasam",
+          "word": "राजसम्",
           "meaning": "rajasic; born of rajas"
         },
         {
-          "word": "udāhṛtam",
+          "word": "उदाहृतम्",
           "meaning": "declared; proclaimed; said to be"
         }
       ],
@@ -1251,45 +1251,45 @@
     },
     {
       "verse": 25,
-      "sanskrit": "anubandhaṃ kṣayaṃ hiṃsām anapekṣya ca pauruṣam | mohād ārabhyate karma yat tat tāmasam ucyate ||",
+      "sanskrit": "अनुबन्धं क्षयं हिंसाम् अनपेक्ष्य च पौरुषम् । मोहाद् आरभ्यते कर्म यत् तत् तामसम् उच्यते ॥",
       "transliteration": "anubandhaṃ kṣayaṃ hiṃsām anapekṣya ca pauruṣam | mohād ārabhyate karma yat tat tāmasam ucyate ||",
       "translation": "Action which is undertaken from delusion, without considering consequences, loss, injury to others, or one's own capacity — that action is called tamasic.",
       "audio": "/assets/audio/ch18/verse_18_25.mp3",
       "word_breakdown": [
         {
-          "word": "anubandham",
+          "word": "अनुबन्धम्",
           "meaning": "consequences; results that follow; what comes after"
         },
         {
-          "word": "kṣayam",
+          "word": "क्षयम्",
           "meaning": "loss; harm; depletion; harm to oneself"
         },
         {
-          "word": "hiṃsām",
+          "word": "हिंसाम्",
           "meaning": "injury; harm to others; violence"
         },
         {
-          "word": "anapekṣya",
+          "word": "अनपेक्ष्य",
           "meaning": "without considering; not looking at; disregarding"
         },
         {
-          "word": "pauruṣam",
+          "word": "पौरुषम्",
           "meaning": "human capacity; one's own strength and ability"
         },
         {
-          "word": "mohāt",
+          "word": "मोहात्",
           "meaning": "from delusion; out of ignorance; from confusion"
         },
         {
-          "word": "ārabhyate",
+          "word": "आरभ्यते",
           "meaning": "is begun; is undertaken; is initiated"
         },
         {
-          "word": "tāmasam",
+          "word": "तामसम्",
           "meaning": "tamasic; born of tamas"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is called; is said to be"
         }
       ],
@@ -1302,45 +1302,45 @@
     },
     {
       "verse": 26,
-      "sanskrit": "mukta-saṅgo'nahaṃvādī dhṛty-utsāha-samanvitaḥ | siddhy-asiddhyor nirvikāraḥ kartā sāttvikaḥ ucyate ||",
+      "sanskrit": "मुक्त-सङ्गोऽनहंवादी धृत्य्-उत्साह-समन्वितः । सिद्ध्य्-असिद्ध्योर् निर्विकारः कर्ता सात्त्विकः उच्यते ॥",
       "transliteration": "mukta-saṅgo'nahaṃvādī dhṛty-utsāha-samanvitaḥ | siddhy-asiddhyor nirvikāraḥ kartā sāttvikaḥ ucyate ||",
       "translation": "The doer who is free from attachment, non-egotistical, filled with fortitude and enthusiasm, and undisturbed in success and failure — that doer is called sattvic.",
       "audio": "/assets/audio/ch18/verse_18_26.mp3",
       "word_breakdown": [
         {
-          "word": "mukta-saṅgaḥ",
+          "word": "मुक्त-सङ्गः",
           "meaning": "free from attachment; released from clinging"
         },
         {
-          "word": "anahaṃvādī",
+          "word": "अनहंवादी",
           "meaning": "non-egotistical; one who does not claim 'I did it'"
         },
         {
-          "word": "dhṛti-utsāha-samanvitaḥ",
+          "word": "धृति-उत्साह-समन्वितः",
           "meaning": "endowed with fortitude and enthusiasm; sustained in steadiness and zeal"
         },
         {
-          "word": "siddhi",
+          "word": "सिद्धि",
           "meaning": "success; accomplishment; attainment"
         },
         {
-          "word": "asiddhyoḥ",
+          "word": "असिद्ध्योः",
           "meaning": "in failure; in non-accomplishment"
         },
         {
-          "word": "nirvikāraḥ",
+          "word": "निर्विकारः",
           "meaning": "undisturbed; unchanged; without modification"
         },
         {
-          "word": "kartā",
+          "word": "कर्ता",
           "meaning": "doer; agent of action"
         },
         {
-          "word": "sāttvikaḥ",
+          "word": "सात्त्विकः",
           "meaning": "sattvic; born of sattva"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is called; is said to be"
         }
       ],
@@ -1353,45 +1353,45 @@
     },
     {
       "verse": 27,
-      "sanskrit": "rāgī karma-phala-prepsur lubdho hiṃsātmako'śuciḥ | harṣa-śokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||",
+      "sanskrit": "रागी कर्म-फल-प्रेप्सुर् लुब्धो हिंसात्मकोऽशुचिः । हर्ष-शोकान्वितः कर्ता राजसः परिकीर्तितः ॥",
       "transliteration": "rāgī karma-phala-prepsur lubdho hiṃsātmako'śuciḥ | harṣa-śokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||",
       "translation": "The doer who is passionate, who desires the fruit of action, greedy, violent, impure, and moved by joy and grief — that doer is proclaimed rajasic.",
       "audio": "/assets/audio/ch18/verse_18_27.mp3",
       "word_breakdown": [
         {
-          "word": "rāgī",
+          "word": "रागी",
           "meaning": "passionate; attached; one governed by rāga (attraction)"
         },
         {
-          "word": "karma-phala-prepsuḥ",
+          "word": "कर्म-फल-प्रेप्सुः",
           "meaning": "one who desires the fruit of action; result-oriented"
         },
         {
-          "word": "lubdhaḥ",
+          "word": "लुब्धः",
           "meaning": "greedy; covetous; one who craves more"
         },
         {
-          "word": "hiṃsātmakaḥ",
+          "word": "हिंसात्मकः",
           "meaning": "violent; cruel in nature; one whose very nature includes harming"
         },
         {
-          "word": "aśuciḥ",
+          "word": "अशुचिः",
           "meaning": "impure; unclean; not pure in body or mind"
         },
         {
-          "word": "harṣa-śokānvitaḥ",
+          "word": "हर्ष-शोकान्वितः",
           "meaning": "accompanied by joy and grief; moved by elation and sorrow"
         },
         {
-          "word": "kartā",
+          "word": "कर्ता",
           "meaning": "doer; agent"
         },
         {
-          "word": "rājasaḥ",
+          "word": "राजसः",
           "meaning": "rajasic; born of rajas"
         },
         {
-          "word": "parikīrtitaḥ",
+          "word": "परिकीर्तितः",
           "meaning": "proclaimed; declared on all sides; well-known as"
         }
       ],
@@ -1404,49 +1404,49 @@
     },
     {
       "verse": 28,
-      "sanskrit": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ | viṣādī dīrgha-sūtrī ca kartā tāmasa ucyate ||",
+      "sanskrit": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः । विषादी दीर्घ-सूत्री च कर्ता तामस उच्यते ॥",
       "transliteration": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ | viṣādī dīrgha-sūtrī ca kartā tāmasa ucyate ||",
       "translation": "The doer who is undisciplined, vulgar, obstinate, deceitful, malicious, lazy, despondent, and a procrastinator — that doer is called tamasic.",
       "audio": "/assets/audio/ch18/verse_18_28.mp3",
       "word_breakdown": [
         {
-          "word": "ayuktaḥ",
+          "word": "अयुक्तः",
           "meaning": "undisciplined; unsteady; lacking in yoga; not self-controlled"
         },
         {
-          "word": "prākṛtaḥ",
+          "word": "प्राकृतः",
           "meaning": "vulgar; crude; unreformed; belonging to the lowest nature"
         },
         {
-          "word": "stabdhaḥ",
+          "word": "स्तब्धः",
           "meaning": "obstinate; rigid; unresponsive; stubborn and immovable"
         },
         {
-          "word": "śaṭhaḥ",
+          "word": "शठः",
           "meaning": "deceitful; roguish; one who acts by trickery"
         },
         {
-          "word": "naiṣkṛtikaḥ",
+          "word": "नैष्कृतिकः",
           "meaning": "malicious; mischievous; one who delights in harming others"
         },
         {
-          "word": "alasaḥ",
+          "word": "अलसः",
           "meaning": "lazy; slothful; without energy or initiative"
         },
         {
-          "word": "viṣādī",
+          "word": "विषादी",
           "meaning": "despondent; chronically dejected; given to despair"
         },
         {
-          "word": "dīrgha-sūtrī",
+          "word": "दीर्घ-सूत्री",
           "meaning": "procrastinator; literally 'long-threaded'; one who draws everything out"
         },
         {
-          "word": "tāmasaḥ",
+          "word": "तामसः",
           "meaning": "tamasic; born of tamas"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is called; is said to be"
         }
       ],
@@ -1459,53 +1459,53 @@
     },
     {
       "verse": 29,
-      "sanskrit": "buddher bhedaṃ dhṛteś caiva guṇatas tri-vidhaṃ śṛṇu | procyamānaṃ aśeṣeṇa pṛthaktvena dhanañjaya ||",
+      "sanskrit": "बुद्धेर् भेदं धृतेश् चैव गुणतस् त्रि-विधं शृणु । प्रोच्यमानं अशेषेण पृथक्त्वेन धनञ्जय ॥",
       "transliteration": "buddher bhedaṃ dhṛteś caiva guṇatas tri-vidhaṃ śṛṇu | procyamānaṃ aśeṣeṇa pṛthaktvena dhanañjaya ||",
       "translation": "Hear also the threefold distinction of buddhi and dhṛti according to the guṇas, described completely and separately, O Dhanañjaya.",
       "audio": "/assets/audio/ch18/verse_18_29.mp3",
       "word_breakdown": [
         {
-          "word": "buddheḥ",
+          "word": "बुद्धेः",
           "meaning": "of buddhi; of intelligence; of the discriminating faculty"
         },
         {
-          "word": "bhedam",
+          "word": "भेदम्",
           "meaning": "distinction; division; differentiation"
         },
         {
-          "word": "dhṛteḥ",
+          "word": "धृतेः",
           "meaning": "of dhṛti; of steadfastness; of fortitude"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also; as well"
         },
         {
-          "word": "guṇataḥ",
+          "word": "गुणतः",
           "meaning": "according to the guṇas; by the three qualities of nature"
         },
         {
-          "word": "tri-vidham",
+          "word": "त्रि-विधम्",
           "meaning": "threefold; of three kinds"
         },
         {
-          "word": "śṛṇu",
+          "word": "शृणु",
           "meaning": "hear; listen"
         },
         {
-          "word": "procyamānam",
+          "word": "प्रोच्यमानम्",
           "meaning": "being declared; being described; as I am about to tell"
         },
         {
-          "word": "aśeṣeṇa",
+          "word": "अशेषेण",
           "meaning": "completely; without remainder; fully and exhaustively"
         },
         {
-          "word": "pṛthaktvena",
+          "word": "पृथक्त्वेन",
           "meaning": "separately; distinctly; one by one"
         },
         {
-          "word": "dhanañjaya",
+          "word": "धनञ्जय",
           "meaning": "O Dhanañjaya; O conqueror of wealth (Arjuna's epithet)"
         }
       ],
@@ -1518,65 +1518,65 @@
     },
     {
       "verse": 30,
-      "sanskrit": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye | bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||",
+      "sanskrit": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये । बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ॥",
       "transliteration": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye | bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||",
       "translation": "The buddhi which knows what is to be pursued and what is to be avoided, what should be done and what should not be done, what is fear and what is fearlessness, what is bondage and what is liberation — that buddhi, O Pārtha, is sattvic.",
       "audio": "/assets/audio/ch18/verse_18_30.mp3",
       "word_breakdown": [
         {
-          "word": "pravṛttim",
+          "word": "प्रवृत्तिम्",
           "meaning": "what is to be pursued; engagement; the path of activity"
         },
         {
-          "word": "nivṛttim",
+          "word": "निवृत्तिम्",
           "meaning": "what is to be avoided; withdrawal; the path of cessation"
         },
         {
-          "word": "kārya",
+          "word": "कार्य",
           "meaning": "what should be done; duty; what is to be performed"
         },
         {
-          "word": "akārye",
+          "word": "अकार्ये",
           "meaning": "what should not be done; what is forbidden; non-duty"
         },
         {
-          "word": "bhaya",
+          "word": "भय",
           "meaning": "fear; what is truly to be feared"
         },
         {
-          "word": "abhaye",
+          "word": "अभये",
           "meaning": "fearlessness; what is not to be feared; freedom from fear"
         },
         {
-          "word": "bandham",
+          "word": "बन्धम्",
           "meaning": "bondage; what binds the soul"
         },
         {
-          "word": "mokṣam",
+          "word": "मोक्षम्",
           "meaning": "liberation; freedom; release from bondage"
         },
         {
-          "word": "yā",
+          "word": "या",
           "meaning": "which"
         },
         {
-          "word": "vetti",
+          "word": "वेत्ति",
           "meaning": "knows; discerns; understands clearly"
         },
         {
-          "word": "buddhiḥ",
+          "word": "बुद्धिः",
           "meaning": "intelligence; the discriminating faculty"
         },
         {
-          "word": "sā",
+          "word": "सा",
           "meaning": "that"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O Pārtha; O son of Pṛthā (Arjuna)"
         },
         {
-          "word": "sāttvikī",
+          "word": "सात्त्विकी",
           "meaning": "sattvic; born of sattva; of the nature of purity and light"
         }
       ],
@@ -1589,61 +1589,61 @@
     },
     {
       "verse": 31,
-      "sanskrit": "yayā dharmam adharmañ ca kāryañ cākāryam eva ca |\nayathāvat prajānāti buddhiḥ sā pārtha rājasī ||",
+      "sanskrit": "यया धर्मम् अधर्मञ् च कार्यञ् चाकार्यम् एव च ।\nअयथावत् प्रजानाति बुद्धिः सा पार्थ राजसी ॥",
       "transliteration": "yayā dharmam adharmañ ca kāryañ cākāryam eva ca |\nayathāvat prajānāti buddhiḥ sā pārtha rājasī ||",
       "translation": "The buddhi by which one knows — not as they truly are (ayathāvat) — dharma and adharma, what ought to be done and what ought not to be done: that buddhi, O Pārtha, is rajasic.",
       "audio": "/assets/audio/ch18/verse_18_31.mp3",
       "word_breakdown": [
         {
-          "word": "yayā",
+          "word": "यया",
           "meaning": "by which"
         },
         {
-          "word": "dharmam",
+          "word": "धर्मम्",
           "meaning": "righteousness, right action"
         },
         {
-          "word": "adharmam",
+          "word": "अधर्मम्",
           "meaning": "unrighteousness, wrong action"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "kāryam",
+          "word": "कार्यम्",
           "meaning": "what ought to be done, duty"
         },
         {
-          "word": "akāryam",
+          "word": "अकार्यम्",
           "meaning": "what ought not to be done, forbidden act"
         },
         {
-          "word": "eva",
+          "word": "एव",
           "meaning": "indeed, also"
         },
         {
-          "word": "ayathāvat",
+          "word": "अयथावत्",
           "meaning": "not as they truly are; incorrectly, confusedly"
         },
         {
-          "word": "prajānāti",
+          "word": "प्रजानाति",
           "meaning": "knows, understands, discerns"
         },
         {
-          "word": "buddhiḥ",
+          "word": "बुद्धिः",
           "meaning": "intellect, discerning faculty"
         },
         {
-          "word": "sā",
+          "word": "सा",
           "meaning": "that"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O son of Pṛthā (Arjuna)"
         },
         {
-          "word": "rājasī",
+          "word": "राजसी",
           "meaning": "rajasic, born of rajas"
         }
       ],
@@ -1656,61 +1656,61 @@
     },
     {
       "verse": 32,
-      "sanskrit": "adharmañ dharmam iti yā manyate tamasāvṛtā |\nsarvārthān viparītāṃś ca buddhiḥ sā pārtha tāmasī ||",
+      "sanskrit": "अधर्मञ् धर्मम् इति या मन्यते तमसावृता ।\nसर्वार्थान् विपरीतांश् च बुद्धिः सा पार्थ तामसी ॥",
       "transliteration": "adharmam dharmam iti yā manyate tamasāvṛtā |\nsarvārthān viparītāṃś ca buddhiḥ sā pārtha tāmasī ||",
       "translation": "The buddhi which, enveloped in darkness (tamasāvṛtā), considers adharma to be dharma, and which sees all things in total inversion (viparītān) — that buddhi, O Pārtha, is tamasic.",
       "audio": "/assets/audio/ch18/verse_18_32.mp3",
       "word_breakdown": [
         {
-          "word": "adharmam",
+          "word": "अधर्मम्",
           "meaning": "unrighteousness, wrong action"
         },
         {
-          "word": "dharmam",
+          "word": "धर्मम्",
           "meaning": "righteousness, right action"
         },
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus, as such"
         },
         {
-          "word": "yā",
+          "word": "या",
           "meaning": "which"
         },
         {
-          "word": "manyate",
+          "word": "मन्यते",
           "meaning": "considers, thinks, believes"
         },
         {
-          "word": "tamasāvṛtā",
+          "word": "तमसावृता",
           "meaning": "enveloped/covered by tamas (darkness)"
         },
         {
-          "word": "sarvārthān",
+          "word": "सर्वार्थान्",
           "meaning": "all things, all meanings, all purposes"
         },
         {
-          "word": "viparītān",
+          "word": "विपरीतान्",
           "meaning": "in reverse, inverted, contrary to truth"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "buddhiḥ",
+          "word": "बुद्धिः",
           "meaning": "intellect, discerning faculty"
         },
         {
-          "word": "sā",
+          "word": "सा",
           "meaning": "that"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O son of Pṛthā (Arjuna)"
         },
         {
-          "word": "tāmasī",
+          "word": "तामसी",
           "meaning": "tamasic, born of tamas"
         }
       ],
@@ -1723,61 +1723,61 @@
     },
     {
       "verse": 33,
-      "sanskrit": "dhṛtyā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ |\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī ||",
+      "sanskrit": "धृत्या यया धारयते मनः-प्राणेन्द्रिय-क्रियाः ।\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ॥",
       "transliteration": "dhṛtyā yayā dhārayate manaḥ-prāṇa-indriya-kriyāḥ |\nyogena avyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī ||",
       "translation": "The steadfastness (dhṛti) by which, through unwavering yoga (avyabhicāriṇyā yogenā), one holds together (dhārayate) the activities of mind, prāṇa (vital force), and the senses — that steadfastness, O Pārtha, is sattvic.",
       "audio": "/assets/audio/ch18/verse_18_33.mp3",
       "word_breakdown": [
         {
-          "word": "dhṛtyā",
+          "word": "धृत्या",
           "meaning": "by steadfastness, by fortitude"
         },
         {
-          "word": "yayā",
+          "word": "यया",
           "meaning": "by which"
         },
         {
-          "word": "dhārayate",
+          "word": "धारयते",
           "meaning": "holds together, sustains, maintains"
         },
         {
-          "word": "manaḥ",
+          "word": "मनः",
           "meaning": "mind"
         },
         {
-          "word": "prāṇa",
+          "word": "प्राण",
           "meaning": "vital force, life-energy"
         },
         {
-          "word": "indriya",
+          "word": "इन्द्रिय",
           "meaning": "senses, sense-organs"
         },
         {
-          "word": "kriyāḥ",
+          "word": "क्रियाः",
           "meaning": "activities, functions, operations"
         },
         {
-          "word": "yogena",
+          "word": "योगेन",
           "meaning": "through yoga, through union/discipline"
         },
         {
-          "word": "avyabhicāriṇyā",
+          "word": "अव्यभिचारिण्या",
           "meaning": "non-deviating, unwavering, that does not stray"
         },
         {
-          "word": "dhṛtiḥ",
+          "word": "धृतिः",
           "meaning": "steadfastness, fortitude, resolve"
         },
         {
-          "word": "sā",
+          "word": "सा",
           "meaning": "that"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O son of Pṛthā (Arjuna)"
         },
         {
-          "word": "sāttvikī",
+          "word": "सात्त्विकी",
           "meaning": "sattvic, born of sattva"
         }
       ],
@@ -1790,65 +1790,65 @@
     },
     {
       "verse": 34,
-      "sanskrit": "yayā tu dharma-kāmārthān dhṛtyā dhārayate'rjuna |\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī ||",
+      "sanskrit": "यया तु धर्म-कामार्थान् धृत्या धारयतेऽर्जुन ।\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ॥",
       "transliteration": "yayā tu dharma-kāma-arthān dhṛtyā dhārayate arjuna |\nprasaṅgena phala-ākāṅkṣī dhṛtiḥ sā pārtha rājasī ||",
       "translation": "But the steadfastness by which one holds to dharma, pleasure (kāma), and wealth (artha), O Arjuna — with attachment (prasaṅgena) and desiring fruits (phalākāṅkṣī) — that dhṛti, O Pārtha, is rajasic.",
       "audio": "/assets/audio/ch18/verse_18_34.mp3",
       "word_breakdown": [
         {
-          "word": "yayā",
+          "word": "यया",
           "meaning": "by which"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "but, however"
         },
         {
-          "word": "dharma",
+          "word": "धर्म",
           "meaning": "righteousness, duty"
         },
         {
-          "word": "kāma",
+          "word": "काम",
           "meaning": "pleasure, desire"
         },
         {
-          "word": "arthān",
+          "word": "अर्थान्",
           "meaning": "wealth, material goals"
         },
         {
-          "word": "dhṛtyā",
+          "word": "धृत्या",
           "meaning": "by steadfastness, by fortitude"
         },
         {
-          "word": "dhārayate",
+          "word": "धारयते",
           "meaning": "holds to, maintains, sustains"
         },
         {
-          "word": "arjuna",
+          "word": "अर्जुन",
           "meaning": "O Arjuna"
         },
         {
-          "word": "prasaṅgena",
+          "word": "प्रसङ्गेन",
           "meaning": "with attachment, with clinging"
         },
         {
-          "word": "phalākāṅkṣī",
+          "word": "फलाकाङ्क्षी",
           "meaning": "one who desires fruits/results"
         },
         {
-          "word": "dhṛtiḥ",
+          "word": "धृतिः",
           "meaning": "steadfastness, fortitude"
         },
         {
-          "word": "sā",
+          "word": "सा",
           "meaning": "that"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O son of Pṛthā (Arjuna)"
         },
         {
-          "word": "rājasī",
+          "word": "राजसी",
           "meaning": "rajasic, born of rajas"
         }
       ],
@@ -1861,65 +1861,65 @@
     },
     {
       "verse": 35,
-      "sanskrit": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madam eva ca |\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī ||",
+      "sanskrit": "यया स्वप्नं भयं शोकं विषादं मदम् एव च ।\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ॥",
       "transliteration": "yayā svapnam bhayam śokam viṣādam madam eva ca |\nna vimuñcati durmedhāḥ dhṛtiḥ sā pārtha tāmasī ||",
       "translation": "The steadfastness by which the dull-witted person (durmedhāḥ) does not let go (na vimuñcati) of excessive sleep (svapnam), fear (bhayam), grief (śokam), depression (viṣādam), and arrogance (madam) — that dhṛti, O Pārtha, is tamasic.",
       "audio": "/assets/audio/ch18/verse_18_35.mp3",
       "word_breakdown": [
         {
-          "word": "yayā",
+          "word": "यया",
           "meaning": "by which"
         },
         {
-          "word": "svapnam",
+          "word": "स्वप्नम्",
           "meaning": "sleep; excessive sleep, lethargy"
         },
         {
-          "word": "bhayam",
+          "word": "भयम्",
           "meaning": "fear"
         },
         {
-          "word": "śokam",
+          "word": "शोकम्",
           "meaning": "grief, sorrow"
         },
         {
-          "word": "viṣādam",
+          "word": "विषादम्",
           "meaning": "depression, despondency, dejection"
         },
         {
-          "word": "madam",
+          "word": "मदम्",
           "meaning": "arrogance, pride, intoxication"
         },
         {
-          "word": "eva",
+          "word": "एव",
           "meaning": "indeed, even"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "na vimuñcati",
+          "word": "न विमुञ्चति",
           "meaning": "does not let go of, does not release, clings to"
         },
         {
-          "word": "durmedhāḥ",
+          "word": "दुर्मेधाः",
           "meaning": "the dull-witted, the foolish, one of poor intelligence"
         },
         {
-          "word": "dhṛtiḥ",
+          "word": "धृतिः",
           "meaning": "steadfastness, resolve"
         },
         {
-          "word": "sā",
+          "word": "सा",
           "meaning": "that"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O son of Pṛthā (Arjuna)"
         },
         {
-          "word": "tāmasī",
+          "word": "तामसी",
           "meaning": "tamasic, born of tamas"
         }
       ],
@@ -1932,61 +1932,61 @@
     },
     {
       "verse": 36,
-      "sanskrit": "sukhaṃ tv idānīṃ tri-vidhaṃ śṛṇu me bharatarṣabha |\nabhyāsād ramate yatra duḥkhāntaṃ ca nigacchati ||",
+      "sanskrit": "सुखं त्व् इदानीं त्रि-विधं शृणु मे भरतर्षभ ।\nअभ्यासाद् रमते यत्र दुःखान्तं च निगच्छति ॥",
       "transliteration": "sukham tu idānīm tri-vidham śṛṇu me bharata-ṛṣabha |\nabhyāsāt ramate yatra duḥkha-antam ca nigacchati ||",
       "translation": "And now hear from Me the threefold happiness (sukham), O Best of Bharatas (bharatarṣabha) — in which one rejoices through practice (abhyāsāt) and by which one reaches the end of suffering (duḥkhāntam).",
       "audio": "/assets/audio/ch18/verse_18_36.mp3",
       "word_breakdown": [
         {
-          "word": "sukham",
+          "word": "सुखम्",
           "meaning": "happiness, joy, pleasure"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "and, now, but"
         },
         {
-          "word": "idānīm",
+          "word": "इदानीम्",
           "meaning": "now, at this time"
         },
         {
-          "word": "tri-vidham",
+          "word": "त्रि-विधम्",
           "meaning": "threefold, of three kinds"
         },
         {
-          "word": "śṛṇu",
+          "word": "शृणु",
           "meaning": "hear, listen"
         },
         {
-          "word": "me",
+          "word": "मे",
           "meaning": "from Me"
         },
         {
-          "word": "bharatarṣabha",
+          "word": "भरतर्षभ",
           "meaning": "O Best of Bharatas (epithet for Arjuna)"
         },
         {
-          "word": "abhyāsāt",
+          "word": "अभ्यासात्",
           "meaning": "through practice, through repetition, through sādhanā"
         },
         {
-          "word": "ramate",
+          "word": "रमते",
           "meaning": "rejoices in, delights in, finds pleasure"
         },
         {
-          "word": "yatra",
+          "word": "यत्र",
           "meaning": "in which, where"
         },
         {
-          "word": "duḥkhāntam",
+          "word": "दुःखान्तम्",
           "meaning": "end of suffering, cessation of sorrow"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "nigacchati",
+          "word": "निगच्छति",
           "meaning": "reaches, attains, comes to"
         }
       ],
@@ -1999,49 +1999,49 @@
     },
     {
       "verse": 37,
-      "sanskrit": "yat tad agre viṣam iva pariṇāme'mṛtopamam |\ntat sukhaṃ sāttvikaṃ proktaṃ ātma-buddhi-prasāda-jam ||",
+      "sanskrit": "यत् तद् अग्रे विषम् इव परिणामेऽमृतोपमम् ।\nतत् सुखं सात्त्विकं प्रोक्तं आत्म-बुद्धि-प्रसाद-जम् ॥",
       "transliteration": "yat tad agre viṣam iva pariṇāme amṛta-upamam |\ntat sukham sāttvikam proktam ātma-buddhi-prasāda-jam ||",
       "translation": "That which is like poison (viṣam iva) at the beginning and like nectar (amṛtopamam) at the end (pariṇāme) — that happiness is declared sattvic, born of the grace and clarity of the Self-knowing buddhi (ātma-buddhi-prasāda-jam).",
       "audio": "/assets/audio/ch18/verse_18_37.mp3",
       "word_breakdown": [
         {
-          "word": "yat tad",
+          "word": "यत् तद्",
           "meaning": "that which"
         },
         {
-          "word": "agre",
+          "word": "अग्रे",
           "meaning": "at the beginning, at first"
         },
         {
-          "word": "viṣam iva",
+          "word": "विषम् इव",
           "meaning": "like poison"
         },
         {
-          "word": "pariṇāme",
+          "word": "परिणामे",
           "meaning": "at the end, in the result, ultimately"
         },
         {
-          "word": "amṛtopamam",
+          "word": "अमृतोपमम्",
           "meaning": "like nectar (amṛta), like immortality"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "sukham",
+          "word": "सुखम्",
           "meaning": "happiness, joy"
         },
         {
-          "word": "sāttvikam",
+          "word": "सात्त्विकम्",
           "meaning": "sattvic, of the nature of sattva"
         },
         {
-          "word": "proktam",
+          "word": "प्रोक्तम्",
           "meaning": "declared, spoken of, taught"
         },
         {
-          "word": "ātma-buddhi-prasāda-jam",
+          "word": "आत्म-बुद्धि-प्रसाद-जम्",
           "meaning": "born of (jam) the grace/clarity (prasāda) of the Self-knowing (ātma) buddhi (buddhi)"
         }
       ],
@@ -2054,57 +2054,57 @@
     },
     {
       "verse": 38,
-      "sanskrit": "viṣayendriya-saṃyogāt yat tad agre'mṛtopamam |\npariṇāme viṣam iva tat sukhaṃ rājasaṃ smṛtam ||",
+      "sanskrit": "विषयेन्द्रिय-संयोगात् यत् तद् अग्रेऽमृतोपमम् ।\nपरिणामे विषम् इव तत् सुखं राजसं स्मृतम् ॥",
       "transliteration": "viṣaya-indriya-saṃyogāt yat tad agre amṛtopamam |\npariṇāme viṣam iva tat sukham rājasam smṛtam ||",
       "translation": "That happiness which arises from the contact of senses with their objects (viṣayendriya-saṃyogāt), which is like nectar (amṛtopamam) at first (agre) but like poison (viṣam iva) at the end (pariṇāme) — that happiness is remembered as rajasic.",
       "audio": "/assets/audio/ch18/verse_18_38.mp3",
       "word_breakdown": [
         {
-          "word": "viṣaya",
+          "word": "विषय",
           "meaning": "sense-objects, objects of experience"
         },
         {
-          "word": "indriya",
+          "word": "इन्द्रिय",
           "meaning": "senses, sense-organs"
         },
         {
-          "word": "saṃyogāt",
+          "word": "संयोगात्",
           "meaning": "from the contact, from the union of"
         },
         {
-          "word": "yat tad",
+          "word": "यत् तद्",
           "meaning": "that which"
         },
         {
-          "word": "agre",
+          "word": "अग्रे",
           "meaning": "at the beginning, at first"
         },
         {
-          "word": "amṛtopamam",
+          "word": "अमृतोपमम्",
           "meaning": "like nectar (amṛta), pleasurable, delightful"
         },
         {
-          "word": "pariṇāme",
+          "word": "परिणामे",
           "meaning": "at the end, in the outcome, ultimately"
         },
         {
-          "word": "viṣam iva",
+          "word": "विषम् इव",
           "meaning": "like poison"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "sukham",
+          "word": "सुखम्",
           "meaning": "happiness, pleasure, enjoyment"
         },
         {
-          "word": "rājasam",
+          "word": "राजसम्",
           "meaning": "rajasic, of the nature of rajas"
         },
         {
-          "word": "smṛtam",
+          "word": "स्मृतम्",
           "meaning": "is remembered, is held, is considered"
         }
       ],
@@ -2117,65 +2117,65 @@
     },
     {
       "verse": 39,
-      "sanskrit": "yad agre cānubandhe ca sukhaṃ mohanam ātmanaḥ |\nnidrālasya-pramādotthaṃ tat tāmasam udāhṛtam ||",
+      "sanskrit": "यद् अग्रे चानुबन्धे च सुखं मोहनम् आत्मनः ।\nनिद्रालस्य-प्रमादोत्थं तत् तामसम् उदाहृतम् ॥",
       "transliteration": "yad agre ca anubandhe ca sukham mohanam ātmanaḥ |\nnidrā-ālasya-pramāda-uttham tat tāmasam udāhṛtam ||",
       "translation": "That happiness which deludes the self (mohanam ātmanaḥ) both at the beginning (agre) and in its continuation (anubandhe), arising from excessive sleep (nidrā), laziness (ālasya), and heedlessness (pramāda) — that is declared tamasic.",
       "audio": "/assets/audio/ch18/verse_18_39.mp3",
       "word_breakdown": [
         {
-          "word": "yad",
+          "word": "यद्",
           "meaning": "that which"
         },
         {
-          "word": "agre",
+          "word": "अग्रे",
           "meaning": "at the beginning, at first"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "anubandhe",
+          "word": "अनुबन्धे",
           "meaning": "in continuation, in consequence, throughout"
         },
         {
-          "word": "sukham",
+          "word": "सुखम्",
           "meaning": "happiness, pleasure"
         },
         {
-          "word": "mohanam",
+          "word": "मोहनम्",
           "meaning": "deluding, bewildering, causing delusion"
         },
         {
-          "word": "ātmanaḥ",
+          "word": "आत्मनः",
           "meaning": "of the self, of oneself"
         },
         {
-          "word": "nidrā",
+          "word": "निद्रा",
           "meaning": "sleep, excessive sleep, torpor"
         },
         {
-          "word": "ālasya",
+          "word": "आलस्य",
           "meaning": "laziness, sloth, idleness"
         },
         {
-          "word": "pramāda",
+          "word": "प्रमाद",
           "meaning": "heedlessness, negligence, carelessness, intoxication"
         },
         {
-          "word": "uttham",
+          "word": "उत्थम्",
           "meaning": "arising from, born of"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "tāmasam",
+          "word": "तामसम्",
           "meaning": "tamasic, of the nature of tamas"
         },
         {
-          "word": "udāhṛtam",
+          "word": "उदाहृतम्",
           "meaning": "declared, stated, said to be"
         }
       ],
@@ -2188,73 +2188,73 @@
     },
     {
       "verse": 40,
-      "sanskrit": "na tad asti pṛthivyāṃ vā divi deveṣu vā punaḥ |\nsattvaṃ prakṛti-jair muktaṃ yad ebhiḥ syāt tribhir guṇaiḥ ||",
+      "sanskrit": "न तद् अस्ति पृथिव्यां वा दिवि देवेषु वा पुनः ।\nसत्त्वं प्रकृति-जैर् मुक्तं यद् एभिः स्यात् त्रिभिर् गुणैः ॥",
       "transliteration": "na tad asti pṛthivyām vā divi deveṣu vā punaḥ |\nsattvam prakṛti-jaiḥ muktam yad ebhiḥ syāt tribhiḥ guṇaiḥ ||",
       "translation": "There is no being (sattvam) on earth (pṛthivyām) or again among the gods in heaven (divi deveṣu) that is free (muktam) from these three guṇas born of Prakṛti (prakṛti-jaiḥ tribhiḥ guṇaiḥ).",
       "audio": "/assets/audio/ch18/verse_18_40.mp3",
       "word_breakdown": [
         {
-          "word": "na",
+          "word": "न",
           "meaning": "not, there is no"
         },
         {
-          "word": "tad",
+          "word": "तद्",
           "meaning": "that, such"
         },
         {
-          "word": "asti",
+          "word": "अस्ति",
           "meaning": "is, exists"
         },
         {
-          "word": "pṛthivyām",
+          "word": "पृथिव्याम्",
           "meaning": "on earth, in the earthly realm"
         },
         {
-          "word": "vā",
+          "word": "वा",
           "meaning": "or"
         },
         {
-          "word": "divi",
+          "word": "दिवि",
           "meaning": "in heaven, in the celestial realm"
         },
         {
-          "word": "deveṣu",
+          "word": "देवेषु",
           "meaning": "among the gods, among the devas"
         },
         {
-          "word": "punaḥ",
+          "word": "पुनः",
           "meaning": "again, moreover"
         },
         {
-          "word": "sattvam",
+          "word": "सत्त्वम्",
           "meaning": "being, entity, creature (here: any existing being)"
         },
         {
-          "word": "prakṛti-jaiḥ",
+          "word": "प्रकृति-जैः",
           "meaning": "born of Prakṛti, produced by Nature"
         },
         {
-          "word": "muktam",
+          "word": "मुक्तम्",
           "meaning": "free, liberated, released"
         },
         {
-          "word": "yad",
+          "word": "यद्",
           "meaning": "which"
         },
         {
-          "word": "ebhiḥ",
+          "word": "एभिः",
           "meaning": "from these"
         },
         {
-          "word": "syāt",
+          "word": "स्यात्",
           "meaning": "could be, would be"
         },
         {
-          "word": "tribhiḥ",
+          "word": "त्रिभिः",
           "meaning": "three"
         },
         {
-          "word": "guṇaiḥ",
+          "word": "गुणैः",
           "meaning": "guṇas, qualities of Prakṛti"
         }
       ],
@@ -2267,41 +2267,41 @@
     },
     {
       "verse": 41,
-      "sanskrit": "brāhmaṇa-kṣatriya-viśāṃ śūdrāṇāṃ ca parantapa | karmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ ||",
+      "sanskrit": "ब्राह्मण-क्षत्रिय-विशां शूद्राणां च परन्तप । कर्माणि प्रविभक्तानि स्वभाव-प्रभवैर् गुणैः ॥",
       "transliteration": "brāhmaṇa-kṣatriya-viśāṃ śūdrāṇāṃ ca parantapa | karmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ ||",
       "translation": "The duties of brāhmaṇas, kṣatriyas, vaiśyas, and śūdras, O Scorcher of Foes (parantapa), are assigned and distributed (pravibhaktāni) according to the guṇas born of their inherent nature (svabhāva-prabhavaiḥ guṇaiḥ).",
       "audio": "/assets/audio/ch18/verse_18_41.mp3",
       "word_breakdown": [
         {
-          "word": "brāhmaṇa-kṣatriya-viśām",
+          "word": "ब्राह्मण-क्षत्रिय-विशाम्",
           "meaning": "of brāhmaṇas, kṣatriyas, and vaiśyas"
         },
         {
-          "word": "śūdrāṇām",
+          "word": "शूद्राणाम्",
           "meaning": "of śūdras"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "parantapa",
+          "word": "परन्तप",
           "meaning": "O Scorcher of Foes (epithet of Arjuna)"
         },
         {
-          "word": "karmāṇi",
+          "word": "कर्माणि",
           "meaning": "duties, actions"
         },
         {
-          "word": "pravibhaktāni",
+          "word": "प्रविभक्तानि",
           "meaning": "distinctly divided, assigned"
         },
         {
-          "word": "svabhāva-prabhavaiḥ",
+          "word": "स्वभाव-प्रभवैः",
           "meaning": "born from one's own inherent nature"
         },
         {
-          "word": "guṇaiḥ",
+          "word": "गुणैः",
           "meaning": "by the guṇas (sattva, rajas, tamas)"
         }
       ],
@@ -2314,53 +2314,53 @@
     },
     {
       "verse": 42,
-      "sanskrit": "śamo damas tapaḥ śaucaṃ kṣāntir ārjavam eva ca | jñānaṃ vijñānam āstikyaṃ brahma-karma svabhāva-jam ||",
+      "sanskrit": "शमो दमस् तपः शौचं क्षान्तिर् आर्जवम् एव च । ज्ञानं विज्ञानम् आस्तिक्यं ब्रह्म-कर्म स्वभाव-जम् ॥",
       "transliteration": "śamo damas tapaḥ śaucaṃ kṣāntir ārjavam eva ca | jñānaṃ vijñānam āstikyaṃ brahma-karma svabhāva-jam ||",
       "translation": "Serenity (śama), self-restraint (dama), austerity (tapaḥ), purity (śauca), forgiveness (kṣānti), uprightness (ārjava), knowledge (jñāna), experiential wisdom (vijñāna), and faith in the divine (āstikya) — these are the brāhmaṇa's duties, born of svabhāva.",
       "audio": "/assets/audio/ch18/verse_18_42.mp3",
       "word_breakdown": [
         {
-          "word": "śamaḥ",
+          "word": "शमः",
           "meaning": "serenity, tranquility of mind"
         },
         {
-          "word": "damaḥ",
+          "word": "दमः",
           "meaning": "self-restraint, control of the senses"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity, disciplined spiritual practice"
         },
         {
-          "word": "śaucam",
+          "word": "शौचम्",
           "meaning": "purity, cleanliness (inner and outer)"
         },
         {
-          "word": "kṣāntiḥ",
+          "word": "क्षान्तिः",
           "meaning": "forgiveness, forbearance, patience"
         },
         {
-          "word": "ārjavam",
+          "word": "आर्जवम्",
           "meaning": "uprightness, straightforwardness, sincerity"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "scriptural and intellectual knowledge"
         },
         {
-          "word": "vijñānam",
+          "word": "विज्ञानम्",
           "meaning": "direct experiential realization, wisdom"
         },
         {
-          "word": "āstikyam",
+          "word": "आस्तिक्यम्",
           "meaning": "faith in the Vedas, in God, in the next world"
         },
         {
-          "word": "brahma-karma",
+          "word": "ब्रह्म-कर्म",
           "meaning": "the duty of the brāhmaṇa"
         },
         {
-          "word": "svabhāva-jam",
+          "word": "स्वभाव-जम्",
           "meaning": "born from one's own nature"
         }
       ],
@@ -2373,57 +2373,57 @@
     },
     {
       "verse": 43,
-      "sanskrit": "śauryaṃ tejo dhṛtir dākṣyaṃ yuddhe cāpy apalāyanam | dānam īśvara-bhāvaś ca kṣātraṃ karma svabhāva-jam ||",
+      "sanskrit": "शौर्यं तेजो धृतिर् दाक्ष्यं युद्धे चाप्य् अपलायनम् । दानम् ईश्वर-भावश् च क्षात्रं कर्म स्वभाव-जम् ॥",
       "transliteration": "śauryaṃ tejo dhṛtir dākṣyaṃ yuddhe cāpy apalāyanam | dānam īśvara-bhāvaś ca kṣātraṃ karma svabhāva-jam ||",
       "translation": "Heroism (śauryam), vigor (tejas), steadfastness (dhṛti), skillfulness (dākṣya), not fleeing in battle (apalāyanam), generosity (dānam), and lordly bearing (īśvara-bhāvaḥ) — these are the kṣatriya's natural duties, born of svabhāva.",
       "audio": "/assets/audio/ch18/verse_18_43.mp3",
       "word_breakdown": [
         {
-          "word": "śauryam",
+          "word": "शौर्यम्",
           "meaning": "heroism, valor, bravery"
         },
         {
-          "word": "tejaḥ",
+          "word": "तेजः",
           "meaning": "vigor, fiery energy, radiance"
         },
         {
-          "word": "dhṛtiḥ",
+          "word": "धृतिः",
           "meaning": "steadfastness, fortitude, firmness"
         },
         {
-          "word": "dākṣyam",
+          "word": "दाक्ष्यम्",
           "meaning": "skillfulness, dexterity, competence"
         },
         {
-          "word": "yuddhe",
+          "word": "युद्धे",
           "meaning": "in battle"
         },
         {
-          "word": "ca api",
+          "word": "च अपि",
           "meaning": "and also"
         },
         {
-          "word": "apalāyanam",
+          "word": "अपलायनम्",
           "meaning": "not fleeing, standing firm"
         },
         {
-          "word": "dānam",
+          "word": "दानम्",
           "meaning": "generosity, charitable giving"
         },
         {
-          "word": "īśvara-bhāvaḥ",
+          "word": "ईश्वर-भावः",
           "meaning": "lordly bearing, natural leadership quality"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "kṣātram karma",
+          "word": "क्षात्रम् कर्म",
           "meaning": "the duty of the kṣatriya"
         },
         {
-          "word": "svabhāva-jam",
+          "word": "स्वभाव-जम्",
           "meaning": "born from one's own nature"
         }
       ],
@@ -2436,49 +2436,49 @@
     },
     {
       "verse": 44,
-      "sanskrit": "kṛṣi-go-rakṣya-vāṇijyaṃ vaiśya-karma svabhāva-jam | paricaryātmakaṃ karma śūdrasyāpi svabhāva-jam ||",
+      "sanskrit": "कृषि-गो-रक्ष्य-वाणिज्यं वैश्य-कर्म स्वभाव-जम् । परिचर्यात्मकं कर्म शूद्रस्यापि स्वभाव-जम् ॥",
       "transliteration": "kṛṣi-go-rakṣya-vāṇijyaṃ vaiśya-karma svabhāva-jam | paricaryātmakaṃ karma śūdrasyāpi svabhāva-jam ||",
       "translation": "Agriculture (kṛṣi), cattle-rearing (go-rakṣya), and trade (vāṇijyam) — these are the vaiśya's natural duties, born of svabhāva; service (paricarya) is also (api) the natural duty of the śūdra, born of svabhāva.",
       "audio": "/assets/audio/ch18/verse_18_44.mp3",
       "word_breakdown": [
         {
-          "word": "kṛṣi",
+          "word": "कृषि",
           "meaning": "agriculture, farming"
         },
         {
-          "word": "go-rakṣya",
+          "word": "गो-रक्ष्य",
           "meaning": "cattle-rearing, protection of cows"
         },
         {
-          "word": "vāṇijyam",
+          "word": "वाणिज्यम्",
           "meaning": "trade, commerce"
         },
         {
-          "word": "vaiśya-karma",
+          "word": "वैश्य-कर्म",
           "meaning": "the duty of the vaiśya"
         },
         {
-          "word": "svabhāva-jam",
+          "word": "स्वभाव-जम्",
           "meaning": "born from one's own nature"
         },
         {
-          "word": "paricaryātmakam",
+          "word": "परिचर्यात्मकम्",
           "meaning": "of the nature of service, consisting in service"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "duty, action"
         },
         {
-          "word": "śūdrasya",
+          "word": "शूद्रस्य",
           "meaning": "of the śūdra"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "also, even"
         },
         {
-          "word": "svabhāva-jam",
+          "word": "स्वभाव-जम्",
           "meaning": "born from one's own nature"
         }
       ],
@@ -2491,53 +2491,53 @@
     },
     {
       "verse": 45,
-      "sanskrit": "sve sve karmaṇy abhirataḥ saṃsiddhiṃ labhate naraḥ | sva-karma-nirataḥ siddhiṃ yathā vindati tac chṛṇu ||",
+      "sanskrit": "स्वे स्वे कर्मण्य् अभिरतः संसिद्धिं लभते नरः । स्व-कर्म-निरतः सिद्धिं यथा विन्दति तच् छृणु ॥",
       "transliteration": "sve sve karmaṇy abhirataḥ saṃsiddhiṃ labhate naraḥ | sva-karma-nirataḥ siddhiṃ yathā vindati tac chṛṇu ||",
       "translation": "Devoted to and delighting in (abhirataḥ) one's own proper duty (sve sve karmaṇi), a person (naraḥ) attains supreme perfection (saṃsiddhim). How one devoted to one's own duty (sva-karma-nirataḥ) finds that perfection (siddhim) — hear that from Me.",
       "audio": "/assets/audio/ch18/verse_18_45.mp3",
       "word_breakdown": [
         {
-          "word": "sve sve karmaṇi",
+          "word": "स्वे स्वे कर्मणि",
           "meaning": "in one's very own duty (emphatic repetition)"
         },
         {
-          "word": "abhirataḥ",
+          "word": "अभिरतः",
           "meaning": "devoted to, delighting in, absorbed in"
         },
         {
-          "word": "saṃsiddhim",
+          "word": "संसिद्धिम्",
           "meaning": "supreme perfection, complete accomplishment"
         },
         {
-          "word": "labhate",
+          "word": "लभते",
           "meaning": "attains, obtains"
         },
         {
-          "word": "naraḥ",
+          "word": "नरः",
           "meaning": "a person, a human being"
         },
         {
-          "word": "sva-karma-nirataḥ",
+          "word": "स्व-कर्म-निरतः",
           "meaning": "devoted and engaged in one's own duty"
         },
         {
-          "word": "siddhim",
+          "word": "सिद्धिम्",
           "meaning": "perfection, success, fulfillment"
         },
         {
-          "word": "yathā",
+          "word": "यथा",
           "meaning": "how, in what way"
         },
         {
-          "word": "vindati",
+          "word": "विन्दति",
           "meaning": "finds, attains, discovers"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "śṛṇu",
+          "word": "शृणु",
           "meaning": "hear, listen (imperative)"
         }
       ],
@@ -2550,57 +2550,57 @@
     },
     {
       "verse": 46,
-      "sanskrit": "yataḥ pravṛttir bhūtānāṃ yena sarvam idaṃ tatam | sva-karmaṇā tam abhyarcya siddhiṃ vindati mānavaḥ ||",
+      "sanskrit": "यतः प्रवृत्तिर् भूतानां येन सर्वम् इदं ततम् । स्व-कर्मणा तम् अभ्यर्च्य सिद्धिं विन्दति मानवः ॥",
       "transliteration": "yataḥ pravṛttir bhūtānāṃ yena sarvam idaṃ tatam | sva-karmaṇā tam abhyarcya siddhiṃ vindati mānavaḥ ||",
       "translation": "From whom all beings have their activity (pravṛtti), by whom all this is pervaded (sarvam idam tatam) — by worshipping That One (tam abhyarcya) through one's own proper duty (sva-karmaṇā) — a person (mānavaḥ) attains perfection (siddhim).",
       "audio": "/assets/audio/ch18/verse_18_46.mp3",
       "word_breakdown": [
         {
-          "word": "yataḥ",
+          "word": "यतः",
           "meaning": "from whom, from which"
         },
         {
-          "word": "pravṛttiḥ",
+          "word": "प्रवृत्तिः",
           "meaning": "activity, coming forth, origination"
         },
         {
-          "word": "bhūtānām",
+          "word": "भूतानाम्",
           "meaning": "of all beings"
         },
         {
-          "word": "yena",
+          "word": "येन",
           "meaning": "by whom"
         },
         {
-          "word": "sarvam idam",
+          "word": "सर्वम् इदम्",
           "meaning": "all this (the entire universe)"
         },
         {
-          "word": "tatam",
+          "word": "ततम्",
           "meaning": "pervaded, spread through"
         },
         {
-          "word": "sva-karmaṇā",
+          "word": "स्व-कर्मणा",
           "meaning": "by one's own duty, through one's own action"
         },
         {
-          "word": "tam",
+          "word": "तम्",
           "meaning": "That One, That (the Lord)"
         },
         {
-          "word": "abhyarcya",
+          "word": "अभ्यर्च्य",
           "meaning": "having worshipped, by worshipping"
         },
         {
-          "word": "siddhim",
+          "word": "सिद्धिम्",
           "meaning": "perfection, liberation"
         },
         {
-          "word": "vindati",
+          "word": "विन्दति",
           "meaning": "attains, finds"
         },
         {
-          "word": "mānavaḥ",
+          "word": "मानवः",
           "meaning": "a human being, a person"
         }
       ],
@@ -2613,49 +2613,49 @@
     },
     {
       "verse": 47,
-      "sanskrit": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt | svabhāva-niyataṃ karma kurvan nāpnoti kilbiṣam ||",
+      "sanskrit": "श्रेयान् स्व-धर्मो विगुणः पर-धर्मात् स्व्-अनुष्ठितात् । स्वभाव-नियतं कर्म कुर्वन् नाप्नोति किल्बिषम् ॥",
       "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt | svabhāva-niyataṃ karma kurvan nāpnoti kilbiṣam ||",
       "translation": "Better (śreyān) is one's own dharma, even if imperfectly performed (viguṇaḥ), than the dharma of another, even if well performed (sv-anuṣṭhitāt). Performing the action ordained by one's own nature (svabhāva-niyatam karma), one does not incur sin (kilbiṣam).",
       "audio": "/assets/audio/ch18/verse_18_47.mp3",
       "word_breakdown": [
         {
-          "word": "śreyān",
+          "word": "श्रेयान्",
           "meaning": "better, superior, more beneficial"
         },
         {
-          "word": "sva-dharmaḥ",
+          "word": "स्व-धर्मः",
           "meaning": "one's own dharma, one's proper duty"
         },
         {
-          "word": "viguṇaḥ",
+          "word": "विगुणः",
           "meaning": "without all qualities, imperfectly performed"
         },
         {
-          "word": "para-dharmāt",
+          "word": "पर-धर्मात्",
           "meaning": "than the dharma of another"
         },
         {
-          "word": "sv-anuṣṭhitāt",
+          "word": "स्व्-अनुष्ठितात्",
           "meaning": "well-performed, properly executed"
         },
         {
-          "word": "svabhāva-niyatam",
+          "word": "स्वभाव-नियतम्",
           "meaning": "regulated and ordained by one's own nature"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "action, duty"
         },
         {
-          "word": "kurvan",
+          "word": "कुर्वन्",
           "meaning": "performing, doing"
         },
         {
-          "word": "na āpnoti",
+          "word": "न आप्नोति",
           "meaning": "does not incur, does not obtain"
         },
         {
-          "word": "kilbiṣam",
+          "word": "किल्बिषम्",
           "meaning": "sin, fault, impurity, karmic blemish"
         }
       ],
@@ -2668,49 +2668,49 @@
     },
     {
       "verse": 48,
-      "sanskrit": "saha-jaṃ karma kaunteya sa-doṣam api na tyajet | sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ ||",
+      "sanskrit": "सह-जं कर्म कौन्तेय स-दोषम् अपि न त्यजेत् । सर्वारम्भा हि दोषेण धूमेनाग्निर् इवावृताः ॥",
       "transliteration": "saha-jaṃ karma kaunteya sa-doṣam api na tyajet | sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ ||",
       "translation": "Obligatory duty born together with oneself (saha-jaṃ karma), O Kaunteya, should not be abandoned even if it is flawed (sa-doṣam api). For all undertakings are enveloped by faults (doṣeṇa āvṛtāḥ) as fire is by smoke (dhūmenāgniḥ iva).",
       "audio": "/assets/audio/ch18/verse_18_48.mp3",
       "word_breakdown": [
         {
-          "word": "saha-jam",
+          "word": "सह-जम्",
           "meaning": "born together with oneself, congenital, innate"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "duty, action"
         },
         {
-          "word": "kaunteya",
+          "word": "कौन्तेय",
           "meaning": "O son of Kuntī (Arjuna)"
         },
         {
-          "word": "sa-doṣam api",
+          "word": "स-दोषम् अपि",
           "meaning": "even if possessing faults, even if imperfect"
         },
         {
-          "word": "na tyajet",
+          "word": "न त्यजेत्",
           "meaning": "should not abandon, must not give up"
         },
         {
-          "word": "sarvārambhāḥ",
+          "word": "सर्वारम्भाः",
           "meaning": "all undertakings, all endeavors"
         },
         {
-          "word": "hi",
+          "word": "हि",
           "meaning": "indeed, for"
         },
         {
-          "word": "doṣeṇa",
+          "word": "दोषेण",
           "meaning": "by fault, by imperfection"
         },
         {
-          "word": "dhūmena agniḥ iva",
+          "word": "धूमेन अग्निः इव",
           "meaning": "as fire by smoke"
         },
         {
-          "word": "āvṛtāḥ",
+          "word": "आवृताः",
           "meaning": "enveloped, covered, surrounded"
         }
       ],
@@ -2723,41 +2723,41 @@
     },
     {
       "verse": 49,
-      "sanskrit": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛhaḥ | naiṣkarmya-siddhiṃ paramāṃ sannyāsenādhigacchati ||",
+      "sanskrit": "असक्त-बुद्धिः सर्वत्र जितात्मा विगत-स्पृहः । नैष्कर्म्य-सिद्धिं परमां सन्न्यासेनाधिगच्छति ॥",
       "transliteration": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛhaḥ | naiṣkarmya-siddhiṃ paramāṃ sannyāsenādhigacchati ||",
       "translation": "The person of unattached intelligence (asakta-buddhiḥ) everywhere, the self-conquered (jitātmā), the desire-free (vigata-spṛhaḥ) — through renunciation (sannyāsena) attains the supreme state of freedom from action (naiṣkarmya-siddhim paramām).",
       "audio": "/assets/audio/ch18/verse_18_49.mp3",
       "word_breakdown": [
         {
-          "word": "asakta-buddhiḥ",
+          "word": "असक्त-बुद्धिः",
           "meaning": "one whose intelligence is unattached, non-clinging"
         },
         {
-          "word": "sarvatra",
+          "word": "सर्वत्र",
           "meaning": "everywhere, in all circumstances"
         },
         {
-          "word": "jitātmā",
+          "word": "जितात्मा",
           "meaning": "one who has conquered the self, self-subdued"
         },
         {
-          "word": "vigata-spṛhaḥ",
+          "word": "विगत-स्पृहः",
           "meaning": "one from whom desire has departed, desire-free"
         },
         {
-          "word": "naiṣkarmya-siddhim",
+          "word": "नैष्कर्म्य-सिद्धिम्",
           "meaning": "the perfection of actionlessness, freedom from karmic bondage"
         },
         {
-          "word": "paramām",
+          "word": "परमाम्",
           "meaning": "supreme, highest"
         },
         {
-          "word": "sannyāsena",
+          "word": "सन्न्यासेन",
           "meaning": "through renunciation, by inner renunciation"
         },
         {
-          "word": "adhigacchati",
+          "word": "अधिगच्छति",
           "meaning": "attains, reaches, arrives at"
         }
       ],
@@ -2770,49 +2770,49 @@
     },
     {
       "verse": 50,
-      "sanskrit": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me | samāsenaiva kaunteya niṣṭhā jñānasya yā parā ||",
+      "sanskrit": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे । समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ॥",
       "transliteration": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me | samāsenaiva kaunteya niṣṭhā jñānasya yā parā ||",
       "translation": "How one who has attained perfection (siddhiṃ prāptaḥ) then attains Brahman (tathā brahma āpnoti) — hear that from Me briefly (samāsena eva, nibodha me), O Kaunteya — that is the supreme culmination (parā niṣṭhā) of knowledge (jñānasya).",
       "audio": "/assets/audio/ch18/verse_18_50.mp3",
       "word_breakdown": [
         {
-          "word": "siddhim prāptaḥ",
+          "word": "सिद्धिम् प्राप्तः",
           "meaning": "having attained perfection (naiṣkarmya-siddhi)"
         },
         {
-          "word": "yathā",
+          "word": "यथा",
           "meaning": "how, in what manner"
         },
         {
-          "word": "brahma",
+          "word": "ब्रह्म",
           "meaning": "Brahman, the Absolute"
         },
         {
-          "word": "tathā āpnoti",
+          "word": "तथा आप्नोति",
           "meaning": "then attains, so attains"
         },
         {
-          "word": "nibodha me",
+          "word": "निबोध मे",
           "meaning": "hear from Me, understand from Me"
         },
         {
-          "word": "samāsena eva",
+          "word": "समासेन एव",
           "meaning": "briefly, in summary, concisely"
         },
         {
-          "word": "kaunteya",
+          "word": "कौन्तेय",
           "meaning": "O son of Kuntī (Arjuna)"
         },
         {
-          "word": "niṣṭhā",
+          "word": "निष्ठा",
           "meaning": "culmination, resting place, highest state"
         },
         {
-          "word": "jñānasya",
+          "word": "ज्ञानस्य",
           "meaning": "of knowledge"
         },
         {
-          "word": "yā parā",
+          "word": "या परा",
           "meaning": "which is supreme, which is the highest"
         }
       ],
@@ -2825,57 +2825,57 @@
     },
     {
       "verse": 51,
-      "sanskrit": "buddhyā viśuddhayā yukto dhṛtyātmānaṃ niyamya ca | śabdādīn viṣayāṃs tyaktvā rāga-dveṣau vyudasya ca ||",
+      "sanskrit": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च । शब्दादीन् विषयांस् त्यक्त्वा राग-द्वेषौ व्युदस्य च ॥",
       "transliteration": "buddhyā viśuddhayā yukto dhṛtyā ātmānaṃ niyamya ca | śabdādīn viṣayān tyaktvā rāga-dveṣau vyudasya ca ||",
       "translation": "Endowed with purified intelligence, controlling oneself with steadfastness, having abandoned sense-objects such as sound and the rest, and having cast aside attraction and aversion...",
       "audio": "/assets/audio/ch18/verse_18_51.mp3",
       "word_breakdown": [
         {
-          "word": "buddhyā",
+          "word": "बुद्ध्या",
           "meaning": "by/with intelligence, by the discriminative faculty"
         },
         {
-          "word": "viśuddhayā",
+          "word": "विशुद्धया",
           "meaning": "purified, completely cleansed"
         },
         {
-          "word": "yuktaḥ",
+          "word": "युक्तः",
           "meaning": "endowed with, united, equipped"
         },
         {
-          "word": "dhṛtyā",
+          "word": "धृत्या",
           "meaning": "by steadfastness, by firm resolve"
         },
         {
-          "word": "ātmānam",
+          "word": "आत्मानम्",
           "meaning": "the self, oneself"
         },
         {
-          "word": "niyamya",
+          "word": "नियम्य",
           "meaning": "having controlled, having restrained"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "śabdādīn",
+          "word": "शब्दादीन्",
           "meaning": "sound and the rest (śabda = sound, ādi = beginning/etc.)"
         },
         {
-          "word": "viṣayān",
+          "word": "विषयान्",
           "meaning": "sense-objects, objects of the senses"
         },
         {
-          "word": "tyaktvā",
+          "word": "त्यक्त्वा",
           "meaning": "having abandoned, having renounced"
         },
         {
-          "word": "rāga-dveṣau",
+          "word": "राग-द्वेषौ",
           "meaning": "attraction and aversion (rāga = attachment/liking; dveṣa = repulsion/hatred)"
         },
         {
-          "word": "vyudasya",
+          "word": "व्युदस्य",
           "meaning": "having cast aside, having discarded completely"
         }
       ],
@@ -2888,45 +2888,45 @@
     },
     {
       "verse": 52,
-      "sanskrit": "vivikta-sevī laghv-āśī yata-vāk-kāya-mānasaḥ | dhyāna-yoga-paro nityaṃ vairāgyaṃ samupāśritaḥ ||",
+      "sanskrit": "विविक्त-सेवी लघ्व्-आशी यत-वाक्-काय-मानसः । ध्यान-योग-परो नित्यं वैराग्यं समुपाश्रितः ॥",
       "transliteration": "vivikta-sevī laghv-āśī yata-vāk-kāya-mānasaḥ | dhyāna-yoga-paraḥ nityam vairāgyam samupāśritaḥ ||",
       "translation": "...frequenting solitary places, eating sparingly, with speech, body, and mind controlled, ever devoted to the yoga of meditation, having taken complete refuge in dispassion...",
       "audio": "/assets/audio/ch18/verse_18_52.mp3",
       "word_breakdown": [
         {
-          "word": "vivikta-sevī",
+          "word": "विविक्त-सेवी",
           "meaning": "one who frequents solitary/secluded places (vivikta = solitary; sevī = frequenting, serving)"
         },
         {
-          "word": "laghu-āśī",
+          "word": "लघु-आशी",
           "meaning": "eating lightly, one who eats sparingly (laghu = light; āśī = eater)"
         },
         {
-          "word": "yata-vāk",
+          "word": "यत-वाक्",
           "meaning": "with controlled speech (yata = restrained; vāk = speech)"
         },
         {
-          "word": "kāya",
+          "word": "काय",
           "meaning": "body"
         },
         {
-          "word": "mānasaḥ",
+          "word": "मानसः",
           "meaning": "mind; with controlled mind"
         },
         {
-          "word": "dhyāna-yoga-paraḥ",
+          "word": "ध्यान-योग-परः",
           "meaning": "supremely devoted to dhyāna-yoga, having meditation as the highest (dhyāna = meditation; yoga = union/practice; para = supreme/highest)"
         },
         {
-          "word": "nityam",
+          "word": "नित्यम्",
           "meaning": "always, eternally, ever"
         },
         {
-          "word": "vairāgyam",
+          "word": "वैराग्यम्",
           "meaning": "dispassion, non-attachment, detachment from sense-enjoyments"
         },
         {
-          "word": "samupāśritaḥ",
+          "word": "समुपाश्रितः",
           "meaning": "having fully taken refuge in, having completely embraced (sam = fully; upa = near; āśrita = taken refuge)"
         }
       ],
@@ -2939,53 +2939,53 @@
     },
     {
       "verse": 53,
-      "sanskrit": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham | vimucya nirmamaḥ śānto brahma-bhūyāya kalpate ||",
+      "sanskrit": "अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् । विमुच्य निर्ममः शान्तो ब्रह्म-भूयाय कल्पते ॥",
       "transliteration": "ahaṃkāram balam darpam kāmam krodham parigraham | vimucya nirmamaḥ śāntaḥ brahma-bhūyāya kalpate ||",
       "translation": "...having relinquished ego, force, pride, desire, anger, and possessiveness — free from 'mine'-ness, peaceful — one becomes fit for becoming Brahman.",
       "audio": "/assets/audio/ch18/verse_18_53.mp3",
       "word_breakdown": [
         {
-          "word": "ahaṃkāram",
+          "word": "अहंकारम्",
           "meaning": "ego, the I-maker, the sense of separate self"
         },
         {
-          "word": "balam",
+          "word": "बलम्",
           "meaning": "force, physical strength used arrogantly, brute power"
         },
         {
-          "word": "darpam",
+          "word": "दर्पम्",
           "meaning": "pride, arrogance, vanity"
         },
         {
-          "word": "kāmam",
+          "word": "कामम्",
           "meaning": "desire, craving, lust"
         },
         {
-          "word": "krodham",
+          "word": "क्रोधम्",
           "meaning": "anger, wrath"
         },
         {
-          "word": "parigraham",
+          "word": "परिग्रहम्",
           "meaning": "possessiveness, grasping, hoarding, acquisition"
         },
         {
-          "word": "vimucya",
+          "word": "विमुच्य",
           "meaning": "having completely released, having relinquished"
         },
         {
-          "word": "nirmamaḥ",
+          "word": "निर्ममः",
           "meaning": "free from 'mine'-ness, without possessive identification (nir = without; mama = mine)"
         },
         {
-          "word": "śāntaḥ",
+          "word": "शान्तः",
           "meaning": "peaceful, tranquil, at peace"
         },
         {
-          "word": "brahma-bhūyāya",
+          "word": "ब्रह्म-भूयाय",
           "meaning": "for becoming Brahman, for the state of Brahman (brahma = Brahman; bhūya = becoming)"
         },
         {
-          "word": "kalpate",
+          "word": "कल्पते",
           "meaning": "becomes fit/qualified, is suited for"
         }
       ],
@@ -2998,49 +2998,49 @@
     },
     {
       "verse": 54,
-      "sanskrit": "brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati | samaḥ sarveṣu bhūteṣu mad-bhaktiṃ labhate parām ||",
+      "sanskrit": "ब्रह्म-भूतः प्रसन्नात्मा न शोचति न काङ्क्षति । समः सर्वेषु भूतेषु मद्-भक्तिं लभते पराम् ॥",
       "transliteration": "brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati | samaḥ sarveṣu bhūteṣu mad-bhaktim labhate parām ||",
       "translation": "Having become Brahman, with a serene and luminous Self, one neither grieves nor desires; equal to all beings — one attains supreme devotion to Me.",
       "audio": "/assets/audio/ch18/verse_18_54.mp3",
       "word_breakdown": [
         {
-          "word": "brahma-bhūtaḥ",
+          "word": "ब्रह्म-भूतः",
           "meaning": "having become Brahman, one who has attained the Brahman-state (brahma = Brahman; bhūta = become/having become)"
         },
         {
-          "word": "prasanna-ātmā",
+          "word": "प्रसन्न-आत्मा",
           "meaning": "with serene/luminous Self, one whose inner being is clear and radiant (prasanna = serene, clear, luminous; ātmā = Self)"
         },
         {
-          "word": "na śocati",
+          "word": "न शोचति",
           "meaning": "does not grieve, does not mourn (śocati = grieves)"
         },
         {
-          "word": "na kāṅkṣati",
+          "word": "न काङ्क्षति",
           "meaning": "does not desire, does not hanker (kāṅkṣati = desires/craves)"
         },
         {
-          "word": "samaḥ",
+          "word": "समः",
           "meaning": "equal, same, evenness of vision"
         },
         {
-          "word": "sarveṣu",
+          "word": "सर्वेषु",
           "meaning": "to all, in all"
         },
         {
-          "word": "bhūteṣu",
+          "word": "भूतेषु",
           "meaning": "beings, creatures, living entities"
         },
         {
-          "word": "mad-bhaktim",
+          "word": "मद्-भक्तिम्",
           "meaning": "devotion to Me, bhakti directed toward Me (mad = My; bhakti = devotion)"
         },
         {
-          "word": "labhate",
+          "word": "लभते",
           "meaning": "attains, obtains, receives"
         },
         {
-          "word": "parām",
+          "word": "पराम्",
           "meaning": "supreme, highest, transcendent"
         }
       ],
@@ -3053,49 +3053,49 @@
     },
     {
       "verse": 55,
-      "sanskrit": "bhaktyā mām abhijānāti yāvān yaś cāsmi tattvataḥ | tato māṃ tattvato jñātvā viśate tad-anantaram ||",
+      "sanskrit": "भक्त्या माम् अभिजानाति यावान् यश् चास्मि तत्त्वतः । ततो मां तत्त्वतो ज्ञात्वा विशते तद्-अनन्तरम् ॥",
       "transliteration": "bhaktyā mām abhijānāti yāvān yaś ca asmi tattvataḥ | tataḥ māṃ tattvataḥ jñātvā viśate tad-anantaram ||",
       "translation": "Through devotion one knows Me — who I am and how great I am — in truth. Then, having known Me truly, one enters into Me immediately thereafter.",
       "audio": "/assets/audio/ch18/verse_18_55.mp3",
       "word_breakdown": [
         {
-          "word": "bhaktyā",
+          "word": "भक्त्या",
           "meaning": "through devotion, by means of bhakti"
         },
         {
-          "word": "mām",
+          "word": "माम्",
           "meaning": "Me (the Lord, Kṛṣṇa)"
         },
         {
-          "word": "abhijānāti",
+          "word": "अभिजानाति",
           "meaning": "knows completely, recognizes truly (abhi = fully/completely; jānāti = knows)"
         },
         {
-          "word": "yāvān",
+          "word": "यावान्",
           "meaning": "how great I am, of what magnitude"
         },
         {
-          "word": "yaḥ ca asmi",
+          "word": "यः च अस्मि",
           "meaning": "and who I am, what I am in essence"
         },
         {
-          "word": "tattvataḥ",
+          "word": "तत्त्वतः",
           "meaning": "in truth, in essence, truly (tattva = truth/essence; taḥ = from/with)"
         },
         {
-          "word": "tataḥ",
+          "word": "ततः",
           "meaning": "then, thereafter"
         },
         {
-          "word": "tattvataḥ jñātvā",
+          "word": "तत्त्वतः ज्ञात्वा",
           "meaning": "having known in truth/essence"
         },
         {
-          "word": "viśate",
+          "word": "विशते",
           "meaning": "enters into, merges into"
         },
         {
-          "word": "tad-anantaram",
+          "word": "तद्-अनन्तरम्",
           "meaning": "immediately thereafter, right after that (tad = that; anantaram = immediately following)"
         }
       ],
@@ -3108,49 +3108,49 @@
     },
     {
       "verse": 56,
-      "sanskrit": "sarva-karmāṇy api sadā kurvāṇo mad-vyapāśrayaḥ | mat-prasādād avāpnoti śāśvataṃ padam avyayam ||",
+      "sanskrit": "सर्व-कर्माण्य् अपि सदा कुर्वाणो मद्-व्यपाश्रयः । मत्-प्रसादाद् अवाप्नोति शाश्वतं पदम् अव्ययम् ॥",
       "transliteration": "sarva-karmāṇi api sadā kurvāṇaḥ mad-vyapāśrayaḥ | mat-prasādāt avāpnoti śāśvatam padam avyayam ||",
       "translation": "Always performing all actions, taking complete refuge in Me — by My grace, one attains the eternal, imperishable state.",
       "audio": "/assets/audio/ch18/verse_18_56.mp3",
       "word_breakdown": [
         {
-          "word": "sarva-karmāṇi",
+          "word": "सर्व-कर्माणि",
           "meaning": "all actions, every kind of action (sarva = all; karman = action)"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "even, also — emphasizing 'even all actions'"
         },
         {
-          "word": "sadā",
+          "word": "सदा",
           "meaning": "always, ever, at all times"
         },
         {
-          "word": "kurvāṇaḥ",
+          "word": "कुर्वाणः",
           "meaning": "while performing, while doing"
         },
         {
-          "word": "mad-vyapāśrayaḥ",
+          "word": "मद्-व्यपाश्रयः",
           "meaning": "taking complete refuge in Me (mad = My/Me; vyapāśraya = complete refuge/shelter)"
         },
         {
-          "word": "mat-prasādāt",
+          "word": "मत्-प्रसादात्",
           "meaning": "by My grace, through My favor (mat = My; prasāda = grace, clarity, gift)"
         },
         {
-          "word": "avāpnoti",
+          "word": "अवाप्नोति",
           "meaning": "attains, obtains, reaches"
         },
         {
-          "word": "śāśvatam",
+          "word": "शाश्वतम्",
           "meaning": "eternal, everlasting, permanent"
         },
         {
-          "word": "padam",
+          "word": "पदम्",
           "meaning": "state, abode, position"
         },
         {
-          "word": "avyayam",
+          "word": "अव्ययम्",
           "meaning": "imperishable, inexhaustible, undecaying"
         }
       ],
@@ -3163,49 +3163,49 @@
     },
     {
       "verse": 57,
-      "sanskrit": "cetasā sarva-karmāṇi mayi sannyasya mat-paraḥ | buddhi-yogam upāśritya mac-cittaḥ satataṃ bhava ||",
+      "sanskrit": "चेतसा सर्व-कर्माणि मयि सन्न्यस्य मत्-परः । बुद्धि-योगम् उपाश्रित्य मच्-चित्तः सततं भव ॥",
       "transliteration": "cetasā sarva-karmāṇi mayi sannyasya mat-paraḥ | buddhi-yogam upāśritya mac-cittaḥ satatam bhava ||",
       "translation": "Mentally surrendering all actions to Me, with Me as the highest, taking refuge in the yoga of buddhi — be always absorbed in Me.",
       "audio": "/assets/audio/ch18/verse_18_57.mp3",
       "word_breakdown": [
         {
-          "word": "cetasā",
+          "word": "चेतसा",
           "meaning": "with the mind, mentally, with consciousness (cetas = mind/consciousness)"
         },
         {
-          "word": "sarva-karmāṇi",
+          "word": "सर्व-कर्माणि",
           "meaning": "all actions"
         },
         {
-          "word": "mayi",
+          "word": "मयि",
           "meaning": "in Me, to Me, unto Me"
         },
         {
-          "word": "sannyasya",
+          "word": "सन्न्यस्य",
           "meaning": "having surrendered, having renounced (sannyasya = having fully offered/renounced)"
         },
         {
-          "word": "mat-paraḥ",
+          "word": "मत्-परः",
           "meaning": "having Me as the supreme end, with Me as the highest goal (mat = My/Me; para = supreme/highest)"
         },
         {
-          "word": "buddhi-yogam",
+          "word": "बुद्धि-योगम्",
           "meaning": "the yoga of buddhi, the yoga of discriminative intelligence"
         },
         {
-          "word": "upāśritya",
+          "word": "उपाश्रित्य",
           "meaning": "having taken refuge in, relying upon"
         },
         {
-          "word": "mac-cittaḥ",
+          "word": "मच्-चित्तः",
           "meaning": "with mind absorbed in Me, with consciousness fixed on Me (mac = My; citta = mind/consciousness)"
         },
         {
-          "word": "satatam",
+          "word": "सततम्",
           "meaning": "always, constantly, at all times"
         },
         {
-          "word": "bhava",
+          "word": "भव",
           "meaning": "be, become (imperative form of bhū)"
         }
       ],
@@ -3218,45 +3218,45 @@
     },
     {
       "verse": 58,
-      "sanskrit": "mac-cittaḥ sarva-durgāṇi mat-prasādāt tariṣyasi | atha cet tvam ahaṅkārān na śroṣyasi vinaṅkṣyasi ||",
+      "sanskrit": "मच्-चित्तः सर्व-दुर्गाणि मत्-प्रसादात् तरिष्यसि । अथ चेत् त्वम् अहङ्कारान् न श्रोष्यसि विनङ्क्ष्यसि ॥",
       "transliteration": "mac-cittaḥ sarva-durgāṇi mat-prasādāt tariṣyasi | atha cet tvam ahaṅkārāt na śroṣyasi vinaṅkṣyasi ||",
       "translation": "With your mind fixed on Me, you will cross all difficulties by My grace. But if from ego you do not listen — you will perish.",
       "audio": "/assets/audio/ch18/verse_18_58.mp3",
       "word_breakdown": [
         {
-          "word": "mac-cittaḥ",
+          "word": "मच्-चित्तः",
           "meaning": "with mind fixed on Me, with consciousness absorbed in Me"
         },
         {
-          "word": "sarva-durgāṇi",
+          "word": "सर्व-दुर्गाणि",
           "meaning": "all difficulties, all obstacles, all dangerous passages (sarva = all; durga = difficult/impassable place; hence durgāṇi = difficulties)"
         },
         {
-          "word": "mat-prasādāt",
+          "word": "मत्-प्रसादात्",
           "meaning": "by My grace (mat = My; prasāda = grace, clarity)"
         },
         {
-          "word": "tariṣyasi",
+          "word": "तरिष्यसि",
           "meaning": "you will cross, you will pass over (tarati = crosses; future tense)"
         },
         {
-          "word": "atha cet",
+          "word": "अथ चेत्",
           "meaning": "but if, however if"
         },
         {
-          "word": "tvam",
+          "word": "त्वम्",
           "meaning": "you"
         },
         {
-          "word": "ahaṅkārāt",
+          "word": "अहङ्कारात्",
           "meaning": "from ego, out of egoism, due to the I-making faculty (ahaṅkāra = ego)"
         },
         {
-          "word": "na śroṣyasi",
+          "word": "न श्रोष्यसि",
           "meaning": "you will not listen, you will not heed (śru = to hear/listen; future tense with negative)"
         },
         {
-          "word": "vinaṅkṣyasi",
+          "word": "विनङ्क्ष्यसि",
           "meaning": "you will perish, you will be destroyed, you will be lost (vinaś = to perish; future tense)"
         }
       ],
@@ -3269,57 +3269,57 @@
     },
     {
       "verse": 59,
-      "sanskrit": "yad ahaṅkāram āśritya na yotsya iti manyase | mithyaiṣa vyavasāyas te prakṛtis tvāṃ niyokṣyati ||",
+      "sanskrit": "यद् अहङ्कारम् आश्रित्य न योत्स्य इति मन्यसे । मिथ्यैष व्यवसायस् ते प्रकृतिस् त्वां नियोक्ष्यति ॥",
       "transliteration": "yat ahaṅkāram āśritya na yotsye iti manyase | mithyā eṣaḥ vyavasāyaḥ te prakṛtiḥ tvām niyokṣyati ||",
       "translation": "If, taking refuge in ego, you think 'I will not fight' — this resolve of yours is vain. Your own nature will compel you.",
       "audio": "/assets/audio/ch18/verse_18_59.mp3",
       "word_breakdown": [
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "if, that (conditional particle)"
         },
         {
-          "word": "ahaṅkāram",
+          "word": "अहङ्कारम्",
           "meaning": "ego, the I-sense, egoism"
         },
         {
-          "word": "āśritya",
+          "word": "आश्रित्य",
           "meaning": "taking refuge in, relying on, sheltering in"
         },
         {
-          "word": "na yotsye",
+          "word": "न योत्स्ये",
           "meaning": "I will not fight (yudh = to fight; future tense with na = not)"
         },
         {
-          "word": "iti manyase",
+          "word": "इति मन्यसे",
           "meaning": "thus you think, you believe/suppose (iti = thus, closing quotation; manyase = you think)"
         },
         {
-          "word": "mithyā",
+          "word": "मिथ्या",
           "meaning": "false, vain, illusory, futile"
         },
         {
-          "word": "eṣaḥ",
+          "word": "एषः",
           "meaning": "this"
         },
         {
-          "word": "vyavasāyaḥ",
+          "word": "व्यवसायः",
           "meaning": "resolve, determination, decision"
         },
         {
-          "word": "te",
+          "word": "ते",
           "meaning": "your, of you"
         },
         {
-          "word": "prakṛtiḥ",
+          "word": "प्रकृतिः",
           "meaning": "nature, one's inherent nature, the guṇa-formed character"
         },
         {
-          "word": "tvām",
+          "word": "त्वाम्",
           "meaning": "you"
         },
         {
-          "word": "niyokṣyati",
+          "word": "नियोक्ष्यति",
           "meaning": "will compel, will drive, will engage (ni-yuj = to yoke/engage; future tense)"
         }
       ],
@@ -3332,61 +3332,61 @@
     },
     {
       "verse": 60,
-      "sanskrit": "svabhāva-jena kaunteya nibaddhaḥ svena karmaṇā | kartuṃ necchasi yan mohāt kariṣyasy avaśo'pi tat ||",
+      "sanskrit": "स्वभाव-जेन कौन्तेय निबद्धः स्वेन कर्मणा । कर्तुं नेच्छसि यन् मोहात् करिष्यस्य् अवशोऽपि तत् ॥",
       "transliteration": "svabhāva-jena kaunteya nibaddhaḥ svena karmaṇā | kartum na icchasi yat mohāt kariṣyasi avaśaḥ api tat ||",
       "translation": "Bound by your own action born of your own nature, O Kaunteya — what through delusion you do not wish to do — you will do helplessly.",
       "audio": "/assets/audio/ch18/verse_18_60.mp3",
       "word_breakdown": [
         {
-          "word": "svabhāva-jena",
+          "word": "स्वभाव-जेन",
           "meaning": "born of one's own nature (svabhāva = one's own nature; ja = born of)"
         },
         {
-          "word": "kaunteya",
+          "word": "कौन्तेय",
           "meaning": "O son of Kuntī, O Arjuna (Kuntī's son — an epithet of Arjuna)"
         },
         {
-          "word": "nibaddhaḥ",
+          "word": "निबद्धः",
           "meaning": "bound, tied, fettered (ni + baddha = thoroughly bound)"
         },
         {
-          "word": "svena",
+          "word": "स्वेन",
           "meaning": "by one's own, by one's own self"
         },
         {
-          "word": "karmaṇā",
+          "word": "कर्मणा",
           "meaning": "by action, by one's karma"
         },
         {
-          "word": "kartum",
+          "word": "कर्तुम्",
           "meaning": "to do, to perform (infinitive of kṛ)"
         },
         {
-          "word": "na icchasi",
+          "word": "न इच्छसि",
           "meaning": "you do not wish, you do not want (na = not; icchasi = you wish/desire)"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "what, which"
         },
         {
-          "word": "mohāt",
+          "word": "मोहात्",
           "meaning": "out of delusion, through confusion (moha = delusion, bewilderment)"
         },
         {
-          "word": "kariṣyasi",
+          "word": "करिष्यसि",
           "meaning": "you will do, you will perform (future tense of kṛ)"
         },
         {
-          "word": "avaśaḥ",
+          "word": "अवशः",
           "meaning": "helplessly, without will, compulsorily (a = without; vaśa = will/control)"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "even, also — emphasizing 'even helplessly'"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         }
       ],
@@ -3399,45 +3399,45 @@
     },
     {
       "verse": 61,
-      "sanskrit": "īśvaraḥ sarva-bhūtānāṃ hṛd-deśe'rjuna tiṣṭhati | bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā ||",
+      "sanskrit": "ईश्वरः सर्व-भूतानां हृद्-देशेऽर्जुन तिष्ठति । भ्रामयन् सर्व-भूतानि यन्त्रारूढानि मायया ॥",
       "transliteration": "īśvaraḥ sarva-bhūtānāṃ hṛd-deśe arjuna tiṣṭhati | bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā ||",
       "translation": "The Lord (Īśvara) dwells in the heart-region of all beings, O Arjuna — causing all beings to revolve, as if mounted on a machine, by His māyā.",
       "audio": "/assets/audio/ch18/verse_18_61.mp3",
       "word_breakdown": [
         {
-          "word": "īśvaraḥ",
+          "word": "ईश्वरः",
           "meaning": "the Lord, the Supreme Ruler"
         },
         {
-          "word": "sarva-bhūtānām",
+          "word": "सर्व-भूतानाम्",
           "meaning": "of all beings"
         },
         {
-          "word": "hṛd-deśe",
+          "word": "हृद्-देशे",
           "meaning": "in the region of the heart"
         },
         {
-          "word": "arjuna",
+          "word": "अर्जुन",
           "meaning": "O Arjuna"
         },
         {
-          "word": "tiṣṭhati",
+          "word": "तिष्ठति",
           "meaning": "dwells, stands, abides"
         },
         {
-          "word": "bhrāmayan",
+          "word": "भ्रामयन्",
           "meaning": "causing to revolve, making wander"
         },
         {
-          "word": "sarva-bhūtāni",
+          "word": "सर्व-भूतानि",
           "meaning": "all beings"
         },
         {
-          "word": "yantrārūḍhāni",
+          "word": "यन्त्रारूढानि",
           "meaning": "mounted on a machine/instrument (yantra = machine, ārūḍha = mounted)"
         },
         {
-          "word": "māyayā",
+          "word": "मायया",
           "meaning": "by māyā, by the divine power of illusion"
         }
       ],
@@ -3450,45 +3450,45 @@
     },
     {
       "verse": 62,
-      "sanskrit": "tam eva śaraṇaṃ gaccha sarva-bhāvena bhārata | tat-prasādāt parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||",
+      "sanskrit": "तम् एव शरणं गच्छ सर्व-भावेन भारत । तत्-प्रसादात् परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ॥",
       "transliteration": "tam eva śaraṇaṃ gaccha sarva-bhāvena bhārata | tat-prasādāt parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||",
       "translation": "Take refuge in Him alone with your whole being, O Bhārata; by His grace you will attain the Supreme Peace and the Eternal Abode.",
       "audio": "/assets/audio/ch18/verse_18_62.mp3",
       "word_breakdown": [
         {
-          "word": "tam eva",
+          "word": "तम् एव",
           "meaning": "in Him alone"
         },
         {
-          "word": "śaraṇam gaccha",
+          "word": "शरणम् गच्छ",
           "meaning": "take refuge, go for shelter"
         },
         {
-          "word": "sarva-bhāvena",
+          "word": "सर्व-भावेन",
           "meaning": "with your whole being, with all your feelings and faculties"
         },
         {
-          "word": "bhārata",
+          "word": "भारत",
           "meaning": "O descendant of Bharata (Arjuna)"
         },
         {
-          "word": "tat-prasādāt",
+          "word": "तत्-प्रसादात्",
           "meaning": "by His grace, by grace of that Lord"
         },
         {
-          "word": "parām śāntim",
+          "word": "पराम् शान्तिम्",
           "meaning": "the supreme peace, the highest tranquility"
         },
         {
-          "word": "sthānam",
+          "word": "स्थानम्",
           "meaning": "abode, place, state"
         },
         {
-          "word": "prāpsyasi",
+          "word": "प्राप्स्यसि",
           "meaning": "you will attain, you will obtain"
         },
         {
-          "word": "śāśvatam",
+          "word": "शाश्वतम्",
           "meaning": "eternal, everlasting, permanent"
         }
       ],
@@ -3501,53 +3501,53 @@
     },
     {
       "verse": 63,
-      "sanskrit": "iti te jñānam ākhyātaṃ guhyād guhyataraṃ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru ||",
+      "sanskrit": "इति ते ज्ञानम् आख्यातं गुह्याद् गुह्यतरं मया । विमृश्यैतद् अशेषेण यथेच्छसि तथा कुरु ॥",
       "transliteration": "iti te jñānam ākhyātaṃ guhyād guhyataraṃ mayā | vimṛśya etad aśeṣeṇa yathā icchasi tathā kuru ||",
       "translation": "Thus this knowledge — more secret than all secrets — has been declared to you by Me. Having reflected on it fully and completely, do as you wish.",
       "audio": "/assets/audio/ch18/verse_18_63.mp3",
       "word_breakdown": [
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus, in this way"
         },
         {
-          "word": "te",
+          "word": "ते",
           "meaning": "to you"
         },
         {
-          "word": "jñānam",
+          "word": "ज्ञानम्",
           "meaning": "knowledge"
         },
         {
-          "word": "ākhyātam",
+          "word": "आख्यातम्",
           "meaning": "has been declared, has been told"
         },
         {
-          "word": "guhyāt guhyataram",
+          "word": "गुह्यात् गुह्यतरम्",
           "meaning": "more secret than the secret, the most concealed"
         },
         {
-          "word": "mayā",
+          "word": "मया",
           "meaning": "by Me"
         },
         {
-          "word": "vimṛśya",
+          "word": "विमृश्य",
           "meaning": "having reflected upon, having deliberated"
         },
         {
-          "word": "etad",
+          "word": "एतद्",
           "meaning": "this"
         },
         {
-          "word": "aśeṣeṇa",
+          "word": "अशेषेण",
           "meaning": "completely, without remainder, fully"
         },
         {
-          "word": "yathā icchasi",
+          "word": "यथा इच्छसि",
           "meaning": "as you wish, as you desire"
         },
         {
-          "word": "tathā kuru",
+          "word": "तथा कुरु",
           "meaning": "do accordingly, act thus"
         }
       ],
@@ -3560,57 +3560,57 @@
     },
     {
       "verse": 64,
-      "sanskrit": "sarva-guhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ | iṣṭo'si me dṛḍham iti tato vakṣyāmi te hitam ||",
+      "sanskrit": "सर्व-गुह्यतमं भूयः शृणु मे परमं वचः । इष्टोऽसि मे दृढम् इति ततो वक्ष्यामि ते हितम् ॥",
       "transliteration": "sarva-guhyatamam bhūyaḥ śṛṇu me paramam vacaḥ | iṣṭo asi me dṛḍham iti tataḥ vakṣyāmi te hitam ||",
       "translation": "Hear again My supreme word, the most secret of all. Because you are firmly dear to Me — I will speak what is for your highest good.",
       "audio": "/assets/audio/ch18/verse_18_64.mp3",
       "word_breakdown": [
         {
-          "word": "sarva-guhyatamam",
+          "word": "सर्व-गुह्यतमम्",
           "meaning": "the most secret of all secrets"
         },
         {
-          "word": "bhūyaḥ",
+          "word": "भूयः",
           "meaning": "again, once more"
         },
         {
-          "word": "śṛṇu",
+          "word": "शृणु",
           "meaning": "hear, listen"
         },
         {
-          "word": "me",
+          "word": "मे",
           "meaning": "My"
         },
         {
-          "word": "paramam vacaḥ",
+          "word": "परमम् वचः",
           "meaning": "the supreme word, the highest teaching"
         },
         {
-          "word": "iṣṭaḥ asi",
+          "word": "इष्टः असि",
           "meaning": "you are dear, you are loved"
         },
         {
-          "word": "me",
+          "word": "मे",
           "meaning": "to Me"
         },
         {
-          "word": "dṛḍham",
+          "word": "दृढम्",
           "meaning": "firmly, deeply, with certainty"
         },
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "because of this"
         },
         {
-          "word": "tataḥ",
+          "word": "ततः",
           "meaning": "therefore"
         },
         {
-          "word": "vakṣyāmi",
+          "word": "वक्ष्यामि",
           "meaning": "I will speak, I will tell"
         },
         {
-          "word": "te hitam",
+          "word": "ते हितम्",
           "meaning": "what is for your good, your benefit"
         }
       ],
@@ -3623,41 +3623,41 @@
     },
     {
       "verse": 65,
-      "sanskrit": "man-manā bhava mad-bhakto mad-yājī māṃ namaskuru | mām evaiṣyasi satyaṃ te pratijāne priyo'si me ||",
+      "sanskrit": "मन्-मना भव मद्-भक्तो मद्-याजी मां नमस्कुरु । माम् एवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ॥",
       "transliteration": "man-manāḥ bhava mad-bhaktaḥ mad-yājī māṃ namaskuru | mām eva eṣyasi satyaṃ te pratijāne priyaḥ asi me ||",
       "translation": "Fix your mind on Me, be devoted to Me, worship Me, bow to Me — you will come to Me alone. Truly I promise you — you are dear to Me.",
       "audio": "/assets/audio/ch18/verse_18_65.mp3",
       "word_breakdown": [
         {
-          "word": "man-manāḥ bhava",
+          "word": "मन्-मनाः भव",
           "meaning": "fix your mind on Me, let your mind be absorbed in Me"
         },
         {
-          "word": "mad-bhaktaḥ",
+          "word": "मद्-भक्तः",
           "meaning": "be devoted to Me, be My devotee"
         },
         {
-          "word": "mad-yājī",
+          "word": "मद्-याजी",
           "meaning": "be My worshipper, one who performs yajña for Me"
         },
         {
-          "word": "māṃ namaskuru",
+          "word": "मां नमस्कुरु",
           "meaning": "bow to Me, offer prostration to Me"
         },
         {
-          "word": "mām eva eṣyasi",
+          "word": "माम् एव एष्यसि",
           "meaning": "you will come to Me alone"
         },
         {
-          "word": "satyam",
+          "word": "सत्यम्",
           "meaning": "truly, in truth"
         },
         {
-          "word": "te pratijāne",
+          "word": "ते प्रतिजाने",
           "meaning": "I promise you, I declare to you"
         },
         {
-          "word": "priyaḥ asi me",
+          "word": "प्रियः असि मे",
           "meaning": "you are dear to Me, you are My beloved"
         }
       ],
@@ -3670,45 +3670,45 @@
     },
     {
       "verse": 66,
-      "sanskrit": "sarva-dharmān parityajya mām ekaṃ śaraṇaṃ vraja | ahaṃ tvā sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ ||",
+      "sanskrit": "सर्व-धर्मान् परित्यज्य माम् एकं शरणं व्रज । अहं त्वा सर्व-पापेभ्यो मोक्षयिष्यामि मा शुचः ॥",
       "transliteration": "sarva-dharmān parityajya mām ekam śaraṇam vraja | aham tvā sarva-pāpebhyaḥ mokṣayiṣyāmi mā śucaḥ ||",
       "translation": "Abandoning all dharmas, take refuge in Me alone. I will liberate you from all sins. Do not grieve.",
       "audio": "/assets/audio/ch18/verse_18_66.mp3",
       "word_breakdown": [
         {
-          "word": "sarva-dharmān",
+          "word": "सर्व-धर्मान्",
           "meaning": "all dharmas — all duties, all paths, all religious practices and injunctions"
         },
         {
-          "word": "parityajya",
+          "word": "परित्यज्य",
           "meaning": "having completely abandoned, having fully renounced"
         },
         {
-          "word": "mām ekam",
+          "word": "माम् एकम्",
           "meaning": "in Me alone, in Me the One"
         },
         {
-          "word": "śaraṇam vraja",
+          "word": "शरणम् व्रज",
           "meaning": "take refuge, go for shelter, surrender"
         },
         {
-          "word": "aham",
+          "word": "अहम्",
           "meaning": "I — the Lord Himself speaking in the first person"
         },
         {
-          "word": "tvā",
+          "word": "त्वा",
           "meaning": "you — direct, personal address"
         },
         {
-          "word": "sarva-pāpebhyaḥ",
+          "word": "सर्व-पापेभ्यः",
           "meaning": "from all sins, from all karma, from all bondage"
         },
         {
-          "word": "mokṣayiṣyāmi",
+          "word": "मोक्षयिष्यामि",
           "meaning": "I will liberate, I will free — future tense, certain divine promise"
         },
         {
-          "word": "mā śucaḥ",
+          "word": "मा शुचः",
           "meaning": "do not grieve, do not sorrow, fear not"
         }
       ],
@@ -3721,41 +3721,41 @@
     },
     {
       "verse": 67,
-      "sanskrit": "idaṃ te nātapaskāya nābhaktāya kadācana | na cāśuśrūṣave vācyaṃ na ca māṃ yo'bhyasūyati ||",
+      "sanskrit": "इदं ते नातपस्काय नाभक्ताय कदाचन । न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ॥",
       "transliteration": "idam te na atapaskāya na abhaktāya kadācana | na ca aśuśrūṣave vācyam na ca mām yaḥ abhyasūyati ||",
       "translation": "This teaching should never be spoken to one who has no austerity, to one who has no devotion, nor to one who does not wish to serve; nor to one who speaks ill of Me.",
       "audio": "/assets/audio/ch18/verse_18_67.mp3",
       "word_breakdown": [
         {
-          "word": "idam",
+          "word": "इदम्",
           "meaning": "this (teaching, this dialogue)"
         },
         {
-          "word": "te",
+          "word": "ते",
           "meaning": "by you"
         },
         {
-          "word": "na atapaskāya",
+          "word": "न अतपस्काय",
           "meaning": "not to one without austerity (tapas)"
         },
         {
-          "word": "na abhaktāya",
+          "word": "न अभक्ताय",
           "meaning": "not to one without devotion (bhakti)"
         },
         {
-          "word": "kadācana",
+          "word": "कदाचन",
           "meaning": "never, at no time, under no circumstances"
         },
         {
-          "word": "na ca aśuśrūṣave",
+          "word": "न च अशुश्रूषवे",
           "meaning": "nor to one who does not desire to serve/listen (śuśrūṣā)"
         },
         {
-          "word": "vācyam",
+          "word": "वाच्यम्",
           "meaning": "should be spoken, ought to be told"
         },
         {
-          "word": "na ca mām yaḥ abhyasūyati",
+          "word": "न च माम् यः अभ्यसूयति",
           "meaning": "nor to one who finds fault with Me, who is envious of Me"
         }
       ],
@@ -3768,37 +3768,37 @@
     },
     {
       "verse": 68,
-      "sanskrit": "ya idaṃ paramaṃ guhyaṃ mad-bhakteṣv abhidhāsyati | bhaktiṃ mayi parāṃ kṛtvā mām evaiṣyaty asaṃśayaḥ ||",
+      "sanskrit": "य इदं परमं गुह्यं मद्-भक्तेष्व् अभिधास्यति । भक्तिं मयि परां कृत्वा माम् एवैष्यत्य् असंशयः ॥",
       "transliteration": "yaḥ idam paramam guhyam mad-bhakteṣu abhidhāsyati | bhaktim mayi parām kṛtvā mām eva eṣyati asaṃśayaḥ ||",
       "translation": "He who will teach this supreme secret among My devotees — having performed the highest devotion to Me — shall come to Me without doubt.",
       "audio": "/assets/audio/ch18/verse_18_68.mp3",
       "word_breakdown": [
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "he who, whoever"
         },
         {
-          "word": "idam paramam guhyam",
+          "word": "इदम् परमम् गुह्यम्",
           "meaning": "this supreme secret"
         },
         {
-          "word": "mad-bhakteṣu",
+          "word": "मद्-भक्तेषु",
           "meaning": "among My devotees, in the community of My devotees"
         },
         {
-          "word": "abhidhāsyati",
+          "word": "अभिधास्यति",
           "meaning": "will teach, will proclaim, will explain"
         },
         {
-          "word": "bhaktim mayi parām kṛtvā",
+          "word": "भक्तिम् मयि पराम् कृत्वा",
           "meaning": "having performed the highest devotion to Me"
         },
         {
-          "word": "mām eva eṣyati",
+          "word": "माम् एव एष्यति",
           "meaning": "shall come to Me alone"
         },
         {
-          "word": "asaṃśayaḥ",
+          "word": "असंशयः",
           "meaning": "without doubt, certainly, beyond question"
         }
       ],
@@ -3811,45 +3811,45 @@
     },
     {
       "verse": 69,
-      "sanskrit": "na ca tasmān manuṣyeṣu kaścin me priya-kṛttamaḥ | bhaviṣyati na ca me tasmād anyaḥ priyataro bhuvi ||",
+      "sanskrit": "न च तस्मान् मनुष्येषु कश्चिन् मे प्रिय-कृत्तमः । भविष्यति न च मे तस्माद् अन्यः प्रियतरो भुवि ॥",
       "transliteration": "na ca tasmāt manuṣyeṣu kaścit me priya-kṛttamaḥ | bhaviṣyati na ca me tasmāt anyaḥ priyataraḥ bhuvi ||",
       "translation": "There is no one among humans who does what is more pleasing to Me than such a person; nor shall there be any other more dear to Me on earth.",
       "audio": "/assets/audio/ch18/verse_18_69.mp3",
       "word_breakdown": [
         {
-          "word": "na ca",
+          "word": "न च",
           "meaning": "there is not, nor"
         },
         {
-          "word": "tasmāt",
+          "word": "तस्मात्",
           "meaning": "than him, than such a person"
         },
         {
-          "word": "manuṣyeṣu",
+          "word": "मनुष्येषु",
           "meaning": "among humans, among human beings"
         },
         {
-          "word": "kaścit",
+          "word": "कश्चित्",
           "meaning": "anyone, anyone at all"
         },
         {
-          "word": "me",
+          "word": "मे",
           "meaning": "to Me, for Me"
         },
         {
-          "word": "priya-kṛttamaḥ",
+          "word": "प्रिय-कृत्तमः",
           "meaning": "doing what is most pleasing, the most pleasing-doer (superlative)"
         },
         {
-          "word": "bhaviṣyati",
+          "word": "भविष्यति",
           "meaning": "will be, shall be (future)"
         },
         {
-          "word": "anyaḥ priyataraḥ",
+          "word": "अन्यः प्रियतरः",
           "meaning": "any other more dear"
         },
         {
-          "word": "bhuvi",
+          "word": "भुवि",
           "meaning": "on earth, in the world"
         }
       ],
@@ -3862,49 +3862,49 @@
     },
     {
       "verse": 70,
-      "sanskrit": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādam āvayoḥ | jñāna-yajñena tenāham iṣṭaḥ syām iti me matiḥ ||",
+      "sanskrit": "अध्येष्यते च य इमं धर्म्यं संवादम् आवयोः । ज्ञान-यज्ञेन तेनाहम् इष्टः स्याम् इति मे मतिः ॥",
       "transliteration": "adhyeṣyate ca yaḥ imam dharmyam saṃvādam āvayoḥ | jñāna-yajñena tena aham iṣṭaḥ syām iti me matiḥ ||",
       "translation": "And he who studies this dharmic dialogue of ours — by him I shall have been worshipped with the yajña of knowledge — this is My considered view.",
       "audio": "/assets/audio/ch18/verse_18_70.mp3",
       "word_breakdown": [
         {
-          "word": "adhyeṣyate",
+          "word": "अध्येष्यते",
           "meaning": "will study, will learn thoroughly (adhyayana — deep study)"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and, also"
         },
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "he who, whoever"
         },
         {
-          "word": "imam",
+          "word": "इमम्",
           "meaning": "this"
         },
         {
-          "word": "dharmyam",
+          "word": "धर्म्यम्",
           "meaning": "dharmic, righteous, sacred"
         },
         {
-          "word": "saṃvādam āvayoḥ",
+          "word": "संवादम् आवयोः",
           "meaning": "dialogue of us two (the conversation between Kṛṣṇa and Arjuna)"
         },
         {
-          "word": "jñāna-yajñena",
+          "word": "ज्ञान-यज्ञेन",
           "meaning": "by the yajña (sacrifice) of knowledge"
         },
         {
-          "word": "tena",
+          "word": "तेन",
           "meaning": "by him, by that person"
         },
         {
-          "word": "aham iṣṭaḥ syām",
+          "word": "अहम् इष्टः स्याम्",
           "meaning": "I shall be worshipped, I will have been offered worship to"
         },
         {
-          "word": "iti me matiḥ",
+          "word": "इति मे मतिः",
           "meaning": "this is My view, this is My considered opinion"
         }
       ],
@@ -3917,53 +3917,53 @@
     },
     {
       "verse": 71,
-      "sanskrit": "śraddhāvān anasūyaś ca śṛṇuyād api yo naraḥ | so'pi muktaḥ śubhāṃl lokān prāpnuyāt puṇya-karmaṇām ||",
+      "sanskrit": "श्रद्धावान् अनसूयश् च शृणुयाद् अपि यो नरः । सोऽपि मुक्तः शुभांल् लोकान् प्राप्नुयात् पुण्य-कर्मणाम् ॥",
       "transliteration": "śraddhā-vān anasūyaś ca śṛṇuyād api yo naraḥ | saḥ api muktaḥ śubhān lokān prāpnuyāt puṇya-karmaṇām ||",
       "translation": "Even that person who hears this with faith (śraddhāvān) and without scoffing or fault-finding (anasūyaḥ) — that person too shall be liberated (muktaḥ) and will attain the auspicious worlds of the virtuous (śubhān lokān puṇya-karmaṇām).",
       "audio": "/assets/audio/ch18/verse_18_71.mp3",
       "word_breakdown": [
         {
-          "word": "śraddhā-vān",
+          "word": "श्रद्धा-वान्",
           "meaning": "one who has faith, who is endowed with śraddhā (sincere trust and receptivity)"
         },
         {
-          "word": "anasūyaḥ",
+          "word": "अनसूयः",
           "meaning": "without envy, without fault-finding, without the carping attitude that blocks true reception"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "śṛṇuyāt",
+          "word": "शृणुयात्",
           "meaning": "hears, listens"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "even, even just"
         },
         {
-          "word": "yaḥ naraḥ",
+          "word": "यः नरः",
           "meaning": "whatever person, whichever human being"
         },
         {
-          "word": "saḥ api",
+          "word": "सः अपि",
           "meaning": "that person also, even he"
         },
         {
-          "word": "muktaḥ",
+          "word": "मुक्तः",
           "meaning": "liberated, freed"
         },
         {
-          "word": "śubhān lokān",
+          "word": "शुभान् लोकान्",
           "meaning": "the auspicious worlds, the bright realms of the blessed"
         },
         {
-          "word": "prāpnuyāt",
+          "word": "प्राप्नुयात्",
           "meaning": "shall attain, will reach"
         },
         {
-          "word": "puṇya-karmaṇām",
+          "word": "पुण्य-कर्मणाम्",
           "meaning": "of those who perform virtuous deeds, of the righteous"
         }
       ],
@@ -3976,53 +3976,53 @@
     },
     {
       "verse": 72,
-      "sanskrit": "kaccid etac chrutaṃ pārtha tvayaikāgreṇa cetasā | kaccid ajñāna-sammohaḥ praṇaṣṭas te dhanañjaya ||",
+      "sanskrit": "कच्चिद् एतच् छ्रुतं पार्थ त्वयैकाग्रेण चेतसा । कच्चिद् अज्ञान-सम्मोहः प्रणष्टस् ते धनञ्जय ॥",
       "transliteration": "kaccit etat śrutam pārtha tvayā ekāgreṇa cetasā | kaccit ajñāna-sammohaḥ praṇaṣṭaḥ te dhanañjaya ||",
       "translation": "Has this been heard by you, O Pārtha, with a focused mind (ekāgreṇa cetasā)? Has your confusion born of ignorance (ajñāna-sammohaḥ) been destroyed (praṇaṣṭaḥ), O Dhanañjaya?",
       "audio": "/assets/audio/ch18/verse_18_72.mp3",
       "word_breakdown": [
         {
-          "word": "kaccit",
+          "word": "कच्चित्",
           "meaning": "has it...? (interrogative particle, expressing gentle inquiry)"
         },
         {
-          "word": "etat",
+          "word": "एतत्",
           "meaning": "this (referring to the entire Gita just spoken)"
         },
         {
-          "word": "śrutam",
+          "word": "श्रुतम्",
           "meaning": "heard, received"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O Pārtha, son of Pṛthā (Arjuna's maternal name — affectionate)"
         },
         {
-          "word": "tvayā",
+          "word": "त्वया",
           "meaning": "by you"
         },
         {
-          "word": "ekāgreṇa cetasā",
+          "word": "एकाग्रेण चेतसा",
           "meaning": "with one-pointed mind, with focused, undivided attention"
         },
         {
-          "word": "kaccit",
+          "word": "कच्चित्",
           "meaning": "has it...? (second question)"
         },
         {
-          "word": "ajñāna-sammohaḥ",
+          "word": "अज्ञान-सम्मोहः",
           "meaning": "the confusion/delusion arising from ignorance (ajñāna = ignorance; sammoha = bewilderment, stupefaction)"
         },
         {
-          "word": "praṇaṣṭaḥ",
+          "word": "प्रणष्टः",
           "meaning": "completely destroyed, utterly dissolved"
         },
         {
-          "word": "te",
+          "word": "ते",
           "meaning": "your, in you"
         },
         {
-          "word": "dhanañjaya",
+          "word": "धनञ्जय",
           "meaning": "O Dhanañjaya, conqueror of wealth (epithet of Arjuna)"
         }
       ],
@@ -4035,53 +4035,53 @@
     },
     {
       "verse": 73,
-      "sanskrit": "naṣṭo mohaḥ smṛtir labdhā tvat-prasādān mayācyuta | sthito'smi gata-sandehaḥ kariṣye vacanaṃ tava ||",
+      "sanskrit": "नष्टो मोहः स्मृतिर् लब्धा त्वत्-प्रसादान् मयाच्युत । स्थितोऽस्मि गत-सन्देहः करिष्ये वचनं तव ॥",
       "transliteration": "naṣṭaḥ mohaḥ smṛtiḥ labdhā tvat-prasādāt mayā acyuta | sthitaḥ asmi gata-sandehaḥ kariṣye vacanam tava ||",
       "translation": "Arjuna said: My delusion is destroyed (naṣṭo mohaḥ), clarity and memory of the Self are regained (smṛtir labdhā) — all by Your grace (tvat-prasādāt), O Acyuta (the Unfallen One). I stand firm (sthito'smi), my doubts gone (gata-sandehaḥ). I will act according to Your word (kariṣye vacanaṃ tava).",
       "audio": "/assets/audio/ch18/verse_18_73.mp3",
       "word_breakdown": [
         {
-          "word": "naṣṭaḥ mohaḥ",
+          "word": "नष्टः मोहः",
           "meaning": "delusion is destroyed, confusion is gone (naṣṭa = ruined, perished; moha = the primordial delusion of identifying Self with body-mind)"
         },
         {
-          "word": "smṛtiḥ",
+          "word": "स्मृतिः",
           "meaning": "memory, recollection — here: the recovered memory of one's true nature as the Ātman"
         },
         {
-          "word": "labdhā",
+          "word": "लब्धा",
           "meaning": "regained, obtained, recovered (smṛti is not a new acquisition but a recovery of what was always there)"
         },
         {
-          "word": "tvat-prasādāt",
+          "word": "त्वत्-प्रसादात्",
           "meaning": "by Your grace, through Your compassionate bestowal (tvat = Your; prasāda = grace, blessedness)"
         },
         {
-          "word": "mayā",
+          "word": "मया",
           "meaning": "by me"
         },
         {
-          "word": "acyuta",
+          "word": "अच्युत",
           "meaning": "O Acyuta, the Unfallen, the Immovable — Krishna who never falls from His divine nature (and implicitly: who lifted Arjuna when Arjuna fell)"
         },
         {
-          "word": "sthitaḥ asmi",
+          "word": "स्थितः अस्मि",
           "meaning": "I stand firm, I am established, I am steady (echoing the 'sthita-prajña' of Ch2)"
         },
         {
-          "word": "gata-sandehaḥ",
+          "word": "गत-सन्देहः",
           "meaning": "doubts gone, free from all wavering (gata = gone; sandeha = doubt)"
         },
         {
-          "word": "kariṣye",
+          "word": "करिष्ये",
           "meaning": "I will do, I shall act (future tense — a declaration of free, conscious, forward-looking choice)"
         },
         {
-          "word": "vacanam",
+          "word": "वचनम्",
           "meaning": "word, instruction, command"
         },
         {
-          "word": "tava",
+          "word": "तव",
           "meaning": "Your — of You (the Divine)"
         }
       ],
@@ -4094,53 +4094,53 @@
     },
     {
       "verse": 74,
-      "sanskrit": "ity ahaṃ vāsudevasya pārthasya ca mahātmanaḥ | saṃvādam imam aśrauṣam adbhutaṃ roma-harṣaṇam ||",
+      "sanskrit": "इत्य् अहं वासुदेवस्य पार्थस्य च महात्मनः । संवादम् इमम् अश्रौषम् अद्भुतं रोम-हर्षणम् ॥",
       "transliteration": "iti aham vāsudevasya pārthasya ca mahātmanaḥ | saṃvādam imam aśrauṣam adbhutam roma-harṣaṇam ||",
       "translation": "Sañjaya said: Thus I heard this wonderful (adbhutam) and hair-raising (roma-harṣaṇam) dialogue (saṃvādam) of Vasudeva and the great-souled (mahātmanaḥ) Pārtha.",
       "audio": "/assets/audio/ch18/verse_18_74.mp3",
       "word_breakdown": [
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus, in this way (signaling the close of a section)"
         },
         {
-          "word": "aham",
+          "word": "अहम्",
           "meaning": "I (Sañjaya, the divine narrator)"
         },
         {
-          "word": "vāsudevasya",
+          "word": "वासुदेवस्य",
           "meaning": "of Vasudeva — son of Vasudeva (Krishna's name emphasizing His divine lineage)"
         },
         {
-          "word": "pārthasya",
+          "word": "पार्थस्य",
           "meaning": "of Pārtha — son of Pṛthā (Arjuna)"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "mahātmanaḥ",
+          "word": "महात्मनः",
           "meaning": "the great-souled one (mahā = great; ātman = soul — Arjuna is recognized as having completed a great-souled journey)"
         },
         {
-          "word": "saṃvādam",
+          "word": "संवादम्",
           "meaning": "dialogue, conversation, exchange (saṃvāda carries connotations of genuine, mutually illuminating discourse)"
         },
         {
-          "word": "imam",
+          "word": "इमम्",
           "meaning": "this"
         },
         {
-          "word": "aśrauṣam",
+          "word": "अश्रौषम्",
           "meaning": "I heard (past tense — a completed, realized reception)"
         },
         {
-          "word": "adbhutam",
+          "word": "अद्भुतम्",
           "meaning": "wonderful, extraordinary, beyond ordinary human experience"
         },
         {
-          "word": "roma-harṣaṇam",
+          "word": "रोम-हर्षणम्",
           "meaning": "hair-raising, causing the hair on the body to stand on end (the classical Indian sign of overwhelming beauty, awe, or divine experience)"
         }
       ],
@@ -4153,53 +4153,53 @@
     },
     {
       "verse": 75,
-      "sanskrit": "vyāsa-prasādāc chrutavān etad guhyam ahaṃ param | yogaṃ yogeśvarāt kṛṣṇāt sākṣāt kathayataḥ svayam ||",
+      "sanskrit": "व्यास-प्रसादाच् छ्रुतवान् एतद् गुह्यम् अहं परम् । योगं योगेश्वरात् कृष्णात् साक्षात् कथयतः स्वयम् ॥",
       "transliteration": "vyāsa-prasādāt śrutavān etat guhyam aham param | yogam yoga-īśvarāt kṛṣṇāt sākṣāt kathayataḥ svayam ||",
       "translation": "By the grace of Vyāsa (vyāsa-prasādāt), I heard this supreme secret (guhyam param) — this Yoga — directly (sākṣāt) from Krishna Himself, the Lord of Yoga (yogeśvarāt kṛṣṇāt), speaking in person (svayam kathayataḥ).",
       "audio": "/assets/audio/ch18/verse_18_75.mp3",
       "word_breakdown": [
         {
-          "word": "vyāsa-prasādāt",
+          "word": "व्यास-प्रसादात्",
           "meaning": "by the grace of Vyāsa (prasāda = grace, divine bestowal; Vyāsa gave Sañjaya the gift of divine vision and hearing)"
         },
         {
-          "word": "śrutavān",
+          "word": "श्रुतवान्",
           "meaning": "one who has heard, I who heard (participial form — Sañjaya as the blessed recipient)"
         },
         {
-          "word": "etat",
+          "word": "एतत्",
           "meaning": "this"
         },
         {
-          "word": "guhyam param",
+          "word": "गुह्यम् परम्",
           "meaning": "the supreme secret (guhya = secret, hidden, esoteric; param = highest, supreme — the teaching beyond all others)"
         },
         {
-          "word": "aham",
+          "word": "अहम्",
           "meaning": "I (Sañjaya)"
         },
         {
-          "word": "yogam",
+          "word": "योगम्",
           "meaning": "this Yoga — the entirety of the Gita's teaching as a unified path"
         },
         {
-          "word": "yoga-īśvarāt",
+          "word": "योग-ईश्वरात्",
           "meaning": "from the Lord of Yoga (yoga-īśvara = the supreme master of all yogic paths — Krishna)"
         },
         {
-          "word": "kṛṣṇāt",
+          "word": "कृष्णात्",
           "meaning": "from Krishna"
         },
         {
-          "word": "sākṣāt",
+          "word": "साक्षात्",
           "meaning": "directly, face to face, immediately (without intermediary)"
         },
         {
-          "word": "kathayataḥ",
+          "word": "कथयतः",
           "meaning": "speaking, narrating (present participle — as He was speaking, while He spoke)"
         },
         {
-          "word": "svayam",
+          "word": "स्वयम्",
           "meaning": "Himself, in person, directly (emphasizing no intermediary, no second-hand transmission)"
         }
       ],
@@ -4212,49 +4212,49 @@
     },
     {
       "verse": 76,
-      "sanskrit": "rājan saṃsmṛtya saṃsmṛtya saṃvādam imam adbhutam | keśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhur muhuḥ ||",
+      "sanskrit": "राजन् संस्मृत्य संस्मृत्य संवादम् इमम् अद्भुतम् । केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर् मुहुः ॥",
       "transliteration": "rājan saṃsmṛtya saṃsmṛtya saṃvādam imam adbhutam | keśava-arjunayoḥ puṇyam hṛṣyāmi ca muhuḥ muhuḥ ||",
       "translation": "O King (rājan), repeatedly remembering (saṃsmṛtya saṃsmṛtya) this wonderful and holy dialogue (adbhutam puṇyam saṃvādam) of Keśava and Arjuna — I rejoice again and again (hṛṣyāmi ca muhur muhuḥ).",
       "audio": "/assets/audio/ch18/verse_18_76.mp3",
       "word_breakdown": [
         {
-          "word": "rājan",
+          "word": "राजन्",
           "meaning": "O King (addressing Dhṛtarāṣṭra, who has been listening to Sañjaya's entire report)"
         },
         {
-          "word": "saṃsmṛtya saṃsmṛtya",
+          "word": "संस्मृत्य संस्मृत्य",
           "meaning": "repeatedly remembering, again and again recollecting (the doubled gerund expressing the ceaseless and joyful return to the memory)"
         },
         {
-          "word": "saṃvādam",
+          "word": "संवादम्",
           "meaning": "this dialogue, this sacred conversation"
         },
         {
-          "word": "imam",
+          "word": "इमम्",
           "meaning": "this"
         },
         {
-          "word": "adbhutam",
+          "word": "अद्भुतम्",
           "meaning": "wonderful, extraordinary"
         },
         {
-          "word": "keśava-arjunayoḥ",
+          "word": "केशव-अर्जुनयोः",
           "meaning": "of Keśava and Arjuna (Keśava = one who has beautiful hair, or slayer of the demon Keśī — Krishna)"
         },
         {
-          "word": "puṇyam",
+          "word": "पुण्यम्",
           "meaning": "holy, auspicious, merit-conferring"
         },
         {
-          "word": "hṛṣyāmi",
+          "word": "हृष्यामि",
           "meaning": "I am thrilled, I rejoice, I am filled with delight (from the root hṛṣ — to be excited with joy)"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "muhuḥ muhuḥ",
+          "word": "मुहुः मुहुः",
           "meaning": "again and again, repeatedly, ceaselessly (the repetition of 'muhuḥ' mirrors the repetition of 'saṃsmṛtya' — the entire verse is structured as repetition-in-joy)"
         }
       ],
@@ -4267,57 +4267,57 @@
     },
     {
       "verse": 77,
-      "sanskrit": "tac ca saṃsmṛtya saṃsmṛtya rūpam aty-adbhutaṃ hareḥ | vismayo me mahān rājan hṛṣyāmi ca muhur muhuḥ ||",
+      "sanskrit": "तच् च संस्मृत्य संस्मृत्य रूपम् अत्य्-अद्भुतं हरेः । विस्मयो मे महान् राजन् हृष्यामि च मुहुर् मुहुः ॥",
       "transliteration": "tat ca saṃsmṛtya saṃsmṛtya rūpam ati-adbhutam hareḥ | vismayaḥ me mahān rājan hṛṣyāmi ca muhuḥ muhuḥ ||",
       "translation": "And remembering again and again (saṃsmṛtya saṃsmṛtya) that most extraordinarily wonderful form of Hari (rūpam aty-adbhutam hareḥ) — great wonder fills me (vismayo me mahān), O King — and I rejoice again and again (hṛṣyāmi ca muhur muhuḥ).",
       "audio": "/assets/audio/ch18/verse_18_77.mp3",
       "word_breakdown": [
         {
-          "word": "tat ca",
+          "word": "तत् च",
           "meaning": "and that (referring to a second object of joyful memory — the cosmic form seen in Ch11)"
         },
         {
-          "word": "saṃsmṛtya saṃsmṛtya",
+          "word": "संस्मृत्य संस्मृत्य",
           "meaning": "repeatedly remembering, again and again recollecting"
         },
         {
-          "word": "rūpam",
+          "word": "रूपम्",
           "meaning": "form, vision, appearance"
         },
         {
-          "word": "ati-adbhutam",
+          "word": "अति-अद्भुतम्",
           "meaning": "most extraordinarily wonderful (ati = exceedingly, beyond; adbhuta = wonderful — surpassing even adbhuta)"
         },
         {
-          "word": "hareḥ",
+          "word": "हरेः",
           "meaning": "of Hari — one of Krishna's names, meaning 'the remover' (of sin, of ignorance, of obstacles), connected to the cosmic preserving power"
         },
         {
-          "word": "vismayaḥ",
+          "word": "विस्मयः",
           "meaning": "wonder, amazement, awe (a deeper, more speechless response than mere hṛṣa/joy)"
         },
         {
-          "word": "me",
+          "word": "मे",
           "meaning": "in me, my"
         },
         {
-          "word": "mahān",
+          "word": "महान्",
           "meaning": "great, vast"
         },
         {
-          "word": "rājan",
+          "word": "राजन्",
           "meaning": "O King"
         },
         {
-          "word": "hṛṣyāmi",
+          "word": "हृष्यामि",
           "meaning": "I rejoice, I am thrilled"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "muhuḥ muhuḥ",
+          "word": "मुहुः मुहुः",
           "meaning": "again and again, ceaselessly"
         }
       ],
@@ -4330,57 +4330,57 @@
     },
     {
       "verse": 78,
-      "sanskrit": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ | tatra śrīr vijayo bhūtir dhruvā nītir matir mama ||",
+      "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्-धरः । तत्र श्रीर् विजयो भूतिर् ध्रुवा नीतिर् मतिर् मम ॥",
       "transliteration": "yatra yoga-īśvaraḥ kṛṣṇaḥ yatra pārthaḥ dhanuḥ-dharaḥ | tatra śrīḥ vijayaḥ bhūtiḥ dhruvā nītiḥ matiḥ mama ||",
       "translation": "Wherever there is Krishna the Lord of Yoga (yogeśvaraḥ kṛṣṇaḥ), and wherever there is Pārtha the bow-bearer (pārthaḥ dhanur-dharaḥ) — there is prosperity/grace (śrī), victory (vijaya), happiness and power (bhūti), and eternal righteousness (dhruvā nīti). This is my conviction (matir mama).",
       "audio": "/assets/audio/ch18/verse_18_78.mp3",
       "word_breakdown": [
         {
-          "word": "yatra",
+          "word": "यत्र",
           "meaning": "wherever (first) — 'wherever the Divine is'"
         },
         {
-          "word": "yoga-īśvaraḥ kṛṣṇaḥ",
+          "word": "योग-ईश्वरः कृष्णः",
           "meaning": "Krishna the Lord of Yoga (yogeśvara = master of all yoga, of all paths of union with the Divine; the one in whom all yoga finds its source and summit)"
         },
         {
-          "word": "yatra",
+          "word": "यत्र",
           "meaning": "wherever (second) — 'wherever the surrendered human soul acts'"
         },
         {
-          "word": "pārthaḥ",
+          "word": "पार्थः",
           "meaning": "Pārtha — Arjuna, son of Pṛthā (the human soul, named in its earthly, mortal, striving dimension)"
         },
         {
-          "word": "dhanuḥ-dharaḥ",
+          "word": "धनुः-धरः",
           "meaning": "the bow-bearer, the one holding the bow (active, engaged in righteous duty — not retreating but present in the field of action)"
         },
         {
-          "word": "tatra",
+          "word": "तत्र",
           "meaning": "there — in that place, in that condition, in that alignment"
         },
         {
-          "word": "śrīḥ",
+          "word": "श्रीः",
           "meaning": "prosperity, grace, the divine presence of Lakṣmī (śrī = divine beauty, abundance, auspiciousness — also the grace of the Divine itself)"
         },
         {
-          "word": "vijayaḥ",
+          "word": "विजयः",
           "meaning": "victory — not merely military but the ultimate victory: the triumph of dharma, of truth, of the right action"
         },
         {
-          "word": "bhūtiḥ",
+          "word": "भूतिः",
           "meaning": "happiness, power, flourishing, welfare, abundant being (from bhū — to be, to flourish)"
         },
         {
-          "word": "dhruvā",
+          "word": "ध्रुवा",
           "meaning": "eternal, fixed, certain, unwavering (Dhruva = the pole star — what never moves)"
         },
         {
-          "word": "nītiḥ",
+          "word": "नीतिः",
           "meaning": "righteousness, ethics, wise governance, the eternal moral order"
         },
         {
-          "word": "matiḥ mama",
+          "word": "मतिः मम",
           "meaning": "this is my conviction, my firm understanding, my belief — Sañjaya's personal testimony closing the entire Gita"
         }
       ],

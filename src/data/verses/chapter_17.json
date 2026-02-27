@@ -3,65 +3,65 @@
   "verses": [
     {
       "verse": 1,
-      "sanskrit": "arjuna uvāca\nye śāstra-vidhim utsṛjya yajante śraddhayānvitāḥ |\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvam āho rajas tamaḥ ||",
+      "sanskrit": "अर्जुन उवाच\nये शास्त्र-विधिम् उत्सृज्य यजन्ते श्रद्धयान्विताः ।\nतेषां निष्ठा तु का कृष्ण सत्त्वम् आहो रजस् तमः ॥",
       "transliteration": "arjuna uvāca\nye śāstra-vidhim utsṛjya yajante śraddhayānvitāḥ |\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvam āho rajas tamaḥ ||",
       "translation": "Arjuna said: Those who worship (yajante) with faith (śraddhayānvitāḥ) but have abandoned scriptural injunction (śāstra-vidhim utsṛjya) — what is their standing (niṣṭhā), O Krishna? Is it sattva, rajas, or tamas?",
       "audio": "/assets/audio/ch17/verse_17_01.mp3",
       "word_breakdown": [
         {
-          "word": "ye",
+          "word": "ये",
           "meaning": "those who"
         },
         {
-          "word": "śāstra-vidhim",
+          "word": "शास्त्र-विधिम्",
           "meaning": "scriptural injunction / the rule of scripture"
         },
         {
-          "word": "utsṛjya",
+          "word": "उत्सृज्य",
           "meaning": "having abandoned / setting aside"
         },
         {
-          "word": "yajante",
+          "word": "यजन्ते",
           "meaning": "they worship / they offer sacrifice"
         },
         {
-          "word": "śraddhayānvitāḥ",
+          "word": "श्रद्धयान्विताः",
           "meaning": "endowed with faith (śraddhayā + anvitāḥ)"
         },
         {
-          "word": "teṣāṃ",
+          "word": "तेषां",
           "meaning": "of them / their"
         },
         {
-          "word": "niṣṭhā",
+          "word": "निष्ठा",
           "meaning": "standing / foundation / condition"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "but / indeed"
         },
         {
-          "word": "kā",
+          "word": "का",
           "meaning": "what"
         },
         {
-          "word": "kṛṣṇa",
+          "word": "कृष्ण",
           "meaning": "O Krishna"
         },
         {
-          "word": "sattvam",
+          "word": "सत्त्वम्",
           "meaning": "sattva (purity / goodness)"
         },
         {
-          "word": "āho",
+          "word": "आहो",
           "meaning": "or"
         },
         {
-          "word": "rajas",
+          "word": "रजस्",
           "meaning": "rajas (passion / activity)"
         },
         {
-          "word": "tamaḥ",
+          "word": "तमः",
           "meaning": "tamas (inertia / darkness)"
         }
       ],
@@ -74,61 +74,61 @@
     },
     {
       "verse": 2,
-      "sanskrit": "śrī bhagavān uvāca\ntri-vidhā bhavati śraddhā dehināṃ sā svabhāva-jā |\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||",
+      "sanskrit": "श्री भगवान् उवाच\nत्रि-विधा भवति श्रद्धा देहिनां सा स्वभाव-जा ।\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ॥",
       "transliteration": "śrī bhagavān uvāca\ntri-vidhā bhavati śraddhā dehināṃ sā svabhāva-jā |\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||",
       "translation": "The Blessed Lord said: The faith of embodied beings (dehināṃ) is threefold, born of one's own nature (svabhāva-jā) — sāttvikī, rājasī, and tāmasī. Hear about this from Me.",
       "audio": "/assets/audio/ch17/verse_17_02.mp3",
       "word_breakdown": [
         {
-          "word": "tri-vidhā",
+          "word": "त्रि-विधा",
           "meaning": "threefold / of three kinds"
         },
         {
-          "word": "bhavati",
+          "word": "भवति",
           "meaning": "becomes / is"
         },
         {
-          "word": "śraddhā",
+          "word": "श्रद्धा",
           "meaning": "faith / trust / conviction"
         },
         {
-          "word": "dehināṃ",
+          "word": "देहिनां",
           "meaning": "of embodied beings / of those with bodies"
         },
         {
-          "word": "sā",
+          "word": "सा",
           "meaning": "that / it (referring to śraddhā)"
         },
         {
-          "word": "svabhāva-jā",
+          "word": "स्वभाव-जा",
           "meaning": "born of one's own nature (svabhāva = inherent nature, jā = born)"
         },
         {
-          "word": "sāttvikī",
+          "word": "सात्त्विकी",
           "meaning": "of the nature of sattva / pure faith"
         },
         {
-          "word": "rājasī",
+          "word": "राजसी",
           "meaning": "of the nature of rajas / passionate faith"
         },
         {
-          "word": "caiva",
+          "word": "चैव",
           "meaning": "and indeed (ca + eva)"
         },
         {
-          "word": "tāmasī",
+          "word": "तामसी",
           "meaning": "of the nature of tamas / inert/dark faith"
         },
         {
-          "word": "ceti",
+          "word": "चेति",
           "meaning": "and thus (ca + iti)"
         },
         {
-          "word": "tāṃ",
+          "word": "तां",
           "meaning": "that / it (her — śraddhā)"
         },
         {
-          "word": "śṛṇu",
+          "word": "शृणु",
           "meaning": "hear / listen"
         }
       ],
@@ -141,65 +141,65 @@
     },
     {
       "verse": 3,
-      "sanskrit": "sattvānurūpā sarvasya śraddhā bhavati bhārata |\nśraddhā-mayo'yaṃ puruṣo yo yac-chraddhaḥ sa eva saḥ ||",
+      "sanskrit": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।\nश्रद्धा-मयोऽयं पुरुषो यो यच्-छ्रद्धः स एव सः ॥",
       "transliteration": "sattvānurūpā sarvasya śraddhā bhavati bhārata |\nśraddhā-mayo'yaṃ puruṣo yo yac-chraddhaḥ sa eva saḥ ||",
       "translation": "The faith of each person is in accordance with their essential nature (sattvānurūpā), O Bhārata. This person is made of faith (śraddhā-mayaḥ); whatever one has faith in — that indeed one IS (yo yac-chraddhaḥ sa eva saḥ).",
       "audio": "/assets/audio/ch17/verse_17_03.mp3",
       "word_breakdown": [
         {
-          "word": "sattvānurūpā",
+          "word": "सत्त्वानुरूपा",
           "meaning": "in accordance with one's sattva / nature (sattva + anurūpā = conforming to)"
         },
         {
-          "word": "sarvasya",
+          "word": "सर्वस्य",
           "meaning": "of everyone / of each person"
         },
         {
-          "word": "śraddhā",
+          "word": "श्रद्धा",
           "meaning": "faith"
         },
         {
-          "word": "bhavati",
+          "word": "भवति",
           "meaning": "is / becomes"
         },
         {
-          "word": "bhārata",
+          "word": "भारत",
           "meaning": "O descendant of Bharata (Arjuna)"
         },
         {
-          "word": "śraddhā-mayaḥ",
+          "word": "श्रद्धा-मयः",
           "meaning": "made of faith / constituted by faith"
         },
         {
-          "word": "ayaṃ",
+          "word": "अयं",
           "meaning": "this"
         },
         {
-          "word": "puruṣaḥ",
+          "word": "पुरुषः",
           "meaning": "person / being"
         },
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "who / whoever"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "whatever"
         },
         {
-          "word": "śraddhaḥ",
+          "word": "श्रद्धः",
           "meaning": "having faith in / believing in"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "he / that person"
         },
         {
-          "word": "eva",
+          "word": "एव",
           "meaning": "indeed / verily"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "that (he is that very thing)"
         }
       ],
@@ -212,49 +212,49 @@
     },
     {
       "verse": 4,
-      "sanskrit": "yajante sāttvikā devān yakṣa-rakṣāṃsi rājasāḥ |\npretān bhūta-gaṇāṃś cānye yajante tāmasā janāḥ ||",
+      "sanskrit": "यजन्ते सात्त्विका देवान् यक्ष-रक्षांसि राजसाः ।\nप्रेतान् भूत-गणांश् चान्ये यजन्ते तामसा जनाः ॥",
       "transliteration": "yajante sāttvikā devān yakṣa-rakṣāṃsi rājasāḥ |\npretān bhūta-gaṇāṃś cānye yajante tāmasā janāḥ ||",
       "translation": "The sattvic worship the gods (devān); the rajasic worship yakṣas and rākṣasas; others — the tamasic — worship the departed (pretān) and hosts of elementals/spirits (bhūta-gaṇān).",
       "audio": "/assets/audio/ch17/verse_17_04.mp3",
       "word_breakdown": [
         {
-          "word": "yajante",
+          "word": "यजन्ते",
           "meaning": "they worship / they offer sacrifice"
         },
         {
-          "word": "sāttvikā",
+          "word": "सात्त्विका",
           "meaning": "the sattvic ones / those of sattvic nature"
         },
         {
-          "word": "devān",
+          "word": "देवान्",
           "meaning": "the gods / celestial beings / devas"
         },
         {
-          "word": "yakṣa-rakṣāṃsi",
+          "word": "यक्ष-रक्षांसि",
           "meaning": "yakṣas and rākṣasas (semi-divine power-beings and demons)"
         },
         {
-          "word": "rājasāḥ",
+          "word": "राजसाः",
           "meaning": "the rajasic ones / those of rajasic nature"
         },
         {
-          "word": "pretān",
+          "word": "प्रेतान्",
           "meaning": "the departed / ghosts / spirits of the dead"
         },
         {
-          "word": "bhūta-gaṇān",
+          "word": "भूत-गणान्",
           "meaning": "hosts of spirits / groups of elemental beings"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "anye",
+          "word": "अन्ये",
           "meaning": "others"
         },
         {
-          "word": "tāmasā janāḥ",
+          "word": "तामसा जनाः",
           "meaning": "the tamasic people / people of tamasic nature"
         }
       ],
@@ -267,61 +267,61 @@
     },
     {
       "verse": 5,
-      "sanskrit": "aśāstra-vihitaṃ ghoraṃ tapyante ye tapo janāḥ |\ndambhāhaṅkāra-saṃyuktāḥ kāma-rāga-balānvitāḥ ||",
+      "sanskrit": "अशास्त्र-विहितं घोरं तप्यन्ते ये तपो जनाः ।\nदम्भाहङ्कार-संयुक्ताः काम-राग-बलान्विताः ॥",
       "transliteration": "aśāstra-vihitaṃ ghoraṃ tapyante ye tapo janāḥ |\ndambhāhaṅkāra-saṃyuktāḥ kāma-rāga-balānvitāḥ ||",
       "translation": "Those who practice terrible (ghora) austerities not enjoined by scripture (aśāstra-vihitam), combined with ostentation (dambha) and ego (ahaṅkāra), and impelled by desire (kāma), passion (rāga), and force (bala)...",
       "audio": "/assets/audio/ch17/verse_17_05.mp3",
       "word_breakdown": [
         {
-          "word": "aśāstra-vihitam",
+          "word": "अशास्त्र-विहितम्",
           "meaning": "not sanctioned by scripture (a = not, śāstra = scripture, vihitam = enjoined/prescribed)"
         },
         {
-          "word": "ghoram",
+          "word": "घोरम्",
           "meaning": "terrible / dreadful / severe"
         },
         {
-          "word": "tapyante",
+          "word": "तप्यन्ते",
           "meaning": "they practice austerity / they mortify"
         },
         {
-          "word": "ye",
+          "word": "ये",
           "meaning": "those who"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity / ascetic practice"
         },
         {
-          "word": "janāḥ",
+          "word": "जनाः",
           "meaning": "people / persons"
         },
         {
-          "word": "dambha",
+          "word": "दम्भ",
           "meaning": "ostentation / hypocrisy / showing off"
         },
         {
-          "word": "ahaṅkāra",
+          "word": "अहङ्कार",
           "meaning": "ego / false identification / pride"
         },
         {
-          "word": "saṃyuktāḥ",
+          "word": "संयुक्ताः",
           "meaning": "combined with / endowed with"
         },
         {
-          "word": "kāma",
+          "word": "काम",
           "meaning": "desire / lust / craving"
         },
         {
-          "word": "rāga",
+          "word": "राग",
           "meaning": "passion / attachment / strong attraction"
         },
         {
-          "word": "bala",
+          "word": "बल",
           "meaning": "force / violence / compulsion"
         },
         {
-          "word": "anvitāḥ",
+          "word": "अन्विताः",
           "meaning": "possessed of / accompanied by"
         }
       ],
@@ -334,57 +334,57 @@
     },
     {
       "verse": 6,
-      "sanskrit": "karśayantaḥ śarīra-sthaṃ bhūta-grāmam acetasaḥ |\nmāṃ caivāntaḥ śarīra-sthaṃ tān viddhy āsura-niścayān ||",
+      "sanskrit": "कर्शयन्तः शरीर-स्थं भूत-ग्रामम् अचेतसः ।\nमां चैवान्तः शरीर-स्थं तान् विद्ध्य् आसुर-निश्चयान् ॥",
       "transliteration": "karśayantaḥ śarīra-sthaṃ bhūta-grāmam acetasaḥ |\nmāṃ caivāntaḥ śarīra-sthaṃ tān viddhy āsura-niścayān ||",
       "translation": "...senselessly (acetasaḥ) tormenting the elements/beings dwelling within the body, and also Me who am seated within the body — know them to be of demoniac resolve (āsura-niścayān).",
       "audio": "/assets/audio/ch17/verse_17_06.mp3",
       "word_breakdown": [
         {
-          "word": "karśayantaḥ",
+          "word": "कर्शयन्तः",
           "meaning": "tormenting / emacating / causing to wither"
         },
         {
-          "word": "śarīra-stham",
+          "word": "शरीर-स्थम्",
           "meaning": "dwelling in the body (śarīra = body, stha = abiding)"
         },
         {
-          "word": "bhūta-grāmam",
+          "word": "भूत-ग्रामम्",
           "meaning": "the collection of elements / all the beings/constituents that compose the body"
         },
         {
-          "word": "acetasaḥ",
+          "word": "अचेतसः",
           "meaning": "senselessly / without true understanding / mindlessly"
         },
         {
-          "word": "mām",
+          "word": "माम्",
           "meaning": "Me (the Lord, Ātman within)"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and / also"
         },
         {
-          "word": "eva",
+          "word": "एव",
           "meaning": "indeed / verily"
         },
         {
-          "word": "antaḥ",
+          "word": "अन्तः",
           "meaning": "within / inside"
         },
         {
-          "word": "śarīra-stham",
+          "word": "शरीर-स्थम्",
           "meaning": "abiding in the body"
         },
         {
-          "word": "tān",
+          "word": "तान्",
           "meaning": "them / those persons"
         },
         {
-          "word": "viddhi",
+          "word": "विद्धि",
           "meaning": "know / understand"
         },
         {
-          "word": "āsura-niścayān",
+          "word": "आसुर-निश्चयान्",
           "meaning": "of demoniac resolve / with demonic determination (āsura = demonic, niścaya = resolve/certainty)"
         }
       ],
@@ -397,69 +397,69 @@
     },
     {
       "verse": 7,
-      "sanskrit": "āhāras tv api sarvasya tri-vidho bhavati priyaḥ |\nyajñas tapas tathā dānaṃ teṣāṃ bhedam imaṃ śṛṇu ||",
+      "sanskrit": "आहारस् त्व् अपि सर्वस्य त्रि-विधो भवति प्रियः ।\nयज्ञस् तपस् तथा दानं तेषां भेदम् इमं शृणु ॥",
       "transliteration": "āhāras tv api sarvasya tri-vidho bhavati priyaḥ |\nyajñas tapas tathā dānaṃ teṣāṃ bhedam imaṃ śṛṇu ||",
       "translation": "And even the food (āhāra) that is dear to each person is of three kinds; likewise sacrifice (yajña), austerity (tapas), and charity (dāna) are also threefold. Hear about these distinctions (bhedam).",
       "audio": "/assets/audio/ch17/verse_17_07.mp3",
       "word_breakdown": [
         {
-          "word": "āhāraḥ",
+          "word": "आहारः",
           "meaning": "food / diet / nourishment"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "indeed / even"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "also / even"
         },
         {
-          "word": "sarvasya",
+          "word": "सर्वस्य",
           "meaning": "of each person / of everyone"
         },
         {
-          "word": "tri-vidhaḥ",
+          "word": "त्रि-विधः",
           "meaning": "threefold / of three kinds"
         },
         {
-          "word": "bhavati",
+          "word": "भवति",
           "meaning": "is / becomes"
         },
         {
-          "word": "priyaḥ",
+          "word": "प्रियः",
           "meaning": "dear / preferred / liked"
         },
         {
-          "word": "yajñaḥ",
+          "word": "यज्ञः",
           "meaning": "sacrifice / worship / ritual offering"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity / penance / tapas"
         },
         {
-          "word": "tathā",
+          "word": "तथा",
           "meaning": "likewise / also / similarly"
         },
         {
-          "word": "dānam",
+          "word": "दानम्",
           "meaning": "charity / giving / donation"
         },
         {
-          "word": "teṣāṃ",
+          "word": "तेषां",
           "meaning": "of them / their"
         },
         {
-          "word": "bhedam",
+          "word": "भेदम्",
           "meaning": "distinction / difference / division"
         },
         {
-          "word": "imam",
+          "word": "इमम्",
           "meaning": "this"
         },
         {
-          "word": "śṛṇu",
+          "word": "शृणु",
           "meaning": "hear / listen"
         }
       ],
@@ -472,61 +472,61 @@
     },
     {
       "verse": 8,
-      "sanskrit": "āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ |\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ ||",
+      "sanskrit": "आयुः-सत्त्व-बलारोग्य-सुख-प्रीति-विवर्धनाः ।\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विक-प्रियाः ॥",
       "transliteration": "āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ |\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ ||",
       "translation": "Foods that increase lifespan (āyus), purity of mind (sattva), strength (bala), health (ārogya), happiness (sukha), and delight (prīti) — which are juicy (rasyāḥ), smooth/oleaginous (snigdhāḥ), substantial (sthirāḥ), and pleasant to the heart (hṛdyāḥ) — these are dear to the sattvic.",
       "audio": "/assets/audio/ch17/verse_17_08.mp3",
       "word_breakdown": [
         {
-          "word": "āyuḥ",
+          "word": "आयुः",
           "meaning": "lifespan / longevity / vitality"
         },
         {
-          "word": "sattva",
+          "word": "सत्त्व",
           "meaning": "purity / goodness / clarity of mind"
         },
         {
-          "word": "bala",
+          "word": "बल",
           "meaning": "strength / vigor"
         },
         {
-          "word": "ārogya",
+          "word": "आरोग्य",
           "meaning": "health / freedom from disease"
         },
         {
-          "word": "sukha",
+          "word": "सुख",
           "meaning": "happiness / comfort / ease"
         },
         {
-          "word": "prīti",
+          "word": "प्रीति",
           "meaning": "delight / joy / love"
         },
         {
-          "word": "vivardhanāḥ",
+          "word": "विवर्धनाः",
           "meaning": "increasing / promoting / augmenting"
         },
         {
-          "word": "rasyāḥ",
+          "word": "रस्याः",
           "meaning": "juicy / full of rasa (essence/life-juice)"
         },
         {
-          "word": "snigdhāḥ",
+          "word": "स्निग्धाः",
           "meaning": "smooth / oleaginous / unctuous / nourishing"
         },
         {
-          "word": "sthirāḥ",
+          "word": "स्थिराः",
           "meaning": "firm / substantial / sustaining"
         },
         {
-          "word": "hṛdyāḥ",
+          "word": "हृद्याः",
           "meaning": "pleasing to the heart / agreeable / wholesome"
         },
         {
-          "word": "āhārāḥ",
+          "word": "आहाराः",
           "meaning": "foods / diet"
         },
         {
-          "word": "sāttvika-priyāḥ",
+          "word": "सात्त्विक-प्रियाः",
           "meaning": "dear to the sattvic / preferred by those of sattvic nature"
         }
       ],
@@ -539,65 +539,65 @@
     },
     {
       "verse": 9,
-      "sanskrit": "kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ |\nāhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ ||",
+      "sanskrit": "कट्व्-अम्ल-लवणात्य्-उष्ण-तीक्ष्ण-रूक्ष-विदाहिनः ।\nआहारा राजसस्येष्टा दुःख-शोकामय-प्रदाः ॥",
       "transliteration": "kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ |\nāhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ ||",
       "translation": "Foods that are bitter (kaṭu), sour (amla), salty (lavaṇa), excessively hot (aty-uṣṇa), pungent (tīkṣṇa), dry (rūkṣa), and burning (vidāhī) — these are dear to the rajasic (rājasasyeṣṭāḥ); they produce pain (duḥkha), grief (śoka), and disease (āmaya).",
       "audio": "/assets/audio/ch17/verse_17_09.mp3",
       "word_breakdown": [
         {
-          "word": "kaṭu",
+          "word": "कटु",
           "meaning": "bitter / pungent (basic taste)"
         },
         {
-          "word": "amla",
+          "word": "अम्ल",
           "meaning": "sour / acidic"
         },
         {
-          "word": "lavaṇa",
+          "word": "लवण",
           "meaning": "salty"
         },
         {
-          "word": "aty-uṣṇa",
+          "word": "अत्य्-उष्ण",
           "meaning": "excessively hot (ati = excessive, uṣṇa = hot)"
         },
         {
-          "word": "tīkṣṇa",
+          "word": "तीक्ष्ण",
           "meaning": "sharp / pungent / intensely spicy"
         },
         {
-          "word": "rūkṣa",
+          "word": "रूक्ष",
           "meaning": "dry / rough / not oleaginous"
         },
         {
-          "word": "vidāhinaḥ",
+          "word": "विदाहिनः",
           "meaning": "burning / causing internal burning/inflammation"
         },
         {
-          "word": "āhārāḥ",
+          "word": "आहाराः",
           "meaning": "foods"
         },
         {
-          "word": "rājasasya",
+          "word": "राजसस्य",
           "meaning": "of the rajasic person"
         },
         {
-          "word": "iṣṭāḥ",
+          "word": "इष्टाः",
           "meaning": "preferred / beloved / desired"
         },
         {
-          "word": "duḥkha",
+          "word": "दुःख",
           "meaning": "pain / suffering / physical discomfort"
         },
         {
-          "word": "śoka",
+          "word": "शोक",
           "meaning": "grief / mental anguish / sorrow"
         },
         {
-          "word": "āmaya",
+          "word": "आमय",
           "meaning": "disease / illness"
         },
         {
-          "word": "pradāḥ",
+          "word": "प्रदाः",
           "meaning": "producing / bestowing / giving"
         }
       ],
@@ -610,57 +610,57 @@
     },
     {
       "verse": 10,
-      "sanskrit": "yāta-yāmaṃ gata-rasaṃ pūti paryuṣitaṃ ca yat |\nucchiṣṭam api cāmedhyaṃ bhojanaṃ tāmasa-priyam ||",
+      "sanskrit": "यात-यामं गत-रसं पूति पर्युषितं च यत् ।\nउच्छिष्टम् अपि चामेध्यं भोजनं तामस-प्रियम् ॥",
       "transliteration": "yāta-yāmaṃ gata-rasaṃ pūti paryuṣitaṃ ca yat |\nucchiṣṭam api cāmedhyaṃ bhojanaṃ tāmasa-priyam ||",
       "translation": "Food that is stale (yāta-yāmam), tasteless/devoid of essence (gata-rasam), putrid/rotten (pūtī), day-old/leftover (paryuṣitam), impure remnants (ucchiṣṭam), and ritually impure (amedhyam) — such food is dear to the tamasic.",
       "audio": "/assets/audio/ch17/verse_17_10.mp3",
       "word_breakdown": [
         {
-          "word": "yāta-yāmam",
+          "word": "यात-यामम्",
           "meaning": "stale / time-passed (yāta = passed, yāma = a period of three hours; food past its prime)"
         },
         {
-          "word": "gata-rasam",
+          "word": "गत-रसम्",
           "meaning": "devoid of taste/essence (gata = gone, rasa = essence/taste/life-force)"
         },
         {
-          "word": "pūti",
+          "word": "पूति",
           "meaning": "putrid / rotten / foul-smelling"
         },
         {
-          "word": "paryuṣitam",
+          "word": "पर्युषितम्",
           "meaning": "day-old / leftover / stale from previous day"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "which / that which"
         },
         {
-          "word": "ucchiṣṭam",
+          "word": "उच्छिष्टम्",
           "meaning": "remnants / leftovers / food touched and left by another"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "even / also"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "amedhyam",
+          "word": "अमेध्यम्",
           "meaning": "impure / ritually unclean / unfit for sacred use"
         },
         {
-          "word": "bhojanam",
+          "word": "भोजनम्",
           "meaning": "food / that which is eaten"
         },
         {
-          "word": "tāmasa-priyam",
+          "word": "तामस-प्रियम्",
           "meaning": "dear to the tamasic / preferred by those of tamasic nature"
         }
       ],
@@ -673,53 +673,53 @@
     },
     {
       "verse": 11,
-      "sanskrit": "aphala-kāṅkṣibhir yajño vidhi-diṣṭo ya ijyate | yaṣṭavyam eveti manaḥ samādhāya sa sāttvikaḥ ||",
+      "sanskrit": "अफल-काङ्क्षिभिर् यज्ञो विधि-दिष्टो य इज्यते । यष्टव्यम् एवेति मनः समाधाय स सात्त्विकः ॥",
       "transliteration": "aphala-kāṅkṣibhir yajño vidhi-diṣṭo ya ijyate | yaṣṭavyam eveti manaḥ samādhāya sa sāttvikaḥ ||",
       "translation": "That sacrifice which is offered according to prescribed method, by those who do not seek fruit, with the mind focused on the conviction 'this is to be offered as a duty' — that is sattvic.",
       "audio": "/assets/audio/ch17/verse_17_11.mp3",
       "word_breakdown": [
         {
-          "word": "aphala-kāṅkṣibhiḥ",
+          "word": "अफल-काङ्क्षिभिः",
           "meaning": "by those who do not desire fruit"
         },
         {
-          "word": "yajñaḥ",
+          "word": "यज्ञः",
           "meaning": "sacrifice"
         },
         {
-          "word": "vidhi-diṣṭaḥ",
+          "word": "विधि-दिष्टः",
           "meaning": "prescribed by scriptural injunction / according to method"
         },
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "which"
         },
         {
-          "word": "ijyate",
+          "word": "इज्यते",
           "meaning": "is offered / performed"
         },
         {
-          "word": "yaṣṭavyam eva",
+          "word": "यष्टव्यम् एव",
           "meaning": "this alone is to be offered / it is my duty to sacrifice"
         },
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus / with this conviction"
         },
         {
-          "word": "manaḥ",
+          "word": "मनः",
           "meaning": "mind"
         },
         {
-          "word": "samādhāya",
+          "word": "समाधाय",
           "meaning": "fixing / focusing / settling"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "that"
         },
         {
-          "word": "sāttvikaḥ",
+          "word": "सात्त्विकः",
           "meaning": "sattvic / of the nature of sattva"
         }
       ],
@@ -732,61 +732,61 @@
     },
     {
       "verse": 12,
-      "sanskrit": "abhisandhāya tu phalaṃ dambhārtham api caiva yat | ijyate bharata-śreṣṭha taṃ yajñaṃ viddhi rājasam ||",
+      "sanskrit": "अभिसन्धाय तु फलं दम्भार्थम् अपि चैव यत् । इज्यते भरत-श्रेष्ठ तं यज्ञं विद्धि राजसम् ॥",
       "transliteration": "abhisandhāya tu phalaṃ dambhārtham api caiva yat | ijyate bharata-śreṣṭha taṃ yajñaṃ viddhi rājasam ||",
       "translation": "But that sacrifice which is performed with the aim of gaining fruit, and also for ostentation, O Best of Bharatas — know that sacrifice to be rajasic.",
       "audio": "/assets/audio/ch17/verse_17_12.mp3",
       "word_breakdown": [
         {
-          "word": "abhisandhāya",
+          "word": "अभिसन्धाय",
           "meaning": "having aimed at / fixing the mind on"
         },
         {
-          "word": "tu",
+          "word": "तु",
           "meaning": "but / however"
         },
         {
-          "word": "phalam",
+          "word": "फलम्",
           "meaning": "fruit / result"
         },
         {
-          "word": "dambha-artham",
+          "word": "दम्भ-अर्थम्",
           "meaning": "for the purpose of show / for ostentation"
         },
         {
-          "word": "api",
+          "word": "अपि",
           "meaning": "also"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "which"
         },
         {
-          "word": "ijyate",
+          "word": "इज्यते",
           "meaning": "is performed / offered"
         },
         {
-          "word": "bharata-śreṣṭha",
+          "word": "भरत-श्रेष्ठ",
           "meaning": "O Best of Bharatas (Arjuna)"
         },
         {
-          "word": "tam",
+          "word": "तम्",
           "meaning": "that"
         },
         {
-          "word": "yajñam",
+          "word": "यज्ञम्",
           "meaning": "sacrifice"
         },
         {
-          "word": "viddhi",
+          "word": "विद्धि",
           "meaning": "know"
         },
         {
-          "word": "rājasam",
+          "word": "राजसम्",
           "meaning": "rajasic / of the nature of rajas"
         }
       ],
@@ -799,41 +799,41 @@
     },
     {
       "verse": 13,
-      "sanskrit": "vidhi-hīnam asṛṣṭānnaṃ mantra-hīnam adakṣiṇam | śraddhā-virahitaṃ yajñaṃ tāmasaṃ paricakṣate ||",
+      "sanskrit": "विधि-हीनम् असृष्टान्नं मन्त्र-हीनम् अदक्षिणम् । श्रद्धा-विरहितं यज्ञं तामसं परिचक्षते ॥",
       "transliteration": "vidhi-hīnam asṛṣṭānnaṃ mantra-hīnam adakṣiṇam | śraddhā-virahitaṃ yajñaṃ tāmasaṃ paricakṣate ||",
       "translation": "A sacrifice contrary to prescribed method, in which no food is distributed, in which there are no sacred chants, no sacrificial gifts, and which is devoid of faith — such a sacrifice they call tamasic.",
       "audio": "/assets/audio/ch17/verse_17_13.mp3",
       "word_breakdown": [
         {
-          "word": "vidhi-hīnam",
+          "word": "विधि-हीनम्",
           "meaning": "devoid of prescribed method / contrary to injunction"
         },
         {
-          "word": "asṛṣṭānnam",
+          "word": "असृष्टान्नम्",
           "meaning": "in which food is not distributed (a + sṛṣṭa + anna)"
         },
         {
-          "word": "mantra-hīnam",
+          "word": "मन्त्र-हीनम्",
           "meaning": "without sacred chants / mantras"
         },
         {
-          "word": "adakṣiṇam",
+          "word": "अदक्षिणम्",
           "meaning": "without sacrificial gifts / dakṣiṇā to officiants"
         },
         {
-          "word": "śraddhā-virahitam",
+          "word": "श्रद्धा-विरहितम्",
           "meaning": "devoid of faith (śraddhā + virahita)"
         },
         {
-          "word": "yajñam",
+          "word": "यज्ञम्",
           "meaning": "sacrifice"
         },
         {
-          "word": "tāmasam",
+          "word": "तामसम्",
           "meaning": "tamasic / of the nature of tamas"
         },
         {
-          "word": "paricakṣate",
+          "word": "परिचक्षते",
           "meaning": "they declare / call / regard"
         }
       ],
@@ -846,61 +846,61 @@
     },
     {
       "verse": 14,
-      "sanskrit": "deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam | brahma-caryam ahiṃsā ca śārīraṃ tapa ucyate ||",
+      "sanskrit": "देव-द्विज-गुरु-प्राज्ञ-पूजनं शौचम् आर्जवम् । ब्रह्म-चर्यम् अहिंसा च शारीरं तप उच्यते ॥",
       "transliteration": "deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam | brahma-caryam ahiṃsā ca śārīraṃ tapa ucyate ||",
       "translation": "Worship of the gods, the twice-born, teachers, and the wise — purity, uprightness, celibacy, and non-violence — this is called the austerity of the body.",
       "audio": "/assets/audio/ch17/verse_17_14.mp3",
       "word_breakdown": [
         {
-          "word": "deva",
+          "word": "देव",
           "meaning": "the gods / divine beings"
         },
         {
-          "word": "dvija",
+          "word": "द्विज",
           "meaning": "the twice-born / brahmins (those born once physically, once spiritually through initiation)"
         },
         {
-          "word": "guru",
+          "word": "गुरु",
           "meaning": "the teacher / spiritual preceptor"
         },
         {
-          "word": "prājña",
+          "word": "प्राज्ञ",
           "meaning": "the wise / those of deep wisdom"
         },
         {
-          "word": "pūjanam",
+          "word": "पूजनम्",
           "meaning": "worship / reverence / honoring"
         },
         {
-          "word": "śaucam",
+          "word": "शौचम्",
           "meaning": "purity / cleanliness (inner and outer)"
         },
         {
-          "word": "ārjavam",
+          "word": "आर्जवम्",
           "meaning": "uprightness / straightforwardness / sincerity"
         },
         {
-          "word": "brahma-caryam",
+          "word": "ब्रह्म-चर्यम्",
           "meaning": "celibacy / restraint of vital energies / walking in Brahman"
         },
         {
-          "word": "ahiṃsā",
+          "word": "अहिंसा",
           "meaning": "non-violence / non-injury"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "śārīram",
+          "word": "शारीरम्",
           "meaning": "of the body / bodily"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity / discipline"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is called / is said to be"
         }
       ],
@@ -913,57 +913,57 @@
     },
     {
       "verse": 15,
-      "sanskrit": "anudvega-karaṃ vākyaṃ satyaṃ priya-hitaṃ ca yat | svādhyāyābhyasanaṃ caiva vāṅ-mayaṃ tapa ucyate ||",
+      "sanskrit": "अनुद्वेग-करं वाक्यं सत्यं प्रिय-हितं च यत् । स्वाध्यायाभ्यसनं चैव वाङ्-मयं तप उच्यते ॥",
       "transliteration": "anudvega-karaṃ vākyaṃ satyaṃ priya-hitaṃ ca yat | svādhyāyābhyasanaṃ caiva vāṅ-mayaṃ tapa ucyate ||",
       "translation": "Speech that does not cause agitation, that is truthful, pleasant, and beneficial, along with regular practice of Vedic recitation — this is called the austerity of speech.",
       "audio": "/assets/audio/ch17/verse_17_15.mp3",
       "word_breakdown": [
         {
-          "word": "anudvega-karam",
+          "word": "अनुद्वेग-करम्",
           "meaning": "not causing agitation or distress (an + udvega + kara)"
         },
         {
-          "word": "vākyam",
+          "word": "वाक्यम्",
           "meaning": "speech / word / utterance"
         },
         {
-          "word": "satyam",
+          "word": "सत्यम्",
           "meaning": "truthful / true"
         },
         {
-          "word": "priya",
+          "word": "प्रिय",
           "meaning": "pleasant / pleasing to hear"
         },
         {
-          "word": "hitam",
+          "word": "हितम्",
           "meaning": "beneficial / good for the hearer"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "which / that which"
         },
         {
-          "word": "svādhyāya-abhyasanam",
+          "word": "स्वाध्याय-अभ्यसनम्",
           "meaning": "regular practice of Vedic study and recitation (svādhyāya + abhyasana)"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also"
         },
         {
-          "word": "vāṅ-mayam",
+          "word": "वाङ्-मयम्",
           "meaning": "consisting of speech / pertaining to speech (vāc + maya)"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity / discipline"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is called / is said to be"
         }
       ],
@@ -976,49 +976,49 @@
     },
     {
       "verse": 16,
-      "sanskrit": "manaḥ-prasādaḥ saumyatvaṃ maunaṃ ātma-vinigrahaḥ | bhāva-saṃśuddhir ity etat tapo mānasam ucyate ||",
+      "sanskrit": "मनः-प्रसादः सौम्यत्वं मौनं आत्म-विनिग्रहः । भाव-संशुद्धिर् इत्य् एतत् तपो मानसम् उच्यते ॥",
       "transliteration": "manaḥ-prasādaḥ saumyatvaṃ maunaṃ ātma-vinigrahaḥ | bhāva-saṃśuddhir ity etat tapo mānasam ucyate ||",
       "translation": "Serenity of mind, gentleness, silence, self-control, and purity of being — this is called mental austerity.",
       "audio": "/assets/audio/ch17/verse_17_16.mp3",
       "word_breakdown": [
         {
-          "word": "manaḥ-prasādaḥ",
+          "word": "मनः-प्रसादः",
           "meaning": "serenity / clarity / cheerfulness of mind (manas + prasāda)"
         },
         {
-          "word": "saumyatvam",
+          "word": "सौम्यत्वम्",
           "meaning": "gentleness / benevolence / mild-temperedness"
         },
         {
-          "word": "maunam",
+          "word": "मौनम्",
           "meaning": "silence / stillness (inner and outer)"
         },
         {
-          "word": "ātma-vinigrahaḥ",
+          "word": "आत्म-विनिग्रहः",
           "meaning": "self-control / mastery over the self (ātman + vinigraha)"
         },
         {
-          "word": "bhāva-saṃśuddhiḥ",
+          "word": "भाव-संशुद्धिः",
           "meaning": "purity of being / purity of intention (bhāva + saṃśuddhi)"
         },
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus / this is"
         },
         {
-          "word": "etat",
+          "word": "एतत्",
           "meaning": "this"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity / discipline"
         },
         {
-          "word": "mānasam",
+          "word": "मानसम्",
           "meaning": "mental / of the mind (manas)"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is called / is said to be"
         }
       ],
@@ -1031,49 +1031,49 @@
     },
     {
       "verse": 17,
-      "sanskrit": "śraddhayā parayā taptaṃ tapas tat tri-vidhaṃ naraiḥ | aphala-kāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate ||",
+      "sanskrit": "श्रद्धया परया तप्तं तपस् तत् त्रि-विधं नरैः । अफल-काङ्क्षिभिर् युक्तैः सात्त्विकं परिचक्षते ॥",
       "transliteration": "śraddhayā parayā taptaṃ tapas tat tri-vidhaṃ naraiḥ | aphala-kāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate ||",
       "translation": "This threefold austerity practiced with supreme faith, by persons who do not seek fruit and who are engaged and integrated — that they call sattvic.",
       "audio": "/assets/audio/ch17/verse_17_17.mp3",
       "word_breakdown": [
         {
-          "word": "śraddhayā parayā",
+          "word": "श्रद्धया परया",
           "meaning": "with supreme / highest faith"
         },
         {
-          "word": "taptam",
+          "word": "तप्तम्",
           "meaning": "practiced / performed / undergone (past passive participle of tap)"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity / discipline"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "tri-vidham",
+          "word": "त्रि-विधम्",
           "meaning": "threefold / of three kinds (body + speech + mind)"
         },
         {
-          "word": "naraiḥ",
+          "word": "नरैः",
           "meaning": "by persons / by human beings"
         },
         {
-          "word": "aphala-kāṅkṣibhiḥ",
+          "word": "अफल-काङ्क्षिभिः",
           "meaning": "by those not desiring fruit"
         },
         {
-          "word": "yuktaiḥ",
+          "word": "युक्तैः",
           "meaning": "by those who are integrated / engaged / yoked (to the divine)"
         },
         {
-          "word": "sāttvikaṃ",
+          "word": "सात्त्विकं",
           "meaning": "sattvic / of the nature of sattva"
         },
         {
-          "word": "paricakṣate",
+          "word": "परिचक्षते",
           "meaning": "they call / they declare / it is regarded as"
         }
       ],
@@ -1086,65 +1086,65 @@
     },
     {
       "verse": 18,
-      "sanskrit": "satkāra-māna-pūjārthaṃ tapo dambhena caiva yat | kriyate tad iha proktaṃ rājasaṃ calam adhruvam ||",
+      "sanskrit": "सत्कार-मान-पूजार्थं तपो दम्भेन चैव यत् । क्रियते तद् इह प्रोक्तं राजसं चलम् अध्रुवम् ॥",
       "transliteration": "satkāra-māna-pūjārthaṃ tapo dambhena caiva yat | kriyate tad iha proktaṃ rājasaṃ calam adhruvam ||",
       "translation": "Austerity that is practiced with ostentation, for the sake of honor, respect, and worship from others — that is declared here to be rajasic: impermanent and unstable.",
       "audio": "/assets/audio/ch17/verse_17_18.mp3",
       "word_breakdown": [
         {
-          "word": "satkāra",
+          "word": "सत्कार",
           "meaning": "respectful treatment / favorable reception"
         },
         {
-          "word": "māna",
+          "word": "मान",
           "meaning": "honor / prestige"
         },
         {
-          "word": "pūjā-artham",
+          "word": "पूजा-अर्थम्",
           "meaning": "for the sake of worship / adoration"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity / discipline"
         },
         {
-          "word": "dambhena",
+          "word": "दम्भेन",
           "meaning": "with ostentation / hypocrisy / display"
         },
         {
-          "word": "ca eva",
+          "word": "च एव",
           "meaning": "and also"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "which"
         },
         {
-          "word": "kriyate",
+          "word": "क्रियते",
           "meaning": "is performed / is done"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "iha",
+          "word": "इह",
           "meaning": "here / in this text"
         },
         {
-          "word": "proktam",
+          "word": "प्रोक्तम्",
           "meaning": "declared / stated"
         },
         {
-          "word": "rājasam",
+          "word": "राजसम्",
           "meaning": "rajasic"
         },
         {
-          "word": "calam",
+          "word": "चलम्",
           "meaning": "impermanent / unstable / moving"
         },
         {
-          "word": "adhruvam",
+          "word": "अध्रुवम्",
           "meaning": "not lasting / unsteady / non-permanent"
         }
       ],
@@ -1157,57 +1157,57 @@
     },
     {
       "verse": 19,
-      "sanskrit": "mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ | parasyotsādanārthaṃ vā tat tāmasam udāhṛtam ||",
+      "sanskrit": "मूढ-ग्राहेणात्मनो यत् पीडया क्रियते तपः । परस्योत्सादनार्थं वा तत् तामसम् उदाहृतम् ॥",
       "transliteration": "mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ | parasyotsādanārtham vā tat tāmasam udāhṛtam ||",
       "translation": "Austerity that is performed with deluded conviction, with self-torture, or for the purpose of destroying another — that is declared to be tamasic.",
       "audio": "/assets/audio/ch17/verse_17_19.mp3",
       "word_breakdown": [
         {
-          "word": "mūḍha-grāheṇa",
+          "word": "मूढ-ग्राहेण",
           "meaning": "with foolish/deluded stubbornness (mūḍha + grāha)"
         },
         {
-          "word": "ātmanaḥ",
+          "word": "आत्मनः",
           "meaning": "of the self / of oneself"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "which"
         },
         {
-          "word": "pīḍayā",
+          "word": "पीडया",
           "meaning": "with pain / by tormenting / through self-torture"
         },
         {
-          "word": "kriyate",
+          "word": "क्रियते",
           "meaning": "is performed / is done"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity / discipline"
         },
         {
-          "word": "parasya",
+          "word": "परस्य",
           "meaning": "of another / of others"
         },
         {
-          "word": "utsādana-artham",
+          "word": "उत्सादन-अर्थम्",
           "meaning": "for the purpose of destroying / ruining (utsādana + artha)"
         },
         {
-          "word": "vā",
+          "word": "वा",
           "meaning": "or"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "tāmasam",
+          "word": "तामसम्",
           "meaning": "tamasic / of the nature of tamas"
         },
         {
-          "word": "udāhṛtam",
+          "word": "उदाहृतम्",
           "meaning": "declared / cited / said to be"
         }
       ],
@@ -1220,65 +1220,65 @@
     },
     {
       "verse": 20,
-      "sanskrit": "dātavyam iti yad dānaṃ dīyate'nupakāriṇe | deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam ||",
+      "sanskrit": "दातव्यम् इति यद् दानं दीयतेऽनुपकारिणे । देशे काले च पात्रे च तद् दानं सात्त्विकं स्मृतम् ॥",
       "transliteration": "dātavyam iti yad dānaṃ dīyate'nupakāriṇe | deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam ||",
       "translation": "That gift which is given with the feeling 'it is to be given,' to one who cannot return the favor, at the right place, at the right time, and to a worthy recipient — that gift is known as sattvic.",
       "audio": "/assets/audio/ch17/verse_17_20.mp3",
       "word_breakdown": [
         {
-          "word": "dātavyam iti",
+          "word": "दातव्यम् इति",
           "meaning": "with the conviction 'it is to be given / it is my duty to give'"
         },
         {
-          "word": "yat",
+          "word": "यत्",
           "meaning": "which"
         },
         {
-          "word": "dānam",
+          "word": "दानम्",
           "meaning": "gift / charity / giving"
         },
         {
-          "word": "dīyate",
+          "word": "दीयते",
           "meaning": "is given"
         },
         {
-          "word": "anupakāriṇe",
+          "word": "अनुपकारिणे",
           "meaning": "to one who does not / cannot return the favor (an + upakārin)"
         },
         {
-          "word": "deśe",
+          "word": "देशे",
           "meaning": "at the right place / in an appropriate location"
         },
         {
-          "word": "kāle",
+          "word": "काले",
           "meaning": "at the right time / at an auspicious moment"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "pātre",
+          "word": "पात्रे",
           "meaning": "to a worthy recipient / to a fit vessel (literally 'a vessel')"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "dānam",
+          "word": "दानम्",
           "meaning": "gift"
         },
         {
-          "word": "sāttvikaṃ",
+          "word": "सात्त्विकं",
           "meaning": "sattvic"
         },
         {
-          "word": "smṛtam",
+          "word": "स्मृतम्",
           "meaning": "is remembered as / is regarded as / is known to be"
         }
       ],
@@ -1291,53 +1291,53 @@
     },
     {
       "verse": 21,
-      "sanskrit": "yat tu pratyupakārārthaṃ phalam uddiśya vā punaḥ | dīyate ca parikliṣṭaṃ tad dānaṃ rājasaṃ smṛtam ||",
+      "sanskrit": "यत् तु प्रत्युपकारार्थं फलम् उद्दिश्य वा पुनः । दीयते च परिक्लिष्टं तद् दानं राजसं स्मृतम् ॥",
       "transliteration": "yat tu pratyupakārārthaṃ phalam uddiśya vā punaḥ | dīyate ca parikliṣṭaṃ tad dānaṃ rājasaṃ smṛtam ||",
       "translation": "But that gift which is given with the expectation of return (pratyupakārārtham), or with a specific result in mind (phalam uddiśya), or given grudgingly and with difficulty (parikliṣṭam) — that gift is remembered as rajasic.",
       "audio": "/assets/audio/ch17/verse_17_21.mp3",
       "word_breakdown": [
         {
-          "word": "yat tu",
+          "word": "यत् तु",
           "meaning": "but that which"
         },
         {
-          "word": "pratyupakārārtham",
+          "word": "प्रत्युपकारार्थम्",
           "meaning": "for the purpose of receiving something in return; expecting reciprocation"
         },
         {
-          "word": "phalam",
+          "word": "फलम्",
           "meaning": "fruit, result, reward"
         },
         {
-          "word": "uddiśya",
+          "word": "उद्दिश्य",
           "meaning": "aiming at, targeting, with the intent of"
         },
         {
-          "word": "vā punaḥ",
+          "word": "वा पुनः",
           "meaning": "or again; alternatively"
         },
         {
-          "word": "dīyate",
+          "word": "दीयते",
           "meaning": "is given"
         },
         {
-          "word": "parikliṣṭam",
+          "word": "परिक्लिष्टम्",
           "meaning": "grudgingly, with pain or reluctance, given under strain"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "dānam",
+          "word": "दानम्",
           "meaning": "gift, charity, act of giving"
         },
         {
-          "word": "rājasam",
+          "word": "राजसम्",
           "meaning": "rajasic; of the nature of rajas (passion, desire, restlessness)"
         },
         {
-          "word": "smṛtam",
+          "word": "स्मृतम्",
           "meaning": "is remembered, is declared, is known"
         }
       ],
@@ -1350,49 +1350,49 @@
     },
     {
       "verse": 22,
-      "sanskrit": "adeśa-kāle yad dānam apātrebhyaś ca dīyate | asatkṛtam avajñātaṃ tat tāmasam udāhṛtam ||",
+      "sanskrit": "अदेश-काले यद् दानम् अपात्रेभ्यश् च दीयते । असत्कृतम् अवज्ञातं तत् तामसम् उदाहृतम् ॥",
       "transliteration": "adeśa-kāle yad dānam apātrebhyaś ca dīyate | asatkṛtam avajñātaṃ tat tāmasam udāhṛtam ||",
       "translation": "That gift which is given at the wrong place and wrong time (adeśa-kāle), to unworthy recipients (apātrebhyaḥ), without proper respect or honor (asatkṛtam), and with contempt (avajñātam) — that is declared tamasic.",
       "audio": "/assets/audio/ch17/verse_17_22.mp3",
       "word_breakdown": [
         {
-          "word": "adeśa-kāle",
+          "word": "अदेश-काले",
           "meaning": "at the wrong place (adeśa) and wrong time (akāle); in an unfit location and inauspicious moment"
         },
         {
-          "word": "yad dānam",
+          "word": "यद् दानम्",
           "meaning": "whatever gift, whichever act of giving"
         },
         {
-          "word": "apātrebhyaḥ",
+          "word": "अपात्रेभ्यः",
           "meaning": "to unworthy or unfit recipients (apātra — without the 'vessel', incapable of receiving worthily)"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "dīyate",
+          "word": "दीयते",
           "meaning": "is given"
         },
         {
-          "word": "asatkṛtam",
+          "word": "असत्कृतम्",
           "meaning": "without proper respect or honor; carelessly, perfunctorily"
         },
         {
-          "word": "avajñātam",
+          "word": "अवज्ञातम्",
           "meaning": "with contempt, disdain, or disrespect toward the recipient"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "that"
         },
         {
-          "word": "tāmasam",
+          "word": "तामसम्",
           "meaning": "tamasic; of the nature of tamas (inertia, darkness, delusion)"
         },
         {
-          "word": "udāhṛtam",
+          "word": "उदाहृतम्",
           "meaning": "is declared, is cited, is proclaimed"
         }
       ],
@@ -1405,65 +1405,65 @@
     },
     {
       "verse": 23,
-      "sanskrit": "oṃ tat sad iti nirdeśo brahmaṇas tri-vidhaḥ smṛtaḥ | brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā ||",
+      "sanskrit": "ॐ तत् सद् इति निर्देशो ब्रह्मणस् त्रि-विधः स्मृतः । ब्राह्मणास् तेन वेदाश् च यज्ञाश् च विहिताः पुरा ॥",
       "transliteration": "oṃ tat sad iti nirdeśo brahmaṇas tri-vidhaḥ smṛtaḥ | brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā ||",
       "translation": "\"Om Tat Sat\" — this threefold designation of Brahman is remembered. By this (tena), the brahmins, the Vedas, and the sacrifices were appointed and created of old (purā).",
       "audio": "/assets/audio/ch17/verse_17_23.mp3",
       "word_breakdown": [
         {
-          "word": "om",
+          "word": "ॐ",
           "meaning": "the primordial sacred syllable; the vibrational name of Brahman; the affirmation of divine existence"
         },
         {
-          "word": "tat",
+          "word": "तत्",
           "meaning": "'That' — the transcendent, indescribable Absolute; pointing beyond all name and form"
         },
         {
-          "word": "sat",
+          "word": "सत्",
           "meaning": "'Being', 'Truth', 'the Real' — that which truly exists; the ultimate ground of reality"
         },
         {
-          "word": "iti",
+          "word": "इति",
           "meaning": "thus, in this manner; used to mark a quoted expression"
         },
         {
-          "word": "nirdeśaḥ",
+          "word": "निर्देशः",
           "meaning": "designation, indication, pointing-out, definition"
         },
         {
-          "word": "brahmaṇaḥ",
+          "word": "ब्रह्मणः",
           "meaning": "of Brahman — the ultimate Reality, the Absolute"
         },
         {
-          "word": "tri-vidhaḥ",
+          "word": "त्रि-विधः",
           "meaning": "threefold, of three kinds"
         },
         {
-          "word": "smṛtaḥ",
+          "word": "स्मृतः",
           "meaning": "is remembered, is declared by tradition"
         },
         {
-          "word": "brāhmaṇāḥ",
+          "word": "ब्राह्मणाः",
           "meaning": "the brahmins, the knowers and teachers of sacred knowledge"
         },
         {
-          "word": "tena",
+          "word": "तेन",
           "meaning": "by that, from that — referring to Om Tat Sat"
         },
         {
-          "word": "vedāḥ ca",
+          "word": "वेदाः च",
           "meaning": "and the Vedas — the scriptures of divine revelation"
         },
         {
-          "word": "yajñāḥ ca",
+          "word": "यज्ञाः च",
           "meaning": "and the sacrifices, sacred rituals"
         },
         {
-          "word": "vihitāḥ",
+          "word": "विहिताः",
           "meaning": "were ordained, appointed, prescribed, established"
         },
         {
-          "word": "purā",
+          "word": "पुरा",
           "meaning": "of old, in ancient times, at the beginning of creation"
         }
       ],
@@ -1476,41 +1476,41 @@
     },
     {
       "verse": 24,
-      "sanskrit": "tasmād om ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ | pravartante vidhānoktāḥ satataṃ brahma-vādinām ||",
+      "sanskrit": "तस्माद् ॐ इत्य् उदाहृत्य यज्ञ-दान-तपः-क्रियाः । प्रवर्तन्ते विधानोक्ताः सततं ब्रह्म-वादिनाम् ॥",
       "transliteration": "tasmād om ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ | pravartante vidhānoktāḥ satataṃ brahma-vādinām ||",
       "translation": "Therefore, with \"Om\" uttered (om ity udāhṛtya), the acts of sacrifice, charity, and austerity prescribed by the scriptures (vidhānoktāḥ) are always begun by the knowers of Brahman (brahma-vādinām).",
       "audio": "/assets/audio/ch17/verse_17_24.mp3",
       "word_breakdown": [
         {
-          "word": "tasmāt",
+          "word": "तस्मात्",
           "meaning": "therefore, for this reason — because Om Tat Sat is the designation of Brahman"
         },
         {
-          "word": "om iti",
+          "word": "ॐ इति",
           "meaning": "having said 'Om'; with the utterance of Om"
         },
         {
-          "word": "udāhṛtya",
+          "word": "उदाहृत्य",
           "meaning": "having uttered, having pronounced; after invoking"
         },
         {
-          "word": "yajña-dāna-tapaḥ-kriyāḥ",
+          "word": "यज्ञ-दान-तपः-क्रियाः",
           "meaning": "the acts of sacrifice (yajña), charity (dāna), and austerity (tapas)"
         },
         {
-          "word": "pravartante",
+          "word": "प्रवर्तन्ते",
           "meaning": "are begun, are set in motion, proceed"
         },
         {
-          "word": "vidhānoktāḥ",
+          "word": "विधानोक्ताः",
           "meaning": "prescribed by scriptural injunction (vidhāna); as laid down in the Vedas"
         },
         {
-          "word": "satatam",
+          "word": "सततम्",
           "meaning": "always, constantly, ever"
         },
         {
-          "word": "brahma-vādinām",
+          "word": "ब्रह्म-वादिनाम्",
           "meaning": "of the knowers of Brahman; of those who speak and follow the path of Brahman (brahma-vādinām, genitive plural)"
         }
       ],
@@ -1523,41 +1523,41 @@
     },
     {
       "verse": 25,
-      "sanskrit": "tad ity anabhisandhāya phalaṃ yajña-tapaḥ-kriyāḥ | dāna-kriyāś ca vividhāḥ kriyante mokṣa-kāṅkṣibhiḥ ||",
+      "sanskrit": "तद् इत्य् अनभिसन्धाय फलं यज्ञ-तपः-क्रियाः । दान-क्रियाश् च विविधाः क्रियन्ते मोक्ष-काङ्क्षिभिः ॥",
       "transliteration": "tad ity anabhisandhāya phalaṃ yajña-tapaḥ-kriyāḥ | dāna-kriyāś ca vividhāḥ kriyante mokṣa-kāṅkṣibhiḥ ||",
       "translation": "\"Tat\" (That) — without aiming at fruit (anabhisandhāya phalam), various acts of sacrifice, austerity, and the diverse acts of charity are performed by those who desire liberation (mokṣa-kāṅkṣibhiḥ).",
       "audio": "/assets/audio/ch17/verse_17_25.mp3",
       "word_breakdown": [
         {
-          "word": "tat iti",
+          "word": "तत् इति",
           "meaning": "with (the word) 'Tat'; dedicating to 'That' — the Transcendent Absolute"
         },
         {
-          "word": "anabhisandhāya",
+          "word": "अनभिसन्धाय",
           "meaning": "without aiming at, without fixing the mind upon; not targeting as a goal"
         },
         {
-          "word": "phalam",
+          "word": "फलम्",
           "meaning": "fruit, result, reward, personal gain"
         },
         {
-          "word": "yajña-tapaḥ-kriyāḥ",
+          "word": "यज्ञ-तपः-क्रियाः",
           "meaning": "the acts of sacrifice (yajña) and austerity (tapas)"
         },
         {
-          "word": "dāna-kriyāḥ",
+          "word": "दान-क्रियाः",
           "meaning": "the acts of charity, the various forms of giving"
         },
         {
-          "word": "ca vividhāḥ",
+          "word": "च विविधाः",
           "meaning": "and the various, diverse kinds"
         },
         {
-          "word": "kriyante",
+          "word": "क्रियन्ते",
           "meaning": "are performed, are done, are carried out"
         },
         {
-          "word": "mokṣa-kāṅkṣibhiḥ",
+          "word": "मोक्ष-काङ्क्षिभिः",
           "meaning": "by those who long for liberation; by the seekers of mokṣa (freedom from the cycle of birth and death)"
         }
       ],
@@ -1570,53 +1570,53 @@
     },
     {
       "verse": 26,
-      "sanskrit": "sad-bhāve sādhu-bhāve ca sad ity etat prayujyate | praśaste karmaṇi tathā sac-chabdaḥ pārtha yujyate ||",
+      "sanskrit": "सद्-भावे साधु-भावे च सद् इत्य् एतत् प्रयुज्यते । प्रशस्ते कर्मणि तथा सच्-छब्दः पार्थ युज्यते ॥",
       "transliteration": "sad-bhāve sādhu-bhāve ca sad ity etat prayujyate | praśaste karmaṇi tathā sac-chabdaḥ pārtha yujyate ||",
       "translation": "In the sense of reality (sad-bhāve) and in the sense of goodness (sādhu-bhāve), the word \"Sat\" is employed (prayujyate), O Pārtha; and likewise the word \"Sat\" is applied to auspicious and praiseworthy actions (praśaste karmaṇi).",
       "audio": "/assets/audio/ch17/verse_17_26.mp3",
       "word_breakdown": [
         {
-          "word": "sad-bhāve",
+          "word": "सद्-भावे",
           "meaning": "in the sense of being, existence, reality; when denoting that which truly is"
         },
         {
-          "word": "sādhu-bhāve",
+          "word": "साधु-भावे",
           "meaning": "in the sense of goodness, virtue, excellence; when referring to what is noble and worthy"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and"
         },
         {
-          "word": "sat iti etat",
+          "word": "सत् इति एतत्",
           "meaning": "this word 'Sat'"
         },
         {
-          "word": "prayujyate",
+          "word": "प्रयुज्यते",
           "meaning": "is used, is employed, is applied"
         },
         {
-          "word": "praśaste",
+          "word": "प्रशस्ते",
           "meaning": "in praiseworthy, auspicious, commendable"
         },
         {
-          "word": "karmaṇi",
+          "word": "कर्मणि",
           "meaning": "in action, in deed, in sacred activity"
         },
         {
-          "word": "tathā",
+          "word": "तथा",
           "meaning": "likewise, in the same way"
         },
         {
-          "word": "sac-chabdaḥ",
+          "word": "सच्-छब्दः",
           "meaning": "the word Sat; the syllable Sat"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O son of Pṛthā (Arjuna); an address to Arjuna"
         },
         {
-          "word": "yujyate",
+          "word": "युज्यते",
           "meaning": "is joined, is applied, is connected, is fitting"
         }
       ],
@@ -1629,45 +1629,45 @@
     },
     {
       "verse": 27,
-      "sanskrit": "yajñe tapasi dāne ca sthitiḥ sad iti cocyate | karma caiva tad-arthīyaṃ sad ity evābhidhīyate ||",
+      "sanskrit": "यज्ञे तपसि दाने च स्थितिः सद् इति चोच्यते । कर्म चैव तद्-अर्थीयं सद् इत्य् एवाभिधीयते ॥",
       "transliteration": "yajñe tapasi dāne ca sthitiḥ sad iti cocyate | karma caiva tad-arthīyaṃ sad ity evābhidhīyate ||",
       "translation": "Steadfastness (sthitiḥ) in sacrifice, austerity, and charity is also called \"Sat\"; and action performed for the purpose of That (tad-arthīyam) is indeed also called \"Sat.\"",
       "audio": "/assets/audio/ch17/verse_17_27.mp3",
       "word_breakdown": [
         {
-          "word": "yajñe tapasi dāne",
+          "word": "यज्ञे तपसि दाने",
           "meaning": "in sacrifice (yajña), in austerity (tapas), in charity (dāna) — the three primary sacred activities"
         },
         {
-          "word": "ca",
+          "word": "च",
           "meaning": "and, also"
         },
         {
-          "word": "sthitiḥ",
+          "word": "स्थितिः",
           "meaning": "steadfastness, stability, persistence, firm abiding"
         },
         {
-          "word": "sat iti",
+          "word": "सत् इति",
           "meaning": "is called 'Sat'; is designated by the word Sat"
         },
         {
-          "word": "ca ucyate",
+          "word": "च उच्यते",
           "meaning": "and is said, is also called"
         },
         {
-          "word": "karma ca eva",
+          "word": "कर्म च एव",
           "meaning": "and action indeed, and the deed as well"
         },
         {
-          "word": "tad-arthīyam",
+          "word": "तद्-अर्थीयम्",
           "meaning": "for the purpose of That (tat = Brahman); done for the sake of the Absolute; Brahman-oriented action"
         },
         {
-          "word": "sat iti eva",
+          "word": "सत् इति एव",
           "meaning": "is indeed called 'Sat'; verily designated Sat"
         },
         {
-          "word": "abhidhīyate",
+          "word": "अभिधीयते",
           "meaning": "is called, is named, is referred to as"
         }
       ],
@@ -1680,53 +1680,53 @@
     },
     {
       "verse": 28,
-      "sanskrit": "aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat | asad ity ucyate pārtha na ca tat pretya no iha ||",
+      "sanskrit": "अश्रद्धया हुतं दत्तं तपस् तप्तं कृतं च यत् । असद् इत्य् उच्यते पार्थ न च तत् प्रेत्य नो इह ॥",
       "transliteration": "aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat | asad ity ucyate pārtha na ca tat pretya no iha ||",
       "translation": "Whatever oblation (hutam) is offered, gift (dattam) given, austerity (tapas) practiced, or any action performed without faith (aśraddhayā) — that is called \"asat\" (unreal, untrue), O Pārtha; it is of no benefit either hereafter (pretya) or here in this world (iha).",
       "audio": "/assets/audio/ch17/verse_17_28.mp3",
       "word_breakdown": [
         {
-          "word": "aśraddhayā",
+          "word": "अश्रद्धया",
           "meaning": "without faith; lacking śraddhā — inner conviction, sincerity, heartfelt devotion; with a faithless or mechanical attitude"
         },
         {
-          "word": "hutam",
+          "word": "हुतम्",
           "meaning": "oblation offered in fire; what is offered in sacrifice (huta — from the root hu, to pour into fire)"
         },
         {
-          "word": "dattam",
+          "word": "दत्तम्",
           "meaning": "what is given; gift, charity offered"
         },
         {
-          "word": "tapas taptam",
+          "word": "तपस् तप्तम्",
           "meaning": "austerity practiced; tapas performed (taptam — from tap, to heat, to purify through heat)"
         },
         {
-          "word": "kṛtam ca yat",
+          "word": "कृतम् च यत्",
           "meaning": "and whatever other action is done or performed"
         },
         {
-          "word": "asat iti",
+          "word": "असत् इति",
           "meaning": "is called 'asat' — unreal, untrue, without being, without substance"
         },
         {
-          "word": "ucyate",
+          "word": "उच्यते",
           "meaning": "is called, is said, is declared"
         },
         {
-          "word": "pārtha",
+          "word": "पार्थ",
           "meaning": "O son of Pṛthā (Arjuna) — a tender, affectionate address at this crucial final teaching"
         },
         {
-          "word": "na ca tat",
+          "word": "न च तत्",
           "meaning": "and that is not; it is of no avail"
         },
         {
-          "word": "pretya",
+          "word": "प्रेत्य",
           "meaning": "after death; in the hereafter; in the next world"
         },
         {
-          "word": "no iha",
+          "word": "नो इह",
           "meaning": "nor here; not in this world either (iha = here, in this life)"
         }
       ],

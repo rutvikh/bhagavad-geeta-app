@@ -3,45 +3,45 @@
   "verses": [
     {
       "verse": 1,
-      "sanskrit": "abhayaṃ sattva-saṃśuddhir jñāna-yoga-vyavasthitiḥ | dānaṃ damaś ca yajñaś ca svādhyāyas tapa ārjavam ||",
+      "sanskrit": "अभयं सत्त्व-संशुद्धिर् ज्ञान-योग-व्यवस्थितिः । दानं दमश् च यज्ञश् च स्वाध्यायस् तप आर्जवम् ॥",
       "transliteration": "abhayaṃ sattva-saṃśuddhir jñāna-yoga-vyavasthitiḥ | dānaṃ damaś ca yajñaś ca svādhyāyas tapa ārjavam ||",
       "translation": "The Blessed Lord said: Fearlessness (abhayam), purity of sattva (sattva-saṃśuddhi), steadfastness in jñāna-yoga (jñāna-yoga-vyavasthiti), generosity (dāna), self-control (dama), sacrifice (yajña), study of scriptures (svādhyāya), austerity (tapa), uprightness (ārjavam)...",
       "audio": "/assets/audio/ch16/verse_16_01.mp3",
       "word_breakdown": [
         {
-          "word": "abhayam",
+          "word": "अभयम्",
           "meaning": "fearlessness; freedom from fear — the root and foundation of all divine qualities"
         },
         {
-          "word": "sattva-saṃśuddhiḥ",
+          "word": "सत्त्व-संशुद्धिः",
           "meaning": "purity/purification of one's inner being (sattva); cleansing of the subtle nature"
         },
         {
-          "word": "jñāna-yoga-vyavasthitiḥ",
+          "word": "ज्ञान-योग-व्यवस्थितिः",
           "meaning": "firm establishment (vyavasthiti) in the path of knowledge (jñāna-yoga); unwavering commitment to spiritual wisdom"
         },
         {
-          "word": "dānam",
+          "word": "दानम्",
           "meaning": "generosity; the spirit of giving without expectation of return"
         },
         {
-          "word": "damaḥ",
+          "word": "दमः",
           "meaning": "self-control; restraint of the senses and the external faculties"
         },
         {
-          "word": "yajñaḥ",
+          "word": "यज्ञः",
           "meaning": "sacrifice; worship; any consecrated action offered to the Divine"
         },
         {
-          "word": "svādhyāyaḥ",
+          "word": "स्वाध्यायः",
           "meaning": "self-study; recitation and study of sacred scriptures; inquiry into one's own nature"
         },
         {
-          "word": "tapaḥ",
+          "word": "तपः",
           "meaning": "austerity; disciplined self-restraint that generates inner heat and purification"
         },
         {
-          "word": "ārjavam",
+          "word": "आर्जवम्",
           "meaning": "uprightness; straightforwardness; harmony between thought, word, and deed"
         }
       ],
@@ -54,53 +54,53 @@
     },
     {
       "verse": 2,
-      "sanskrit": "ahiṃsā satyam akrodhas tyāgaḥ śāntir apaiśunam | dayā bhūteṣv aloluptvaṃ mārdavaṃ hrīr acāpalam ||",
+      "sanskrit": "अहिंसा सत्यम् अक्रोधस् त्यागः शान्तिर् अपैशुनम् । दया भूतेष्व् अलोलुप्त्वं मार्दवं ह्रीर् अचापलम् ॥",
       "transliteration": "ahiṃsā satyam akrodhas tyāgaḥ śāntir apaiśunam | dayā bhūteṣv aloluptvaṃ mārdavaṃ hrīr acāpalam ||",
       "translation": "...non-violence (ahiṃsā), truth (satyam), absence of anger (akrodha), renunciation (tyāga), peace (śānti), absence of malice/slander (apaiśuna), compassion toward all beings (dayā bhūteṣu), non-covetousness (aloluptva), gentleness (mārdava), modesty (hrī), steadiness (acāpala)...",
       "audio": "/assets/audio/ch16/verse_16_02.mp3",
       "word_breakdown": [
         {
-          "word": "ahiṃsā",
+          "word": "अहिंसा",
           "meaning": "non-violence; non-injury in thought, word, and deed toward any being"
         },
         {
-          "word": "satyam",
+          "word": "सत्यम्",
           "meaning": "truth; truthfulness in speech and in one's inner orientation toward reality"
         },
         {
-          "word": "akrodhaḥ",
+          "word": "अक्रोधः",
           "meaning": "absence of anger; freedom from the reactive fire of wrath"
         },
         {
-          "word": "tyāgaḥ",
+          "word": "त्यागः",
           "meaning": "renunciation; the spirit of letting go, especially of the fruits of action"
         },
         {
-          "word": "śāntiḥ",
+          "word": "शान्तिः",
           "meaning": "peace; inner tranquility that does not depend on outer circumstances"
         },
         {
-          "word": "apaiśunam",
+          "word": "अपैशुनम्",
           "meaning": "absence of malice or slander; refraining from fault-finding and backbiting"
         },
         {
-          "word": "dayā bhūteṣu",
+          "word": "दया भूतेषु",
           "meaning": "compassion toward all beings (bhūteṣu); the heart's natural tenderness toward suffering"
         },
         {
-          "word": "aloluptvam",
+          "word": "अलोलुप्त्वम्",
           "meaning": "non-covetousness; freedom from greed and the impulse to grasp what belongs to others"
         },
         {
-          "word": "mārdavam",
+          "word": "मार्दवम्",
           "meaning": "gentleness; softness of heart and manner; suppleness rather than hardness"
         },
         {
-          "word": "hrīḥ",
+          "word": "ह्रीः",
           "meaning": "noble shame/modesty; an inner sense of dignity that recoils from ignoble action"
         },
         {
-          "word": "acāpalam",
+          "word": "अचापलम्",
           "meaning": "steadiness; not being fickle or restless; constancy in purpose and demeanor"
         }
       ],
@@ -113,49 +113,49 @@
     },
     {
       "verse": 3,
-      "sanskrit": "tejaḥ kṣamā dhṛtiḥ śaucam adroho nātimānitā | bhavanti sampadaṃ daivīm abhijātasya bhārata ||",
+      "sanskrit": "तेजः क्षमा धृतिः शौचम् अद्रोहो नातिमानिता । भवन्ति सम्पदं दैवीम् अभिजातस्य भारत ॥",
       "transliteration": "tejaḥ kṣamā dhṛtiḥ śaucam adroho nātimānitā | bhavanti sampadaṃ daivīm abhijātasya bhārata ||",
       "translation": "...energy/spiritual radiance (teja), forgiveness (kṣamā), fortitude (dhṛti), purity (śauca), absence of malice (adroha), and absence of excessive pride (nātimānitā) — these are the endowments (sampad) of one born (abhijātasya) to divine wealth (daivīm), O Bhārata.",
       "audio": "/assets/audio/ch16/verse_16_03.mp3",
       "word_breakdown": [
         {
-          "word": "tejaḥ",
+          "word": "तेजः",
           "meaning": "vitality; spiritual radiance; the luminous energy of a purified soul that inspires and illumines"
         },
         {
-          "word": "kṣamā",
+          "word": "क्षमा",
           "meaning": "forgiveness; patient forbearance; the capacity to absorb insult or injury without retaliation"
         },
         {
-          "word": "dhṛtiḥ",
+          "word": "धृतिः",
           "meaning": "fortitude; steadfastness; unwavering resolve that does not collapse under difficulty"
         },
         {
-          "word": "śaucam",
+          "word": "शौचम्",
           "meaning": "purity — both outer (bodily cleanliness) and inner (freedom from mental impurity)"
         },
         {
-          "word": "adrohaḥ",
+          "word": "अद्रोहः",
           "meaning": "freedom from hatred or malice; bearing no ill-will toward any being"
         },
         {
-          "word": "nātimānitā",
+          "word": "नातिमानिता",
           "meaning": "not being overly proud or self-important; appropriate humility; the absence of arrogant self-regard"
         },
         {
-          "word": "bhavanti",
+          "word": "भवन्ति",
           "meaning": "these become; these constitute; these are"
         },
         {
-          "word": "sampadam daivīm",
+          "word": "सम्पदम् दैवीम्",
           "meaning": "divine endowment/wealth (daivī sampat); the totality of divine qualities that lead to liberation"
         },
         {
-          "word": "abhijātasya",
+          "word": "अभिजातस्य",
           "meaning": "of one born (with this nature); one whose birth and character are oriented toward the divine"
         },
         {
-          "word": "bhārata",
+          "word": "भारत",
           "meaning": "O Bhārata — a patronymic for Arjuna, descendant of Bharata; an honorific reminding him of his noble lineage"
         }
       ],
@@ -168,41 +168,41 @@
     },
     {
       "verse": 4,
-      "sanskrit": "dambho darpo 'bhimānaś ca krodhaḥ pāruṣyam eva ca | ajñānaṃ cābhijātasya pārtha sampadam āsurīm ||",
+      "sanskrit": "दम्भो दर्पो ऽभिमानश् च क्रोधः पारुष्यम् एव च । अज्ञानं चाभिजातस्य पार्थ सम्पदम् आसुरीम् ॥",
       "transliteration": "dambho darpo 'bhimānaś ca krodhaḥ pāruṣyam eva ca | ajñānaṃ cābhijātasya pārtha sampadam āsurīm ||",
       "translation": "Ostentation (dambha), arrogance (darpa), excessive pride (abhimāna), anger (krodha), harshness (pāruṣya), and ignorance (ajñāna) — these are the endowments of one born to demoniac wealth (āsurī sampad), O Pārtha.",
       "audio": "/assets/audio/ch16/verse_16_04.mp3",
       "word_breakdown": [
         {
-          "word": "dambhaḥ",
+          "word": "दम्भः",
           "meaning": "ostentation; pretense; showing off virtues one does not possess for social gain"
         },
         {
-          "word": "darpaḥ",
+          "word": "दर्पः",
           "meaning": "arrogance; swaggering pride based on external accomplishments or status"
         },
         {
-          "word": "abhimānaḥ",
+          "word": "अभिमानः",
           "meaning": "ego-conceit; inflated self-regard; the sense of being superior to others"
         },
         {
-          "word": "krodhaḥ",
+          "word": "क्रोधः",
           "meaning": "anger; reactive wrath, especially when ego is threatened or desire is frustrated"
         },
         {
-          "word": "pāruṣyam",
+          "word": "पारुष्यम्",
           "meaning": "harshness; cruelty; roughness in speech and treatment of others"
         },
         {
-          "word": "ajñānam",
+          "word": "अज्ञानम्",
           "meaning": "ignorance; the fundamental non-knowing of one's true nature and dharma"
         },
         {
-          "word": "abhijātasya",
+          "word": "अभिजातस्य",
           "meaning": "of one born (with this nature); whose character is constitutionally oriented toward the demoniac"
         },
         {
-          "word": "sampadam āsurīm",
+          "word": "सम्पदम् आसुरीम्",
           "meaning": "demoniac endowment/wealth (āsurī sampat); the cluster of qualities that lead to bondage"
         }
       ],
@@ -215,41 +215,41 @@
     },
     {
       "verse": 5,
-      "sanskrit": "daivī sampad vimokṣāya nibandhāyāsurī matā | mā śucaḥ sampadaṃ daivīm abhijāto 'si pāṇḍava ||",
+      "sanskrit": "दैवी सम्पद् विमोक्षाय निबन्धायासुरी मता । मा शुचः सम्पदं दैवीम् अभिजातो ऽसि पाण्डव ॥",
       "transliteration": "daivī sampad vimokṣāya nibandhāyāsurī matā | mā śucaḥ sampadaṃ daivīm abhijāto 'si pāṇḍava ||",
       "translation": "The divine endowment (daivī sampad) is for liberation (vimokṣāya); the demoniac (āsurī) is held to be for bondage (nibandha). Do not grieve (mā śucaḥ) — you are born to divine endowment (sampadaṃ daivīm abhijāto 'si), O Pāṇḍava.",
       "audio": "/assets/audio/ch16/verse_16_05.mp3",
       "word_breakdown": [
         {
-          "word": "daivī sampad",
+          "word": "दैवी सम्पद्",
           "meaning": "divine endowment/wealth; the twenty-six qualities enumerated in verses 1-3"
         },
         {
-          "word": "vimokṣāya",
+          "word": "विमोक्षाय",
           "meaning": "for liberation; leading to (vimokṣa) — final release from the cycle of birth and death"
         },
         {
-          "word": "nibandhāya",
+          "word": "निबन्धाय",
           "meaning": "for bondage; leading to (nibandha) — continued entanglement in saṃsāra"
         },
         {
-          "word": "āsurī matā",
+          "word": "आसुरी मता",
           "meaning": "the demoniac (endowment) is considered/held to be — a carefully qualified statement"
         },
         {
-          "word": "mā śucaḥ",
+          "word": "मा शुचः",
           "meaning": "do not grieve; do not sorrow — the same tender command the Lord gave Arjuna in Chapter 2"
         },
         {
-          "word": "sampadaṃ daivīm",
+          "word": "सम्पदं दैवीम्",
           "meaning": "to divine endowment/wealth — the gift already present in Arjuna's nature"
         },
         {
-          "word": "abhijāto 'si",
+          "word": "अभिजातो ऽसि",
           "meaning": "you are born — you have been born with this nature; it is constitutional, not achieved"
         },
         {
-          "word": "pāṇḍava",
+          "word": "पाण्डव",
           "meaning": "O Pāṇḍava — son of Pāṇḍu; a loving address to Arjuna invoking his noble lineage"
         }
       ],
@@ -262,37 +262,37 @@
     },
     {
       "verse": 6,
-      "sanskrit": "dvau bhūta-sargau loke 'smin daiva āsura eva ca | daivo vistaraśaḥ prokto āsuraṃ pārtha me śṛṇu ||",
+      "sanskrit": "द्वौ भूत-सर्गौ लोके ऽस्मिन् दैव आसुर एव च । दैवो विस्तरशः प्रोक्तो आसुरं पार्थ मे शृणु ॥",
       "transliteration": "dvau bhūta-sargau loke 'smin daiva āsura eva ca | daivo vistaraśaḥ prokto āsuraṃ pārtha me śṛṇu ||",
       "translation": "There are two kinds of created beings (bhūta-sargau) in this world — the divine (daiva) and the demoniac (āsura). The divine has been described at length (vistaraśaḥ proktaḥ); hear now from Me about the demoniac, O Pārtha.",
       "audio": "/assets/audio/ch16/verse_16_06.mp3",
       "word_breakdown": [
         {
-          "word": "dvau",
+          "word": "द्वौ",
           "meaning": "two — the fundamental bifurcation; there are precisely two constitutive types"
         },
         {
-          "word": "bhūta-sargau",
+          "word": "भूत-सर्गौ",
           "meaning": "creations/orders of beings (bhūta = beings; sarga = creation, type, category)"
         },
         {
-          "word": "loke 'smin",
+          "word": "लोके ऽस्मिन्",
           "meaning": "in this world; in human existence as we experience it"
         },
         {
-          "word": "daiva āsura eva ca",
+          "word": "दैव आसुर एव च",
           "meaning": "the divine (daiva) and the demoniac (āsura) indeed — 'eva' emphasizes the completeness and exclusivity of this division"
         },
         {
-          "word": "daivo vistaraśaḥ proktaḥ",
+          "word": "दैवो विस्तरशः प्रोक्तः",
           "meaning": "the divine has been described (prokta) at length (vistaraśaḥ) — referring to verses 1-3"
         },
         {
-          "word": "āsuram",
+          "word": "आसुरम्",
           "meaning": "the demoniac; the āsurī nature and its characteristics — what is to be taught next"
         },
         {
-          "word": "me śṛṇu",
+          "word": "मे शृणु",
           "meaning": "hear from Me — a direct invitation to attentive, receptive listening"
         }
       ],
@@ -305,37 +305,37 @@
     },
     {
       "verse": 7,
-      "sanskrit": "pravṛttiṃ ca nivṛttiṃ ca janā na vidur āsurāḥ | na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||",
+      "sanskrit": "प्रवृत्तिं च निवृत्तिं च जना न विदुर् आसुराः । न शौचं नापि चाचारो न सत्यं तेषु विद्यते ॥",
       "transliteration": "pravṛttiṃ ca nivṛttiṃ ca janā na vidur āsurāḥ | na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||",
       "translation": "The demoniac people (janā āsurāḥ) do not know what should be pursued (pravṛtti) and what should be avoided (nivṛtti); neither purity (śauca), nor good conduct (ācāra), nor truth (satya) is found in them.",
       "audio": "/assets/audio/ch16/verse_16_07.mp3",
       "word_breakdown": [
         {
-          "word": "pravṛttim",
+          "word": "प्रवृत्तिम्",
           "meaning": "what should be engaged in; right action; the proper domain of effort and activity (pravṛtti-dharma)"
         },
         {
-          "word": "nivṛttim",
+          "word": "निवृत्तिम्",
           "meaning": "what should be abstained from; withdrawal from what is harmful; the path of renunciation"
         },
         {
-          "word": "janā na viduḥ āsurāḥ",
+          "word": "जना न विदुः आसुराः",
           "meaning": "the demoniac people do not know — they lack the discriminative faculty (viveka) to distinguish right from wrong action"
         },
         {
-          "word": "na śaucam",
+          "word": "न शौचम्",
           "meaning": "no purity — absence of śauca (the inner and outer cleanliness that was listed first among the daivī refinements in v2)"
         },
         {
-          "word": "nāpi cācāraḥ",
+          "word": "नापि चाचारः",
           "meaning": "nor even good conduct; ācarā — right behavior, ethical conduct, respect for dharmic norms"
         },
         {
-          "word": "na satyam",
+          "word": "न सत्यम्",
           "meaning": "nor truth — no commitment to truthfulness in thought, speech, or action"
         },
         {
-          "word": "teṣu vidyate",
+          "word": "तेषु विद्यते",
           "meaning": "is found in them — a strong negative declaration: these three qualities are simply absent"
         }
       ],
@@ -348,37 +348,37 @@
     },
     {
       "verse": 8,
-      "sanskrit": "asatyam apratiṣṭhaṃ te jagad āhur anīśvaram | aparaspara-sambhūtaṃ kim anyat kāma-haitukam ||",
+      "sanskrit": "असत्यम् अप्रतिष्ठं ते जगद् आहुर् अनीश्वरम् । अपरस्पर-सम्भूतं किम् अन्यत् काम-हैतुकम् ॥",
       "transliteration": "asatyam apratiṣṭhaṃ te jagad āhur anīśvaram | aparaspara-sambhūtaṃ kim anyat kāma-haitukam ||",
       "translation": "They say: 'The world is without truth (asatyam), without foundation (apratiṣṭham), without God (anīśvaram); born of mutual union (aparaspara-sambhūtam) — what else is its cause but desire (kāma-haitukam)?'",
       "audio": "/assets/audio/ch16/verse_16_08.mp3",
       "word_breakdown": [
         {
-          "word": "asatyam",
+          "word": "असत्यम्",
           "meaning": "without truth; the world has no ultimate truth underlying it; no permanent reality"
         },
         {
-          "word": "apratiṣṭham",
+          "word": "अप्रतिष्ठम्",
           "meaning": "without foundation or basis; no moral or metaphysical ground upon which reality rests"
         },
         {
-          "word": "jagad āhuḥ",
+          "word": "जगद् आहुः",
           "meaning": "they declare the world to be — 'āhuḥ' meaning 'they say/declare'; these are the demoniac's own words"
         },
         {
-          "word": "anīśvaram",
+          "word": "अनीश्वरम्",
           "meaning": "without a Lord/God (anīśvara); no intelligent governing principle; the universe is without a conscious source"
         },
         {
-          "word": "aparaspara-sambhūtam",
+          "word": "अपरस्पर-सम्भूतम्",
           "meaning": "born of mutual union (of male and female); born from the coming-together of material causes alone; purely mechanistic origin"
         },
         {
-          "word": "kim anyat",
+          "word": "किम् अन्यत्",
           "meaning": "what else; what other cause could there be — a rhetorical dismissal of any alternative explanation"
         },
         {
-          "word": "kāma-haitukam",
+          "word": "काम-हैतुकम्",
           "meaning": "caused only by desire/lust (kāma = desire; hetu = cause); the universe and life arise from nothing more than sensory desire"
         }
       ],
@@ -391,37 +391,37 @@
     },
     {
       "verse": 9,
-      "sanskrit": "etāṃ dṛṣṭim avaṣṭabhya naṣṭātmāno 'lpa-buddhayaḥ | prabhavanti ugra-karmāṇaḥ kṣayāya jagato 'hitāḥ ||",
+      "sanskrit": "एतां दृष्टिम् अवष्टभ्य नष्टात्मानो ऽल्प-बुद्धयः । प्रभवन्ति उग्र-कर्माणः क्षयाय जगतो ऽहिताः ॥",
       "transliteration": "etāṃ dṛṣṭim avaṣṭabhya naṣṭātmāno 'lpa-buddhayaḥ | prabhavanti ugra-karmāṇaḥ kṣayāya jagato 'hitāḥ ||",
       "translation": "Holding fast to this view (etāṃ dṛṣṭim avaṣṭabhya), these lost souls (naṣṭātmānaḥ), of small intelligence (alpa-buddhayaḥ), rise up as perpetrators of terrible actions (ugra-karmāṇaḥ) — enemies bent on the destruction of the world (kṣayāya jagataḥ ahitāḥ).",
       "audio": "/assets/audio/ch16/verse_16_09.mp3",
       "word_breakdown": [
         {
-          "word": "etāṃ dṛṣṭim avaṣṭabhya",
+          "word": "एतां दृष्टिम् अवष्टभ्य",
           "meaning": "holding fast (avaṣṭabhya) to this view/outlook (etāṃ dṛṣṭim); grasping and not releasing the worldview described in v8"
         },
         {
-          "word": "naṣṭātmānaḥ",
+          "word": "नष्टात्मानः",
           "meaning": "those who have lost themselves (naṣṭa = lost; ātmā = the Self); souls estranged from their own deepest nature"
         },
         {
-          "word": "alpa-buddhayaḥ",
+          "word": "अल्प-बुद्धयः",
           "meaning": "of small/limited intelligence (alpa = small; buddhi = intelligence); despite possible worldly cleverness, they lack the discernment that matters most"
         },
         {
-          "word": "prabhavanti",
+          "word": "प्रभवन्ति",
           "meaning": "they rise up; they emerge; they come forth with power and capacity"
         },
         {
-          "word": "ugra-karmāṇaḥ",
+          "word": "उग्र-कर्माणः",
           "meaning": "perpetrators of terrible/fierce actions (ugra = terrible, cruel, fierce; karman = action); their deeds are destructive in scale"
         },
         {
-          "word": "kṣayāya jagataḥ",
+          "word": "क्षयाय जगतः",
           "meaning": "for the destruction (kṣaya) of the world (jagat); oriented toward consuming and annihilating what sustains life"
         },
         {
-          "word": "ahitāḥ",
+          "word": "अहिताः",
           "meaning": "enemies; those who do harm; literally 'not beneficent' — those who subtract from the wellbeing of the world"
         }
       ],
@@ -434,41 +434,41 @@
     },
     {
       "verse": 10,
-      "sanskrit": "kāmam āśritya duṣpūraṃ dambha-māna-madānvitāḥ | mohād gṛhītvāsad-grāhān pravartante 'śuci-vratāḥ ||",
+      "sanskrit": "कामम् आश्रित्य दुष्पूरं दम्भ-मान-मदान्विताः । मोहाद् गृहीत्वासद्-ग्राहान् प्रवर्तन्ते ऽशुचि-व्रताः ॥",
       "transliteration": "kāmam āśritya duṣpūraṃ dambha-māna-madānvitāḥ | mohād gṛhītvāsad-grāhān pravartante 'śuci-vratāḥ ||",
       "translation": "Taking refuge in insatiable desire (duṣpūraṃ kāmam āśritya), endowed with hypocrisy, arrogance, and intoxication (dambha-māna-madānvitāḥ), deluded (mohāt), they proceed — having seized upon false notions (asad-grāhān gṛhītvā) — as those of impure resolves (aśuci-vratāḥ).",
       "audio": "/assets/audio/ch16/verse_16_10.mp3",
       "word_breakdown": [
         {
-          "word": "kāmam āśritya",
+          "word": "कामम् आश्रित्य",
           "meaning": "taking refuge in desire (kāma); making desire the ultimate shelter and guide of life"
         },
         {
-          "word": "duṣpūram",
+          "word": "दुष्पूरम्",
           "meaning": "insatiable; impossible to fill (duṣ = difficult; pūra = filling); desire that grows larger the more it is fed"
         },
         {
-          "word": "dambha-māna-madānvitāḥ",
+          "word": "दम्भ-मान-मदान्विताः",
           "meaning": "endowed with (anvita) dambha (hypocrisy/ostentation), māna (pride/arrogance), and mada (intoxication/delusion from wealth, status, or power)"
         },
         {
-          "word": "mohāt",
+          "word": "मोहात्",
           "meaning": "from delusion (moha); driven by the fundamental confusion that mistakes the impermanent for the permanent"
         },
         {
-          "word": "gṛhītvā",
+          "word": "गृहीत्वा",
           "meaning": "having seized; having taken hold of; grasping tightly and not releasing"
         },
         {
-          "word": "asad-grāhān",
+          "word": "असद्-ग्राहान्",
           "meaning": "false/wrong conceptions (asat = unreal/false; grāha = notion, conception); ideas that are not aligned with truth"
         },
         {
-          "word": "pravartante",
+          "word": "प्रवर्तन्ते",
           "meaning": "they proceed; they act; they set themselves in motion — with confidence but in the wrong direction"
         },
         {
-          "word": "aśuci-vratāḥ",
+          "word": "अशुचि-व्रताः",
           "meaning": "those of impure vows/resolves (aśuci = impure; vrata = vow, resolve, firm commitment) — they are committed, but to what is unclean"
         }
       ],
@@ -481,37 +481,37 @@
     },
     {
       "verse": 11,
-      "sanskrit": "cintām aparimeyāṃ ca pralayāntām upāśritāḥ |\nkāmopabhoga-paramā etāvad iti niścitāḥ ||",
+      "sanskrit": "चिन्ताम् अपरिमेयां च प्रलयान्ताम् उपाश्रिताः ।\nकामोपभोग-परमा एतावद् इति निश्चिताः ॥",
       "transliteration": "cintām aparimeyāṃ ca pralayāntām upāśritāḥ |\nkāmopabhoga-paramā etāvad iti niścitāḥ ||",
       "translation": "Bound to immeasurable anxiety (cintām aparimeyāṃ) that ends only at death (pralayāntām), taking refuge in sense-enjoyment as the supreme goal (kāmopabhoga-paramāḥ) — they are convinced, 'This is all there is' (etāvad iti niścitāḥ).",
       "audio": "/assets/audio/ch16/verse_16_11.mp3",
       "word_breakdown": [
         {
-          "word": "cintām",
+          "word": "चिन्ताम्",
           "meaning": "anxiety, worry, restless thought"
         },
         {
-          "word": "aparimeyām",
+          "word": "अपरिमेयाम्",
           "meaning": "immeasurable, boundless, without limit"
         },
         {
-          "word": "pralayāntām",
+          "word": "प्रलयान्ताम्",
           "meaning": "ending only at death/dissolution (pralaya = death; antām = end)"
         },
         {
-          "word": "upāśritāḥ",
+          "word": "उपाश्रिताः",
           "meaning": "taking refuge in, clinging to, depending on"
         },
         {
-          "word": "kāmopabhoga-paramāḥ",
+          "word": "कामोपभोग-परमाः",
           "meaning": "those for whom sense-gratification (kāma + upabhoga) is the highest (paramāḥ)"
         },
         {
-          "word": "etāvat",
+          "word": "एतावत्",
           "meaning": "this much, this alone, no more than this"
         },
         {
-          "word": "iti niścitāḥ",
+          "word": "इति निश्चिताः",
           "meaning": "thus convinced, having firmly concluded"
         }
       ],
@@ -524,37 +524,37 @@
     },
     {
       "verse": 12,
-      "sanskrit": "āśā-pāśa-śatair baddhāḥ kāma-krodha-parāyaṇāḥ |\nihante kāma-bhogārtham anyāyenārtha-sañcayān ||",
+      "sanskrit": "आशा-पाश-शतैर् बद्धाः काम-क्रोध-परायणाः ।\nइहन्ते काम-भोगार्थम् अन्यायेनार्थ-सञ्चयान् ॥",
       "transliteration": "āśā-pāśa-śatair baddhāḥ kāma-krodha-parāyaṇāḥ |\nihante kāma-bhogārtham anyāyenārtha-sañcayān ||",
       "translation": "Bound by hundreds of ropes of hope (āśā-pāśa-śataiḥ), devoted to desire and anger (kāma-krodha-parāyaṇāḥ) — they strive to amass wealth by unjust means (anyāyena artha-sañcayān) for the gratification of desire (kāma-bhogārtham).",
       "audio": "/assets/audio/ch16/verse_16_12.mp3",
       "word_breakdown": [
         {
-          "word": "āśā-pāśa-śataiḥ",
+          "word": "आशा-पाश-शतैः",
           "meaning": "by hundreds of nooses/ropes (pāśa) of hope/desire (āśā)"
         },
         {
-          "word": "baddhāḥ",
+          "word": "बद्धाः",
           "meaning": "bound, fettered, tied"
         },
         {
-          "word": "kāma-krodha-parāyaṇāḥ",
+          "word": "काम-क्रोध-परायणाः",
           "meaning": "devoted to (parāyaṇāḥ), absorbed in desire (kāma) and anger (krodha)"
         },
         {
-          "word": "ihante",
+          "word": "इहन्ते",
           "meaning": "they strive, they endeavour, they seek"
         },
         {
-          "word": "kāma-bhogārtham",
+          "word": "काम-भोगार्थम्",
           "meaning": "for the purpose (artham) of enjoying (bhoga) desires (kāma)"
         },
         {
-          "word": "anyāyena",
+          "word": "अन्यायेन",
           "meaning": "by unjust, unlawful, improper means"
         },
         {
-          "word": "artha-sañcayān",
+          "word": "अर्थ-सञ्चयान्",
           "meaning": "accumulations of wealth (artha), hoards of riches"
         }
       ],
@@ -567,37 +567,37 @@
     },
     {
       "verse": 13,
-      "sanskrit": "idam adya mayā labdham imaṃ prāpsye manoratham |\nidam astīdam api me bhaviṣyati punar dhanam ||",
+      "sanskrit": "इदम् अद्य मया लब्धम् इमं प्राप्स्ये मनोरथम् ।\nइदम् अस्तीदम् अपि मे भविष्यति पुनर् धनम् ॥",
       "transliteration": "idam adya mayā labdham imaṃ prāpsye manoratham |\nidam astīdam api me bhaviṣyati punar dhanam ||",
       "translation": "\"This has been gained by me today (idam adya mayā labdham); this desire I shall fulfil (imaṃ prāpsye manoratham); this is mine now — and this wealth too shall be mine in the future (bhaviṣyati punar dhanam).\"",
       "audio": "/assets/audio/ch16/verse_16_13.mp3",
       "word_breakdown": [
         {
-          "word": "idam adya",
+          "word": "इदम् अद्य",
           "meaning": "this, today — pointing to present acquisition"
         },
         {
-          "word": "mayā labdham",
+          "word": "मया लब्धम्",
           "meaning": "obtained by me, gained by me"
         },
         {
-          "word": "imam manoratham",
+          "word": "इमम् मनोरथम्",
           "meaning": "this desire, this wish (mano-ratha = chariot of the mind, i.e., a cherished wish)"
         },
         {
-          "word": "prāpsye",
+          "word": "प्राप्स्ये",
           "meaning": "I shall obtain, I shall achieve (future tense)"
         },
         {
-          "word": "idam asti",
+          "word": "इदम् अस्ति",
           "meaning": "this exists, this is (present possession)"
         },
         {
-          "word": "me bhaviṣyati",
+          "word": "मे भविष्यति",
           "meaning": "shall be mine (future possession)"
         },
         {
-          "word": "punar dhanam",
+          "word": "पुनर् धनम्",
           "meaning": "wealth again, more riches in the future"
         }
       ],
@@ -610,37 +610,37 @@
     },
     {
       "verse": 14,
-      "sanskrit": "asau mayā hataḥ śatrur haniṣye cāparān api |\nīśvaro'ham ahaṃ bhogī siddho'haṃ balavān sukhī ||",
+      "sanskrit": "असौ मया हतः शत्रुर् हनिष्ये चापरान् अपि ।\nईश्वरोऽहम् अहं भोगी सिद्धोऽहं बलवान् सुखी ॥",
       "transliteration": "asau mayā hataḥ śatruḥ haniṣye cāparān api |\nīśvaraḥ aham ahaṃ bhogī siddhaḥ ahaṃ balavān sukhī ||",
       "translation": "\"That enemy has been slain by me (asau mayā hataḥ śatruḥ); others too I shall slay (haniṣye cāparān api); I am the Lord (īśvaraḥ aham), I am the enjoyer (ahaṃ bhogī); I am successful (siddhaḥ aham), powerful (balavān), and happy (sukhī).\"",
       "audio": "/assets/audio/ch16/verse_16_14.mp3",
       "word_breakdown": [
         {
-          "word": "asau mayā hataḥ śatruḥ",
+          "word": "असौ मया हतः शत्रुः",
           "meaning": "that enemy (asau śatruḥ) has been slain (hataḥ) by me (mayā)"
         },
         {
-          "word": "haniṣye",
+          "word": "हनिष्ये",
           "meaning": "I shall slay, I shall destroy (future, first person)"
         },
         {
-          "word": "aparān api",
+          "word": "अपरान् अपि",
           "meaning": "others also, the rest as well"
         },
         {
-          "word": "īśvaraḥ aham",
+          "word": "ईश्वरः अहम्",
           "meaning": "I am the Lord, I am the master/controller"
         },
         {
-          "word": "ahaṃ bhogī",
+          "word": "अहं भोगी",
           "meaning": "I am the enjoyer, I am the experiencer of pleasures"
         },
         {
-          "word": "siddhaḥ aham",
+          "word": "सिद्धः अहम्",
           "meaning": "I am successful, I am accomplished, I am perfected"
         },
         {
-          "word": "balavān sukhī",
+          "word": "बलवान् सुखी",
           "meaning": "powerful (balavān) and happy (sukhī)"
         }
       ],
@@ -653,37 +653,37 @@
     },
     {
       "verse": 15,
-      "sanskrit": "āḍhyo'bhijanavān asmi ko'nyo'sti sadṛśo mayā |\nyakṣye dāsyāmi modiṣya ity ajñāna-vimohitāḥ ||",
+      "sanskrit": "आढ्योऽभिजनवान् अस्मि कोऽन्योऽस्ति सदृशो मया ।\nयक्ष्ये दास्यामि मोदिष्य इत्य् अज्ञान-विमोहिताः ॥",
       "transliteration": "āḍhyaḥ abhijanavān asmi kaḥ anyaḥ asti sadṛśaḥ mayā |\nyakṣye dāsyāmi modiṣye iti ajñāna-vimohitāḥ ||",
       "translation": "\"I am wealthy (āḍhyaḥ), well-born (abhijanavān); who else is equal to me (kaḥ anyaḥ sadṛśaḥ mayā)? I will perform sacrifice (yakṣye), I will give charity (dāsyāmi), I will rejoice (modiṣye)\" — thus deluded by ignorance (ajñāna-vimohitāḥ).",
       "audio": "/assets/audio/ch16/verse_16_15.mp3",
       "word_breakdown": [
         {
-          "word": "āḍhyaḥ",
+          "word": "आढ्यः",
           "meaning": "wealthy, rich, prosperous"
         },
         {
-          "word": "abhijanavān",
+          "word": "अभिजनवान्",
           "meaning": "well-born, of noble lineage, aristocratic"
         },
         {
-          "word": "kaḥ anyaḥ sadṛśaḥ mayā",
+          "word": "कः अन्यः सदृशः मया",
           "meaning": "who else is equal to (sadṛśaḥ) me (mayā)?"
         },
         {
-          "word": "yakṣye",
+          "word": "यक्ष्ये",
           "meaning": "I shall perform sacrifice (yajña), I shall worship"
         },
         {
-          "word": "dāsyāmi",
+          "word": "दास्यामि",
           "meaning": "I shall give, I shall donate (charity, dāna)"
         },
         {
-          "word": "modiṣye",
+          "word": "मोदिष्ये",
           "meaning": "I shall rejoice, I shall delight, I shall celebrate"
         },
         {
-          "word": "ajñāna-vimohitāḥ",
+          "word": "अज्ञान-विमोहिताः",
           "meaning": "completely deluded (vimohitāḥ) by ignorance (ajñāna)"
         }
       ],
@@ -696,33 +696,33 @@
     },
     {
       "verse": 16,
-      "sanskrit": "aneka-citta-vibhrāntā moha-jāla-samāvṛtāḥ |\nprasaktāḥ kāma-bhogeṣu patanti narake'śucau ||",
+      "sanskrit": "अनेक-चित्त-विभ्रान्ता मोह-जाल-समावृताः ।\nप्रसक्ताः काम-भोगेषु पतन्ति नरकेऽशुचौ ॥",
       "transliteration": "aneka-citta-vibhrāntāḥ moha-jāla-samāvṛtāḥ |\nprasaktāḥ kāma-bhogeṣu patanti narake aśucau ||",
       "translation": "Bewildered by countless thoughts (aneka-citta-vibhrāntāḥ), enveloped in the net of delusion (moha-jāla-samāvṛtāḥ), deeply addicted to sense-gratification (kāma-bhogeṣu prasaktāḥ) — they fall into an impure hell (narake aśucau).",
       "audio": "/assets/audio/ch16/verse_16_16.mp3",
       "word_breakdown": [
         {
-          "word": "aneka-citta-vibhrāntāḥ",
+          "word": "अनेक-चित्त-विभ्रान्ताः",
           "meaning": "bewildered (vibhrāntāḥ) by many/countless (aneka) thoughts (citta), mentally scattered"
         },
         {
-          "word": "moha-jāla-samāvṛtāḥ",
+          "word": "मोह-जाल-समावृताः",
           "meaning": "completely covered/enveloped (samāvṛtāḥ) by the net (jāla) of delusion (moha)"
         },
         {
-          "word": "prasaktāḥ",
+          "word": "प्रसक्ताः",
           "meaning": "deeply attached to, addicted to, hopelessly engrossed in"
         },
         {
-          "word": "kāma-bhogeṣu",
+          "word": "काम-भोगेषु",
           "meaning": "in the enjoyments/gratifications (bhogeṣu) of desires (kāma)"
         },
         {
-          "word": "patanti",
+          "word": "पतन्ति",
           "meaning": "they fall, they sink, they descend"
         },
         {
-          "word": "narake aśucau",
+          "word": "नरके अशुचौ",
           "meaning": "into impure (aśucau) hell (naraka)"
         }
       ],
@@ -735,37 +735,37 @@
     },
     {
       "verse": 17,
-      "sanskrit": "ātma-sambhāvitāḥ stabdhā dhana-māna-madānvitāḥ |\nyajante nāma-yajñais te dambhenāvidhipūrvakam ||",
+      "sanskrit": "आत्म-सम्भाविताः स्तब्धा धन-मान-मदान्विताः ।\nयजन्ते नाम-यज्ञैस् ते दम्भेनाविधिपूर्वकम् ॥",
       "transliteration": "ātma-sambhāvitāḥ stabdhāḥ dhana-māna-mada-anvitāḥ |\nyajante nāma-yajñaiḥ te dambhena avidhipūrvakam ||",
       "translation": "Self-conceited (ātma-sambhāvitāḥ), stubborn (stabdhāḥ), intoxicated with wealth and pride (dhana-māna-madānvitāḥ) — they perform sacrifices in name only (nāma-yajñaiḥ), with ostentation (dambhena), without following the prescribed method (avidhipūrvakam).",
       "audio": "/assets/audio/ch16/verse_16_17.mp3",
       "word_breakdown": [
         {
-          "word": "ātma-sambhāvitāḥ",
+          "word": "आत्म-सम्भाविताः",
           "meaning": "self-conceited, self-honouring, thinking highly of oneself (ātman + sambhāvita = honoured)"
         },
         {
-          "word": "stabdhāḥ",
+          "word": "स्तब्धाः",
           "meaning": "stubborn, rigid, arrogant, unyielding"
         },
         {
-          "word": "dhana-māna-mada-anvitāḥ",
+          "word": "धन-मान-मद-अन्विताः",
           "meaning": "accompanied by (anvitāḥ) the intoxication (mada) of wealth (dhana) and pride/honour (māna)"
         },
         {
-          "word": "yajante",
+          "word": "यजन्ते",
           "meaning": "they perform sacrifice/worship (yaj = to sacrifice)"
         },
         {
-          "word": "nāma-yajñaiḥ",
+          "word": "नाम-यज्ञैः",
           "meaning": "with sacrifices in name only (nāma = name/nominal), i.e., empty ritualism"
         },
         {
-          "word": "dambhena",
+          "word": "दम्भेन",
           "meaning": "with ostentation, with show, with hypocrisy (dambha)"
         },
         {
-          "word": "avidhipūrvakam",
+          "word": "अविधिपूर्वकम्",
           "meaning": "not following the prescribed method/rule (a-vidhi-pūrvakam = without proper procedure)"
         }
       ],
@@ -778,45 +778,45 @@
     },
     {
       "verse": 18,
-      "sanskrit": "ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ |\nmām ātma-para-deheṣu pradviṣanto'bhyasūyakāḥ ||",
+      "sanskrit": "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः ।\nमाम् आत्म-पर-देहेषु प्रद्विषन्तोऽभ्यसूयकाः ॥",
       "transliteration": "ahaṅkāram balam darpam kāmam krodham ca saṃśritāḥ |\nmām ātma-para-deheṣu pradviṣantaḥ abhyasūyakāḥ ||",
       "translation": "Taking refuge in ego (ahaṅkāra), force (bala), arrogance (darpa), desire (kāma), and anger (krodha) — hating Me (mām) in their own body and in others' bodies (ātma-para-deheṣu), these fault-finders (abhyasūyakāḥ).",
       "audio": "/assets/audio/ch16/verse_16_18.mp3",
       "word_breakdown": [
         {
-          "word": "ahaṅkāram",
+          "word": "अहङ्कारम्",
           "meaning": "ego, the sense of 'I am the doer,' self-assertion"
         },
         {
-          "word": "balam",
+          "word": "बलम्",
           "meaning": "force, physical power, might"
         },
         {
-          "word": "darpam",
+          "word": "दर्पम्",
           "meaning": "arrogance, insolence, haughtiness"
         },
         {
-          "word": "kāmam",
+          "word": "कामम्",
           "meaning": "desire, craving, lust"
         },
         {
-          "word": "krodham",
+          "word": "क्रोधम्",
           "meaning": "anger, wrath, rage"
         },
         {
-          "word": "saṃśritāḥ",
+          "word": "संश्रिताः",
           "meaning": "taking refuge in, depending upon, sheltering in"
         },
         {
-          "word": "mām ātma-para-deheṣu",
+          "word": "माम् आत्म-पर-देहेषु",
           "meaning": "Me (mām, the Lord) in one's own (ātma) and others' (para) bodies (deheṣu)"
         },
         {
-          "word": "pradviṣantaḥ",
+          "word": "प्रद्विषन्तः",
           "meaning": "intensely hating, despising, being hostile toward"
         },
         {
-          "word": "abhyasūyakāḥ",
+          "word": "अभ्यसूयकाः",
           "meaning": "fault-finders, those who envy and disparage, fault-mongers"
         }
       ],
@@ -829,45 +829,45 @@
     },
     {
       "verse": 19,
-      "sanskrit": "tān ahaṃ dviṣataḥ krūrān saṃsāreṣu narādhamān |\nkṣipāmy ajasram aśubhān āsurīṣv eva yoniṣu ||",
+      "sanskrit": "तान् अहं द्विषतः क्रूरान् संसारेषु नराधमान् ।\nक्षिपाम्य् अजस्रम् अशुभान् आसुरीष्व् एव योनिषु ॥",
       "transliteration": "tān aham dviṣataḥ krūrān saṃsāreṣu narādhamān |\nkṣipāmi ajasram aśubhān āsurīṣu eva yoniṣu ||",
       "translation": "Those hate-filled (dviṣataḥ), cruel (krūrān), vilest of men (narādhamān), inauspicious ones (aśubhān) — I hurl them perpetually (ajasram kṣipāmi) into demoniac wombs (āsurīṣu yoniṣu) in the cycles of saṃsāra (saṃsāreṣu).",
       "audio": "/assets/audio/ch16/verse_16_19.mp3",
       "word_breakdown": [
         {
-          "word": "tān",
+          "word": "तान्",
           "meaning": "them, those (referring to the āsurī souls of the preceding verse)"
         },
         {
-          "word": "dviṣataḥ",
+          "word": "द्विषतः",
           "meaning": "the hate-filled, those who are hostile, those who despise"
         },
         {
-          "word": "krūrān",
+          "word": "क्रूरान्",
           "meaning": "the cruel, the harsh, the merciless"
         },
         {
-          "word": "saṃsāreṣu",
+          "word": "संसारेषु",
           "meaning": "in the cycles of existence (saṃsāra), in repeated births and deaths"
         },
         {
-          "word": "narādhamān",
+          "word": "नराधमान्",
           "meaning": "the vilest/lowest of men (nara = man; adhama = lowest)"
         },
         {
-          "word": "kṣipāmi",
+          "word": "क्षिपामि",
           "meaning": "I hurl, I cast, I throw (with force)"
         },
         {
-          "word": "ajasram",
+          "word": "अजस्रम्",
           "meaning": "perpetually, continuously, without cessation, again and again"
         },
         {
-          "word": "aśubhān",
+          "word": "अशुभान्",
           "meaning": "the inauspicious ones, those bereft of good karma"
         },
         {
-          "word": "āsurīṣu yoniṣu",
+          "word": "आसुरीषु योनिषु",
           "meaning": "into demoniac wombs/births (āsurī = demoniac; yoni = womb, origin, birth-condition)"
         }
       ],
@@ -880,37 +880,37 @@
     },
     {
       "verse": 20,
-      "sanskrit": "āsurīṃ yonim āpannā mūḍhā janmani janmani |\nmām aprāpyaiva kaunteya tato yānty adhamāṃ gatim ||",
+      "sanskrit": "आसुरीं योनिम् आपन्ना मूढा जन्मनि जन्मनि ।\nमाम् अप्राप्यैव कौन्तेय ततो यान्त्य् अधमां गतिम् ॥",
       "transliteration": "āsurīm yonim āpannāḥ mūḍhāḥ janmani janmani |\nmām aprāpya eva kaunteya tataḥ yānti adhamām gatim ||",
       "translation": "Having fallen into demoniac wombs (āsurīṃ yonim āpannāḥ), deluded birth after birth (mūḍhāḥ janmani janmani) — not reaching Me at all (mām aprāpya eva), O Kaunteya — they then go to the lowest state (adhamāṃ gatim).",
       "audio": "/assets/audio/ch16/verse_16_20.mp3",
       "word_breakdown": [
         {
-          "word": "āsurīm yonim āpannāḥ",
+          "word": "आसुरीम् योनिम् आपन्नाः",
           "meaning": "having obtained/entered (āpannāḥ) the demoniac womb/birth-condition (āsurīm yonim)"
         },
         {
-          "word": "mūḍhāḥ",
+          "word": "मूढाः",
           "meaning": "the deluded, the foolish, the spiritually blind (from muḥ = to be confused)"
         },
         {
-          "word": "janmani janmani",
+          "word": "जन्मनि जन्मनि",
           "meaning": "birth after birth, in each successive birth, again and again"
         },
         {
-          "word": "mām aprāpya eva",
+          "word": "माम् अप्राप्य एव",
           "meaning": "without ever reaching (aprāpya) Me (mām) at all (eva — emphatic)"
         },
         {
-          "word": "kaunteya",
+          "word": "कौन्तेय",
           "meaning": "O son of Kuntī (Arjuna's epithet, reminding him of his noble lineage)"
         },
         {
-          "word": "tataḥ yānti",
+          "word": "ततः यान्ति",
           "meaning": "from there they go, thereafter they proceed"
         },
         {
-          "word": "adhamāṃ gatim",
+          "word": "अधमां गतिम्",
           "meaning": "the lowest destination (adhamā = most inferior; gati = movement, destination, state)"
         }
       ],
@@ -923,65 +923,65 @@
     },
     {
       "verse": 21,
-      "sanskrit": "tri-vidhaṃ narakasyedaṃ dvāraṃ nāśanam ātmanaḥ | kāmaḥ krodhas tathā lobhas tasmād etat trayaṃ tyajet ||",
+      "sanskrit": "त्रि-विधं नरकस्येदं द्वारं नाशनम् आत्मनः । कामः क्रोधस् तथा लोभस् तस्माद् एतत् त्रयं त्यजेत् ॥",
       "transliteration": "tri-vidhaṃ narakasya idaṃ dvāraṃ nāśanam ātmanaḥ | kāmaḥ krodhaḥ tathā lobhaḥ tasmāt etat trayaṃ tyajet ||",
       "translation": "Threefold is this gate of hell — the destroyer of the Self: desire (kāma), anger (krodha), and greed (lobha). Therefore one should abandon this triad.",
       "audio": "/assets/audio/ch16/verse_16_21.mp3",
       "word_breakdown": [
         {
-          "word": "tri-vidham",
+          "word": "त्रि-विधम्",
           "meaning": "threefold; of three kinds"
         },
         {
-          "word": "narakasya",
+          "word": "नरकस्य",
           "meaning": "of hell; of the lower realms"
         },
         {
-          "word": "idam",
+          "word": "इदम्",
           "meaning": "this"
         },
         {
-          "word": "dvāram",
+          "word": "द्वारम्",
           "meaning": "gate; door; entrance"
         },
         {
-          "word": "nāśanam",
+          "word": "नाशनम्",
           "meaning": "destroyer; that which ruins"
         },
         {
-          "word": "ātmanaḥ",
+          "word": "आत्मनः",
           "meaning": "of the Self; of the soul"
         },
         {
-          "word": "kāmaḥ",
+          "word": "कामः",
           "meaning": "desire; lust; craving"
         },
         {
-          "word": "krodhaḥ",
+          "word": "क्रोधः",
           "meaning": "anger; wrath"
         },
         {
-          "word": "tathā",
+          "word": "तथा",
           "meaning": "and; likewise; also"
         },
         {
-          "word": "lobhaḥ",
+          "word": "लोभः",
           "meaning": "greed; covetousness"
         },
         {
-          "word": "tasmāt",
+          "word": "तस्मात्",
           "meaning": "therefore; for this reason"
         },
         {
-          "word": "etat",
+          "word": "एतत्",
           "meaning": "this; these"
         },
         {
-          "word": "trayam",
+          "word": "त्रयम्",
           "meaning": "triad; the three"
         },
         {
-          "word": "tyajet",
+          "word": "त्यजेत्",
           "meaning": "one should abandon; one should give up"
         }
       ],
@@ -994,61 +994,61 @@
     },
     {
       "verse": 22,
-      "sanskrit": "etair vimuktaḥ kaunteya tamo-dvārais tribhir naraḥ | ācaraty ātmanaḥ śreyas tato yāti parāṃ gatim ||",
+      "sanskrit": "एतैर् विमुक्तः कौन्तेय तमो-द्वारैस् त्रिभिर् नरः । आचरत्य् आत्मनः श्रेयस् ततो याति परां गतिम् ॥",
       "transliteration": "etaiḥ vimuktaḥ kaunteya tamo-dvāraiḥ tribhiḥ naraḥ | ācarati ātmanaḥ śreyaḥ tataḥ yāti parām gatim ||",
       "translation": "Released from these three gates of darkness (tamo-dvārais tribhiḥ), O Kaunteya, a person practices what is truly good for the Self (ātmanaḥ śreyas) — and thereby goes to the Supreme Goal (parāṃ gatim).",
       "audio": "/assets/audio/ch16/verse_16_22.mp3",
       "word_breakdown": [
         {
-          "word": "etaiḥ",
+          "word": "एतैः",
           "meaning": "from these; from these (three)"
         },
         {
-          "word": "vimuktaḥ",
+          "word": "विमुक्तः",
           "meaning": "released; freed; liberated"
         },
         {
-          "word": "kaunteya",
+          "word": "कौन्तेय",
           "meaning": "O son of Kuntī; O Arjuna"
         },
         {
-          "word": "tamo-dvāraiḥ",
+          "word": "तमो-द्वारैः",
           "meaning": "from the gates of tamas/darkness"
         },
         {
-          "word": "tribhiḥ",
+          "word": "त्रिभिः",
           "meaning": "from the three; the triad"
         },
         {
-          "word": "naraḥ",
+          "word": "नरः",
           "meaning": "a person; a human being"
         },
         {
-          "word": "ācarati",
+          "word": "आचरति",
           "meaning": "practices; conducts; acts"
         },
         {
-          "word": "ātmanaḥ",
+          "word": "आत्मनः",
           "meaning": "of the Self; for the Self"
         },
         {
-          "word": "śreyaḥ",
+          "word": "श्रेयः",
           "meaning": "the good; the highest good; what is truly beneficial"
         },
         {
-          "word": "tataḥ",
+          "word": "ततः",
           "meaning": "thereby; from that; then"
         },
         {
-          "word": "yāti",
+          "word": "याति",
           "meaning": "goes; attains; reaches"
         },
         {
-          "word": "parām",
+          "word": "पराम्",
           "meaning": "supreme; highest; ultimate"
         },
         {
-          "word": "gatim",
+          "word": "गतिम्",
           "meaning": "goal; destination; state"
         }
       ],
@@ -1061,53 +1061,53 @@
     },
     {
       "verse": 23,
-      "sanskrit": "yaḥ śāstra-vidhim utsṛjya vartate kāma-kārataḥ | na sa siddhim avāpnoti na sukhaṃ na parāṃ gatim ||",
+      "sanskrit": "यः शास्त्र-विधिम् उत्सृज्य वर्तते काम-कारतः । न स सिद्धिम् अवाप्नोति न सुखं न परां गतिम् ॥",
       "transliteration": "yaḥ śāstra-vidhim utsṛjya vartate kāma-kārataḥ | na saḥ siddhim avāpnoti na sukham na parām gatim ||",
       "translation": "He who, having abandoned the injunction of scripture (śāstra-vidhi), lives by personal desire alone (kāma-kārataḥ) — he attains neither perfection (siddhi), nor happiness (sukha), nor the Supreme Goal (parāṃ gatim).",
       "audio": "/assets/audio/ch16/verse_16_23.mp3",
       "word_breakdown": [
         {
-          "word": "yaḥ",
+          "word": "यः",
           "meaning": "he who; whoever"
         },
         {
-          "word": "śāstra-vidhim",
+          "word": "शास्त्र-विधिम्",
           "meaning": "the injunction of scripture; the ordinance of the śāstras"
         },
         {
-          "word": "utsṛjya",
+          "word": "उत्सृज्य",
           "meaning": "having abandoned; having cast aside; having rejected"
         },
         {
-          "word": "vartate",
+          "word": "वर्तते",
           "meaning": "lives; moves; conducts oneself"
         },
         {
-          "word": "kāma-kārataḥ",
+          "word": "काम-कारतः",
           "meaning": "from personal desire; acting by one's own whim; driven by craving"
         },
         {
-          "word": "na",
+          "word": "न",
           "meaning": "not; neither"
         },
         {
-          "word": "saḥ",
+          "word": "सः",
           "meaning": "he; that person"
         },
         {
-          "word": "siddhim",
+          "word": "सिद्धिम्",
           "meaning": "perfection; success; attainment"
         },
         {
-          "word": "avāpnoti",
+          "word": "अवाप्नोति",
           "meaning": "attains; obtains; reaches"
         },
         {
-          "word": "sukham",
+          "word": "सुखम्",
           "meaning": "happiness; joy; pleasure"
         },
         {
-          "word": "parām gatim",
+          "word": "पराम् गतिम्",
           "meaning": "the Supreme Goal; the highest destination; liberation"
         }
       ],
@@ -1120,61 +1120,61 @@
     },
     {
       "verse": 24,
-      "sanskrit": "tasmāc chāstraṃ pramāṇaṃ te kāryākārya-vyavasthitau | jñātvā śāstra-vidhānoktaṃ karma kartum ihārhasi ||",
+      "sanskrit": "तस्माच् छास्त्रं प्रमाणं ते कार्याकार्य-व्यवस्थितौ । ज्ञात्वा शास्त्र-विधानोक्तं कर्म कर्तुम् इहार्हसि ॥",
       "transliteration": "tasmāt śāstraṃ pramāṇam te kārya-akārya-vyavasthitau | jñātvā śāstra-vidhāna-uktam karma kartum iha arhasi ||",
       "translation": "Therefore, let scripture be your authority (pramāṇam) in determining what should be done and what should not be done (kārya-akārya). Having understood what is prescribed by scriptural injunction, you should perform action accordingly here in this world.",
       "audio": "/assets/audio/ch16/verse_16_24.mp3",
       "word_breakdown": [
         {
-          "word": "tasmāt",
+          "word": "तस्मात्",
           "meaning": "therefore; for this reason; hence"
         },
         {
-          "word": "śāstram",
+          "word": "शास्त्रम्",
           "meaning": "scripture; the sacred texts; the body of revealed knowledge"
         },
         {
-          "word": "pramāṇam",
+          "word": "प्रमाणम्",
           "meaning": "authority; the valid means of knowledge; the standard"
         },
         {
-          "word": "te",
+          "word": "ते",
           "meaning": "for you; your"
         },
         {
-          "word": "kārya",
+          "word": "कार्य",
           "meaning": "what should be done; duty; right action"
         },
         {
-          "word": "akārya",
+          "word": "अकार्य",
           "meaning": "what should not be done; improper action; forbidden action"
         },
         {
-          "word": "vyavasthitau",
+          "word": "व्यवस्थितौ",
           "meaning": "in determining; in establishing; in ascertaining"
         },
         {
-          "word": "jñātvā",
+          "word": "ज्ञात्वा",
           "meaning": "having known; having understood; after understanding"
         },
         {
-          "word": "śāstra-vidhāna-uktam",
+          "word": "शास्त्र-विधान-उक्तम्",
           "meaning": "that which is declared by scriptural ordinance; what scripture prescribes"
         },
         {
-          "word": "karma",
+          "word": "कर्म",
           "meaning": "action; deed; work"
         },
         {
-          "word": "kartum",
+          "word": "कर्तुम्",
           "meaning": "to do; to perform; to carry out"
         },
         {
-          "word": "iha",
+          "word": "इह",
           "meaning": "here; in this world; in this life"
         },
         {
-          "word": "arhasi",
+          "word": "अर्हसि",
           "meaning": "you should; you ought to; you are fit to"
         }
       ],
