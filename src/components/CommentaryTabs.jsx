@@ -2,6 +2,14 @@ import { useState } from 'react'
 
 const TABS = [
   {
+    key: 'guruji',
+    label: 'Guruji (Geeta Study)',
+    fullName: 'Guruji',
+    subtitle: 'Geeta Study',
+    color: '#7B3FA0',
+    wip: true,
+  },
+  {
     key: 'dadaji',
     label: 'Dadaji',
     fullName: 'Shri Pandurang Athavale',
@@ -29,14 +37,6 @@ const TABS = [
     subtitle: 'Tatvavivecani',
     color: '#005E5A',
     hidden: true,
-  },
-  {
-    key: 'guruji',
-    label: 'Guruji (Geeta Study)',
-    fullName: 'Guruji',
-    subtitle: 'Geeta Study',
-    color: '#7B3FA0',
-    wip: true,
   },
 ]
 
