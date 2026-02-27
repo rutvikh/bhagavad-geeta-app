@@ -28,6 +28,7 @@ const TABS = [
     fullName: 'Jayadayal Goyandka',
     subtitle: 'Tatvavivecani',
     color: '#005E5A',
+    hidden: true,
   },
   {
     key: 'guruji',
@@ -55,7 +56,7 @@ export default function CommentaryTabs({ commentary }) {
 
       {/* Tab buttons */}
       <div className="flex flex-wrap gap-2 mb-4">
-        {TABS.map(tab => (
+        {TABS.filter(tab => !tab.hidden).map(tab => (
           <button
             key={tab.key}
             onClick={() => setActive(tab.key)}
