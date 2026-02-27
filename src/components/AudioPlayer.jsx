@@ -90,12 +90,20 @@ export default function AudioPlayer({ src }) {
           style={{
             background: error ? '#ccc' : 'var(--color-saffron)',
             color: 'white',
-            fontSize: '1.1rem',
             boxShadow: error ? 'none' : '0 2px 8px rgba(192,82,26,0.35)',
             cursor: error ? 'not-allowed' : 'pointer',
           }}
         >
-          {playing ? '⏸' : '▶'}
+          {playing ? (
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="white" xmlns="http://www.w3.org/2000/svg">
+              <rect x="2" y="2" width="4" height="12" rx="1"/>
+              <rect x="10" y="2" width="4" height="12" rx="1"/>
+            </svg>
+          ) : (
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="white" xmlns="http://www.w3.org/2000/svg">
+              <polygon points="3,1 15,8 3,15"/>
+            </svg>
+          )}
         </button>
 
         {/* Progress + time */}
