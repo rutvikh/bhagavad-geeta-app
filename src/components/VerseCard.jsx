@@ -105,7 +105,7 @@ export default function VerseCard({ verse, chapterNumber, mini = false }) {
           {verse.translation}
         </p>
         <p style={{ fontSize: '0.72rem', color: 'rgba(44,26,0,0.45)', fontFamily: 'Open Sans, sans-serif', fontStyle: 'italic', margin: '0.4rem 0 0 0' }}>
-          — Translation based on Goyandka's Tatvavivecani
+          — Translation in the spirit of Paramahansa Yogananda's 'God Talks With Arjuna'
         </p>
       </div>
 
