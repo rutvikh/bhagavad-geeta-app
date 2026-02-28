@@ -3,18 +3,23 @@ import { Link } from 'react-router-dom'
 import VerseCard from '../components/VerseCard'
 import chaptersData from '../data/chapters.json'
 
-// Determine today's verse from all 700 (cycles over ~2 years)
+// Hash the date string to get a stable-per-day but non-sequential verse index
 function getTodaysVerse() {
-  const start = new Date('2024-01-01')
   const today = new Date()
-  const dayOfCycle = Math.floor((today - start) / 86400000) % 700
+  const dateKey = `${today.getFullYear()}-${today.getMonth()}-${today.getDate()}`
 
-  // Map linear index to chapter/verse
-  const chapters = chaptersData.chapters
+  let hash = 0
+  for (let i = 0; i < dateKey.length; i++) {
+    hash = Math.imul(31, hash) + dateKey.charCodeAt(i) | 0
+  }
+  const totalVerses = chaptersData.chapters.reduce((sum, ch) => sum + ch.verse_count, 0)
+  const index = Math.abs(hash) % totalVerses
+
+  // Map flat index to chapter/verse
   let count = 0
-  for (const ch of chapters) {
-    if (dayOfCycle < count + ch.verse_count) {
-      return { chapter: ch.number, verse: dayOfCycle - count + 1 }
+  for (const ch of chaptersData.chapters) {
+    if (index < count + ch.verse_count) {
+      return { chapter: ch.number, verse: index - count + 1 }
     }
     count += ch.verse_count
   }
