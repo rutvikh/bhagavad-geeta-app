@@ -16,6 +16,7 @@ export default function VersePage() {
   const [error, setError] = useState(false)
 
   const chapter = chapters.find(c => c.number === chNum)
+  const nextChapter = chapters.find(c => c.number === chNum + 1) || null
 
   useEffect(() => {
     setLoading(true)
@@ -51,7 +52,10 @@ export default function VersePage() {
   useEffect(() => {
     function handleKey(e) {
       if (e.key === 'ArrowLeft' && vNum > 1) { window.scrollTo({ top: 0, behavior: 'instant' }); navigate(`/chapter/${chNum}/verse/${vNum - 1}`) }
-      if (e.key === 'ArrowRight' && chapter && vNum < chapter.verse_count) { window.scrollTo({ top: 0, behavior: 'instant' }); navigate(`/chapter/${chNum}/verse/${vNum + 1}`) }
+      if (e.key === 'ArrowRight') {
+        if (chapter && vNum < chapter.verse_count) { window.scrollTo({ top: 0, behavior: 'instant' }); navigate(`/chapter/${chNum}/verse/${vNum + 1}`) }
+        else if (chapter && vNum === chapter.verse_count && nextChapter) { window.scrollTo({ top: 0, behavior: 'instant' }); navigate(`/chapter/${chNum + 1}/verse/1`) }
+      }
     }
     window.addEventListener('keydown', handleKey)
     return () => window.removeEventListener('keydown', handleKey)
@@ -59,6 +63,7 @@ export default function VersePage() {
 
   const hasPrev = vNum > 1
   const hasNext = chapter && vNum < chapter.verse_count
+  const isLastVerse = chapter && vNum === chapter.verse_count
 
   return (
     <main className="max-w-3xl mx-auto px-4 py-8 space-y-6">
@@ -73,7 +78,7 @@ export default function VersePage() {
       </nav>
 
       {/* Top nav arrows */}
-      <VerseNav chNum={chNum} vNum={vNum} hasPrev={hasPrev} hasNext={hasNext} />
+      <VerseNav chNum={chNum} vNum={vNum} hasPrev={hasPrev} hasNext={hasNext} isLastVerse={isLastVerse} nextChapter={nextChapter} />
 
       {/* Content */}
       {loading && (
@@ -105,7 +110,7 @@ export default function VersePage() {
 
       {/* Bottom nav arrows */}
       {!loading && !error && (
-        <VerseNav chNum={chNum} vNum={vNum} hasPrev={hasPrev} hasNext={hasNext} />
+        <VerseNav chNum={chNum} vNum={vNum} hasPrev={hasPrev} hasNext={hasNext} isLastVerse={isLastVerse} nextChapter={nextChapter} />
       )}
 
       {/* Keyboard hint */}
@@ -117,15 +122,13 @@ export default function VersePage() {
   )
 }
 
-function VerseNav({ chNum, vNum, hasPrev, hasNext }) {
+function VerseNav({ chNum, vNum, hasPrev, hasNext, isLastVerse, nextChapter }) {
+  const linkStyle = { textDecoration: 'none', color: 'var(--color-saffron)', fontFamily: 'Open Sans, sans-serif', fontWeight: '600', fontSize: '0.88rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }
+
   return (
     <div className="flex justify-between items-center gap-4">
       {hasPrev ? (
-        <Link
-          to={`/chapter/${chNum}/verse/${vNum - 1}`}
-          style={{ textDecoration: 'none', color: 'var(--color-saffron)', fontFamily: 'Open Sans, sans-serif', fontWeight: '600', fontSize: '0.88rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}
-          aria-label={`Previous verse ${vNum - 1}`}
-        >
+        <Link to={`/chapter/${chNum}/verse/${vNum - 1}`} style={linkStyle} aria-label={`Previous verse ${vNum - 1}`}>
           ← Verse {vNum - 1}
         </Link>
       ) : (
@@ -140,12 +143,12 @@ function VerseNav({ chNum, vNum, hasPrev, hasNext }) {
       </Link>
 
       {hasNext ? (
-        <Link
-          to={`/chapter/${chNum}/verse/${vNum + 1}`}
-          style={{ textDecoration: 'none', color: 'var(--color-saffron)', fontFamily: 'Open Sans, sans-serif', fontWeight: '600', fontSize: '0.88rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}
-          aria-label={`Next verse ${vNum + 1}`}
-        >
+        <Link to={`/chapter/${chNum}/verse/${vNum + 1}`} style={linkStyle} aria-label={`Next verse ${vNum + 1}`}>
           Verse {vNum + 1} →
+        </Link>
+      ) : isLastVerse && nextChapter ? (
+        <Link to={`/chapter/${chNum + 1}/verse/1`} style={linkStyle} aria-label={`Next chapter ${chNum + 1}`}>
+          Chapter {chNum + 1} →
         </Link>
       ) : (
         <span />
