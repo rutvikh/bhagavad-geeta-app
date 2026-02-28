@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import chaptersData from '../data/chapters.json'
+import { getChapters } from '../services/geetaService'
 
-const chapters = chaptersData.chapters
+const chapters = getChapters()
 
 export default function HamburgerMenu({ open, onClose }) {
   const [chaptersExpanded, setChaptersExpanded] = useState(false)

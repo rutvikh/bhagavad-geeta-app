@@ -1,20 +1,14 @@
 import { useParams, Link } from 'react-router-dom'
 import { useMemo, useState, useEffect } from 'react'
 import VerseGrid from '../components/VerseGrid'
-import chaptersData from '../data/chapters.json'
-
-const chapters = chaptersData.chapters
+import { getChapter, getAdjacentChapters, getVerse } from '../services/geetaService'
 
 function FeaturedVerse({ chapterNumber, verseNumber }) {
   const [verseData, setVerseData] = useState(null)
 
   useEffect(() => {
-    const chStr = String(chapterNumber).padStart(2, '0')
-    import(`../data/verses/chapter_${chStr}.json`)
-      .then(mod => {
-        const found = mod.default.verses.find(v => v.verse === verseNumber)
-        setVerseData(found || null)
-      })
+    getVerse(chapterNumber, verseNumber)
+      .then(found => setVerseData(found || null))
       .catch(() => setVerseData(null))
   }, [chapterNumber, verseNumber])
 
@@ -46,7 +40,8 @@ export default function ChapterPage() {
   const { chapterNumber } = useParams()
   const num = parseInt(chapterNumber, 10)
 
-  const chapter = useMemo(() => chapters.find(c => c.number === num), [num])
+  const chapter = useMemo(() => getChapter(num), [num])
+  const { prev: prevChapter, next: nextChapter } = useMemo(() => getAdjacentChapters(num), [num])
 
   if (!chapter) {
     return (
@@ -58,9 +53,6 @@ export default function ChapterPage() {
       </main>
     )
   }
-
-  const prevChapter = chapters.find(c => c.number === num - 1)
-  const nextChapter = chapters.find(c => c.number === num + 1)
 
   const featuredVerseNum = chapter.featured_verse
     ? parseInt(chapter.featured_verse.split('.')[1], 10)

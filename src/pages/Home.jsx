@@ -1,59 +1,33 @@
-import { useMemo, useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import VerseCard from '../components/VerseCard'
-import chaptersData from '../data/chapters.json'
-
-// Hash the date string to get a stable-per-day but non-sequential verse index
-function getTodaysVerse() {
-  const today = new Date()
-  const dateKey = `${today.getFullYear()}-${today.getMonth()}-${today.getDate()}`
-
-  let hash = 0
-  for (let i = 0; i < dateKey.length; i++) {
-    hash = Math.imul(31, hash) + dateKey.charCodeAt(i) | 0
-  }
-  const totalVerses = chaptersData.chapters.reduce((sum, ch) => sum + ch.verse_count, 0)
-  const index = Math.abs(hash) % totalVerses
-
-  // Map flat index to chapter/verse
-  let count = 0
-  for (const ch of chaptersData.chapters) {
-    if (index < count + ch.verse_count) {
-      return { chapter: ch.number, verse: index - count + 1 }
-    }
-    count += ch.verse_count
-  }
-  return { chapter: 2, verse: 47 }
-}
+import { getTodaysVerse } from '../services/geetaService'
 
 export default function Home() {
-  const { chapter, verse } = useMemo(getTodaysVerse, [])
   const [verseData, setVerseData] = useState(null)
+  const [chapter, setChapter] = useState(null)
+  const [verse, setVerse] = useState(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
 
   useEffect(() => {
-    const chStr = String(chapter).padStart(2, '0')
-    import(`../data/verses/chapter_${chStr}.json`)
-      .then(mod => {
-        const found = mod.default.verses.find(v => v.verse === verse)
-        setVerseData(found || null)
+    getTodaysVerse()
+      .then(data => {
+        if (data) {
+          const { chapter: ch, verse: v, ...rest } = data
+          setChapter(ch)
+          setVerse(v)
+          setVerseData(rest)
+        } else {
+          setError(true)
+        }
         setLoading(false)
       })
       .catch(() => {
-        // Fall back to the canonical demo verse BG 2.47
-        import('../data/verses/chapter_02.json')
-          .then(mod => {
-            const fallback = mod.default.verses.find(v => v.verse === 47)
-            setVerseData(fallback || null)
-            setLoading(false)
-          })
-          .catch(() => {
-            setError(true)
-            setLoading(false)
-          })
+        setError(true)
+        setLoading(false)
       })
-  }, [chapter, verse])
+  }, [])
 
   const today = new Date().toLocaleDateString('en-IN', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
 

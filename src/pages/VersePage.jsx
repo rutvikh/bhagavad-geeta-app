@@ -1,9 +1,7 @@
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 import VerseCard from '../components/VerseCard'
-import chaptersData from '../data/chapters.json'
-
-const chapters = chaptersData.chapters
+import { getVerse, getChapter, getAdjacentChapters, markVerseVisited } from '../services/geetaService'
 
 export default function VersePage() {
   const { chapterNumber, verseNumber } = useParams()
@@ -15,28 +13,19 @@ export default function VersePage() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
 
-  const chapter = chapters.find(c => c.number === chNum)
-  const nextChapter = chapters.find(c => c.number === chNum + 1) || null
+  const chapter = getChapter(chNum)
+  const { next: nextChapter } = getAdjacentChapters(chNum)
 
   useEffect(() => {
     setLoading(true)
     setError(false)
     setVerseData(null)
 
-    const chStr = String(chNum).padStart(2, '0')
-    import(`../data/verses/chapter_${chStr}.json`)
-      .then(mod => {
-        const found = mod.default.verses.find(v => v.verse === vNum)
+    getVerse(chNum, vNum)
+      .then(found => {
         if (found) {
           setVerseData(found)
-          // Mark as visited
-          try {
-            const key = `visited_ch${chNum}`
-            const stored = JSON.parse(localStorage.getItem(key) || '[]')
-            if (!stored.includes(vNum)) {
-              localStorage.setItem(key, JSON.stringify([...stored, vNum]))
-            }
-          } catch {}
+          markVerseVisited(chNum, vNum)
         } else {
           setError(true)
         }

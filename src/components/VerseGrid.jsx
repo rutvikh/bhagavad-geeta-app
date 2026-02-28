@@ -1,29 +1,17 @@
 import { useNavigate } from 'react-router-dom'
 import { useEffect, useState } from 'react'
+import { getVisitedVerses, markVerseVisited } from '../services/geetaService'
 
 export default function VerseGrid({ chapterNumber, verseCount }) {
   const navigate = useNavigate()
   const [visited, setVisited] = useState(new Set())
 
   useEffect(() => {
-    try {
-      const key = `visited_ch${chapterNumber}`
-      const stored = JSON.parse(localStorage.getItem(key) || '[]')
-      setVisited(new Set(stored))
-    } catch {
-      setVisited(new Set())
-    }
+    setVisited(new Set(getVisitedVerses(chapterNumber)))
   }, [chapterNumber])
 
   function handleVerseClick(verseNum) {
-    // Mark as visited
-    try {
-      const key = `visited_ch${chapterNumber}`
-      const stored = JSON.parse(localStorage.getItem(key) || '[]')
-      const updated = Array.from(new Set([...stored, verseNum]))
-      localStorage.setItem(key, JSON.stringify(updated))
-    } catch {}
-
+    markVerseVisited(chapterNumber, verseNum)
     navigate(`/chapter/${chapterNumber}/verse/${verseNum}`)
   }
 
