@@ -14,6 +14,7 @@ export default function AudioPlayer({ src }) {
   const [duration, setDuration] = useState(0)
   const [loaded, setLoaded] = useState(false)
   const [error, setError] = useState(false)
+  const [speed, setSpeed] = useState(1)
 
   const progress = duration > 0 ? (currentTime / duration) * 100 : 0
 
@@ -54,6 +55,12 @@ export default function AudioPlayer({ src }) {
     } else {
       audio.play().then(() => setPlaying(true)).catch(() => setError(true))
     }
+  }
+
+  function handleSpeedChange(e) {
+    const val = parseFloat(e.target.value)
+    setSpeed(val)
+    if (audioRef.current) audioRef.current.playbackRate = val
   }
 
   function handleSeek(e) {
@@ -119,13 +126,39 @@ export default function AudioPlayer({ src }) {
             disabled={!loaded || error}
             style={{ cursor: loaded && !error ? 'pointer' : 'default' }}
           />
-          <div className="flex justify-between" style={{ fontSize: '0.72rem', color: 'var(--color-gold)', fontFamily: 'Open Sans, sans-serif' }}>
+          <div className="flex justify-between items-center" style={{ fontSize: '0.72rem', color: 'var(--color-gold)', fontFamily: 'Open Sans, sans-serif' }}>
             <span>{formatTime(currentTime)}</span>
-            {error ? (
-              <span style={{ color: '#999', fontStyle: 'italic' }}>Audio not available</span>
-            ) : (
-              <span>{loaded ? formatTime(duration) : '—'}</span>
-            )}
+            <div className="flex items-center gap-2">
+              {error ? (
+                <span style={{ color: '#999', fontStyle: 'italic' }}>Audio not available</span>
+              ) : (
+                <span>{loaded ? formatTime(duration) : '—'}</span>
+              )}
+              {!error && (
+                <select
+                  value={speed}
+                  onChange={handleSpeedChange}
+                  aria-label="Playback speed"
+                  style={{
+                    appearance: 'none',
+                    background: speed !== 1 ? 'var(--color-saffron)' : 'rgba(184,134,11,0.15)',
+                    color: speed !== 1 ? 'white' : 'var(--color-gold)',
+                    border: '1px solid rgba(184,134,11,0.4)',
+                    borderRadius: '9999px',
+                    padding: '0.15rem 0.5rem',
+                    fontSize: '0.7rem',
+                    fontFamily: 'Open Sans, sans-serif',
+                    fontWeight: '600',
+                    cursor: 'pointer',
+                    outline: 'none',
+                  }}
+                >
+                  {[0.5, 0.75, 1, 1.25, 1.5, 2].map(s => (
+                    <option key={s} value={s}>{s}×</option>
+                  ))}
+                </select>
+              )}
+            </div>
           </div>
         </div>
       </div>

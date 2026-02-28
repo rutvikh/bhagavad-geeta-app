@@ -14,10 +14,10 @@ export default function Home() {
     getTodaysVerse()
       .then(data => {
         if (data) {
-          const { chapter: ch, verse: v, ...rest } = data
+          const { chapter: ch, ...verseObj } = data
           setChapter(ch)
-          setVerse(v)
-          setVerseData(rest)
+          setVerse(verseObj.verse)
+          setVerseData(verseObj)
         } else {
           setError(true)
         }
