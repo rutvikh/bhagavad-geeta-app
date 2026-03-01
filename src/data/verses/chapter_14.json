@@ -10,58 +10,100 @@
       "word_breakdown": [
         {
           "word": "परम्",
+          "transliteration": "param",
+          "root": "para (beyond, highest)",
+          "grammatical_form": "adjective, accusative singular neuter",
           "meaning": "supreme, highest"
         },
         {
           "word": "भूयः",
+          "transliteration": "bhūyaḥ",
+          "root": "bhū (to be, to become)",
+          "grammatical_form": "indeclinable adverb (comparative form)",
           "meaning": "again, further, once more"
         },
         {
           "word": "प्रवक्ष्यामि",
+          "transliteration": "pravakṣyāmi",
+          "root": "vac (to speak) with prefix pra-",
+          "grammatical_form": "verb, first person singular, future tense, active voice, parasmaipada",
           "meaning": "I shall declare, I will speak"
         },
         {
           "word": "ज्ञानानाम्",
+          "transliteration": "jñānānām",
+          "root": "jñā (to know)",
+          "grammatical_form": "noun, genitive plural, neuter",
           "meaning": "of all knowledges (genitive plural)"
         },
         {
           "word": "ज्ञानम्",
+          "transliteration": "jñānam",
+          "root": "jñā (to know)",
+          "grammatical_form": "noun, accusative singular, neuter",
           "meaning": "knowledge"
         },
         {
           "word": "उत्तमम्",
+          "transliteration": "uttamam",
+          "root": "ud (up) + tama (superlative suffix)",
+          "grammatical_form": "adjective, accusative singular, neuter",
           "meaning": "the highest, supreme, best"
         },
         {
           "word": "यत्",
+          "transliteration": "yat",
+          "root": "ya (relative pronoun base)",
+          "grammatical_form": "relative pronoun, nominative/accusative singular, neuter",
           "meaning": "which"
         },
         {
           "word": "ज्ञात्वा",
+          "transliteration": "jñātvā",
+          "root": "jñā (to know)",
+          "grammatical_form": "indeclinable gerund (absolutive/ktvānta)",
           "meaning": "having known, by knowing"
         },
         {
           "word": "मुनयः",
+          "transliteration": "munayaḥ",
+          "root": "mun (to think, to be silent)",
+          "grammatical_form": "noun, nominative plural, masculine",
           "meaning": "sages, silent contemplatives"
         },
         {
           "word": "सर्वे",
+          "transliteration": "sarve",
+          "root": "sarva (all, whole)",
+          "grammatical_form": "pronoun/adjective, nominative plural, masculine",
           "meaning": "all"
         },
         {
           "word": "पराम्",
+          "transliteration": "parām",
+          "root": "para (beyond, highest)",
+          "grammatical_form": "adjective, accusative singular, feminine",
           "meaning": "highest, supreme"
         },
         {
           "word": "सिद्धिम्",
+          "transliteration": "siddhim",
+          "root": "sidh (to succeed, to be accomplished)",
+          "grammatical_form": "noun, accusative singular, feminine",
           "meaning": "perfection, attainment, liberation"
         },
         {
           "word": "इतः",
+          "transliteration": "itaḥ",
+          "root": "idam (this) — ablative form used as adverb",
+          "grammatical_form": "indeclinable adverb (ablative origin)",
           "meaning": "from here, from this world"
         },
         {
           "word": "गताः",
+          "transliteration": "gatāḥ",
+          "root": "gam (to go)",
+          "grammatical_form": "past passive participle, nominative plural, masculine",
           "meaning": "have gone, have attained"
         }
       ],
@@ -81,50 +123,86 @@
       "word_breakdown": [
         {
           "word": "इदम्",
+          "transliteration": "idam",
+          "root": "idam (demonstrative pronoun base)",
+          "grammatical_form": "demonstrative pronoun, accusative singular, neuter",
           "meaning": "this"
         },
         {
           "word": "ज्ञानम्",
+          "transliteration": "jñānam",
+          "root": "jñā (to know)",
+          "grammatical_form": "noun, accusative singular, neuter",
           "meaning": "knowledge"
         },
         {
           "word": "उपाश्रित्य",
+          "transliteration": "upāśritya",
+          "root": "śri (to resort to, to take shelter) with prefix upa-ā-",
+          "grammatical_form": "indeclinable gerund (absolutive/ktvānta)",
           "meaning": "taking refuge in, relying upon"
         },
         {
           "word": "मम",
+          "transliteration": "mama",
+          "root": "mad (first person pronoun base)",
+          "grammatical_form": "personal pronoun, genitive singular, first person",
           "meaning": "My"
         },
         {
           "word": "साधर्म्यम्",
+          "transliteration": "sādharmyam",
+          "root": "sa (same) + dharma (nature, law, essence)",
+          "grammatical_form": "noun, accusative singular, neuter",
           "meaning": "same nature, same essential state, likeness"
         },
         {
           "word": "आगताः",
+          "transliteration": "āgatāḥ",
+          "root": "gam (to go) with prefix ā-",
+          "grammatical_form": "past passive participle, nominative plural, masculine",
           "meaning": "having attained, those who have come to"
         },
         {
           "word": "सर्गे",
+          "transliteration": "sarge",
+          "root": "sṛj (to create, to emit)",
+          "grammatical_form": "noun, locative singular, masculine",
           "meaning": "at creation, at the manifestation of the universe"
         },
         {
           "word": "अपि",
+          "transliteration": "api",
+          "root": "api (enclitic particle)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "even, also"
         },
         {
           "word": "न उपजायन्ते",
+          "transliteration": "na upajāyante",
+          "root": "na (negation) + jan (to be born) with prefix upa-",
+          "grammatical_form": "negative particle + verb, third person plural, present tense, passive, ātmanepada",
           "meaning": "are not born, do not take birth"
         },
         {
           "word": "प्रलये",
+          "transliteration": "pralaye",
+          "root": "lī (to dissolve, to merge) with prefix pra-",
+          "grammatical_form": "noun, locative singular, masculine",
           "meaning": "at dissolution, at the cosmic ending"
         },
         {
           "word": "न व्यथन्ति",
+          "transliteration": "na vyathanti",
+          "root": "na (negation) + vyath (to tremble, to be agitated)",
+          "grammatical_form": "negative particle + verb, third person plural, present tense, active, parasmaipada",
           "meaning": "are not troubled, are not agitated, do not suffer"
         },
         {
           "word": "च",
+          "transliteration": "ca",
+          "root": "ca (enclitic conjunction)",
+          "grammatical_form": "indeclinable conjunction",
           "meaning": "and"
         }
       ],
@@ -144,50 +222,86 @@
       "word_breakdown": [
         {
           "word": "मम",
+          "transliteration": "mama",
+          "root": "mad (first person pronoun base)",
+          "grammatical_form": "personal pronoun, genitive singular, first person",
           "meaning": "My"
         },
         {
           "word": "योनिः",
+          "transliteration": "yoniḥ",
+          "root": "yu (to join, to unite) — or primary noun",
+          "grammatical_form": "noun, nominative singular, feminine",
           "meaning": "womb, source, matrix"
         },
         {
           "word": "महद् ब्रह्म",
+          "transliteration": "mahad brahma",
+          "root": "mahat (great) + bṛh (to expand, to grow)",
+          "grammatical_form": "adjective + noun, nominative singular, neuter (compound predicate)",
           "meaning": "the great Brahman, Mahad (the primordial Prakṛti/Nature)"
         },
         {
           "word": "तस्मिन्",
+          "transliteration": "tasmin",
+          "root": "tad (demonstrative pronoun base)",
+          "grammatical_form": "demonstrative pronoun, locative singular, neuter",
           "meaning": "in that, therein"
         },
         {
           "word": "गर्भम्",
+          "transliteration": "garbham",
+          "root": "garbh (to conceive, to hold inside) — or primary noun",
+          "grammatical_form": "noun, accusative singular, masculine",
           "meaning": "the seed, the embryo, the germ"
         },
         {
           "word": "दधामि",
+          "transliteration": "dadhāmi",
+          "root": "dhā (to place, to put, to hold)",
+          "grammatical_form": "verb, first person singular, present tense, active, parasmaipada",
           "meaning": "I place, I deposit"
         },
         {
           "word": "अहम्",
+          "transliteration": "aham",
+          "root": "asmad (first person pronoun base)",
+          "grammatical_form": "personal pronoun, nominative singular, first person",
           "meaning": "I"
         },
         {
           "word": "सम्भवः",
+          "transliteration": "sambhavaḥ",
+          "root": "bhū (to become, to be) with prefix sam-",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "birth, coming into being, origin"
         },
         {
           "word": "सर्व-भूतानाम्",
+          "transliteration": "sarva-bhūtānām",
+          "root": "sarva (all) + bhū (to be, to exist)",
+          "grammatical_form": "tatpuruṣa compound, genitive plural, neuter",
           "meaning": "of all beings (genitive plural)"
         },
         {
           "word": "ततः",
+          "transliteration": "tataḥ",
+          "root": "tad (demonstrative pronoun base) — ablative adverb",
+          "grammatical_form": "indeclinable adverb (ablative origin)",
           "meaning": "from that, therefore"
         },
         {
           "word": "भवति",
+          "transliteration": "bhavati",
+          "root": "bhū (to become, to be)",
+          "grammatical_form": "verb, third person singular, present tense, active, parasmaipada",
           "meaning": "comes to be, occurs, happens"
         },
         {
           "word": "भारत",
+          "transliteration": "bhārata",
+          "root": "Bharata (proper noun — ancestor of the Kuru clan)",
+          "grammatical_form": "vocative singular, masculine (patronymic epithet)",
           "meaning": "O Bhārata (Arjuna, descendant of Bharata)"
         }
       ],
@@ -207,46 +321,79 @@
       "word_breakdown": [
         {
           "word": "सर्व-योनिषु",
+          "transliteration": "sarva-yoniṣu",
+          "root": "sarva (all) + yu (to join) / yoni (womb, source)",
+          "grammatical_form": "tatpuruṣa compound, locative plural, feminine",
           "meaning": "in all wombs, in all kinds of births"
         },
         {
           "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "root": "Kuntī (proper noun — mother of Arjuna)",
+          "grammatical_form": "vocative singular, masculine (patronymic epithet)",
           "meaning": "O son of Kuntī (Arjuna)"
         },
         {
           "word": "मूर्तयः",
+          "transliteration": "mūrtayaḥ",
+          "root": "mūrti (form, body, embodied form)",
+          "grammatical_form": "noun, nominative plural, feminine",
           "meaning": "forms, bodies, embodied beings"
         },
         {
           "word": "सम्भवन्ति",
+          "transliteration": "sambhavanti",
+          "root": "bhū (to become) with prefix sam-",
+          "grammatical_form": "verb, third person plural, present tense, active, parasmaipada",
           "meaning": "are born, come into being"
         },
         {
           "word": "याः",
+          "transliteration": "yāḥ",
+          "root": "ya (relative pronoun base)",
+          "grammatical_form": "relative pronoun, nominative plural, feminine",
           "meaning": "which (relative pronoun)"
         },
         {
           "word": "तासाम्",
+          "transliteration": "tāsām",
+          "root": "tad (demonstrative pronoun base)",
+          "grammatical_form": "demonstrative pronoun, genitive plural, feminine",
           "meaning": "of them, of all those"
         },
         {
           "word": "ब्रह्म महद्",
+          "transliteration": "brahma mahad",
+          "root": "bṛh (to expand) + mahat (great)",
+          "grammatical_form": "noun + adjective, nominative singular, neuter",
           "meaning": "the great Brahman, primordial Prakṛti"
         },
         {
           "word": "योनिः",
+          "transliteration": "yoniḥ",
+          "root": "yu (to join) / primary noun",
+          "grammatical_form": "noun, nominative singular, feminine",
           "meaning": "the womb, the source"
         },
         {
           "word": "अहम्",
+          "transliteration": "aham",
+          "root": "asmad (first person pronoun base)",
+          "grammatical_form": "personal pronoun, nominative singular, first person",
           "meaning": "I"
         },
         {
           "word": "बीज-प्रदः",
+          "transliteration": "bīja-pradaḥ",
+          "root": "bīja (seed) + pra-dā (to give, to bestow)",
+          "grammatical_form": "tatpuruṣa compound, nominative singular, masculine",
           "meaning": "the seed-giver, one who bestows the seed"
         },
         {
           "word": "पिता",
+          "transliteration": "pitā",
+          "root": "pā (to protect, to nourish) — primary noun",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "the Father"
         }
       ],
@@ -266,46 +413,79 @@
       "word_breakdown": [
         {
           "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "root": "sat (being, truth, purity)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "sattva — the quality of purity, light, harmony"
         },
         {
           "word": "रजः",
+          "transliteration": "rajaḥ",
+          "root": "rañj (to colour, to be passionate)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "rajas — the quality of passion, activity, restlessness"
         },
         {
           "word": "तमः",
+          "transliteration": "tamaḥ",
+          "root": "tam (to be dark, to be inert)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "tamas — the quality of darkness, inertia, ignorance"
         },
         {
           "word": "इति",
+          "transliteration": "iti",
+          "root": "iti (enumerative/quotative particle)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "thus, these are (enumerative particle)"
         },
         {
           "word": "गुणाः",
+          "transliteration": "guṇāḥ",
+          "root": "guṇ (to multiply, to string) — or primary noun",
+          "grammatical_form": "noun, nominative plural, masculine",
           "meaning": "qualities, strands, attributes of Prakṛti"
         },
         {
           "word": "प्रकृति-सम्भवाः",
+          "transliteration": "prakṛti-sambhavāḥ",
+          "root": "pra-kṛ (to make forth, Nature) + sam-bhū (to arise from)",
+          "grammatical_form": "bahuvrīhi compound, nominative plural, masculine",
           "meaning": "born of Prakṛti, arising from Nature"
         },
         {
           "word": "निबध्नन्ति",
+          "transliteration": "nibadhnanti",
+          "root": "bandh (to bind) with prefix ni-",
+          "grammatical_form": "verb, third person plural, present tense, active, parasmaipada",
           "meaning": "they bind, they tie down"
         },
         {
           "word": "महाबाहो",
+          "transliteration": "mahābāho",
+          "root": "mahā (great) + bāhu (arm)",
+          "grammatical_form": "bahuvrīhi compound, vocative singular, masculine",
           "meaning": "O Mighty-Armed (epithet of Arjuna)"
         },
         {
           "word": "देहे",
+          "transliteration": "dehe",
+          "root": "dih (to plaster, to mould) — primary noun",
+          "grammatical_form": "noun, locative singular, masculine/neuter",
           "meaning": "in the body, within the physical form"
         },
         {
           "word": "देहिनम्",
+          "transliteration": "dehinam",
+          "root": "deha (body) + in (possessor suffix)",
+          "grammatical_form": "noun, accusative singular, masculine",
           "meaning": "the embodied soul, the one who dwells in the body"
         },
         {
           "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "root": "a- (negation) + vi (apart) + i (to go) — that which does not wear away",
+          "grammatical_form": "adjective, accusative singular, neuter",
           "meaning": "the imperishable, the indestructible, the eternal"
         }
       ],
@@ -325,42 +505,72 @@
       "word_breakdown": [
         {
           "word": "तत्र",
+          "transliteration": "tatra",
+          "root": "tad (demonstrative base) — locative adverb",
+          "grammatical_form": "indeclinable adverb (locative origin)",
           "meaning": "among these, therein"
         },
         {
           "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "root": "sat (being, truth, purity)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "sattva (the quality of purity and light)"
         },
         {
           "word": "निर्मलत्वात्",
+          "transliteration": "nirmalatāt",
+          "root": "nir- (without) + mala (impurity, stain) + tva (abstract suffix)",
+          "grammatical_form": "abstract noun, ablative singular, neuter",
           "meaning": "because of its purity, on account of being stainless"
         },
         {
           "word": "प्रकाशकम्",
+          "transliteration": "prakāśakam",
+          "root": "kāś (to shine) with prefix pra- + ka (agent suffix)",
+          "grammatical_form": "adjective/agent noun, nominative singular, neuter",
           "meaning": "luminous, illuminating, light-producing"
         },
         {
           "word": "अनामयम्",
+          "transliteration": "anāmayam",
+          "root": "a- (negation) + ā-may (to afflict, to be diseased)",
+          "grammatical_form": "adjective, nominative singular, neuter",
           "meaning": "free from disease, free from affliction, healthy"
         },
         {
           "word": "सुख-सङ्गेन",
+          "transliteration": "sukha-saṅgena",
+          "root": "su (good) + kha (aperture/space) + sañj (to cling, to attach)",
+          "grammatical_form": "tatpuruṣa compound, instrumental singular, masculine",
           "meaning": "through attachment to happiness, through the bond of joy"
         },
         {
           "word": "बध्नाति",
+          "transliteration": "badhnāti",
+          "root": "bandh (to bind, to tie)",
+          "grammatical_form": "verb, third person singular, present tense, active, parasmaipada",
           "meaning": "it binds, it ties"
         },
         {
           "word": "ज्ञान-सङ्गेन",
+          "transliteration": "jñāna-saṅgena",
+          "root": "jñā (to know) + sañj (to cling, to attach)",
+          "grammatical_form": "tatpuruṣa compound, instrumental singular, masculine",
           "meaning": "through attachment to knowledge, through clinging to wisdom"
         },
         {
           "word": "च",
+          "transliteration": "ca",
+          "root": "ca (enclitic conjunction)",
+          "grammatical_form": "indeclinable conjunction",
           "meaning": "and, also"
         },
         {
           "word": "अनघ",
+          "transliteration": "anagha",
+          "root": "a- (negation) + agha (sin, impurity)",
+          "grammatical_form": "bahuvrīhi compound, vocative singular, masculine",
           "meaning": "O Sinless One (epithet of Arjuna)"
         }
       ],
@@ -380,46 +590,79 @@
       "word_breakdown": [
         {
           "word": "रजः",
+          "transliteration": "rajaḥ",
+          "root": "rañj (to colour, to be passionate)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "rajas, the quality of passion and activity"
         },
         {
           "word": "रागात्मकम्",
+          "transliteration": "rāgātmakam",
+          "root": "rañj (to colour, to crave) + ātman (self, nature) + ka (suffix)",
+          "grammatical_form": "bahuvrīhi compound, accusative singular, neuter",
           "meaning": "of the nature of passion/desire, whose essence is rāga"
         },
         {
           "word": "विद्धि",
+          "transliteration": "viddhi",
+          "root": "vid (to know)",
+          "grammatical_form": "verb, second person singular, imperative, active, parasmaipada",
           "meaning": "know, understand (imperative)"
         },
         {
           "word": "तृष्णा",
+          "transliteration": "tṛṣṇā",
+          "root": "tṛṣ (to be thirsty, to crave)",
+          "grammatical_form": "noun, nominative singular, feminine (first member of compound)",
           "meaning": "thirst, craving, intense desire"
         },
         {
           "word": "सङ्ग",
+          "transliteration": "saṅga",
+          "root": "sañj (to cling, to attach)",
+          "grammatical_form": "noun, nominative singular, masculine (middle member of compound)",
           "meaning": "attachment, clinging"
         },
         {
           "word": "समुद्भवम्",
+          "transliteration": "samudbhavam",
+          "root": "bhū (to become) with prefix sam-ud-",
+          "grammatical_form": "past passive participle used as adjective, accusative singular, neuter",
           "meaning": "born from, arising from, produced by"
         },
         {
           "word": "तत्",
+          "transliteration": "tat",
+          "root": "tad (demonstrative pronoun base)",
+          "grammatical_form": "demonstrative pronoun, nominative singular, neuter",
           "meaning": "it, that (rajas)"
         },
         {
           "word": "निबध्नाति",
+          "transliteration": "nibadhnāti",
+          "root": "bandh (to bind) with prefix ni-",
+          "grammatical_form": "verb, third person singular, present tense, active, parasmaipada",
           "meaning": "binds, ties down"
         },
         {
           "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "root": "Kuntī (proper noun — mother of Arjuna)",
+          "grammatical_form": "vocative singular, masculine (patronymic epithet)",
           "meaning": "O son of Kuntī (Arjuna)"
         },
         {
           "word": "कर्म-सङ्गेन",
+          "transliteration": "karma-saṅgena",
+          "root": "kṛ (to do, to act) + sañj (to cling, to attach)",
+          "grammatical_form": "tatpuruṣa compound, instrumental singular, masculine",
           "meaning": "through attachment to action, through bond of activity"
         },
         {
           "word": "देहिनम्",
+          "transliteration": "dehinam",
+          "root": "deha (body) + in (possessor suffix)",
+          "grammatical_form": "noun, accusative singular, masculine",
           "meaning": "the embodied soul, the dweller in the body"
         }
       ],
@@ -439,50 +682,86 @@
       "word_breakdown": [
         {
           "word": "तमः",
+          "transliteration": "tamaḥ",
+          "root": "tam (to be dark, to be inert)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "tamas, the quality of darkness and inertia"
         },
         {
           "word": "तु",
+          "transliteration": "tu",
+          "root": "tu (contrastive particle)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "but, however (contrasting particle)"
         },
         {
           "word": "अज्ञान-जम्",
+          "transliteration": "ajñāna-jam",
+          "root": "a- (negation) + jñā (to know) + jan (to be born)",
+          "grammatical_form": "tatpuruṣa compound, accusative singular, neuter",
           "meaning": "born of ignorance, produced by avidyā"
         },
         {
           "word": "विद्धि",
+          "transliteration": "viddhi",
+          "root": "vid (to know)",
+          "grammatical_form": "verb, second person singular, imperative, active, parasmaipada",
           "meaning": "know, understand (imperative)"
         },
         {
           "word": "मोहनम्",
+          "transliteration": "mohanam",
+          "root": "muh (to be deluded, to be confused)",
+          "grammatical_form": "adjective/agent noun, accusative singular, neuter",
           "meaning": "the deluder, that which causes delusion (moha)"
         },
         {
           "word": "सर्व-देहिनाम्",
+          "transliteration": "sarva-dehinām",
+          "root": "sarva (all) + deha (body) + in (possessor suffix)",
+          "grammatical_form": "tatpuruṣa compound, genitive plural, masculine",
           "meaning": "of all embodied beings (genitive plural)"
         },
         {
           "word": "प्रमाद",
+          "transliteration": "pramāda",
+          "root": "mad (to be intoxicated, heedless) with prefix pra-",
+          "grammatical_form": "noun, nominative singular, masculine (first member of compound)",
           "meaning": "heedlessness, carelessness, negligence, intoxication"
         },
         {
           "word": "आलस्य",
+          "transliteration": "ālasya",
+          "root": "a- (negation) + las (to play, to be active) — absence of activity",
+          "grammatical_form": "noun, nominative singular, neuter (middle member of compound)",
           "meaning": "laziness, sloth, inertia"
         },
         {
           "word": "निद्राभिः",
+          "transliteration": "nidrābhiḥ",
+          "root": "ni-drā (to sleep) — prefix ni- + drā (to run, to sleep)",
+          "grammatical_form": "noun, instrumental plural, feminine",
           "meaning": "by sleep, through excessive sleep (instrumental)"
         },
         {
           "word": "तत्",
+          "transliteration": "tat",
+          "root": "tad (demonstrative pronoun base)",
+          "grammatical_form": "demonstrative pronoun, nominative singular, neuter",
           "meaning": "it, that (tamas)"
         },
         {
           "word": "निबध्नाति",
+          "transliteration": "nibadhnāti",
+          "root": "bandh (to bind) with prefix ni-",
+          "grammatical_form": "verb, third person singular, present tense, active, parasmaipada",
           "meaning": "binds, ties down"
         },
         {
           "word": "भारत",
+          "transliteration": "bhārata",
+          "root": "Bharata (proper noun — ancestor of the Kuru clan)",
+          "grammatical_form": "vocative singular, masculine (patronymic epithet)",
           "meaning": "O Bhārata (Arjuna)"
         }
       ],
@@ -502,54 +781,93 @@
       "word_breakdown": [
         {
           "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "root": "sat (being, truth, purity)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "sattva"
         },
         {
           "word": "सुखे",
+          "transliteration": "sukhe",
+          "root": "su (good, well) + kha (space, aperture)",
+          "grammatical_form": "noun, locative singular, neuter",
           "meaning": "in happiness, to joy (locative)"
         },
         {
           "word": "सञ्जयति",
+          "transliteration": "sañjayati",
+          "root": "sañj (to cling, to adhere) — causative",
+          "grammatical_form": "verb, third person singular, present tense, causative, active, parasmaipada",
           "meaning": "attaches, causes to cling, binds (causative of sañj)"
         },
         {
           "word": "रजः",
+          "transliteration": "rajaḥ",
+          "root": "rañj (to colour, to be passionate)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "rajas"
         },
         {
           "word": "कर्मणि",
+          "transliteration": "karmaṇi",
+          "root": "kṛ (to do, to act)",
+          "grammatical_form": "noun, locative singular, neuter",
           "meaning": "in action, to activity (locative)"
         },
         {
           "word": "भारत",
+          "transliteration": "bhārata",
+          "root": "Bharata (proper noun — ancestor of the Kuru clan)",
+          "grammatical_form": "vocative singular, masculine (patronymic epithet)",
           "meaning": "O Bhārata (Arjuna)"
         },
         {
           "word": "ज्ञानम्",
+          "transliteration": "jñānam",
+          "root": "jñā (to know)",
+          "grammatical_form": "noun, accusative singular, neuter",
           "meaning": "knowledge, awareness, discriminative understanding"
         },
         {
           "word": "आवृत्य",
+          "transliteration": "āvṛtya",
+          "root": "vṛ (to cover, to veil) with prefix ā-",
+          "grammatical_form": "indeclinable gerund (absolutive/ktvānta)",
           "meaning": "having covered, having veiled (gerund of āvṛ)"
         },
         {
           "word": "तु",
+          "transliteration": "tu",
+          "root": "tu (contrastive particle)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "but, however"
         },
         {
           "word": "तमः",
+          "transliteration": "tamaḥ",
+          "root": "tam (to be dark, to be inert)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "tamas"
         },
         {
           "word": "प्रमादे",
+          "transliteration": "pramāde",
+          "root": "mad (to be heedless) with prefix pra-",
+          "grammatical_form": "noun, locative singular, masculine",
           "meaning": "in heedlessness, to negligence (locative)"
         },
         {
           "word": "सञ्जयति",
+          "transliteration": "sañjayati",
+          "root": "sañj (to cling, to adhere) — causative",
+          "grammatical_form": "verb, third person singular, present tense, causative, active, parasmaipada",
           "meaning": "attaches, causes to cling"
         },
         {
           "word": "उत",
+          "transliteration": "uta",
+          "root": "uta (emphatic/additive particle)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "indeed, moreover (emphatic particle)"
         }
       ],
@@ -569,46 +887,79 @@
       "word_breakdown": [
         {
           "word": "रजः",
+          "transliteration": "rajaḥ",
+          "root": "rañj (to colour, to be passionate)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "rajas"
         },
         {
           "word": "तमः",
+          "transliteration": "tamaḥ",
+          "root": "tam (to be dark, to be inert)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "tamas"
         },
         {
           "word": "च",
+          "transliteration": "ca",
+          "root": "ca (enclitic conjunction)",
+          "grammatical_form": "indeclinable conjunction",
           "meaning": "and"
         },
         {
           "word": "अभिभूय",
+          "transliteration": "abhibhūya",
+          "root": "bhū (to become, to be) with prefix abhi-",
+          "grammatical_form": "indeclinable gerund (absolutive/ktvānta)",
           "meaning": "having overcome, by overcoming, subduing (gerund of abhibhū)"
         },
         {
           "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "root": "sat (being, truth, purity)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "sattva"
         },
         {
           "word": "भवति",
+          "transliteration": "bhavati",
+          "root": "bhū (to become, to be)",
+          "grammatical_form": "verb, third person singular, present tense, active, parasmaipada",
           "meaning": "prevails, arises, comes to be dominant"
         },
         {
           "word": "भारत",
+          "transliteration": "bhārata",
+          "root": "Bharata (proper noun — ancestor of the Kuru clan)",
+          "grammatical_form": "vocative singular, masculine (patronymic epithet)",
           "meaning": "O Bhārata (Arjuna)"
         },
         {
           "word": "रजः",
+          "transliteration": "rajaḥ",
+          "root": "rañj (to colour, to be passionate)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "rajas prevails (second occurrence — rajas overcoming the other two)"
         },
         {
           "word": "सत्त्वं तमश् च एव",
+          "transliteration": "sattvaṃ tamaś ca eva",
+          "root": "sat (purity) + tam (inertia) + ca (and) + eva (emphasis)",
+          "grammatical_form": "two nouns + conjunction + emphatic particle, nominative singular, neuter",
           "meaning": "both sattva and tamas"
         },
         {
           "word": "तमः",
+          "transliteration": "tamaḥ",
+          "root": "tam (to be dark, to be inert)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "tamas prevails (third occurrence)"
         },
         {
           "word": "सत्त्वं रजः तथा",
+          "transliteration": "sattvaṃ rajaḥ tathā",
+          "root": "sat (purity) + rañj (passion) + tathā (likewise, in that way)",
+          "grammatical_form": "two nouns + adverb, nominative singular, neuter",
           "meaning": "both sattva and rajas likewise"
         }
       ],
@@ -628,46 +979,79 @@
       "word_breakdown": [
         {
           "word": "सर्व-द्वारेषु",
+          "transliteration": "sarva-dvāreṣu",
+          "root": "sarva (all) + dvāra (door, gate, opening)",
+          "grammatical_form": "tatpuruṣa compound, locative plural, neuter",
           "meaning": "through all gates (senses, mind, intellect)"
         },
         {
           "word": "देहे अस्मिन्",
+          "transliteration": "dehe asmin",
+          "root": "deha (body) + idam (this, demonstrative pronoun)",
+          "grammatical_form": "noun + demonstrative pronoun, locative singular, masculine/neuter",
           "meaning": "in this body"
         },
         {
           "word": "प्रकाशः",
+          "transliteration": "prakāśaḥ",
+          "root": "kāś (to shine, to illuminate) with prefix pra-",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "light, luminosity, radiance"
         },
         {
           "word": "उपजायते",
+          "transliteration": "upajāyate",
+          "root": "jan (to be born) with prefix upa-",
+          "grammatical_form": "verb, third person singular, present tense, passive/ātmanepada",
           "meaning": "arises, is born"
         },
         {
           "word": "ज्ञानम्",
+          "transliteration": "jñānam",
+          "root": "jñā (to know)",
+          "grammatical_form": "noun, nominative singular, neuter",
           "meaning": "knowledge, luminous awareness"
         },
         {
           "word": "यदा",
+          "transliteration": "yadā",
+          "root": "ya (relative pronoun base) — temporal adverb",
+          "grammatical_form": "indeclinable adverb (relative temporal)",
           "meaning": "when"
         },
         {
           "word": "तदा",
+          "transliteration": "tadā",
+          "root": "tad (demonstrative pronoun base) — temporal adverb",
+          "grammatical_form": "indeclinable adverb (correlative temporal)",
           "meaning": "then"
         },
         {
           "word": "विद्यात्",
+          "transliteration": "vidyāt",
+          "root": "vid (to know)",
+          "grammatical_form": "verb, third person singular, optative (potential mood), active, parasmaipada",
           "meaning": "one should know, understand"
         },
         {
           "word": "विवृद्धम्",
+          "transliteration": "vivṛddham",
+          "root": "vṛdh (to grow, to increase) with prefix vi-",
+          "grammatical_form": "past passive participle, accusative singular, neuter",
           "meaning": "increased, grown, predominant"
         },
         {
           "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "root": "sat (being, truth, purity)",
+          "grammatical_form": "noun, accusative singular, neuter",
           "meaning": "the quality of purity, clarity, goodness"
         },
         {
           "word": "इति उत",
+          "transliteration": "iti uta",
+          "root": "iti (quotative/enumerative particle) + uta (emphatic particle)",
+          "grammatical_form": "two indeclinable particles",
           "meaning": "thus it is said, verily"
         }
       ],
@@ -687,46 +1071,79 @@
       "word_breakdown": [
         {
           "word": "लोभः",
+          "transliteration": "lobhaḥ",
+          "root": "lubh (to covet, to be greedy)",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "greed, acquisitiveness, covetousness"
         },
         {
           "word": "प्रवृत्तिः",
+          "transliteration": "pravṛttiḥ",
+          "root": "vṛt (to turn, to proceed) with prefix pra-",
+          "grammatical_form": "noun, nominative singular, feminine",
           "meaning": "outward activity, impulse toward action"
         },
         {
           "word": "आरम्भः",
+          "transliteration": "ārambhaḥ",
+          "root": "rabh (to seize, to begin) with prefix ā-",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "undertaking, initiation of new projects"
         },
         {
           "word": "कर्मणाम्",
+          "transliteration": "karmaṇām",
+          "root": "kṛ (to do, to act)",
+          "grammatical_form": "noun, genitive plural, neuter",
           "meaning": "of actions, of works"
         },
         {
           "word": "अशमः",
+          "transliteration": "aśamaḥ",
+          "root": "a- (negation) + śam (to be calm, to be still)",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "restlessness, absence of stillness"
         },
         {
           "word": "स्पृहा",
+          "transliteration": "spṛhā",
+          "root": "spṛh (to desire earnestly, to long for)",
+          "grammatical_form": "noun, nominative singular, feminine",
           "meaning": "craving, longing, intense desire"
         },
         {
           "word": "रजसि",
+          "transliteration": "rajasi",
+          "root": "rañj (to colour, to be passionate)",
+          "grammatical_form": "noun, locative singular, neuter",
           "meaning": "in rajas, when the quality of passion"
         },
         {
           "word": "एतानि",
+          "transliteration": "etāni",
+          "root": "etad (demonstrative pronoun base)",
+          "grammatical_form": "demonstrative pronoun, nominative plural, neuter",
           "meaning": "these (five signs)"
         },
         {
           "word": "जायन्ते",
+          "transliteration": "jāyante",
+          "root": "jan (to be born, to arise)",
+          "grammatical_form": "verb, third person plural, present tense, passive/ātmanepada",
           "meaning": "are born, arise"
         },
         {
           "word": "विवृद्धे",
+          "transliteration": "vivṛddhe",
+          "root": "vṛdh (to grow, to increase) with prefix vi-",
+          "grammatical_form": "past passive participle, locative singular, neuter (absolute construction)",
           "meaning": "when increased, when predominant"
         },
         {
           "word": "भरतर्षभ",
+          "transliteration": "bharatarṣabha",
+          "root": "Bharata (dynasty name) + ṛṣabha (bull, best)",
+          "grammatical_form": "tatpuruṣa compound, vocative singular, masculine",
           "meaning": "O Best of the Bharatas (Arjuna)"
         }
       ],
@@ -746,46 +1163,79 @@
       "word_breakdown": [
         {
           "word": "अप्रकाशः",
+          "transliteration": "aprakāśaḥ",
+          "root": "a- (negation) + pra-kāś (to shine, to illumine)",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "absence of light, dullness, darkness of mind"
         },
         {
           "word": "अप्रवृत्तिः",
+          "transliteration": "apravṛttiḥ",
+          "root": "a- (negation) + pra-vṛt (to proceed, to be active)",
+          "grammatical_form": "noun, nominative singular, feminine",
           "meaning": "inactivity, inability to initiate"
         },
         {
           "word": "च",
+          "transliteration": "ca",
+          "root": "ca (enclitic conjunction)",
+          "grammatical_form": "indeclinable conjunction",
           "meaning": "and"
         },
         {
           "word": "प्रमादः",
+          "transliteration": "pramādaḥ",
+          "root": "mad (to be heedless, intoxicated) with prefix pra-",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "heedlessness, negligence, forgetting duty"
         },
         {
           "word": "मोहः",
+          "transliteration": "mohaḥ",
+          "root": "muh (to be confused, to be deluded)",
+          "grammatical_form": "noun, nominative singular, masculine",
           "meaning": "delusion, confusion, inability to discriminate"
         },
         {
           "word": "एव",
+          "transliteration": "eva",
+          "root": "eva (emphatic particle)",
+          "grammatical_form": "indeclinable emphatic particle",
           "meaning": "indeed, also"
         },
         {
           "word": "तमसि",
+          "transliteration": "tamasi",
+          "root": "tam (to be dark, to be inert)",
+          "grammatical_form": "noun, locative singular, neuter",
           "meaning": "in tamas, when the quality of inertia"
         },
         {
           "word": "एतानि",
+          "transliteration": "etāni",
+          "root": "etad (demonstrative pronoun base)",
+          "grammatical_form": "demonstrative pronoun, nominative plural, neuter",
           "meaning": "these (four signs)"
         },
         {
           "word": "जायन्ते",
+          "transliteration": "jāyante",
+          "root": "jan (to be born, to arise)",
+          "grammatical_form": "verb, third person plural, present tense, passive/ātmanepada",
           "meaning": "arise, are produced"
         },
         {
           "word": "विवृद्धे",
+          "transliteration": "vivṛddhe",
+          "root": "vṛdh (to grow, to increase) with prefix vi-",
+          "grammatical_form": "past passive participle, locative singular, neuter (absolute construction)",
           "meaning": "when increased, when predominant"
         },
         {
           "word": "कुरु-नन्दन",
+          "transliteration": "kuru-nandana",
+          "root": "Kuru (proper noun — dynastic name) + nand (to rejoice, to delight)",
+          "grammatical_form": "tatpuruṣa compound, vocative singular, masculine",
           "meaning": "O Joy of the Kurus (Arjuna)"
         }
       ],
@@ -805,46 +1255,79 @@
       "word_breakdown": [
         {
           "word": "यदा",
+          "transliteration": "yadā",
+          "root": "ya (relative pronoun base) — temporal adverb",
+          "grammatical_form": "indeclinable adverb (relative temporal)",
           "meaning": "when, at the time that"
         },
         {
           "word": "सत्त्वे प्रवृद्धे",
+          "transliteration": "sattve pravṛddhe",
+          "root": "sat (being, purity) + pra-vṛdh (to grow, to increase)",
+          "grammatical_form": "noun + past passive participle, locative singular, neuter (locative absolute construction)",
           "meaning": "when sattva is predominant, increased"
         },
         {
           "word": "तु",
+          "transliteration": "tu",
+          "root": "tu (contrastive/emphatic particle)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "indeed, but (mild emphasis)"
         },
         {
           "word": "प्रलयम्",
+          "transliteration": "pralayam",
+          "root": "lī (to dissolve, to merge) with prefix pra-",
+          "grammatical_form": "noun, accusative singular, masculine",
           "meaning": "dissolution, death (of the body)"
         },
         {
           "word": "याति",
+          "transliteration": "yāti",
+          "root": "yā (to go, to travel, to attain)",
+          "grammatical_form": "verb, third person singular, present tense, active, parasmaipada",
           "meaning": "goes, attains, reaches"
         },
         {
           "word": "देह-भृत्",
+          "transliteration": "deha-bhṛt",
+          "root": "deha (body) + bhṛ (to bear, to carry)",
+          "grammatical_form": "tatpuruṣa compound, nominative singular, masculine",
           "meaning": "the bearer of the body, the embodied soul"
         },
         {
           "word": "तदा",
+          "transliteration": "tadā",
+          "root": "tad (demonstrative pronoun base) — temporal adverb",
+          "grammatical_form": "indeclinable adverb (correlative temporal)",
           "meaning": "then"
         },
         {
           "word": "उत्तम-विदाम्",
+          "transliteration": "uttama-vidām",
+          "root": "ud (up) + tama (superlative) + vid (to know)",
+          "grammatical_form": "tatpuruṣa compound, genitive plural, masculine",
           "meaning": "of those who know the highest; of the most knowledgeable"
         },
         {
           "word": "लोकान्",
+          "transliteration": "lokān",
+          "root": "lok (to see, to perceive) — or primary noun",
+          "grammatical_form": "noun, accusative plural, masculine",
           "meaning": "worlds, realms, planes"
         },
         {
           "word": "अमलान्",
+          "transliteration": "amalān",
+          "root": "a- (negation) + mala (impurity, stain)",
+          "grammatical_form": "adjective, accusative plural, masculine",
           "meaning": "pure, stainless, uncontaminated"
         },
         {
           "word": "प्रतिपद्यते",
+          "transliteration": "pratipadyate",
+          "root": "pad (to go, to attain) with prefix prati-",
+          "grammatical_form": "verb, third person singular, present tense, ātmanepada",
           "meaning": "attains, reaches, is born into"
         }
       ],
@@ -864,38 +1347,65 @@
       "word_breakdown": [
         {
           "word": "रजसि",
+          "transliteration": "rajasi",
+          "root": "rajas (quality of passion, activity)",
+          "grammatical_form": "neuter noun, locative singular",
           "meaning": "in rajas, with rajas predominant"
         },
         {
           "word": "प्रलयम् गत्वा",
+          "transliteration": "pralayaṃ gatvā",
+          "root": "pra + √lī (to dissolve) + √gam (to go)",
+          "grammatical_form": "pralayam: masculine noun, accusative singular; gatvā: indeclinable gerund (absolutive)",
           "meaning": "having gone to dissolution, having died"
         },
         {
           "word": "कर्म-सङ्गिषु",
+          "transliteration": "karma-saṅgiṣu",
+          "root": "karman (action) + sañj (to cling, to be attached)",
+          "grammatical_form": "masculine noun compound, locative plural",
           "meaning": "among those attached to action, among action-bound beings"
         },
         {
           "word": "जायते",
+          "transliteration": "jāyate",
+          "root": "√jan (to be born, to originate)",
+          "grammatical_form": "verb, ātmanepada, present tense, 3rd person singular",
           "meaning": "is born"
         },
         {
           "word": "तथा",
+          "transliteration": "tathā",
+          "root": "tathā (correlative adverb of manner)",
+          "grammatical_form": "indeclinable adverb",
           "meaning": "likewise, similarly"
         },
         {
           "word": "प्रलीनः",
+          "transliteration": "pralīnaḥ",
+          "root": "pra + √lī (to melt, to dissolve)",
+          "grammatical_form": "masculine past passive participle, nominative singular",
           "meaning": "having dissolved, having died (in that state)"
         },
         {
           "word": "तमसि",
+          "transliteration": "tamasi",
+          "root": "tamas (quality of inertia, darkness, delusion)",
+          "grammatical_form": "neuter noun, locative singular",
           "meaning": "in tamas, with tamas predominant"
         },
         {
           "word": "मूढ-योनिषु",
+          "transliteration": "mūḍha-yoniṣu",
+          "root": "√muh (to be deluded) + yoni (womb, source, birth)",
+          "grammatical_form": "feminine noun compound, locative plural",
           "meaning": "in the wombs of the deluded; in births characterized by delusion"
         },
         {
           "word": "जायते",
+          "transliteration": "jāyate",
+          "root": "√jan (to be born, to originate)",
+          "grammatical_form": "verb, ātmanepada, present tense, 3rd person singular",
           "meaning": "is born"
         }
       ],
@@ -915,54 +1425,93 @@
       "word_breakdown": [
         {
           "word": "कर्मणः",
+          "transliteration": "karmaṇaḥ",
+          "root": "karman (action, deed)",
+          "grammatical_form": "neuter noun, genitive singular",
           "meaning": "of action"
         },
         {
           "word": "सुकृतस्य",
+          "transliteration": "sukṛtasya",
+          "root": "su (good, well) + √kṛ (to do, to make)",
+          "grammatical_form": "neuter adjective/noun, genitive singular",
           "meaning": "of good action, of well-done or virtuous action"
         },
         {
           "word": "आहुः",
+          "transliteration": "āhuḥ",
+          "root": "√ah (to say, to speak; defective verb)",
+          "grammatical_form": "verb, parasmaipada, perfect tense, 3rd person plural",
           "meaning": "they say, it is said (by the wise)"
         },
         {
           "word": "सात्त्विकम्",
+          "transliteration": "sāttvikaṃ",
+          "root": "sattva (purity, luminosity, goodness)",
+          "grammatical_form": "neuter adjective, accusative singular",
           "meaning": "sattvic, characterized by sattva"
         },
         {
           "word": "निर्मलम्",
+          "transliteration": "nirmalaṃ",
+          "root": "nis (without) + mala (impurity, dirt)",
+          "grammatical_form": "neuter adjective, accusative singular",
           "meaning": "pure, stainless, free from impurity"
         },
         {
           "word": "फलम्",
+          "transliteration": "phalaṃ",
+          "root": "phala (fruit, result, reward)",
+          "grammatical_form": "neuter noun, accusative singular",
           "meaning": "fruit, result, consequence"
         },
         {
           "word": "रजसः",
+          "transliteration": "rajasaḥ",
+          "root": "rajas (quality of passion, activity)",
+          "grammatical_form": "neuter noun, genitive singular",
           "meaning": "of rajas, of rajasic action"
         },
         {
           "word": "तु",
+          "transliteration": "tu",
+          "root": "tu (adversative particle)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "but, whereas"
         },
         {
           "word": "फलम्",
+          "transliteration": "phalaṃ",
+          "root": "phala (fruit, result, reward)",
+          "grammatical_form": "neuter noun, nominative singular",
           "meaning": "fruit, result"
         },
         {
           "word": "दुःखम्",
+          "transliteration": "duḥkhaṃ",
+          "root": "dus (bad, difficult) + kha (space, axle-hole; well-being)",
+          "grammatical_form": "neuter noun, nominative singular",
           "meaning": "pain, sorrow, suffering"
         },
         {
           "word": "अज्ञानम्",
+          "transliteration": "ajñānaṃ",
+          "root": "a (not) + √jñā (to know)",
+          "grammatical_form": "neuter noun, nominative singular",
           "meaning": "ignorance, non-knowledge"
         },
         {
           "word": "तमसः",
+          "transliteration": "tamasaḥ",
+          "root": "tamas (quality of inertia, darkness, delusion)",
+          "grammatical_form": "neuter noun, genitive singular",
           "meaning": "of tamas, of tamasic action"
         },
         {
           "word": "फलम्",
+          "transliteration": "phalaṃ",
+          "root": "phala (fruit, result, reward)",
+          "grammatical_form": "neuter noun, nominative singular",
           "meaning": "fruit, result"
         }
       ],
@@ -982,46 +1531,79 @@
       "word_breakdown": [
         {
           "word": "सत्त्वात्",
+          "transliteration": "sattvāt",
+          "root": "sattva (being, purity, luminosity)",
+          "grammatical_form": "neuter noun, ablative singular",
           "meaning": "from sattva, out of the quality of purity"
         },
         {
           "word": "सञ्जायते",
+          "transliteration": "sañjāyate",
+          "root": "sam + √jan (to be born, to arise thoroughly)",
+          "grammatical_form": "verb, ātmanepada, present tense, 3rd person singular",
           "meaning": "is born, arises, springs forth"
         },
         {
           "word": "ज्ञानम्",
+          "transliteration": "jñānaṃ",
+          "root": "√jñā (to know, to discern)",
+          "grammatical_form": "neuter noun, nominative singular",
           "meaning": "knowledge, true discriminative wisdom"
         },
         {
           "word": "रजसः",
+          "transliteration": "rajasaḥ",
+          "root": "rajas (quality of passion, activity)",
+          "grammatical_form": "neuter noun, ablative singular",
           "meaning": "from rajas, out of the quality of passion"
         },
         {
           "word": "लोभः",
+          "transliteration": "lobhaḥ",
+          "root": "√lubh (to covet, to be greedy)",
+          "grammatical_form": "masculine noun, nominative singular",
           "meaning": "greed, acquisitiveness"
         },
         {
           "word": "एव च",
+          "transliteration": "eva ca",
+          "root": "eva (emphatic particle) + ca (and, also)",
+          "grammatical_form": "indeclinable particles",
           "meaning": "alone, indeed, and verily"
         },
         {
           "word": "प्रमाद-मोहौ",
+          "transliteration": "pramāda-mohau",
+          "root": "pra + √mad (to be careless) + √muh (to be deluded)",
+          "grammatical_form": "masculine noun compound, nominative dual",
           "meaning": "heedlessness and delusion (dual form)"
         },
         {
           "word": "तमसः",
+          "transliteration": "tamasaḥ",
+          "root": "tamas (quality of inertia, darkness, delusion)",
+          "grammatical_form": "neuter noun, ablative singular",
           "meaning": "from tamas, out of the quality of inertia"
         },
         {
           "word": "भवतः",
+          "transliteration": "bhavataḥ",
+          "root": "√bhū (to be, to become, to arise)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person dual",
           "meaning": "arise, come into being (dual verb)"
         },
         {
           "word": "अज्ञानम्",
+          "transliteration": "ajñānaṃ",
+          "root": "a (not) + √jñā (to know)",
+          "grammatical_form": "neuter noun, nominative singular",
           "meaning": "ignorance, non-knowledge"
         },
         {
           "word": "एव च",
+          "transliteration": "eva ca",
+          "root": "eva (emphatic particle) + ca (and, also)",
+          "grammatical_form": "indeclinable particles",
           "meaning": "and also, indeed"
         }
       ],
@@ -1041,42 +1623,72 @@
       "word_breakdown": [
         {
           "word": "ऊर्ध्वम्",
+          "transliteration": "ūrdhvaṃ",
+          "root": "ūrdhva (upward, high; from √vṛdh, to rise)",
+          "grammatical_form": "indeclinable adverb (or neuter adjective used adverbially)",
           "meaning": "upward, to higher realms"
         },
         {
           "word": "गच्छन्ति",
+          "transliteration": "gacchanti",
+          "root": "√gam (to go, to proceed, to attain)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person plural",
           "meaning": "go, proceed, attain"
         },
         {
           "word": "सत्त्व-स्थाः",
+          "transliteration": "sattva-sthāḥ",
+          "root": "sattva (purity) + √sthā (to stand, to abide)",
+          "grammatical_form": "masculine adjective compound, nominative plural",
           "meaning": "those established in sattva, the sattvic ones"
         },
         {
           "word": "मध्ये",
+          "transliteration": "madhye",
+          "root": "madhya (middle, center)",
+          "grammatical_form": "neuter noun, locative singular",
           "meaning": "in the middle, in the intermediate realm"
         },
         {
           "word": "तिष्ठन्ति",
+          "transliteration": "tiṣṭhanti",
+          "root": "√sthā (to stand, to remain, to dwell)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person plural",
           "meaning": "remain, dwell, stay"
         },
         {
           "word": "राजसाः",
+          "transliteration": "rājasāḥ",
+          "root": "rajas (quality of passion, activity)",
+          "grammatical_form": "masculine adjective/noun, nominative plural",
           "meaning": "the rajasic ones, those of passionate nature"
         },
         {
           "word": "जघन्य-गुण-वृत्ति-स्थाः",
+          "transliteration": "jaghanya-guṇa-vṛtti-sthāḥ",
+          "root": "jaghanya (lowest, vilest) + guṇa (quality) + vṛtti (mode, tendency; √vṛt, to move) + √sthā (to stand)",
+          "grammatical_form": "masculine adjective compound, nominative plural",
           "meaning": "established in the lowest/most base quality-tendencies"
         },
         {
           "word": "अधः",
+          "transliteration": "adhaḥ",
+          "root": "adhas (below, downward)",
+          "grammatical_form": "indeclinable adverb",
           "meaning": "downward, to lower realms"
         },
         {
           "word": "गच्छन्ति",
+          "transliteration": "gacchanti",
+          "root": "√gam (to go, to descend)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person plural",
           "meaning": "go, descend"
         },
         {
           "word": "तामसाः",
+          "transliteration": "tāmasāḥ",
+          "root": "tamas (quality of inertia, darkness, delusion)",
+          "grammatical_form": "masculine adjective/noun, nominative plural",
           "meaning": "the tamasic ones, those of deluded nature"
         }
       ],
@@ -1096,46 +1708,79 @@
       "word_breakdown": [
         {
           "word": "न अन्यम्",
+          "transliteration": "na anyaṃ",
+          "root": "na (negation particle) + anya (other, different)",
+          "grammatical_form": "na: indeclinable; anyam: masculine pronoun, accusative singular",
           "meaning": "no other, none apart from"
         },
         {
           "word": "गुणेभ्यः",
+          "transliteration": "guṇebhyaḥ",
+          "root": "guṇa (strand, quality, attribute of Prakṛti)",
+          "grammatical_form": "masculine noun, ablative plural",
           "meaning": "than the guṇas, other than the three qualities"
         },
         {
           "word": "कर्तारम्",
+          "transliteration": "kartāraṃ",
+          "root": "√kṛ (to do, to act, to make)",
+          "grammatical_form": "masculine agent noun (kṛt), accusative singular",
           "meaning": "agent, doer, actor"
         },
         {
           "word": "यदा",
+          "transliteration": "yadā",
+          "root": "yad (relative/temporal correlative)",
+          "grammatical_form": "indeclinable temporal adverb",
           "meaning": "when"
         },
         {
           "word": "द्रष्टा",
+          "transliteration": "draṣṭā",
+          "root": "√dṛś (to see, to witness, to perceive)",
+          "grammatical_form": "masculine agent noun (kṛt), nominative singular",
           "meaning": "the seer, the witnessing consciousness"
         },
         {
           "word": "अनुपश्यति",
+          "transliteration": "anupaśyati",
+          "root": "anu + √paś/dṛś (to see clearly, to perceive throughout)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person singular",
           "meaning": "perceives, sees clearly, discerns"
         },
         {
           "word": "गुणेभ्यः च परम्",
+          "transliteration": "guṇebhyaḥ ca paraṃ",
+          "root": "guṇa (quality) + ca (and) + para (beyond, transcendent)",
+          "grammatical_form": "guṇebhyaḥ: ablative plural; ca: indeclinable; param: neuter adjective, accusative singular",
           "meaning": "and that which is beyond the guṇas, transcending the guṇas"
         },
         {
           "word": "वेत्ति",
+          "transliteration": "vetti",
+          "root": "√vid (to know, to recognize)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person singular",
           "meaning": "knows, recognizes, realizes"
         },
         {
           "word": "मद्-भावम्",
+          "transliteration": "mad-bhāvaṃ",
+          "root": "mad (my/mine, first person stem) + √bhū (to be, to become; bhāva = state of being)",
+          "grammatical_form": "masculine noun compound, accusative singular",
           "meaning": "My nature, My being (Kṛṣṇa's divine nature)"
         },
         {
           "word": "सः",
+          "transliteration": "saḥ",
+          "root": "tad (demonstrative pronoun, he/she/it)",
+          "grammatical_form": "masculine pronoun, nominative singular",
           "meaning": "he, that one"
         },
         {
           "word": "अधिगच्छति",
+          "transliteration": "adhigacchati",
+          "root": "adhi + √gam (to go toward, to fully attain)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person singular",
           "meaning": "attains, fully reaches, realizes"
         }
       ],
@@ -1155,38 +1800,65 @@
       "word_breakdown": [
         {
           "word": "गुणान् एतान्",
+          "transliteration": "guṇān etān",
+          "root": "guṇa (strand, quality) + etad (this, these)",
+          "grammatical_form": "guṇān: masculine noun, accusative plural; etān: masculine demonstrative pronoun, accusative plural",
           "meaning": "these guṇas, these three qualities"
         },
         {
           "word": "अतीत्य",
+          "transliteration": "atītya",
+          "root": "ati + √i (to go beyond, to transcend completely)",
+          "grammatical_form": "indeclinable gerund (absolutive/ktvā form)",
           "meaning": "having transcended, having crossed beyond"
         },
         {
           "word": "त्रीन्",
+          "transliteration": "trīn",
+          "root": "tri (three; numeral)",
+          "grammatical_form": "masculine numeral, accusative plural",
           "meaning": "three (sattva, rajas, tamas)"
         },
         {
           "word": "देही",
+          "transliteration": "dehī",
+          "root": "deha (body; from √dih, to smear, to build up) + ī (possessive suffix)",
+          "grammatical_form": "masculine noun, nominative singular",
           "meaning": "the embodied one, the soul within a body"
         },
         {
           "word": "देह-समुद्भवान्",
+          "transliteration": "deha-samudbhavān",
+          "root": "deha (body) + sam + ud + √bhū (to arise fully, to originate)",
+          "grammatical_form": "masculine adjective compound, accusative plural (qualifying guṇān)",
           "meaning": "which have given rise to the body; the cause of embodiment"
         },
         {
           "word": "जन्म-मृत्यु-जरा-दुःखैः",
+          "transliteration": "janma-mṛtyu-jarā-duḥkhaiḥ",
+          "root": "√jan (birth) + √mṛ (death) + jarā (old age) + dus+kha (suffering)",
+          "grammatical_form": "neuter/feminine noun compound, instrumental plural",
           "meaning": "from birth, death, old age, and pain (instrumental plural)"
         },
         {
           "word": "विमुक्तः",
+          "transliteration": "vimuktaḥ",
+          "root": "vi + √muc (to release, to liberate)",
+          "grammatical_form": "masculine past passive participle, nominative singular",
           "meaning": "freed, liberated, released"
         },
         {
           "word": "अमृतम्",
+          "transliteration": "amṛtaṃ",
+          "root": "a (not) + √mṛ (to die; mṛta = dead)",
+          "grammatical_form": "neuter noun/adjective, accusative singular",
           "meaning": "immortality, the nectar of deathlessness"
         },
         {
           "word": "अश्नुते",
+          "transliteration": "aśnute",
+          "root": "√aś (to pervade, to attain, to enjoy)",
+          "grammatical_form": "verb, ātmanepada, present tense, 3rd person singular",
           "meaning": "tastes, enjoys, attains, experiences"
         }
       ],
@@ -1206,54 +1878,93 @@
       "word_breakdown": [
         {
           "word": "कैः",
+          "transliteration": "kaiḥ",
+          "root": "kim (interrogative pronoun: what, which)",
+          "grammatical_form": "masculine/neuter interrogative pronoun, instrumental plural",
           "meaning": "by what; interrogative — 'by which'"
         },
         {
           "word": "लिङ्गैः",
+          "transliteration": "liṅgaiḥ",
+          "root": "liṅga (mark, sign, characteristic; from √lag, to attach)",
+          "grammatical_form": "neuter noun, instrumental plural",
           "meaning": "marks, signs, characteristics; outward indicators of inner state"
         },
         {
           "word": "त्रीन्",
+          "transliteration": "trīn",
+          "root": "tri (three; numeral)",
+          "grammatical_form": "masculine numeral, accusative plural",
           "meaning": "three (accusative); referring to the three guṇas: sattva, rajas, tamas"
         },
         {
           "word": "गुणान्",
+          "transliteration": "guṇān",
+          "root": "guṇa (strand, quality, attribute of Prakṛti)",
+          "grammatical_form": "masculine noun, accusative plural",
           "meaning": "the guṇas; the three fundamental qualities of nature (Prakṛti)"
         },
         {
           "word": "एतान्",
+          "transliteration": "etān",
+          "root": "etad (this, these; proximate demonstrative pronoun)",
+          "grammatical_form": "masculine demonstrative pronoun, accusative plural",
           "meaning": "these (accusative plural); referring to the guṇas just described in verses 1–20"
         },
         {
           "word": "अतीतः",
+          "transliteration": "atītaḥ",
+          "root": "ati + √i (to go beyond, to transcend)",
+          "grammatical_form": "masculine past active participle, nominative singular",
           "meaning": "one who has transcended, gone beyond; past participle of ati + √i (to go)"
         },
         {
           "word": "भवति",
+          "transliteration": "bhavati",
+          "root": "√bhū (to be, to become)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person singular",
           "meaning": "becomes, is; 3rd person singular present"
         },
         {
           "word": "प्रभो",
+          "transliteration": "prabho",
+          "root": "pra + √bhā (to shine forth; prabhu = lord, master)",
+          "grammatical_form": "masculine noun, vocative singular",
           "meaning": "O Lord! vocative of prabhu — master, lord; a term of reverent address to Krishna"
         },
         {
           "word": "किम्",
+          "transliteration": "kiṃ",
+          "root": "kim (interrogative pronoun: what)",
+          "grammatical_form": "neuter interrogative pronoun, nominative singular",
           "meaning": "what; interrogative pronoun — here asking about conduct"
         },
         {
           "word": "आचारः",
+          "transliteration": "ācāraḥ",
+          "root": "ā + √car (to move, to behave, to practice)",
+          "grammatical_form": "masculine noun, nominative singular",
           "meaning": "conduct, behavior, way of living; from ā + √car (to move, to act)"
         },
         {
           "word": "कथम्",
+          "transliteration": "kathaṃ",
+          "root": "katham (interrogative adverb of manner: how)",
+          "grammatical_form": "indeclinable interrogative adverb",
           "meaning": "how; interrogative adverb — asking about the means or method"
         },
         {
           "word": "च",
+          "transliteration": "ca",
+          "root": "ca (copulative/conjunctive particle: and)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "and; conjunctive particle linking the two further questions"
         },
         {
           "word": "अतिवर्तते",
+          "transliteration": "ativartate",
+          "root": "ati + √vṛt (to go beyond, to transcend completely)",
+          "grammatical_form": "verb, ātmanepada, present tense, 3rd person singular",
           "meaning": "transcends, goes completely beyond; ati + √vṛt — the means of transcendence"
         }
       ],
@@ -1273,42 +1984,72 @@
       "word_breakdown": [
         {
           "word": "प्रकाशम्",
+          "transliteration": "prakāśaṃ",
+          "root": "pra + √kāś (to shine, to illuminate)",
+          "grammatical_form": "masculine noun, accusative singular",
           "meaning": "light, luminosity, illumination; the manifestation of sattva — knowledge and clarity"
         },
         {
           "word": "प्रवृत्तिम्",
+          "transliteration": "pravṛttiṃ",
+          "root": "pra + √vṛt (to proceed, to engage in activity)",
+          "grammatical_form": "feminine noun, accusative singular",
           "meaning": "activity, impulse to act, engagement; the expression of rajas"
         },
         {
           "word": "मोहम्",
+          "transliteration": "mohaṃ",
+          "root": "√muh (to be deluded, to be confused)",
+          "grammatical_form": "masculine noun, accusative singular",
           "meaning": "delusion, confusion, inertia; the expression of tamas — clouding of discrimination"
         },
         {
           "word": "एव",
+          "transliteration": "eva",
+          "root": "eva (emphatic/restrictive particle: indeed, even, only)",
+          "grammatical_form": "indeclinable emphatic particle",
           "meaning": "indeed, even; an emphatic particle — stressing that even delusion is included"
         },
         {
           "word": "च",
+          "transliteration": "ca",
+          "root": "ca (copulative particle: and, also)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "and; conjunctive particle (used thrice: prakāśam ca … pravṛttim ca … moham eva ca)"
         },
         {
           "word": "पाण्डव",
+          "transliteration": "pāṇḍava",
+          "root": "Pāṇḍu (proper name, father of the Pāṇḍavas) + a (patronymic suffix)",
+          "grammatical_form": "masculine proper noun, vocative singular",
           "meaning": "O son of Pāṇḍu; a vocative address to Arjuna, personalizing the teaching"
         },
         {
           "word": "न द्वेष्टि",
+          "transliteration": "na dveṣṭi",
+          "root": "na (negation) + √dviṣ (to hate, to be averse to)",
+          "grammatical_form": "na: indeclinable; dveṣṭi: verb, parasmaipada, present tense, 3rd person singular",
           "meaning": "does not hate, does not recoil from; na + dviṣ (to hate, to be averse to)"
         },
         {
           "word": "सम्प्रवृत्तानि",
+          "transliteration": "sampravṛttāni",
+          "root": "sam + pra + √vṛt (to be fully set in motion, to manifest completely)",
+          "grammatical_form": "neuter past passive participle, nominative plural",
           "meaning": "when fully arisen, when present; sam + pra + vṛt — when these guṇas manifest in full force"
         },
         {
           "word": "न … काङ्क्षति",
+          "transliteration": "na … kāṅkṣati",
+          "root": "na (negation) + √kāṅkṣ (to desire, to long for)",
+          "grammatical_form": "na: indeclinable; kāṅkṣati: verb, parasmaipada, present tense, 3rd person singular",
           "meaning": "does not crave, does not long for; na + kāṅkṣ (to desire, to wish for)"
         },
         {
           "word": "निवृत्तानि",
+          "transliteration": "nivṛttāni",
+          "root": "ni + √vṛt (to turn back, to cease, to withdraw)",
+          "grammatical_form": "neuter past passive participle, nominative plural",
           "meaning": "when they have ceased, when they are absent; ni + vṛt — the withdrawal or disappearance of the guṇas"
         }
       ],
@@ -1328,42 +2069,72 @@
       "word_breakdown": [
         {
           "word": "उदासीनवत्",
+          "transliteration": "udāsīnavat",
+          "root": "ud + ā + √as (to sit; udāsīna = one who sits apart, an uninvolved witness)",
+          "grammatical_form": "indeclinable comparative adverb (vat suffix = like, as)",
           "meaning": "like one who is uninvolved, as if indifferent; ud + āsīna — a crucial qualifier: 'like' an indifferent witness, not actually detached from compassion"
         },
         {
           "word": "आसीनः",
+          "transliteration": "āsīnaḥ",
+          "root": "ā + √as (to sit, to be seated, to abide)",
+          "grammatical_form": "masculine present participle (passive/middle), nominative singular",
           "meaning": "seated, abiding, resting; present participle of ā + √as (to sit, to be) — suggesting a stable, grounded state"
         },
         {
           "word": "गुणैः",
+          "transliteration": "guṇaiḥ",
+          "root": "guṇa (strand, quality, attribute of Prakṛti)",
+          "grammatical_form": "masculine noun, instrumental plural",
           "meaning": "by the guṇas; instrumental case — the guṇas as agents that attempt to move one"
         },
         {
           "word": "यः",
+          "transliteration": "yaḥ",
+          "root": "yad (relative pronoun: who, which)",
+          "grammatical_form": "masculine relative pronoun, nominative singular",
           "meaning": "who; relative pronoun — the one being described"
         },
         {
           "word": "न विचाल्यते",
+          "transliteration": "na vicālyate",
+          "root": "na (negation) + vi + √cal (to be moved, to be agitated)",
+          "grammatical_form": "na: indeclinable; vicālyate: verb, passive voice, present tense, 3rd person singular",
           "meaning": "is not disturbed, is not moved; na + vi + √cal — not agitated or shaken from one's center"
         },
         {
           "word": "गुणाः वर्तन्ते",
+          "transliteration": "guṇāḥ vartante",
+          "root": "guṇa (quality) + √vṛt (to move, to act, to function)",
+          "grammatical_form": "guṇāḥ: masculine noun, nominative plural; vartante: verb, ātmanepada, present tense, 3rd person plural",
           "meaning": "the guṇas are moving, the guṇas are acting; the liberating cognitive shift — 'not I, but the guṇas'"
         },
         {
           "word": "इति",
+          "transliteration": "iti",
+          "root": "iti (particle of quotation and conclusion: thus, so)",
+          "grammatical_form": "indeclinable quotation marker",
           "meaning": "thus, so; marks a quoted thought — the specific inner knowing of the guṇātīta"
         },
         {
           "word": "एवम्",
+          "transliteration": "evaṃ",
+          "root": "evam (demonstrative manner adverb: thus, in this way)",
+          "grammatical_form": "indeclinable adverb",
           "meaning": "thus, in this way; emphasizing the particular understanding 'the guṇas move, not I'"
         },
         {
           "word": "अवतिष्ठति",
+          "transliteration": "avatiṣṭhati",
+          "root": "ava + √sthā (to stand firm, to remain established)",
+          "grammatical_form": "verb, parasmaipada, present tense, 3rd person singular",
           "meaning": "remains established, stands firm; ava + √sthā — to be firmly grounded in one's nature"
         },
         {
           "word": "न इङ्गते",
+          "transliteration": "na iṅgate",
+          "root": "na (negation) + √iṅg (to stir, to move slightly)",
+          "grammatical_form": "na: indeclinable; iṅgate: verb, ātmanepada, present tense, 3rd person singular",
           "meaning": "does not move, is not stirred; na + iṅg (to stir, to be moved) — emphasizing motionlessness of the Self"
         }
       ],
@@ -1383,38 +2154,65 @@
       "word_breakdown": [
         {
           "word": "सम-दुःख-सुखः",
+          "transliteration": "sama-duḥkha-sukhaḥ",
+          "root": "sama (equal, even) + dus+kha (suffering) + su+kha (joy, ease)",
+          "grammatical_form": "masculine bahuvrīhi compound, nominative singular",
           "meaning": "one for whom pain and pleasure are equal; sama = equal, duḥkha = suffering, sukha = joy — the foundational equanimity"
         },
         {
           "word": "स्व-स्थः",
+          "transliteration": "sva-sthaḥ",
+          "root": "sva (own, self) + √sthā (to stand, to abide)",
+          "grammatical_form": "masculine bahuvrīhi compound, nominative singular",
           "meaning": "self-abiding, established in oneself; sva = one's own, stha = standing — literally 'standing in the Self,' not in externals"
         },
         {
           "word": "सम-लोष्ट",
+          "transliteration": "sama-loṣṭa",
+          "root": "sama (equal) + loṣṭa (clod of earth, lump of clay)",
+          "grammatical_form": "masculine adjective, first member of compound (with aśma-kāñcanaḥ), nominative singular (bahuvrīhi)",
           "meaning": "treating a clod of earth as equal; loṣṭa = a lump of dirt or clay — the lowest material value"
         },
         {
           "word": "अश्म",
+          "transliteration": "aśma",
+          "root": "aśman (stone, rock)",
+          "grammatical_form": "masculine noun, prior member of compound (aśma-kāñcanaḥ)",
           "meaning": "a stone, a rock; middle value in the triplet — between worthless clay and precious gold"
         },
         {
           "word": "काञ्चनः",
+          "transliteration": "kāñcanaḥ",
+          "root": "kāñcana (gold; perhaps from √kañc, to shine brightly)",
+          "grammatical_form": "neuter noun used as final member of bahuvrīhi compound, nominative singular (compound ends masculine to agree with subject)",
           "meaning": "gold; the highest material value — yet equated with dust by the guṇātīta"
         },
         {
           "word": "तुल्य-प्रियाप्रियः",
+          "transliteration": "tulya-priyāpriyaḥ",
+          "root": "tulā (balance, scale; equality) + priya (dear, pleasant) + a+priya (unpleasant, disagreeable)",
+          "grammatical_form": "masculine bahuvrīhi compound, nominative singular",
           "meaning": "equal toward the pleasant and the unpleasant; tulya = equivalent, priya = dear/pleasant, apriya = disagreeable/unpleasant"
         },
         {
           "word": "धीरः",
+          "transliteration": "dhīraḥ",
+          "root": "dhī (intelligence, wisdom, insight) + ra (possessive suffix)",
+          "grammatical_form": "masculine adjective/noun, nominative singular",
           "meaning": "the steady one, the wise one; from dhī (intelligence, wisdom) — one of resolute spiritual intelligence; also resonates with dhīra-lalita"
         },
         {
           "word": "तुल्य-निन्दा",
+          "transliteration": "tulya-nindā",
+          "root": "tulya (equal, equivalent) + √nind (to blame, to censure; nindā = blame, reproach)",
+          "grammatical_form": "feminine noun, first member of compound with ātma-saṃstutiḥ",
           "meaning": "equal in the face of blame, criticism; nindā = reproach, censure — not affected by censure of any kind"
         },
         {
           "word": "आत्म-संस्तुतिः",
+          "transliteration": "ātma-saṃstutiḥ",
+          "root": "ātman (self, soul) + sam + √stu (to praise, to extol)",
+          "grammatical_form": "feminine noun compound, nominative singular (ending bahuvrīhi with tulya-nindā: 'one for whom blame and praise of self are equal')",
           "meaning": "praise directed at oneself; sam + stu = to praise fully, extol; the sage is equally unmoved by flattery or condemnation"
         }
       ],
@@ -1434,42 +2232,72 @@
       "word_breakdown": [
         {
           "word": "मान",
+          "transliteration": "māna",
+          "root": "√man (to think, to regard; māna = honor, respect derived from how one is regarded)",
+          "grammatical_form": "masculine noun, prior member of dvandva compound (māna-apamānayoḥ)",
           "meaning": "honor, respect, esteem; the pleasant face of social regard — what the ego loves to receive"
         },
         {
           "word": "अपमानयोः",
+          "transliteration": "apamānayoḥ",
+          "root": "apa (away, diminishing) + √man (to think; apamāna = dis-honor, disrespect)",
+          "grammatical_form": "masculine noun, genitive dual (completing the dvandva compound with māna)",
           "meaning": "in dishonor, in disrespect; apa + māna — the reversal of esteem; genitive dual with māna"
         },
         {
           "word": "तुल्यः",
+          "transliteration": "tulyaḥ",
+          "root": "tulā (balance scale; equality, equivalence)",
+          "grammatical_form": "masculine adjective, nominative singular",
           "meaning": "equal, the same; tulā = balance scale — he holds honor and dishonor on perfectly balanced scales"
         },
         {
           "word": "मित्र",
+          "transliteration": "mitra",
+          "root": "mitra (friend, ally; perhaps from √mid, to be unctuous, to befriend)",
+          "grammatical_form": "masculine/neuter noun, prior member of dvandva compound (mitra-ari-pakṣayoḥ)",
           "meaning": "friend, ally; one who is disposed favorably toward the sage"
         },
         {
           "word": "अरि",
+          "transliteration": "ari",
+          "root": "ari (enemy, foe; from √ṛ, to go against)",
+          "grammatical_form": "masculine noun, medial member of compound",
           "meaning": "enemy, opponent; ari = one who acts against — yet the sage is equal to both"
         },
         {
           "word": "पक्षयोः",
+          "transliteration": "pakṣayoḥ",
+          "root": "pakṣa (side, flank, faction; from √pakṣ, to take sides)",
+          "grammatical_form": "masculine noun, genitive dual",
           "meaning": "in the two sides, toward both parties; pakṣa = side, faction — the two camps are equal to the guṇātīta"
         },
         {
           "word": "सर्व-आरम्भ",
+          "transliteration": "sarva-ārambha",
+          "root": "sarva (all, every) + ā + √rabh (to undertake, to begin; ārambha = beginning, initiation)",
+          "grammatical_form": "masculine noun compound, prior member of tatpuruṣa with parityāgī",
           "meaning": "all beginnings, all undertakings, all self-initiated projects; ā + √rambh = to undertake, to start"
         },
         {
           "word": "परित्यागी",
+          "transliteration": "parityāgī",
+          "root": "pari + √tyaj (to abandon, to relinquish completely; parityāga = complete renunciation)",
+          "grammatical_form": "masculine agent noun (ṇini suffix), nominative singular",
           "meaning": "one who has renounced, abandoned; pari + √tyaj — not that he does nothing, but he has no personal agenda driving his actions"
         },
         {
           "word": "गुणातीतः",
+          "transliteration": "guṇātītaḥ",
+          "root": "guṇa (quality, strand of Prakṛti) + ati + √i (to go beyond; atīta = transcended)",
+          "grammatical_form": "masculine bahuvrīhi/tatpuruṣa compound, nominative singular",
           "meaning": "one who has transcended the guṇas; the formal compound: guṇa + atīta (past participle of ati + √i, to go beyond)"
         },
         {
           "word": "सः उच्यते",
+          "transliteration": "saḥ ucyate",
+          "root": "tad (demonstrative pronoun) + √vac (to speak; ucyate = is said, is called, passive form)",
+          "grammatical_form": "saḥ: masculine pronoun, nominative singular; ucyate: verb, passive voice, present tense, 3rd person singular",
           "meaning": "he is said to be, he is called; ucyate = passive of √vac — this is the formal śāstric definition"
         }
       ],
@@ -1489,50 +2317,86 @@
       "word_breakdown": [
         {
           "word": "माम्",
+          "transliteration": "māṃ",
+          "root": "mad / asmad (first person pronoun: I, me)",
+          "grammatical_form": "first person pronoun, accusative singular",
           "meaning": "Me (accusative); Krishna speaking — the personal God as the direct object of bhakti"
         },
         {
           "word": "च",
+          "transliteration": "ca",
+          "root": "ca (copulative/conjunctive particle: and, also)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "and; connecting this verse to the marks described in v22-25 — here comes the answer to 'how?'"
         },
         {
           "word": "यः",
+          "transliteration": "yaḥ",
+          "root": "yad (relative pronoun: who, which)",
+          "grammatical_form": "masculine relative pronoun, nominative singular",
           "meaning": "who; relative pronoun introducing the one who practices avyabhicāra bhakti"
         },
         {
           "word": "अव्यभिचारेण",
+          "transliteration": "avyabhicāreṇa",
+          "root": "a (not) + vi + abhi + √car (to stray, to deviate; vyabhicāra = deviation, infidelity)",
+          "grammatical_form": "masculine noun (with negating prefix), instrumental singular",
           "meaning": "without deviation, without wavering, exclusively; a + vi + abhi + √car — not straying to any other support or object; the same as ananya bhakti"
         },
         {
           "word": "भक्ति-योगेन",
+          "transliteration": "bhakti-yogena",
+          "root": "√bhaj (to share in, to be devoted to; bhakti = devotion) + √yuj (to yoke, to unite; yoga = discipline, union)",
+          "grammatical_form": "masculine noun compound, instrumental singular",
           "meaning": "by the yoga of devotion; the instrumental case — bhakti (loving devotion) as the direct means of transcendence"
         },
         {
           "word": "सेवते",
+          "transliteration": "sevate",
+          "root": "√sev (to serve, to worship, to be devoted to)",
+          "grammatical_form": "verb, ātmanepada, present tense, 3rd person singular",
           "meaning": "serves, worships, attends; √sev — to serve with love, to be devoted to; implies both inner worship and outer service"
         },
         {
           "word": "सः",
+          "transliteration": "saḥ",
+          "root": "tad (demonstrative pronoun: he, she, it)",
+          "grammatical_form": "masculine demonstrative pronoun, nominative singular",
           "meaning": "he; the subject — the avyabhicāra-bhakta"
         },
         {
           "word": "गुणान्",
+          "transliteration": "guṇān",
+          "root": "guṇa (strand, quality, attribute of Prakṛti)",
+          "grammatical_form": "masculine noun, accusative plural",
           "meaning": "the guṇas; accusative plural — what is transcended"
         },
         {
           "word": "समतीत्य",
+          "transliteration": "samatītya",
+          "root": "sam + ati + √i (to go completely beyond, to fully transcend)",
+          "grammatical_form": "indeclinable gerund (absolutive/ktvā form with prefix saṃ)",
           "meaning": "having completely transcended; sam + ati + √i — an absolutive (gerund) indicating prior completion before becoming Brahman"
         },
         {
           "word": "एतान्",
+          "transliteration": "etān",
+          "root": "etad (this, these; proximate demonstrative pronoun)",
+          "grammatical_form": "masculine demonstrative pronoun, accusative plural",
           "meaning": "these; referring to the specific three guṇas of this chapter"
         },
         {
           "word": "ब्रह्म-भूयाय",
+          "transliteration": "brahma-bhūyāya",
+          "root": "brahman (the Absolute) + √bhū (to become, to be; bhūya = becoming, being)",
+          "grammatical_form": "neuter noun compound, dative singular (expressing purpose: 'for the becoming of Brahman')",
           "meaning": "for becoming Brahman, to attain Brahman-state; brahma + bhūya (becoming) + dative suffix — qualified for the state of being Brahman"
         },
         {
           "word": "कल्पते",
+          "transliteration": "kalpate",
+          "root": "√kḷp (to be fit for, to be capable of, to be competent)",
+          "grammatical_form": "verb, ātmanepada, present tense, 3rd person singular",
           "meaning": "is fit for, becomes qualified for; √kḷp — to be capable of, to be suited for; a strong positive assertion of the bhakta's qualification"
         }
       ],
@@ -1552,46 +2416,79 @@
       "word_breakdown": [
         {
           "word": "ब्रह्मणः",
+          "transliteration": "brahmaṇaḥ",
+          "root": "brahman (the Absolute, the impersonal ground of all being; from √bṛh, to expand)",
+          "grammatical_form": "neuter noun, genitive singular",
           "meaning": "of Brahman; genitive — 'of Brahman's.' Brahman here is the impersonal Absolute, the ultimate substratum of all existence"
         },
         {
           "word": "हि",
+          "transliteration": "hi",
+          "root": "hi (emphatic and causal particle: indeed, for, certainly)",
+          "grammatical_form": "indeclinable emphatic-causal particle",
           "meaning": "indeed, for, certainly; an emphatic and causal particle — 'for indeed I am…' — giving the ultimate reason for all that preceded"
         },
         {
           "word": "प्रतिष्ठा",
+          "transliteration": "pratiṣṭhā",
+          "root": "prati + √sthā (to stand firmly upon; pratiṣṭhā = foundation, support, ground)",
+          "grammatical_form": "feminine noun, nominative singular",
           "meaning": "the foundation, the ground, the support; prati + √sthā — the base upon which something rests; the most foundational support"
         },
         {
           "word": "अहम्",
+          "transliteration": "ahaṃ",
+          "root": "asmad (first person pronoun: I)",
+          "grammatical_form": "first person pronoun, nominative singular",
           "meaning": "I; Krishna — the personal God declaring Himself as the ground of the impersonal Absolute; the most profound statement of the verse"
         },
         {
           "word": "अमृतस्य",
+          "transliteration": "amṛtasya",
+          "root": "a (not) + √mṛ (to die; mṛta = dead; amṛta = immortal, deathless)",
+          "grammatical_form": "neuter adjective/noun, genitive singular",
           "meaning": "of the immortal; amṛta = a (not) + mṛta (death) — the deathless nature; what never dies; mokṣa itself"
         },
         {
           "word": "अव्ययस्य",
+          "transliteration": "avyayasya",
+          "root": "a (not) + vi + √i (to spend, to decay; vyaya = decay, expenditure; avyaya = imperishable)",
+          "grammatical_form": "neuter adjective, genitive singular",
           "meaning": "of the imperishable; a + vyaya = no decay or expenditure; what cannot be diminished or destroyed; eternal unchangingness"
         },
         {
           "word": "च",
+          "transliteration": "ca",
+          "root": "ca (copulative particle: and, also)",
+          "grammatical_form": "indeclinable particle",
           "meaning": "and; conjunctive — linking the five great realities that all rest in Krishna"
         },
         {
           "word": "शाश्वतस्य",
+          "transliteration": "śāśvatasya",
+          "root": "śāśvata (eternal, everlasting; from reduplicated √śas or √śī, to endure perpetually)",
+          "grammatical_form": "neuter adjective, genitive singular",
           "meaning": "of the eternal, the everlasting; śāśvata = that which persists through all time; from √śas, to endure"
         },
         {
           "word": "धर्मस्य",
+          "transliteration": "dharmasya",
+          "root": "√dhṛ (to hold, to sustain; dharma = that which holds, cosmic order, righteousness)",
+          "grammatical_form": "masculine noun, genitive singular",
           "meaning": "of dharma; the eternal cosmic order, righteousness, truth-in-action — the law that upholds existence itself"
         },
         {
           "word": "सुखस्य",
+          "transliteration": "sukhasya",
+          "root": "su (good, auspicious) + kha (space, axle-hole; the good space = ease, well-being)",
+          "grammatical_form": "neuter noun, genitive singular",
           "meaning": "of bliss, of happiness; su + kha = the good space — the positive joy that is the nature of the Self"
         },
         {
           "word": "ऐकान्तिकस्य",
+          "transliteration": "aikāntikasya",
+          "root": "eka (one) + anta (end, limit) + ika (adjectival suffix): that which has one end, undivided, absolute",
+          "grammatical_form": "neuter adjective, genitive singular",
           "meaning": "of the absolute, the exclusive, the unswerving; eka + anta — that which has one end only, undivided toward one goal — the bliss that is non-contingent, unlike worldly pleasure"
         }
       ],
